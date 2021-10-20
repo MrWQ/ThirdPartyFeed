@@ -1,6 +1,6 @@
 # ThirdPartyFeed
 
-个人定制的一些rss订阅源
+个人使用的一些rss订阅源
 
 ## 订阅地址
 
