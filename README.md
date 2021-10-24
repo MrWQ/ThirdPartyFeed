@@ -11,9 +11,10 @@
 feed | raw | jsdelivr
 ---  | --- | --------
 先知社区 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/xz.aliyun.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/xz.aliyun.com.xml)
+NOSEC安全讯息平台 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/nosec.org.xml)
 
 
-## 相关项目
+## Ref
 
 - [RSSHub](https://github.com/DIYgod/RSSHub)
 
