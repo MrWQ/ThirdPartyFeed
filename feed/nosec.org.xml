@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <titl>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
+  <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://github.com/p7e4/ThirdPartyFeed/blob/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2021-10-24T10:17:25Z</updated>
+  <updated>2021-10-24T14:13:10Z</updated>
   <id>https://nosec.org/home/index</id>
   <entry>
     <title>Vulfocus 开源漏洞靶场 v0.3.2.10 自定义计时模式上线</title>
