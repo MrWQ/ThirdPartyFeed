@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <titl>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
+  <link href="https://github.com/p7e4/ThirdPartyFeed/blob/main/feed/nosec.org.xml" rel="self"/>
+  <link href="https://nosec.org/home/index"/>
+  <updated>2021-10-24T04:20:40Z</updated>
+  <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>Vulfocus 开源漏洞靶场 v0.3.2.10 自定义计时模式上线</title>
+    <link href="https://nosec.org/home/detail/4892.html "/>
+    <id>https://nosec.org/home/detail/4892.html</id>
+    <published>2021-10-22T18:00:02Z</published>
+    <summary type="text">
+      Vulfocus 作为首个基于 Docker 构建的公共型靶场，于 2021 年 10 月 22 日发布 0.3.2.10 版本加入普通计时...
+    </summary>
+  </entry>
+  <entry>
+    <title>Goby内测版1.9.304｜IP库 Big Feature 上线，限时尝鲜，两...</title>
+    <link href="https://nosec.org/home/detail/4891.html "/>
+    <id>https://nosec.org/home/detail/4891.html</id>
+    <published>2021-10-22T15:48:53Z</published>
+    <summary type="text">
+      本次更新重点为大家带来打通渗透前目标收集需求的 IP 库 Big Feature，以及插件支持最小化，扫描配置数据缓存等实用功能。
+    </summary>
+  </entry>
+  <entry>
+    <title>FaPro: 网络协议服务端模拟器</title>
+    <link href="https://nosec.org/home/detail/4879.html "/>
+    <id>https://nosec.org/home/detail/4879.html</id>
+    <published>2021-10-21T18:57:22Z</published>
+    <summary type="text">
+      FaPro是一个网络协议服务端模拟工具，通过输出请求日志，可以实现对客户端的识别与分析。目前已支持20多种协议，支持使用web界面进行服务的配置与启停。还可以模...
+    </summary>
+  </entry>
+  <entry>
+    <title>如何打造一个网络扫描分析平台 - Part I</title>
+    <link href="https://nosec.org/home/detail/4890.html "/>
+    <id>https://nosec.org/home/detail/4890.html</id>
+    <published>2021-10-21T19:16:59Z</published>
+    <summary type="text">
+      这一系列教程介绍如何一步步搭建一个针对网络扫描的分析平台，以分析识别各种扫描流量。找到是哪些ip在进行扫描？ 这些扫描的目的是什么？
+    </summary>
+  </entry>
+  <entry>
+    <title>【安全通报】Weblogic 十月份更新多个高危漏洞</title>
+    <link href="https://nosec.org/home/detail/4889.html "/>
+    <id>https://nosec.org/home/detail/4889.html</id>
+    <published>2021-10-20T09:32:46Z</published>
+    <summary type="text">
+      近日，Oracle官方 发布了 2021 年 10 月份的安全更新。涉及旗下产品（Weblogic Server、Database Server、Java SE、MySQL等）的 419 个漏洞。此次修复的漏洞中包...
+    </summary>
+  </entry>
+  <entry>
+    <title>【安全通报】Apache Tomcat 拒绝服务漏洞（CVE-2021-42340...</title>
+    <link href="https://nosec.org/home/detail/4888.html "/>
+    <id>https://nosec.org/home/detail/4888.html</id>
+    <published>2021-10-16T00:39:13Z</published>
+    <summary type="text">
+      近日，Apache Tomcat 发布安全更新，更新了一处拒绝服务漏洞（CVE-2021-42340）。攻击者可以通过该漏洞进行...
+    </summary>
+  </entry>
+  <entry>
+    <title>【安全通报】微软10月漏洞补丁日修复多个高危漏洞</title>
+    <link href="https://nosec.org/home/detail/4885.html "/>
+    <id>https://nosec.org/home/detail/4885.html</id>
+    <published>2021-10-13T10:47:33Z</published>
+    <summary type="text">
+      近日，微软发布 10 月份安全补丁，共修复了 76 个针对微软产品的CVE漏洞，其中 3 个严重漏洞，1 个漏洞已发现在野利用。
+    </summary>
+  </entry>
+  <entry>
+    <title>【安全通报】Apache HTTP Server 路径遍历和远程代码执行漏...</title>
+    <link href="https://nosec.org/home/detail/4881.html "/>
+    <id>https://nosec.org/home/detail/4881.html</id>
+    <published>2021-10-08T14:20:49Z</published>
+    <summary type="text">
+      近日，Apache发布了 Apache HTTP Server 2.4.51版本，该版本为 CVE-2021-41773 的补充修复。攻击者可利用该漏洞在受影响的机器上进行远程代码执行。建议广大用户...
+    </summary>
+  </entry>
+  <entry>
+    <title>FOFA 那些事-验证篇</title>
+    <link href="https://nosec.org/home/detail/4866.html "/>
+    <id>https://nosec.org/home/detail/4866.html</id>
+    <published>2021-09-29T10:58:50Z</published>
+    <summary type="text">
+      刚到手的1day，还没办法搭建测试环境咋办，使用FOFA-网络空间测绘系统根据关键信息搜索下相关实际目标，以实战来验证1day的可用性(要守法哟)。
+    </summary>
+  </entry>
+  <entry>
+    <title>Vulfocus 漏洞靶场 v0.3.2.9 场景商店上线</title>
+    <link href="https://nosec.org/home/detail/4875.html "/>
+    <id>https://nosec.org/home/detail/4875.html</id>
+    <published>2021-09-27T16:29:08Z</published>
+    <summary type="text">
+      Vulfocus 作为首个基于 Docker 构建的公共型靶场，于 2021 年 9 月 27 日发布 0.3.2.9 版本加入场景商店，管理员可以在vulfocus场景商店中下载所有场景环境到本...
+    </summary>
+  </entry>
+  <entry>
+    <title>信创安全挑战赛的故事</title>
+    <link href="https://nosec.org/home/detail/4874.html "/>
+    <id>https://nosec.org/home/detail/4874.html</id>
+    <published>2021-09-27T12:12:54Z</published>
+    <summary type="text">
+      活动的官网已经上线，报名通道也已经开启，大家可以访问 https://huhang.nelab-bdst.org.cn 获取更多信息以及报名。
+    </summary>
+  </entry>
+  <entry>
+    <title>护航计划 | 2021首届信创关键产品安全挑战赛（经开区国家信...</title>
+    <link href="https://nosec.org/home/detail/4873.html "/>
+    <id>https://nosec.org/home/detail/4873.html</id>
+    <published>2021-09-27T12:06:35Z</published>
+    <summary type="text">
+      此次挑战赛特别设立了300万元奖金池，旨在调动参赛战队的积极性，更高质量地开展挑战赛。“首届信创关键产品安全挑战赛”初衷是激发信创企业、安全企业、白帽子和...
+    </summary>
+  </entry>
+  <entry>
+    <title>深入分析CVE-2020-9273漏洞</title>
+    <link href="https://nosec.org/home/detail/4818.html "/>
+    <id>https://nosec.org/home/detail/4818.html</id>
+    <published>2021-09-26T17:09:27Z</published>
+    <summary type="text">
+      在这篇文章中，我们将与读者一道深入考察ProFTPd中的一个Use-After-Free漏洞，并介绍如何建立相应的PoC。简...
+    </summary>
+  </entry>
+  <entry>
+    <title>UPnP协议利用探索实践</title>
+    <link href="https://nosec.org/home/detail/4871.html "/>
+    <id>https://nosec.org/home/detail/4871.html</id>
+    <published>2021-09-26T10:12:13Z</published>
+    <summary type="text">
+      本篇文章以UPnP协议入手，从官方文档到抓包分析，解释了该协议的基本功能，并探索实践SSDP和SOAP，设备发现阶段和设备控制消息中可以利用的一些思路。希望你能够...
+    </summary>
+  </entry>
+  <entry>
+    <title>MS Exchange的新攻击面，第2部分：ProxyOracle!</title>
+    <link href="https://nosec.org/home/detail/4814.html "/>
+    <id>https://nosec.org/home/detail/4814.html</id>
+    <published>2021-09-24T15:13:56Z</published>
+    <summary type="text">
+      大家好，这是本系列文章的第2部分。由于本文内容涉及前一篇文章中介绍的架构和攻击面方面的基础知识，所以...
+    </summary>
+  </entry>
+  <entry>
+    <title>MS Exchange的新攻击面，第1部分：ProxyLogon！</title>
+    <link href="https://nosec.org/home/detail/4810.html "/>
+    <id>https://nosec.org/home/detail/4810.html</id>
+    <published>2021-09-24T15:22:30Z</published>
+    <summary type="text">
+      ProxyLogon可能是Exchange历史上最严重、影响最大的漏洞，在从架构层面研究ProxyLogon时，我们发现这绝不仅仅是一个漏洞，而是一个全新的攻击面……
+    </summary>
+  </entry>
+  <entry>
+    <title>【安全通报】Sonicwall SMA 100系列任意文件删除漏洞（CVE-...</title>
+    <link href="https://nosec.org/home/detail/4870.html "/>
+    <id>https://nosec.org/home/detail/4870.html</id>
+    <published>2021-09-24T12:23:00Z</published>
+    <summary type="text">
+      近日，Sonicwall发布安全公告，修复了SMA 100系列设备中的任意文件删除漏洞。未经身份验证的攻击者可利用该漏洞删除设备中的任意文件，甚至获取管理员权限。
+    </summary>
+  </entry>
+  <entry>
+    <title>【安全通报】海康威视多个产品命令注入漏洞（CVE-2021-3626...</title>
+    <link href="https://nosec.org/home/detail/4869.html "/>
+    <id>https://nosec.org/home/detail/4869.html</id>
+    <published>2021-09-22T20:03:40Z</published>
+    <summary type="text">
+      近日，海康威视发布安全公告，修复了多个产品中的命令注入漏洞。攻击者可通过该漏洞在受影响的设备上进行任意命令执行。
+    </summary>
+  </entry>
+  <entry>
+    <title>【安全通报】VMware vCenter Server 文件上传漏洞（CVE-202...</title>
+    <link href="https://nosec.org/home/detail/4868.html "/>
+    <id>https://nosec.org/home/detail/4868.html</id>
+    <published>2021-09-27T12:22:34Z</published>
+    <summary type="text">
+      近日，VMware 发布安全公告，修复了多处安全漏洞。其中 vCenter Server 任意文件上传漏洞 危害等级为 严重。攻击者通过上传特制文件可在 vCenter Server 上执行...
+    </summary>
+  </entry>
+  <entry>
+    <title>【安全通报】Apache Shiro 身份验证绕过漏洞（CVE-2021-413...</title>
+    <link href="https://nosec.org/home/detail/4867.html "/>
+    <id>https://nosec.org/home/detail/4867.html</id>
+    <published>2021-09-18T17:11:40Z</published>
+    <summary type="text">
+      近日，Apache Shiro被披露出身份验证绕过漏洞，攻击者使用特制的 HTTP 请求可进行身份验证绕过。
+    </summary>
+  </entry>
+
+</feed>
