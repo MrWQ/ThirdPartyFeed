@@ -3,13 +3,22 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2021-10-25T10:18:59Z</updated>
+  <updated>2021-10-26T04:20:58Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>技术自信</title>
+    <link href="https://nosec.org/home/detail/4893.html "/>
+    <id>https://nosec.org/home/detail/4893.html</id>
+    <published>2021-10-25T20:21:43Z</published>
+    <summary type="text">
+      我们最近发布了一个免费的工具叫fapro嘛，在twitter上讨论的比国内要多得多。有一天我们的同事在reddit上面发了个帖子，然后有趣的事情再次发生了……
+    </summary>
+  </entry>
   <entry>
     <title>Vulfocus 开源漏洞靶场 v0.3.2.10 自定义计时模式上线</title>
     <link href="https://nosec.org/home/detail/4892.html "/>
     <id>https://nosec.org/home/detail/4892.html</id>
-    <published>2021-10-22T18:00:02Z</published>
+    <published>2021-10-25T19:30:12Z</published>
     <summary type="text">
       Vulfocus 作为首个基于 Docker 构建的公共型靶场，于 2021 年 10 月 22 日发布 0.3.2.10 版本加入普通计时...
     </summary>
@@ -174,15 +183,6 @@
     <published>2021-09-27T12:22:34Z</published>
     <summary type="text">
       近日，VMware 发布安全公告，修复了多处安全漏洞。其中 vCenter Server 任意文件上传漏洞 危害等级为 严重。攻击者通过上传特制文件可在 vCenter Server 上执行...
-    </summary>
-  </entry>
-  <entry>
-    <title>【安全通报】Apache Shiro 身份验证绕过漏洞（CVE-2021-413...</title>
-    <link href="https://nosec.org/home/detail/4867.html "/>
-    <id>https://nosec.org/home/detail/4867.html</id>
-    <published>2021-09-18T17:11:40Z</published>
-    <summary type="text">
-      近日，Apache Shiro被披露出身份验证绕过漏洞，攻击者使用特制的 HTTP 请求可进行身份验证绕过。
     </summary>
   </entry>
 
