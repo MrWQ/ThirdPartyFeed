@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>奇安信攻防社区</title>
+  <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
+  <link href="https://forum.butian.net/"/>
+  <updated>2021-11-02T09:51:07Z</updated>
+  <id>https://forum.butian.net/</id>
+  <entry>
+    <title>个人总结：使用测绘平台搜索目标资产的万能招式</title>
+    <link href="https://forum.butian.net/share/854 "/>
+    <id>https://forum.butian.net/share/854</id>
+    <published>2021-11-02T14:05:55Z</published>
+    <summary type="text">
+      个人总结：使用测绘平台搜索目标资产的万能招式
+    </summary>
+  </entry>
+  <entry>
+    <title>XSS编码浅析</title>
+    <link href="https://forum.butian.net/share/831 "/>
+    <id>https://forum.butian.net/share/831</id>
+    <published>2021-11-02T10:25:47Z</published>
+    <summary type="text">
+      XSS编码浅析
+    </summary>
+  </entry>
+  <entry>
+    <title>这个鉴权到底能不能绕</title>
+    <link href="https://forum.butian.net/share/829 "/>
+    <id>https://forum.butian.net/share/829</id>
+    <published>2021-11-02T10:25:10Z</published>
+    <summary type="text">
+      这个鉴权到底能不能绕
+    </summary>
+  </entry>
+  <entry>
+    <title>傀儡进程的分析与实现</title>
+    <link href="https://forum.butian.net/share/825 "/>
+    <id>https://forum.butian.net/share/825</id>
+    <published>2021-11-02T10:24:53Z</published>
+    <summary type="text">
+      傀儡进程的分析与实现
+    </summary>
+  </entry>
+  <entry>
+    <title>socket的探究与实现</title>
+    <link href="https://forum.butian.net/share/822 "/>
+    <id>https://forum.butian.net/share/822</id>
+    <published>2021-11-01T18:10:26Z</published>
+    <summary type="text">
+      socket的探究与实现
+    </summary>
+  </entry>
+  <entry>
+    <title>关于进程保护的探究</title>
+    <link href="https://forum.butian.net/share/817 "/>
+    <id>https://forum.butian.net/share/817</id>
+    <published>2021-11-01T15:51:53Z</published>
+    <summary type="text">
+      关于进程保护的探究
+    </summary>
+  </entry>
+  <entry>
+    <title>Linux应急响应</title>
+    <link href="https://forum.butian.net/share/813 "/>
+    <id>https://forum.butian.net/share/813</id>
+    <published>2021-11-01T10:22:18Z</published>
+    <summary type="text">
+      Linux应急响应
+    </summary>
+  </entry>
+  <entry>
+    <title>记一次IDA分析恶意DLL文件</title>
+    <link href="https://forum.butian.net/share/809 "/>
+    <id>https://forum.butian.net/share/809</id>
+    <published>2021-10-29T17:01:28Z</published>
+    <summary type="text">
+      记一次IDA分析恶意DLL文件
+    </summary>
+  </entry>
+  <entry>
+    <title>Linux应急响应篇</title>
+    <link href="https://forum.butian.net/share/821 "/>
+    <id>https://forum.butian.net/share/821</id>
+    <published>2021-10-29T14:54:19Z</published>
+    <summary type="text">
+      Linux应急响应篇
+    </summary>
+  </entry>
+  <entry>
+    <title>应急响应实战Windows篇</title>
+    <link href="https://forum.butian.net/share/806 "/>
+    <id>https://forum.butian.net/share/806</id>
+    <published>2021-10-29T09:43:14Z</published>
+    <summary type="text">
+      应急响应实战Windows篇
+    </summary>
+  </entry>
+  <entry>
+    <title>某日志设备漏洞挖掘-从后台RCE到前台RCE</title>
+    <link href="https://forum.butian.net/share/811 "/>
+    <id>https://forum.butian.net/share/811</id>
+    <published>2021-10-28T17:31:53Z</published>
+    <summary type="text">
+      某日志设备漏洞挖掘-从后台RCE到前台RCE
+    </summary>
+  </entry>
+  <entry>
+    <title>新型网络犯罪攻防技术研究</title>
+    <link href="https://forum.butian.net/share/786 "/>
+    <id>https://forum.butian.net/share/786</id>
+    <published>2021-10-28T14:34:51Z</published>
+    <summary type="text">
+      新型网络犯罪攻防技术研究
+    </summary>
+  </entry>
+  <entry>
+    <title>通过内存写入隐藏模块</title>
+    <link href="https://forum.butian.net/share/808 "/>
+    <id>https://forum.butian.net/share/808</id>
+    <published>2021-10-28T10:44:59Z</published>
+    <summary type="text">
+      通过内存写入隐藏模块
+    </summary>
+  </entry>
+  <entry>
+    <title>Windows应急响应篇</title>
+    <link href="https://forum.butian.net/share/820 "/>
+    <id>https://forum.butian.net/share/820</id>
+    <published>2021-10-28T10:42:20Z</published>
+    <summary type="text">
+      Windows应急响应篇
+    </summary>
+  </entry>
+  <entry>
+    <title>Apache Shiro身份验证绕过漏洞（CVE-2021-41303）分析</title>
+    <link href="https://forum.butian.net/share/800 "/>
+    <id>https://forum.butian.net/share/800</id>
+    <published>2021-10-27T17:55:39Z</published>
+    <summary type="text">
+      Apache Shiro身份验证绕过漏洞（CVE-2021-41303）分析
+    </summary>
+  </entry>
+  <entry>
+    <title>我的应急响应回顾总结</title>
+    <link href="https://forum.butian.net/share/801 "/>
+    <id>https://forum.butian.net/share/801</id>
+    <published>2021-10-27T15:18:48Z</published>
+    <summary type="text">
+      我的应急响应回顾总结
+    </summary>
+  </entry>
+  <entry>
+    <title>进程伪装详解</title>
+    <link href="https://forum.butian.net/share/795 "/>
+    <id>https://forum.butian.net/share/795</id>
+    <published>2021-10-27T14:24:41Z</published>
+    <summary type="text">
+      进程伪装详解
+    </summary>
+  </entry>
+  <entry>
+    <title>Spring MultipartFile 文件上传的潜在威胁</title>
+    <link href="https://forum.butian.net/share/815 "/>
+    <id>https://forum.butian.net/share/815</id>
+    <published>2021-10-25T19:22:01Z</published>
+    <summary type="text">
+      Spring MultipartFile 文件上传的潜在威胁
+    </summary>
+  </entry>
+  <entry>
+    <title>记一次工控比赛漏洞挖掘</title>
+    <link href="https://forum.butian.net/share/799 "/>
+    <id>https://forum.butian.net/share/799</id>
+    <published>2021-10-25T19:06:57Z</published>
+    <summary type="text">
+      记一次工控比赛漏洞挖掘
+    </summary>
+  </entry>
+  <entry>
+    <title>内网常见软件密码收集</title>
+    <link href="https://forum.butian.net/share/797 "/>
+    <id>https://forum.butian.net/share/797</id>
+    <published>2021-10-25T18:17:28Z</published>
+    <summary type="text">
+      内网常见软件密码收集
+    </summary>
+  </entry>
+
+</feed>
