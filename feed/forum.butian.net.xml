@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-11-02T10:17:42Z</updated>
+  <updated>2021-11-03T04:20:46Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>从反汇编看恶意程序的C语言结构</title>
+    <link href="https://forum.butian.net/share/833 "/>
+    <id>https://forum.butian.net/share/833</id>
+    <published>2021-11-03T09:40:57Z</published>
+    <summary type="text">
+      从反汇编看恶意程序的C语言结构
+    </summary>
+  </entry>
+  <entry>
+    <title>schoolcms--upload getshell</title>
+    <link href="https://forum.butian.net/share/830 "/>
+    <id>https://forum.butian.net/share/830</id>
+    <published>2021-11-03T09:40:40Z</published>
+    <summary type="text">
+      schoolcms--upload getshell
+    </summary>
+  </entry>
   <entry>
     <title>个人总结：使用测绘平台搜索目标资产的万能招式</title>
     <link href="https://forum.butian.net/share/854 "/>
@@ -165,24 +183,6 @@
     <published>2021-10-25T19:22:01Z</published>
     <summary type="text">
       Spring MultipartFile 文件上传的潜在威胁
-    </summary>
-  </entry>
-  <entry>
-    <title>记一次工控比赛漏洞挖掘</title>
-    <link href="https://forum.butian.net/share/799 "/>
-    <id>https://forum.butian.net/share/799</id>
-    <published>2021-10-25T19:06:57Z</published>
-    <summary type="text">
-      记一次工控比赛漏洞挖掘
-    </summary>
-  </entry>
-  <entry>
-    <title>内网常见软件密码收集</title>
-    <link href="https://forum.butian.net/share/797 "/>
-    <id>https://forum.butian.net/share/797</id>
-    <published>2021-10-25T18:17:28Z</published>
-    <summary type="text">
-      内网常见软件密码收集
     </summary>
   </entry>
 
