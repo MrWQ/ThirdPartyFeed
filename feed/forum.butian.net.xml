@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-11-04T04:20:51Z</updated>
+  <updated>2021-11-04T10:17:49Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>内网信息收集</title>
+    <link href="https://forum.butian.net/share/236 "/>
+    <id>https://forum.butian.net/share/236</id>
+    <published>2021-11-04T15:12:32Z</published>
+    <summary type="text">
+      内网信息收集
+    </summary>
+  </entry>
+  <entry>
+    <title>内网渗透-获取明文和hash</title>
+    <link href="https://forum.butian.net/share/259 "/>
+    <id>https://forum.butian.net/share/259</id>
+    <published>2021-11-04T15:12:12Z</published>
+    <summary type="text">
+      内网渗透-获取明文和hash
+    </summary>
+  </entry>
   <entry>
     <title>记一次诡异的网站篡改应急响应</title>
     <link href="https://forum.butian.net/share/836 "/>
@@ -165,24 +183,6 @@
     <published>2021-10-28T10:44:59Z</published>
     <summary type="text">
       通过内存写入隐藏模块
-    </summary>
-  </entry>
-  <entry>
-    <title>Windows应急响应篇</title>
-    <link href="https://forum.butian.net/share/820 "/>
-    <id>https://forum.butian.net/share/820</id>
-    <published>2021-10-28T10:42:20Z</published>
-    <summary type="text">
-      Windows应急响应篇
-    </summary>
-  </entry>
-  <entry>
-    <title>Apache Shiro身份验证绕过漏洞（CVE-2021-41303）分析</title>
-    <link href="https://forum.butian.net/share/800 "/>
-    <id>https://forum.butian.net/share/800</id>
-    <published>2021-10-27T17:55:39Z</published>
-    <summary type="text">
-      Apache Shiro身份验证绕过漏洞（CVE-2021-41303）分析
     </summary>
   </entry>
 
