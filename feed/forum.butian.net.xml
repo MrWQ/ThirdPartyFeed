@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-11-05T04:21:07Z</updated>
+  <updated>2021-11-05T10:17:44Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>AdminSDHolder安全解密</title>
+    <link href="https://forum.butian.net/share/862 "/>
+    <id>https://forum.butian.net/share/862</id>
+    <published>2021-11-05T14:58:28Z</published>
+    <summary type="text">
+      AdminSDHolder安全解密
+    </summary>
+  </entry>
+  <entry>
+    <title>从mimikatz学习Windows安全之访问控制模型（一）</title>
+    <link href="https://forum.butian.net/share/864 "/>
+    <id>https://forum.butian.net/share/864</id>
+    <published>2021-11-05T14:58:02Z</published>
+    <summary type="text">
+      从mimikatz学习Windows安全之访问控制模型（一）
+    </summary>
+  </entry>
   <entry>
     <title>web攻击应急响应</title>
     <link href="https://forum.butian.net/share/838 "/>
@@ -165,24 +183,6 @@
     <published>2021-10-29T14:54:19Z</published>
     <summary type="text">
       Linux应急响应篇
-    </summary>
-  </entry>
-  <entry>
-    <title>应急响应实战Windows篇</title>
-    <link href="https://forum.butian.net/share/806 "/>
-    <id>https://forum.butian.net/share/806</id>
-    <published>2021-10-29T09:43:14Z</published>
-    <summary type="text">
-      应急响应实战Windows篇
-    </summary>
-  </entry>
-  <entry>
-    <title>某日志设备漏洞挖掘-从后台RCE到前台RCE</title>
-    <link href="https://forum.butian.net/share/811 "/>
-    <id>https://forum.butian.net/share/811</id>
-    <published>2021-10-28T17:31:53Z</published>
-    <summary type="text">
-      某日志设备漏洞挖掘-从后台RCE到前台RCE
     </summary>
   </entry>
 
