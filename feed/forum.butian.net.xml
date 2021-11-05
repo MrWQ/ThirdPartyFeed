@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-11-04T10:17:49Z</updated>
+  <updated>2021-11-05T04:21:07Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>web攻击应急响应</title>
+    <link href="https://forum.butian.net/share/838 "/>
+    <id>https://forum.butian.net/share/838</id>
+    <published>2021-11-05T09:28:14Z</published>
+    <summary type="text">
+      web攻击应急响应
+    </summary>
+  </entry>
+  <entry>
+    <title>记一次对学校某系统的黑盒测试到教育SRC</title>
+    <link href="https://forum.butian.net/share/837 "/>
+    <id>https://forum.butian.net/share/837</id>
+    <published>2021-11-05T09:28:02Z</published>
+    <summary type="text">
+      记一次对学校某系统的黑盒测试到教育SRC
+    </summary>
+  </entry>
   <entry>
     <title>内网信息收集</title>
     <link href="https://forum.butian.net/share/236 "/>
@@ -165,24 +183,6 @@
     <published>2021-10-28T17:31:53Z</published>
     <summary type="text">
       某日志设备漏洞挖掘-从后台RCE到前台RCE
-    </summary>
-  </entry>
-  <entry>
-    <title>新型网络犯罪攻防技术研究</title>
-    <link href="https://forum.butian.net/share/786 "/>
-    <id>https://forum.butian.net/share/786</id>
-    <published>2021-10-28T14:34:51Z</published>
-    <summary type="text">
-      新型网络犯罪攻防技术研究
-    </summary>
-  </entry>
-  <entry>
-    <title>通过内存写入隐藏模块</title>
-    <link href="https://forum.butian.net/share/808 "/>
-    <id>https://forum.butian.net/share/808</id>
-    <published>2021-10-28T10:44:59Z</published>
-    <summary type="text">
-      通过内存写入隐藏模块
     </summary>
   </entry>
 
