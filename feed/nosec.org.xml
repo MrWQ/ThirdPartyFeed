@@ -3,8 +3,26 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2021-11-05T10:17:56Z</updated>
+  <updated>2021-11-06T04:21:07Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>Vulfocus 开源漏洞靶场 v0.3.2.11 首次开放API</title>
+    <link href="https://nosec.org/home/detail/4899.html "/>
+    <id>https://nosec.org/home/detail/4899.html</id>
+    <published>2021-11-05T21:15:57Z</published>
+    <summary type="text">
+      Vulfocus 开源漏洞靶场 0.3.2.11 首次开放APIVulfocus 作为首个基于 Docker 构建的公共型靶场，于 2021 年...
+    </summary>
+  </entry>
+  <entry>
+    <title>插件分享 | ShellHub 让 Goby 打通渗透流程</title>
+    <link href="https://nosec.org/home/detail/4898.html "/>
+    <id>https://nosec.org/home/detail/4898.html</id>
+    <published>2021-11-05T19:14:30Z</published>
+    <summary type="text">
+      就像 Goby 已有的反弹 shell 功能一样，点击一下 open shell 按钮就能弹出打到的 webshell 的管理界面，用户可以直接对该 webshell 进行操作。
+    </summary>
+  </entry>
   <entry>
     <title>技术分享 | IP库？信息？资产？拿来吧你！</title>
     <link href="https://nosec.org/home/detail/4896.html "/>
@@ -165,24 +183,6 @@
     <published>2021-09-24T15:13:56Z</published>
     <summary type="text">
       大家好，这是本系列文章的第2部分。由于本文内容涉及前一篇文章中介绍的架构和攻击面方面的基础知识，所以...
-    </summary>
-  </entry>
-  <entry>
-    <title>MS Exchange的新攻击面，第1部分：ProxyLogon！</title>
-    <link href="https://nosec.org/home/detail/4810.html "/>
-    <id>https://nosec.org/home/detail/4810.html</id>
-    <published>2021-09-24T15:22:30Z</published>
-    <summary type="text">
-      ProxyLogon可能是Exchange历史上最严重、影响最大的漏洞，在从架构层面研究ProxyLogon时，我们发现这绝不仅仅是一个漏洞，而是一个全新的攻击面……
-    </summary>
-  </entry>
-  <entry>
-    <title>【安全通报】Sonicwall SMA 100系列任意文件删除漏洞（CVE-...</title>
-    <link href="https://nosec.org/home/detail/4870.html "/>
-    <id>https://nosec.org/home/detail/4870.html</id>
-    <published>2021-09-24T12:23:00Z</published>
-    <summary type="text">
-      近日，Sonicwall发布安全公告，修复了SMA 100系列设备中的任意文件删除漏洞。未经身份验证的攻击者可利用该漏洞删除设备中的任意文件，甚至获取管理员权限。
     </summary>
   </entry>
 
