@@ -3,8 +3,17 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-11-08T04:21:12Z</updated>
+  <updated>2021-11-08T10:18:17Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>Ysoserial Click1利用连分析</title>
+    <link href="https://forum.butian.net/share/870 "/>
+    <id>https://forum.butian.net/share/870</id>
+    <published>2021-11-08T17:49:41Z</published>
+    <summary type="text">
+      Ysoserial Click1利用连分析
+    </summary>
+  </entry>
   <entry>
     <title>重生之我是赏金猎人-- 逆向app破解数据包sign值实现任意数据重放添加</title>
     <link href="https://forum.butian.net/share/843 "/>
@@ -174,15 +183,6 @@
     <published>2021-11-01T15:51:53Z</published>
     <summary type="text">
       关于进程保护的探究
-    </summary>
-  </entry>
-  <entry>
-    <title>Linux应急响应</title>
-    <link href="https://forum.butian.net/share/813 "/>
-    <id>https://forum.butian.net/share/813</id>
-    <published>2021-11-01T10:22:18Z</published>
-    <summary type="text">
-      Linux应急响应
     </summary>
   </entry>
 
