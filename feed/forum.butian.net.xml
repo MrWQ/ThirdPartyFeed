@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-11-07T10:17:11Z</updated>
+  <updated>2021-11-08T04:21:12Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>重生之我是赏金猎人-- 逆向app破解数据包sign值实现任意数据重放添加</title>
+    <link href="https://forum.butian.net/share/843 "/>
+    <id>https://forum.butian.net/share/843</id>
+    <published>2021-11-08T09:51:27Z</published>
+    <summary type="text">
+      重生之我是赏金猎人-- 逆向app破解数据包sign值实现任意数据重放添加
+    </summary>
+  </entry>
+  <entry>
+    <title>Java安全之ClassLoader浅析</title>
+    <link href="https://forum.butian.net/share/842 "/>
+    <id>https://forum.butian.net/share/842</id>
+    <published>2021-11-08T09:51:01Z</published>
+    <summary type="text">
+      Java安全之ClassLoader浅析
+    </summary>
+  </entry>
   <entry>
     <title>AdminSDHolder安全解密</title>
     <link href="https://forum.butian.net/share/862 "/>
@@ -165,24 +183,6 @@
     <published>2021-11-01T10:22:18Z</published>
     <summary type="text">
       Linux应急响应
-    </summary>
-  </entry>
-  <entry>
-    <title>记一次IDA分析恶意DLL文件</title>
-    <link href="https://forum.butian.net/share/809 "/>
-    <id>https://forum.butian.net/share/809</id>
-    <published>2021-10-29T17:01:28Z</published>
-    <summary type="text">
-      记一次IDA分析恶意DLL文件
-    </summary>
-  </entry>
-  <entry>
-    <title>Linux应急响应篇</title>
-    <link href="https://forum.butian.net/share/821 "/>
-    <id>https://forum.butian.net/share/821</id>
-    <published>2021-10-29T14:54:19Z</published>
-    <summary type="text">
-      Linux应急响应篇
     </summary>
   </entry>
 
