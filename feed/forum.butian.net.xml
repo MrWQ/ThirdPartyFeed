@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-11-08T10:18:17Z</updated>
+  <updated>2021-11-09T04:21:00Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>Dll劫持转发重定向的后门分析</title>
+    <link href="https://forum.butian.net/share/857 "/>
+    <id>https://forum.butian.net/share/857</id>
+    <published>2021-11-09T09:42:01Z</published>
+    <summary type="text">
+      Dll劫持转发重定向的后门分析
+    </summary>
+  </entry>
+  <entry>
+    <title>从一道智能合约赛题看Poly Network 事件</title>
+    <link href="https://forum.butian.net/share/845 "/>
+    <id>https://forum.butian.net/share/845</id>
+    <published>2021-11-09T09:40:44Z</published>
+    <summary type="text">
+      从一道智能合约赛题看Poly Network 事件
+    </summary>
+  </entry>
   <entry>
     <title>Ysoserial Click1利用连分析</title>
     <link href="https://forum.butian.net/share/870 "/>
@@ -165,24 +183,6 @@
     <published>2021-11-02T10:24:53Z</published>
     <summary type="text">
       傀儡进程的分析与实现
-    </summary>
-  </entry>
-  <entry>
-    <title>socket的探究与实现</title>
-    <link href="https://forum.butian.net/share/822 "/>
-    <id>https://forum.butian.net/share/822</id>
-    <published>2021-11-01T18:10:26Z</published>
-    <summary type="text">
-      socket的探究与实现
-    </summary>
-  </entry>
-  <entry>
-    <title>关于进程保护的探究</title>
-    <link href="https://forum.butian.net/share/817 "/>
-    <id>https://forum.butian.net/share/817</id>
-    <published>2021-11-01T15:51:53Z</published>
-    <summary type="text">
-      关于进程保护的探究
     </summary>
   </entry>
 
