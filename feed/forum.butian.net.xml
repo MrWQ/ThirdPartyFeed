@@ -3,8 +3,35 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-11-09T10:22:34Z</updated>
+  <updated>2021-11-10T04:21:00Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>如何利用文本向量化与集成学习实现相似网页分类</title>
+    <link href="https://forum.butian.net/share/873 "/>
+    <id>https://forum.butian.net/share/873</id>
+    <published>2021-11-10T09:49:26Z</published>
+    <summary type="text">
+      如何利用文本向量化与集成学习实现相似网页分类
+    </summary>
+  </entry>
+  <entry>
+    <title>Potato提权合集</title>
+    <link href="https://forum.butian.net/share/860 "/>
+    <id>https://forum.butian.net/share/860</id>
+    <published>2021-11-10T09:37:26Z</published>
+    <summary type="text">
+      Potato提权合集
+    </summary>
+  </entry>
+  <entry>
+    <title>实战Linux应急响应踩坑与深度反思</title>
+    <link href="https://forum.butian.net/share/859 "/>
+    <id>https://forum.butian.net/share/859</id>
+    <published>2021-11-10T09:37:19Z</published>
+    <summary type="text">
+      实战Linux应急响应踩坑与深度反思
+    </summary>
+  </entry>
   <entry>
     <title>Dll劫持转发重定向的后门分析</title>
     <link href="https://forum.butian.net/share/857 "/>
@@ -156,33 +183,6 @@
     <published>2021-11-02T14:05:55Z</published>
     <summary type="text">
       个人总结：使用测绘平台搜索目标资产的万能招式
-    </summary>
-  </entry>
-  <entry>
-    <title>XSS编码浅析</title>
-    <link href="https://forum.butian.net/share/831 "/>
-    <id>https://forum.butian.net/share/831</id>
-    <published>2021-11-02T10:25:47Z</published>
-    <summary type="text">
-      XSS编码浅析
-    </summary>
-  </entry>
-  <entry>
-    <title>这个鉴权到底能不能绕</title>
-    <link href="https://forum.butian.net/share/829 "/>
-    <id>https://forum.butian.net/share/829</id>
-    <published>2021-11-02T10:25:10Z</published>
-    <summary type="text">
-      这个鉴权到底能不能绕
-    </summary>
-  </entry>
-  <entry>
-    <title>傀儡进程的分析与实现</title>
-    <link href="https://forum.butian.net/share/825 "/>
-    <id>https://forum.butian.net/share/825</id>
-    <published>2021-11-02T10:24:53Z</published>
-    <summary type="text">
-      傀儡进程的分析与实现
     </summary>
   </entry>
 
