@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2021-11-11T04:21:20Z</updated>
+  <updated>2021-11-11T10:18:04Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>【安全通报】PAN GlobalProtect Portal 内存损坏漏洞（CVE-...</title>
+    <link href="https://nosec.org/home/detail/4902.html "/>
+    <id>https://nosec.org/home/detail/4902.html</id>
+    <published>2021-11-11T12:31:57Z</published>
+    <summary type="text">
+      近日，Palo Alto Networks (PAN) 发布安全公告，修复了Palo Alto Networks GlobalProtect portal 和 gateway interfaces 中的内存损坏漏洞。未经身份验证的攻击...
+    </summary>
+  </entry>
   <entry>
     <title>【安全通报】微软11月漏洞补丁日修复多个高危漏洞</title>
     <link href="https://nosec.org/home/detail/4900.html "/>
@@ -174,15 +183,6 @@
     <published>2021-09-26T17:09:27Z</published>
     <summary type="text">
       在这篇文章中，我们将与读者一道深入考察ProFTPd中的一个Use-After-Free漏洞，并介绍如何建立相应的PoC。简...
-    </summary>
-  </entry>
-  <entry>
-    <title>UPnP协议利用探索实践</title>
-    <link href="https://nosec.org/home/detail/4871.html "/>
-    <id>https://nosec.org/home/detail/4871.html</id>
-    <published>2021-09-26T10:12:13Z</published>
-    <summary type="text">
-      本篇文章以UPnP协议入手，从官方文档到抓包分析，解释了该协议的基本功能，并探索实践SSDP和SOAP，设备发现阶段和设备控制消息中可以利用的一些思路。希望你能够...
     </summary>
   </entry>
 
