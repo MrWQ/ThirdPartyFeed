@@ -3,8 +3,35 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-11-10T10:17:55Z</updated>
+  <updated>2021-11-11T04:21:10Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>无线电攻击再探（II）</title>
+    <link href="https://forum.butian.net/share/866 "/>
+    <id>https://forum.butian.net/share/866</id>
+    <published>2021-11-11T09:39:47Z</published>
+    <summary type="text">
+      无线电攻击再探（II）
+    </summary>
+  </entry>
+  <entry>
+    <title>红队技巧-远程重置过期密码</title>
+    <link href="https://forum.butian.net/share/865 "/>
+    <id>https://forum.butian.net/share/865</id>
+    <published>2021-11-11T09:39:31Z</published>
+    <summary type="text">
+      红队技巧-远程重置过期密码
+    </summary>
+  </entry>
+  <entry>
+    <title>记一次后门连接应急响应</title>
+    <link href="https://forum.butian.net/share/840 "/>
+    <id>https://forum.butian.net/share/840</id>
+    <published>2021-11-11T09:39:19Z</published>
+    <summary type="text">
+      记一次后门连接应急响应
+    </summary>
+  </entry>
   <entry>
     <title>如何利用文本向量化与集成学习实现相似网页分类</title>
     <link href="https://forum.butian.net/share/873 "/>
@@ -156,33 +183,6 @@
     <published>2021-11-03T16:51:19Z</published>
     <summary type="text">
       Geekpwn 2021 之 玩转超声波
-    </summary>
-  </entry>
-  <entry>
-    <title>从反汇编看恶意程序的C语言结构</title>
-    <link href="https://forum.butian.net/share/833 "/>
-    <id>https://forum.butian.net/share/833</id>
-    <published>2021-11-03T09:40:57Z</published>
-    <summary type="text">
-      从反汇编看恶意程序的C语言结构
-    </summary>
-  </entry>
-  <entry>
-    <title>schoolcms--upload getshell</title>
-    <link href="https://forum.butian.net/share/830 "/>
-    <id>https://forum.butian.net/share/830</id>
-    <published>2021-11-03T09:40:40Z</published>
-    <summary type="text">
-      schoolcms--upload getshell
-    </summary>
-  </entry>
-  <entry>
-    <title>个人总结：使用测绘平台搜索目标资产的万能招式</title>
-    <link href="https://forum.butian.net/share/854 "/>
-    <id>https://forum.butian.net/share/854</id>
-    <published>2021-11-02T14:05:55Z</published>
-    <summary type="text">
-      个人总结：使用测绘平台搜索目标资产的万能招式
     </summary>
   </entry>
 
