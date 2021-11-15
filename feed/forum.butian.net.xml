@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-11-15T04:21:10Z</updated>
+  <updated>2021-11-15T10:18:15Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>fastadmin--upload getshell</title>
+    <link href="https://forum.butian.net/share/725 "/>
+    <id>https://forum.butian.net/share/725</id>
+    <published>2021-11-15T14:47:52Z</published>
+    <summary type="text">
+      fastadmin--upload getshell
+    </summary>
+  </entry>
+  <entry>
+    <title>无线电攻击再探（II）</title>
+    <link href="https://forum.butian.net/share/866 "/>
+    <id>https://forum.butian.net/share/866</id>
+    <published>2021-11-15T14:12:59Z</published>
+    <summary type="text">
+      无线电攻击再探（II）
+    </summary>
+  </entry>
   <entry>
     <title>java代码审计之xss</title>
     <link href="https://forum.butian.net/share/867 "/>
@@ -165,24 +183,6 @@
     <published>2021-11-05T09:28:02Z</published>
     <summary type="text">
       记一次对学校某系统的黑盒测试到教育SRC
-    </summary>
-  </entry>
-  <entry>
-    <title>内网信息收集</title>
-    <link href="https://forum.butian.net/share/236 "/>
-    <id>https://forum.butian.net/share/236</id>
-    <published>2021-11-04T15:12:32Z</published>
-    <summary type="text">
-      内网信息收集
-    </summary>
-  </entry>
-  <entry>
-    <title>内网渗透-获取明文和hash</title>
-    <link href="https://forum.butian.net/share/259 "/>
-    <id>https://forum.butian.net/share/259</id>
-    <published>2021-11-04T15:12:12Z</published>
-    <summary type="text">
-      内网渗透-获取明文和hash
     </summary>
   </entry>
 

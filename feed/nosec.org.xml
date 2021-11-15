@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2021-11-15T04:21:24Z</updated>
+  <updated>2021-11-15T10:18:27Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>【安全通报】Hadoop Yarn RPC服务未授权访问漏洞</title>
+    <link href="https://nosec.org/home/detail/4905.html "/>
+    <id>https://nosec.org/home/detail/4905.html</id>
+    <published>2021-11-15T16:47:57Z</published>
+    <summary type="text">
+      近日，网络上出现 Hadoop Yarn RPC 服务未授权访问漏洞的在野利用事件，攻击者可在未经过身份验证的情况下通过该漏洞在影响主机执行任意命令。
+    </summary>
+  </entry>
   <entry>
     <title>还在手动收集资产？你比别人慢了一步</title>
     <link href="https://nosec.org/home/detail/4904.html "/>
@@ -174,15 +183,6 @@
     <published>2021-09-27T12:12:54Z</published>
     <summary type="text">
       活动的官网已经上线，报名通道也已经开启，大家可以访问 https://huhang.nelab-bdst.org.cn 获取更多信息以及报名。
-    </summary>
-  </entry>
-  <entry>
-    <title>护航计划 | 2021首届信创关键产品安全挑战赛（经开区国家信...</title>
-    <link href="https://nosec.org/home/detail/4873.html "/>
-    <id>https://nosec.org/home/detail/4873.html</id>
-    <published>2021-09-27T12:06:35Z</published>
-    <summary type="text">
-      此次挑战赛特别设立了300万元奖金池，旨在调动参赛战队的积极性，更高质量地开展挑战赛。“首届信创关键产品安全挑战赛”初衷是激发信创企业、安全企业、白帽子和...
     </summary>
   </entry>
 
