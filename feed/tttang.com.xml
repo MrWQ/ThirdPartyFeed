@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2021-11-14T22:15:29Z</updated>
+  <updated>2021-11-15T04:21:10Z</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>浅谈利用codeql进行java代码审计分析（1）</title>
+    <link href="https://tttang.com/archive/1322/ "/>
+    <id>https://tttang.com/archive/1322/</id>
+    <published>2021-11-15</published>
+    <summary type="text">
+      浅谈利用codeql进行java代码审计分析（1）
+    </summary>
+  </entry>
   <entry>
     <title>记一次Log4j失败的Gadget挖掘记录</title>
     <link href="https://tttang.com/archive/1314/ "/>
@@ -129,15 +138,6 @@
     <published>2019-05-24</published>
     <summary type="text">
       校园网PC端拨号算法逆向
-    </summary>
-  </entry>
-  <entry>
-    <title>CTF-Web几道题目思路的总结</title>
-    <link href="https://tttang.com/archive/1280/ "/>
-    <id>https://tttang.com/archive/1280/</id>
-    <published>2019-05-22</published>
-    <summary type="text">
-      CTF-Web几道题目思路的总结
     </summary>
   </entry>
 
