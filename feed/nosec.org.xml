@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2021-11-17T10:20:06Z</updated>
+  <updated>2021-11-18T04:21:13Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>如何打造一个网络扫描分析平台 - Part II</title>
+    <link href="https://nosec.org/home/detail/4907.html "/>
+    <id>https://nosec.org/home/detail/4907.html</id>
+    <published>2021-11-18T10:02:48Z</published>
+    <summary type="text">
+      在上一篇我们介绍了如何搭建分布式网络扫描日志收集系统，现在已经收集了大量的日志，如何从日志中获取想要的知识？需要进行数据分析，提出一个问题，然后从数据...
+    </summary>
+  </entry>
   <entry>
     <title>【安全通报】Apache ShenYu Admin 身份验证绕过漏洞（CVE-2...</title>
     <link href="https://nosec.org/home/detail/4906.html "/>
@@ -174,15 +183,6 @@
     <published>2021-09-29T10:58:50Z</published>
     <summary type="text">
       刚到手的1day，还没办法搭建测试环境咋办，使用FOFA-网络空间测绘系统根据关键信息搜索下相关实际目标，以实战来验证1day的可用性(要守法哟)。
-    </summary>
-  </entry>
-  <entry>
-    <title>Vulfocus 漏洞靶场 v0.3.2.9 场景商店上线</title>
-    <link href="https://nosec.org/home/detail/4875.html "/>
-    <id>https://nosec.org/home/detail/4875.html</id>
-    <published>2021-09-27T16:29:08Z</published>
-    <summary type="text">
-      Vulfocus 作为首个基于 Docker 构建的公共型靶场，于 2021 年 9 月 27 日发布 0.3.2.9 版本加入场景商店，管理员可以在vulfocus场景商店中下载所有场景环境到本...
     </summary>
   </entry>
 
