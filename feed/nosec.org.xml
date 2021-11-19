@@ -3,13 +3,13 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2021-11-19T04:21:15Z</updated>
+  <updated>2021-11-19T10:18:16Z</updated>
   <id>https://nosec.org/home/index</id>
   <entry>
     <title>如何打造一个网络扫描分析平台 - Part II</title>
     <link href="https://nosec.org/home/detail/4907.html "/>
     <id>https://nosec.org/home/detail/4907.html</id>
-    <published>2021-11-18T16:33:49Z</published>
+    <published>2021-11-19T15:24:01Z</published>
     <summary type="text">
       在上一篇我们介绍了如何搭建分布式网络扫描日志收集系统，现在已经收集了大量的日志，如何从日志中获取想要的知识？需要进行数据分析，提出一个问题，然后从数据...
     </summary>
