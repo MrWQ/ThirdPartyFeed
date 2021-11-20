@@ -3,8 +3,26 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2021-11-19T10:18:16Z</updated>
+  <updated>2021-11-20T04:21:16Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>【安全通报】Metabase 敏感信息泄露漏洞（CVE-2021-41277）</title>
+    <link href="https://nosec.org/home/detail/4909.html "/>
+    <id>https://nosec.org/home/detail/4909.html</id>
+    <published>2021-11-20T11:30:32Z</published>
+    <summary type="text">
+      近日，metabase 爆出敏感信息泄露漏洞，该漏洞 CVSS3 评分高达 9.9。攻击者可在未经身份验证的情况下获取系统敏感信息。
+    </summary>
+  </entry>
+  <entry>
+    <title>Vulfocus 漏洞靶场 v0.3.2.12 Terminal 容器终端上线</title>
+    <link href="https://nosec.org/home/detail/4908.html "/>
+    <id>https://nosec.org/home/detail/4908.html</id>
+    <published>2021-11-19T22:33:19Z</published>
+    <summary type="text">
+      Vulfocus 作为首个基于 Docker 构建的公共型靶场，于 2021 年 11 月 19 日发布 0.3.2.12 版本加入Terminal 容器终端功能。
+    </summary>
+  </entry>
   <entry>
     <title>如何打造一个网络扫描分析平台 - Part II</title>
     <link href="https://nosec.org/home/detail/4907.html "/>
@@ -165,24 +183,6 @@
     <published>2021-10-13T10:47:33Z</published>
     <summary type="text">
       近日，微软发布 10 月份安全补丁，共修复了 76 个针对微软产品的CVE漏洞，其中 3 个严重漏洞，1 个漏洞已发现在野利用。
-    </summary>
-  </entry>
-  <entry>
-    <title>【安全通报】Apache HTTP Server 路径遍历和远程代码执行漏...</title>
-    <link href="https://nosec.org/home/detail/4881.html "/>
-    <id>https://nosec.org/home/detail/4881.html</id>
-    <published>2021-10-08T14:20:49Z</published>
-    <summary type="text">
-      近日，Apache发布了 Apache HTTP Server 2.4.51版本，该版本为 CVE-2021-41773 的补充修复。攻击者可利用该漏洞在受影响的机器上进行远程代码执行。建议广大用户...
-    </summary>
-  </entry>
-  <entry>
-    <title>FOFA 那些事-验证篇</title>
-    <link href="https://nosec.org/home/detail/4866.html "/>
-    <id>https://nosec.org/home/detail/4866.html</id>
-    <published>2021-09-29T10:58:50Z</published>
-    <summary type="text">
-      刚到手的1day，还没办法搭建测试环境咋办，使用FOFA-网络空间测绘系统根据关键信息搜索下相关实际目标，以实战来验证1day的可用性(要守法哟)。
     </summary>
   </entry>
 
