@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2021-11-21T22:15:23Z</updated>
+  <updated>2021-11-22T04:21:29Z</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>Trojan Source</title>
+    <link href="https://tttang.com/archive/1339/ "/>
+    <id>https://tttang.com/archive/1339/</id>
+    <published>2021-11-22</published>
+    <summary type="text">
+      Trojan Source
+    </summary>
+  </entry>
   <entry>
     <title>ctf中的java题目</title>
     <link href="https://tttang.com/archive/1331/ "/>
@@ -129,15 +138,6 @@
     <published>2019-05-30</published>
     <summary type="text">
       SDL工具之Shingle，一款支持多人协作实施威胁建模的微信小程序
-    </summary>
-  </entry>
-  <entry>
-    <title>2019 强网杯online Web Writeup</title>
-    <link href="https://tttang.com/archive/1301/ "/>
-    <id>https://tttang.com/archive/1301/</id>
-    <published>2019-05-28</published>
-    <summary type="text">
-      2019 强网杯online Web Writeup
     </summary>
   </entry>
 
