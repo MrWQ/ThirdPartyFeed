@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2021-11-25T22:15:54Z</updated>
+  <updated>2021-11-26T04:21:22Z</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>一道原型链污染的题目</title>
+    <link href="https://tttang.com/archive/1338/ "/>
+    <id>https://tttang.com/archive/1338/</id>
+    <published>2021-11-26</published>
+    <summary type="text">
+      一道原型链污染的题目
+    </summary>
+  </entry>
   <entry>
     <title>浅析_IO_FILE攻击</title>
     <link href="https://tttang.com/archive/1345/ "/>
@@ -129,15 +138,6 @@
     <published>2019-06-05</published>
     <summary type="text">
       RCE Without Native Code: Exploitation of a Write-What-Where in Internet Explorer
-    </summary>
-  </entry>
-  <entry>
-    <title>使用WSL欺骗Windows绕过UAC</title>
-    <link href="https://tttang.com/archive/1304/ "/>
-    <id>https://tttang.com/archive/1304/</id>
-    <published>2019-06-04</published>
-    <summary type="text">
-      使用WSL欺骗Windows绕过UAC
     </summary>
   </entry>
 
