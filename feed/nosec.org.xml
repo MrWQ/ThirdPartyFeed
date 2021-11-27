@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2021-11-27T10:17:24Z</updated>
+  <updated>2021-11-27T23:22:17Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>【安全通报】泛微E-Office文件上传漏洞（CNVD-2021-49104）</title>
+    <link href="https://nosec.org/home/detail/4910.html "/>
+    <id>https://nosec.org/home/detail/4910.html</id>
+    <published>2021-11-27T19:44:46Z</published>
+    <summary type="text">
+      近日，网络上出现 泛微E-Office 文件上传漏洞（CNVD-2021-49104）在野利用事件，攻击者可通过该漏洞在影响...
+    </summary>
+  </entry>
   <entry>
     <title>【安全通报】Metabase 敏感信息泄露漏洞（CVE-2021-41277）</title>
     <link href="https://nosec.org/home/detail/4909.html "/>
@@ -174,15 +183,6 @@
     <published>2021-10-16T00:39:13Z</published>
     <summary type="text">
       近日，Apache Tomcat 发布安全更新，更新了一处拒绝服务漏洞（CVE-2021-42340）。攻击者可以通过该漏洞进行...
-    </summary>
-  </entry>
-  <entry>
-    <title>【安全通报】微软10月漏洞补丁日修复多个高危漏洞</title>
-    <link href="https://nosec.org/home/detail/4885.html "/>
-    <id>https://nosec.org/home/detail/4885.html</id>
-    <published>2021-10-13T10:47:33Z</published>
-    <summary type="text">
-      近日，微软发布 10 月份安全补丁，共修复了 76 个针对微软产品的CVE漏洞，其中 3 个严重漏洞，1 个漏洞已发现在野利用。
     </summary>
   </entry>
 
