@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2021-11-28T22:15:30Z</updated>
+  <updated>2021-11-29T04:21:49Z</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>记一次简单的域渗透实验</title>
+    <link href="https://tttang.com/archive/1347/ "/>
+    <id>https://tttang.com/archive/1347/</id>
+    <published>2021-11-29</published>
+    <summary type="text">
+      记一次简单的域渗透实验
+    </summary>
+  </entry>
   <entry>
     <title>一道原型链污染的题目</title>
     <link href="https://tttang.com/archive/1338/ "/>
@@ -129,15 +138,6 @@
     <published>2021-11-01</published>
     <summary type="text">
       Docker PHP裸文件本地包含综述
-    </summary>
-  </entry>
-  <entry>
-    <title>RCE Without Native Code: Exploitation of a Write-What-Where in Internet Explorer</title>
-    <link href="https://tttang.com/archive/1308/ "/>
-    <id>https://tttang.com/archive/1308/</id>
-    <published>2019-06-05</published>
-    <summary type="text">
-      RCE Without Native Code: Exploitation of a Write-What-Where in Internet Explorer
     </summary>
   </entry>
 
