@@ -3,8 +3,44 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-11-29T22:16:19Z</updated>
+  <updated>2021-11-30T04:17:49Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>一次对PHP正则绕过的思考历程</title>
+    <link href="https://forum.butian.net/share/926 "/>
+    <id>https://forum.butian.net/share/926</id>
+    <published>2021-11-30T10:16:53Z</published>
+    <summary type="text">
+      一次对PHP正则绕过的思考历程
+    </summary>
+  </entry>
+  <entry>
+    <title>记一次应急响应</title>
+    <link href="https://forum.butian.net/share/935 "/>
+    <id>https://forum.butian.net/share/935</id>
+    <published>2021-11-30T09:52:34Z</published>
+    <summary type="text">
+      记一次应急响应
+    </summary>
+  </entry>
+  <entry>
+    <title>Microsoft CVE-2021-40449漏洞分析与利用</title>
+    <link href="https://forum.butian.net/share/932 "/>
+    <id>https://forum.butian.net/share/932</id>
+    <published>2021-11-30T09:48:35Z</published>
+    <summary type="text">
+      Microsoft CVE-2021-40449漏洞分析与利用
+    </summary>
+  </entry>
+  <entry>
+    <title>2021深育杯线上初赛官方WriteUp（PWN篇）</title>
+    <link href="https://forum.butian.net/share/918 "/>
+    <id>https://forum.butian.net/share/918</id>
+    <published>2021-11-30T09:46:25Z</published>
+    <summary type="text">
+      2021深育杯线上初赛官方WriteUp（PWN篇）
+    </summary>
+  </entry>
   <entry>
     <title>开源C2:Covenant学习</title>
     <link href="https://forum.butian.net/share/919 "/>
@@ -147,42 +183,6 @@
     <published>2021-11-19T16:29:49Z</published>
     <summary type="text">
       某cms代码审计
-    </summary>
-  </entry>
-  <entry>
-    <title>2021深育杯线上初赛官方WriteUp-Web篇</title>
-    <link href="https://forum.butian.net/share/906 "/>
-    <id>https://forum.butian.net/share/906</id>
-    <published>2021-11-19T10:04:04Z</published>
-    <summary type="text">
-      2021深育杯线上初赛官方WriteUp-Web篇
-    </summary>
-  </entry>
-  <entry>
-    <title>应急响应之Ueditor 任意文件上传漏洞攻击</title>
-    <link href="https://forum.butian.net/share/889 "/>
-    <id>https://forum.butian.net/share/889</id>
-    <published>2021-11-19T09:33:26Z</published>
-    <summary type="text">
-      应急响应之Ueditor 任意文件上传漏洞攻击
-    </summary>
-  </entry>
-  <entry>
-    <title>普通EL表达式命令回显的简单研究</title>
-    <link href="https://forum.butian.net/share/886 "/>
-    <id>https://forum.butian.net/share/886</id>
-    <published>2021-11-18T09:38:53Z</published>
-    <summary type="text">
-      普通EL表达式命令回显的简单研究
-    </summary>
-  </entry>
-  <entry>
-    <title>对某公司一次弱口令到存储型xss挖掘</title>
-    <link href="https://forum.butian.net/share/885 "/>
-    <id>https://forum.butian.net/share/885</id>
-    <published>2021-11-18T09:38:40Z</published>
-    <summary type="text">
-      对某公司一次弱口令到存储型xss挖掘
     </summary>
   </entry>
 

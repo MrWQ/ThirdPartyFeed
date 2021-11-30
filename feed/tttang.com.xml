@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2021-11-29T22:16:19Z</updated>
+  <updated>2021-11-30T04:17:45Z</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>企业级苹果Mac用户安全防御指南（译文）</title>
+    <link href="https://tttang.com/archive/1350/ "/>
+    <id>https://tttang.com/archive/1350/</id>
+    <published>2021-11-30</published>
+    <summary type="text">
+      企业级苹果Mac用户安全防御指南（译文）
+    </summary>
+  </entry>
   <entry>
     <title>记一次简单的域渗透实验</title>
     <link href="https://tttang.com/archive/1347/ "/>
@@ -129,15 +138,6 @@
     <published>2021-11-03</published>
     <summary type="text">
       JavaWeb 内存马二周目通关攻略
-    </summary>
-  </entry>
-  <entry>
-    <title>Docker PHP裸文件本地包含综述</title>
-    <link href="https://tttang.com/archive/1312/ "/>
-    <id>https://tttang.com/archive/1312/</id>
-    <published>2021-11-01</published>
-    <summary type="text">
-      Docker PHP裸文件本地包含综述
     </summary>
   </entry>
 
