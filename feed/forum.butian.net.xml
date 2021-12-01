@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-11-30T22:16:12Z</updated>
+  <updated>2021-12-01T04:21:45Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>damicms6.0审计</title>
+    <link href="https://forum.butian.net/share/937 "/>
+    <id>https://forum.butian.net/share/937</id>
+    <published>2021-12-01T11:15:58Z</published>
+    <summary type="text">
+      damicms6.0审计
+    </summary>
+  </entry>
+  <entry>
+    <title>powershell免杀思路分析</title>
+    <link href="https://forum.butian.net/share/936 "/>
+    <id>https://forum.butian.net/share/936</id>
+    <published>2021-12-01T09:49:46Z</published>
+    <summary type="text">
+      powershell免杀思路分析
+    </summary>
+  </entry>
   <entry>
     <title>一次对PHP正则绕过的思考历程</title>
     <link href="https://forum.butian.net/share/926 "/>
@@ -165,24 +183,6 @@
     <published>2021-11-22T09:35:50Z</published>
     <summary type="text">
       微信小程序域名收集工具开发
-    </summary>
-  </entry>
-  <entry>
-    <title>微服务下统一认证风险总结</title>
-    <link href="https://forum.butian.net/share/898 "/>
-    <id>https://forum.butian.net/share/898</id>
-    <published>2021-11-19T17:02:24Z</published>
-    <summary type="text">
-      微服务下统一认证风险总结
-    </summary>
-  </entry>
-  <entry>
-    <title>某cms代码审计</title>
-    <link href="https://forum.butian.net/share/894 "/>
-    <id>https://forum.butian.net/share/894</id>
-    <published>2021-11-19T16:29:49Z</published>
-    <summary type="text">
-      某cms代码审计
     </summary>
   </entry>
 

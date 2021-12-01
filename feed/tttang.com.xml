@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2021-11-30T22:16:07Z</updated>
+  <updated>2021-12-01T04:21:45Z</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>mimikatz源码调试以及MSV功能原理</title>
+    <link href="https://tttang.com/archive/1348/ "/>
+    <id>https://tttang.com/archive/1348/</id>
+    <published>2021-12-01</published>
+    <summary type="text">
+      mimikatz源码调试以及MSV功能原理
+    </summary>
+  </entry>
   <entry>
     <title>windows内核之任意地址写入(二)</title>
     <link href="https://tttang.com/archive/1344/ "/>
@@ -129,15 +138,6 @@
     <published>2021-11-11</published>
     <summary type="text">
       记一次Log4j失败的Gadget挖掘记录
-    </summary>
-  </entry>
-  <entry>
-    <title>浅谈JSP Webshell进阶免杀</title>
-    <link href="https://tttang.com/archive/1315/ "/>
-    <id>https://tttang.com/archive/1315/</id>
-    <published>2021-11-10</published>
-    <summary type="text">
-      浅谈JSP Webshell进阶免杀
     </summary>
   </entry>
 
