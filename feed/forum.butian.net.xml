@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-12-02T22:16:08Z</updated>
+  <updated>2021-12-03T04:21:24Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>Wordpress敏感信息泄漏漏洞 CVE-2021-38314 代码审计</title>
+    <link href="https://forum.butian.net/share/947 "/>
+    <id>https://forum.butian.net/share/947</id>
+    <published>2021-12-03T09:51:54Z</published>
+    <summary type="text">
+      Wordpress敏感信息泄漏漏洞 CVE-2021-38314 代码审计
+    </summary>
+  </entry>
+  <entry>
+    <title>Java代码审计入门</title>
+    <link href="https://forum.butian.net/share/942 "/>
+    <id>https://forum.butian.net/share/942</id>
+    <published>2021-12-03T09:37:51Z</published>
+    <summary type="text">
+      Java代码审计入门
+    </summary>
+  </entry>
   <entry>
     <title>去除实名认证弹窗</title>
     <link href="https://forum.butian.net/share/933 "/>
@@ -165,24 +183,6 @@
     <published>2021-11-24T09:36:51Z</published>
     <summary type="text">
       页面篡改安全事件应急流程
-    </summary>
-  </entry>
-  <entry>
-    <title>记一次前台sql到rce代审</title>
-    <link href="https://forum.butian.net/share/903 "/>
-    <id>https://forum.butian.net/share/903</id>
-    <published>2021-11-23T09:42:13Z</published>
-    <summary type="text">
-      记一次前台sql到rce代审
-    </summary>
-  </entry>
-  <entry>
-    <title>记一次某企业被入侵的远程应急响应</title>
-    <link href="https://forum.butian.net/share/896 "/>
-    <id>https://forum.butian.net/share/896</id>
-    <published>2021-11-23T09:42:01Z</published>
-    <summary type="text">
-      记一次某企业被入侵的远程应急响应
     </summary>
   </entry>
 
