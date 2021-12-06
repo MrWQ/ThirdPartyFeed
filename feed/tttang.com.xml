@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2021-12-05T22:15:33Z</updated>
+  <updated>2021-12-06T04:21:53Z</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>JDK8u20反序列化总结</title>
+    <link href="https://tttang.com/archive/1357/ "/>
+    <id>https://tttang.com/archive/1357/</id>
+    <published>2021-12-06</published>
+    <summary type="text">
+      JDK8u20反序列化总结
+    </summary>
+  </entry>
   <entry>
     <title>Chrome V8漏洞分析入门——Google CTF2018 justintime分析</title>
     <link href="https://tttang.com/archive/1355/ "/>
@@ -129,15 +138,6 @@
     <published>2021-11-18</published>
     <summary type="text">
       windows内核之栈溢出(一)
-    </summary>
-  </entry>
-  <entry>
-    <title>黑盒到灰盒再到PWN - 分析某智慧课堂平板</title>
-    <link href="https://tttang.com/archive/1327/ "/>
-    <id>https://tttang.com/archive/1327/</id>
-    <published>2021-11-17</published>
-    <summary type="text">
-      黑盒到灰盒再到PWN - 分析某智慧课堂平板
     </summary>
   </entry>
 
