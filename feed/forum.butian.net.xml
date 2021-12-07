@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-12-06T22:16:31Z</updated>
+  <updated>2021-12-07T04:22:21Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>关于抓取明文密码的探究</title>
+    <link href="https://forum.butian.net/share/956 "/>
+    <id>https://forum.butian.net/share/956</id>
+    <published>2021-12-07T10:09:50Z</published>
+    <summary type="text">
+      关于抓取明文密码的探究
+    </summary>
+  </entry>
+  <entry>
+    <title>0元购买某游戏648元点券</title>
+    <link href="https://forum.butian.net/share/951 "/>
+    <id>https://forum.butian.net/share/951</id>
+    <published>2021-12-07T09:43:15Z</published>
+    <summary type="text">
+      0元购买某游戏648元点券
+    </summary>
+  </entry>
   <entry>
     <title>Serverless扫描技术研究及应用</title>
     <link href="https://forum.butian.net/share/957 "/>
@@ -165,24 +183,6 @@
     <published>2021-11-26T09:31:55Z</published>
     <summary type="text">
       wuzhiCMS audit
-    </summary>
-  </entry>
-  <entry>
-    <title>某知名Java框架内存马挖掘</title>
-    <link href="https://forum.butian.net/share/923 "/>
-    <id>https://forum.butian.net/share/923</id>
-    <published>2021-11-25T09:41:32Z</published>
-    <summary type="text">
-      某知名Java框架内存马挖掘
-    </summary>
-  </entry>
-  <entry>
-    <title>记一次小程序cms安全事件应急响应</title>
-    <link href="https://forum.butian.net/share/911 "/>
-    <id>https://forum.butian.net/share/911</id>
-    <published>2021-11-25T09:41:25Z</published>
-    <summary type="text">
-      记一次小程序cms安全事件应急响应
     </summary>
   </entry>
 
