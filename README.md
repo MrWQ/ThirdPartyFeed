@@ -8,6 +8,8 @@
 
 ## 订阅地址
 
+按添加时间排序
+
 feed | raw | jsdelivr
 ---  | --- | --------
 先知社区 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/xz.aliyun.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/xz.aliyun.com.xml)
