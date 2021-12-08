@@ -3,8 +3,17 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-12-07T22:16:39Z</updated>
+  <updated>2021-12-08T04:21:39Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>CVE-2021-43527 Mozilla加密库NSS存在一个简单却很严重的缓存溢出漏洞</title>
+    <link href="https://forum.butian.net/share/952 "/>
+    <id>https://forum.butian.net/share/952</id>
+    <published>2021-12-08T09:47:42Z</published>
+    <summary type="text">
+      CVE-2021-43527 Mozilla加密库NSS存在一个简单却很严重的缓存溢出漏洞
+    </summary>
+  </entry>
   <entry>
     <title>关于抓取明文密码的探究</title>
     <link href="https://forum.butian.net/share/956 "/>
@@ -174,15 +183,6 @@
     <published>2021-11-26T09:32:08Z</published>
     <summary type="text">
       Apache Skywalking 远程代码执行漏洞（CVE-2020-13921、CVE-2020-9483）
-    </summary>
-  </entry>
-  <entry>
-    <title>wuzhiCMS audit</title>
-    <link href="https://forum.butian.net/share/917 "/>
-    <id>https://forum.butian.net/share/917</id>
-    <published>2021-11-26T09:31:55Z</published>
-    <summary type="text">
-      wuzhiCMS audit
     </summary>
   </entry>
 
