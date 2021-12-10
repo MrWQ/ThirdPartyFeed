@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2021-12-09T10:18:34Z</updated>
+  <updated>2021-12-10T04:21:55Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>【安全通报】Apache Log4j2 远程代码执行漏洞</title>
+    <link href="https://nosec.org/home/detail/4917.html "/>
+    <id>https://nosec.org/home/detail/4917.html</id>
+    <published>2021-12-10T12:21:10Z</published>
+    <summary type="text">
+      近日，网络上出现 Apache Log4j2 远程代码执行漏洞。攻击者可利用该漏洞构造特殊的数据请求包，最终触发远程代码执行。由于该漏洞影响范围极广，建议广大用户及...
+    </summary>
+  </entry>
   <entry>
     <title>SRVLOC协议与端口扫描</title>
     <link href="https://nosec.org/home/detail/4915.html "/>
@@ -174,15 +183,6 @@
     <published>2021-10-25T19:30:12Z</published>
     <summary type="text">
       Vulfocus 作为首个基于 Docker 构建的公共型靶场，于 2021 年 10 月 22 日发布 0.3.2.10 版本加入普通计时...
-    </summary>
-  </entry>
-  <entry>
-    <title>Goby内测版1.9.304｜IP库 Big Feature 上线，限时尝鲜，两...</title>
-    <link href="https://nosec.org/home/detail/4891.html "/>
-    <id>https://nosec.org/home/detail/4891.html</id>
-    <published>2021-10-22T15:48:53Z</published>
-    <summary type="text">
-      本次更新重点为大家带来打通渗透前目标收集需求的 IP 库 Big Feature，以及插件支持最小化，扫描配置数据缓存等实用功能。
     </summary>
   </entry>
 
