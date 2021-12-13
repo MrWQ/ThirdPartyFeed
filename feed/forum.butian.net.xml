@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-12-13T04:21:44Z</updated>
+  <updated>2021-12-13T10:18:27Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>从Apache Log4j2核武器级漏洞看服务器安全之痛</title>
+    <link href="https://forum.butian.net/share/972 "/>
+    <id>https://forum.butian.net/share/972</id>
+    <published>2021-12-13T17:39:15Z</published>
+    <summary type="text">
+      从Apache Log4j2核武器级漏洞看服务器安全之痛
+    </summary>
+  </entry>
+  <entry>
+    <title>Log4j 2.x &amp;lt; 2.15.0 反序列化漏洞分析（含排查措施和修复建议）</title>
+    <link href="https://forum.butian.net/share/964 "/>
+    <id>https://forum.butian.net/share/964</id>
+    <published>2021-12-13T12:22:25Z</published>
+    <summary type="text">
+      Log4j 2.x &amp;lt; 2.15.0 反序列化漏洞分析（含排查措施和修复建议）
+    </summary>
+  </entry>
   <entry>
     <title>从挖矿木马事件到Confluence 远程代码执行漏洞（CVE-2021-26084）分析</title>
     <link href="https://forum.butian.net/share/961 "/>
@@ -165,24 +183,6 @@
     <published>2021-11-30T09:52:34Z</published>
     <summary type="text">
       记一次应急响应
-    </summary>
-  </entry>
-  <entry>
-    <title>Microsoft CVE-2021-40449漏洞分析与利用</title>
-    <link href="https://forum.butian.net/share/932 "/>
-    <id>https://forum.butian.net/share/932</id>
-    <published>2021-11-30T09:48:35Z</published>
-    <summary type="text">
-      Microsoft CVE-2021-40449漏洞分析与利用
-    </summary>
-  </entry>
-  <entry>
-    <title>2021深育杯线上初赛官方WriteUp（PWN篇）</title>
-    <link href="https://forum.butian.net/share/918 "/>
-    <id>https://forum.butian.net/share/918</id>
-    <published>2021-11-30T09:46:25Z</published>
-    <summary type="text">
-      2021深育杯线上初赛官方WriteUp（PWN篇）
     </summary>
   </entry>
 
