@@ -3,8 +3,26 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2021-12-13T22:13:29Z</updated>
+  <updated>2021-12-14T04:21:34Z</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>浅谈被动式IAST产品与技术实现</title>
+    <link href="https://tttang.com/archive/1375/ "/>
+    <id>https://tttang.com/archive/1375/</id>
+    <published>2021-12-14</published>
+    <summary type="text">
+      浅谈被动式IAST产品与技术实现
+    </summary>
+  </entry>
+  <entry>
+    <title>APT32 OceanLotus样本shellcode分析</title>
+    <link href="https://tttang.com/archive/1354/ "/>
+    <id>https://tttang.com/archive/1354/</id>
+    <published>2021-12-14</published>
+    <summary type="text">
+      APT32 OceanLotus样本shellcode分析
+    </summary>
+  </entry>
   <entry>
     <title>全网最详细CVE-2021-1732分析</title>
     <link href="https://tttang.com/archive/1369/ "/>
@@ -120,24 +138,6 @@
     <published>2021-11-29</published>
     <summary type="text">
       记一次简单的域渗透实验
-    </summary>
-  </entry>
-  <entry>
-    <title>一道原型链污染的题目</title>
-    <link href="https://tttang.com/archive/1338/ "/>
-    <id>https://tttang.com/archive/1338/</id>
-    <published>2021-11-26</published>
-    <summary type="text">
-      一道原型链污染的题目
-    </summary>
-  </entry>
-  <entry>
-    <title>浅析_IO_FILE攻击</title>
-    <link href="https://tttang.com/archive/1345/ "/>
-    <id>https://tttang.com/archive/1345/</id>
-    <published>2021-11-25</published>
-    <summary type="text">
-      浅析_IO_FILE攻击
     </summary>
   </entry>
 
