@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2021-12-14T22:16:29Z</updated>
+  <updated>2021-12-15T04:21:45Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>【安全通报】微软12月漏洞补丁日修复多个高危漏洞</title>
+    <link href="https://nosec.org/home/detail/4919.html "/>
+    <id>https://nosec.org/home/detail/4919.html</id>
+    <published>2021-12-15T11:30:43Z</published>
+    <summary type="text">
+      近日，微软发布 12 月份安全补丁，共修复了 67 个针对微软产品的CVE漏洞，其中 7个严重漏洞，60个高危漏洞。涉及 Windows 和 Windows 组件、ASP.NET Core 和 Vis...
+    </summary>
+  </entry>
   <entry>
     <title>Goby 内测版1.9.314｜代理全局状态切换、报告支持插件数据...</title>
     <link href="https://nosec.org/home/detail/4918.html "/>
@@ -174,15 +183,6 @@
     <published>2021-10-28T16:57:20Z</published>
     <summary type="text">
       近日，网络上出现 Gitlab exiftool 远程命令执行漏洞 在野利用事件。该漏洞最早于2021年 4月7日在 gitlab 的issue提出。攻击者可利用该漏洞在服务端上传恶意图片...
-    </summary>
-  </entry>
-  <entry>
-    <title>技术自信</title>
-    <link href="https://nosec.org/home/detail/4893.html "/>
-    <id>https://nosec.org/home/detail/4893.html</id>
-    <published>2021-10-25T20:21:43Z</published>
-    <summary type="text">
-      我们最近发布了一个免费的工具叫fapro嘛，在twitter上讨论的比国内要多得多。有一天我们的同事在reddit上面发了个帖子，然后有趣的事情再次发生了……
     </summary>
   </entry>
 
