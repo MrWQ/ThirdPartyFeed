@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2021-12-15T22:16:20Z</updated>
+  <updated>2021-12-16T04:21:25Z</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>浅谈 Log4j2 漏洞</title>
+    <link href="https://tttang.com/archive/1378/ "/>
+    <id>https://tttang.com/archive/1378/</id>
+    <published>2021-12-16</published>
+    <summary type="text">
+      浅谈 Log4j2 漏洞
+    </summary>
+  </entry>
   <entry>
     <title>Windows 10 RCE 点击链接就触发（译文）</title>
     <link href="https://tttang.com/archive/1377/ "/>
@@ -129,15 +138,6 @@
     <published>2021-11-30</published>
     <summary type="text">
       windows内核之任意地址写入(二)
-    </summary>
-  </entry>
-  <entry>
-    <title>企业级苹果Mac用户安全防御指南（译文）</title>
-    <link href="https://tttang.com/archive/1350/ "/>
-    <id>https://tttang.com/archive/1350/</id>
-    <published>2021-11-30</published>
-    <summary type="text">
-      企业级苹果Mac用户安全防御指南（译文）
     </summary>
   </entry>
 
