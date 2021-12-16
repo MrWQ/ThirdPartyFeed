@@ -3,8 +3,17 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-12-16T04:21:29Z</updated>
+  <updated>2021-12-16T10:17:58Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>Ruby ERB模板注入</title>
+    <link href="https://forum.butian.net/share/977 "/>
+    <id>https://forum.butian.net/share/977</id>
+    <published>2021-12-16T15:59:28Z</published>
+    <summary type="text">
+      Ruby ERB模板注入
+    </summary>
+  </entry>
   <entry>
     <title>透过认证协议理解最新打域控姿势</title>
     <link href="https://forum.butian.net/share/983 "/>
@@ -174,15 +183,6 @@
     <published>2021-12-03T09:51:54Z</published>
     <summary type="text">
       Wordpress敏感信息泄漏漏洞 CVE-2021-38314 代码审计
-    </summary>
-  </entry>
-  <entry>
-    <title>Java代码审计入门</title>
-    <link href="https://forum.butian.net/share/942 "/>
-    <id>https://forum.butian.net/share/942</id>
-    <published>2021-12-03T09:37:51Z</published>
-    <summary type="text">
-      Java代码审计入门
     </summary>
   </entry>
 
