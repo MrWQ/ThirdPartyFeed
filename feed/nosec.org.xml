@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2021-12-17T10:18:15Z</updated>
+  <updated>2021-12-17T22:16:13Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>谷歌安全研究员直呼复杂 ｜ iMessage 零点击漏洞利用细节公...</title>
+    <link href="https://nosec.org/home/detail/4922.html "/>
+    <id>https://nosec.org/home/detail/4922.html</id>
+    <published>2021-12-17T21:35:05Z</published>
+    <summary type="text">
+      2021年9月中旬，苹果发布紧急更新，推出适用于iPhone、iPad的iOS14.8，以及适用于Apple Watch和macOS的补丁...
+    </summary>
+  </entry>
   <entry>
     <title>FOFA log4j 漏洞专题上线，从安服仔迈向专家只需一个按钮</title>
     <link href="https://nosec.org/home/detail/4921.html "/>
@@ -12,6 +21,15 @@
     <published>2021-12-17T17:52:35Z</published>
     <summary type="text">
       Log4j2高危可利用漏洞爆发，FOFA上线漏洞专题、特定指纹收录，助力企业暴露面收敛，陪伴安服仔升级为安全专家。
+    </summary>
+  </entry>
+  <entry>
+    <title>浅谈 Log4j2 漏洞</title>
+    <link href="https://nosec.org/home/detail/4920.html "/>
+    <id>https://nosec.org/home/detail/4920.html</id>
+    <published>2021-12-17T23:30:45Z</published>
+    <summary type="text">
+      最近的 Log4j 漏洞在安全圈引起了轩然大波，可以说是核弹级别的漏洞，无论是渗透、研发、安服、研究，所有人都在学习和复现这个漏洞，由于其覆盖面广，引用次数...
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2021-11-05T21:15:57Z</published>
     <summary type="text">
       Vulfocus 开源漏洞靶场 0.3.2.11 首次开放APIVulfocus 作为首个基于 Docker 构建的公共型靶场，于 2021 年...
-    </summary>
-  </entry>
-  <entry>
-    <title>插件分享 | ShellHub 让 Goby 打通渗透流程</title>
-    <link href="https://nosec.org/home/detail/4898.html "/>
-    <id>https://nosec.org/home/detail/4898.html</id>
-    <published>2021-11-05T19:14:30Z</published>
-    <summary type="text">
-      就像 Goby 已有的反弹 shell 功能一样，点击一下 open shell 按钮就能弹出打到的 webshell 的管理界面，用户可以直接对该 webshell 进行操作。
-    </summary>
-  </entry>
-  <entry>
-    <title>技术分享 | IP库？信息？资产？拿来吧你！</title>
-    <link href="https://nosec.org/home/detail/4896.html "/>
-    <id>https://nosec.org/home/detail/4896.html</id>
-    <published>2021-11-02T17:07:34Z</published>
-    <summary type="text">
-      近期 Goby 新版本添加了一个内测功能，叫 IP 库。研究了一段时间，发现其基本思想是通过某个资产节点，如：域名、IP、公司、备案、HTTPS 证书或站点图标等，导入...
     </summary>
   </entry>
 
