@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2021-12-19T22:16:01Z</updated>
+  <updated>2021-12-20T04:22:36Z</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>解析CVE-2021-42287与CVE-2021-42278</title>
+    <link href="https://tttang.com/archive/1380/ "/>
+    <id>https://tttang.com/archive/1380/</id>
+    <published>2021-12-20</published>
+    <summary type="text">
+      解析CVE-2021-42287与CVE-2021-42278
+    </summary>
+  </entry>
   <entry>
     <title>A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution（译文）</title>
     <link href="https://tttang.com/archive/1379/ "/>
@@ -129,15 +138,6 @@
     <published>2021-12-02</published>
     <summary type="text">
       ctf中的java题目学习2
-    </summary>
-  </entry>
-  <entry>
-    <title>mimikatz源码调试以及MSV功能原理</title>
-    <link href="https://tttang.com/archive/1348/ "/>
-    <id>https://tttang.com/archive/1348/</id>
-    <published>2021-12-01</published>
-    <summary type="text">
-      mimikatz源码调试以及MSV功能原理
     </summary>
   </entry>
 

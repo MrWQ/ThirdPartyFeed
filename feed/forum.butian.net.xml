@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-12-19T22:16:01Z</updated>
+  <updated>2021-12-20T04:22:36Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>由log4j攻击事件到泛微OA任意文件上传漏洞分析</title>
+    <link href="https://forum.butian.net/share/991 "/>
+    <id>https://forum.butian.net/share/991</id>
+    <published>2021-12-20T09:35:11Z</published>
+    <summary type="text">
+      由log4j攻击事件到泛微OA任意文件上传漏洞分析
+    </summary>
+  </entry>
+  <entry>
+    <title>记一次小程序测试</title>
+    <link href="https://forum.butian.net/share/988 "/>
+    <id>https://forum.butian.net/share/988</id>
+    <published>2021-12-20T09:34:56Z</published>
+    <summary type="text">
+      记一次小程序测试
+    </summary>
+  </entry>
   <entry>
     <title>在mac os 中解密 WeChat DB</title>
     <link href="https://forum.butian.net/share/984 "/>
@@ -165,24 +183,6 @@
     <published>2021-12-07T09:43:15Z</published>
     <summary type="text">
       0元购买某游戏648元点券
-    </summary>
-  </entry>
-  <entry>
-    <title>Serverless扫描技术研究及应用</title>
-    <link href="https://forum.butian.net/share/957 "/>
-    <id>https://forum.butian.net/share/957</id>
-    <published>2021-12-06T17:55:12Z</published>
-    <summary type="text">
-      Serverless扫描技术研究及应用
-    </summary>
-  </entry>
-  <entry>
-    <title>TeamTNT挖矿程序分析</title>
-    <link href="https://forum.butian.net/share/950 "/>
-    <id>https://forum.butian.net/share/950</id>
-    <published>2021-12-06T09:48:00Z</published>
-    <summary type="text">
-      TeamTNT挖矿程序分析
     </summary>
   </entry>
 
