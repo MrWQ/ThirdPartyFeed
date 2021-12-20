@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2021-12-20T10:18:54Z</updated>
+  <updated>2021-12-20T22:16:39Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>​Vulfocus  靶场竞赛活动启动</title>
+    <link href="https://nosec.org/home/detail/4923.html "/>
+    <id>https://nosec.org/home/detail/4923.html</id>
+    <published>2021-12-20T22:21:44Z</published>
+    <summary type="text">
+      Vulfocus靶场首届竞赛活动报名通道开启，报名时间12.20-12.23日，25日开始比赛，本次比赛联合Goby、HackingClub、SecIN，安全客等各大社区为大家提供多重大奖，...
+    </summary>
+  </entry>
   <entry>
     <title>谷歌安全研究员直呼复杂 ｜ iMessage 零点击漏洞利用细节公...</title>
     <link href="https://nosec.org/home/detail/4922.html "/>
@@ -27,7 +36,7 @@
     <title>浅谈 Log4j2 漏洞</title>
     <link href="https://nosec.org/home/detail/4920.html "/>
     <id>https://nosec.org/home/detail/4920.html</id>
-    <published>2021-12-17T23:30:45Z</published>
+    <published>2021-12-20T21:32:58Z</published>
     <summary type="text">
       最近的 Log4j 漏洞在安全圈引起了轩然大波，可以说是核弹级别的漏洞，无论是渗透、研发、安服、研究，所有人都在学习和复现这个漏洞，由于其覆盖面广，引用次数...
     </summary>
@@ -174,15 +183,6 @@
     <published>2021-11-10T10:18:04Z</published>
     <summary type="text">
       近日，微软发布 11 月份安全补丁，共修复了 55 个针对微软产品的CVE漏洞，其中 6个严重漏洞，49个高危漏洞。涉及 Windows 和 Windows 组件、Azure等多款产品。建...
-    </summary>
-  </entry>
-  <entry>
-    <title>Vulfocus 开源漏洞靶场 v0.3.2.11 首次开放API</title>
-    <link href="https://nosec.org/home/detail/4899.html "/>
-    <id>https://nosec.org/home/detail/4899.html</id>
-    <published>2021-11-05T21:15:57Z</published>
-    <summary type="text">
-      Vulfocus 开源漏洞靶场 0.3.2.11 首次开放APIVulfocus 作为首个基于 Docker 构建的公共型靶场，于 2021 年...
     </summary>
   </entry>
 
