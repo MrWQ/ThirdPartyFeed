@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-12-20T22:16:32Z</updated>
+  <updated>2021-12-21T04:22:11Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>实战绕过某湾WAF+拿shell组合拳</title>
+    <link href="https://forum.butian.net/share/994 "/>
+    <id>https://forum.butian.net/share/994</id>
+    <published>2021-12-21T09:26:54Z</published>
+    <summary type="text">
+      实战绕过某湾WAF+拿shell组合拳
+    </summary>
+  </entry>
+  <entry>
+    <title>taocms审计</title>
+    <link href="https://forum.butian.net/share/992 "/>
+    <id>https://forum.butian.net/share/992</id>
+    <published>2021-12-21T09:26:43Z</published>
+    <summary type="text">
+      taocms审计
+    </summary>
+  </entry>
   <entry>
     <title>由log4j攻击事件到泛微OA任意文件上传漏洞分析</title>
     <link href="https://forum.butian.net/share/991 "/>
@@ -165,24 +183,6 @@
     <published>2021-12-08T09:47:42Z</published>
     <summary type="text">
       CVE-2021-43527 Mozilla加密库NSS存在一个简单却很严重的缓存溢出漏洞
-    </summary>
-  </entry>
-  <entry>
-    <title>关于抓取明文密码的探究</title>
-    <link href="https://forum.butian.net/share/956 "/>
-    <id>https://forum.butian.net/share/956</id>
-    <published>2021-12-07T10:09:50Z</published>
-    <summary type="text">
-      关于抓取明文密码的探究
-    </summary>
-  </entry>
-  <entry>
-    <title>0元购买某游戏648元点券</title>
-    <link href="https://forum.butian.net/share/951 "/>
-    <id>https://forum.butian.net/share/951</id>
-    <published>2021-12-07T09:43:15Z</published>
-    <summary type="text">
-      0元购买某游戏648元点券
     </summary>
   </entry>
 
