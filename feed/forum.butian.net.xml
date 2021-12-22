@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-12-21T22:16:18Z</updated>
+  <updated>2021-12-22T04:22:28Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>CobaltStrike Shellcode分析</title>
+    <link href="https://forum.butian.net/share/997 "/>
+    <id>https://forum.butian.net/share/997</id>
+    <published>2021-12-22T09:31:41Z</published>
+    <summary type="text">
+      CobaltStrike Shellcode分析
+    </summary>
+  </entry>
+  <entry>
+    <title>Goland 代码审计: GitHub 开源项目 Crawlab</title>
+    <link href="https://forum.butian.net/share/996 "/>
+    <id>https://forum.butian.net/share/996</id>
+    <published>2021-12-22T09:29:17Z</published>
+    <summary type="text">
+      Goland 代码审计: GitHub 开源项目 Crawlab
+    </summary>
+  </entry>
   <entry>
     <title>taocms审计</title>
     <link href="https://forum.butian.net/share/992 "/>
@@ -165,24 +183,6 @@
     <published>2021-12-09T09:49:53Z</published>
     <summary type="text">
       梦想cms漏洞合集
-    </summary>
-  </entry>
-  <entry>
-    <title>CVE-2021-43527 Mozilla加密库NSS存在一个简单却很严重的缓存溢出漏洞</title>
-    <link href="https://forum.butian.net/share/952 "/>
-    <id>https://forum.butian.net/share/952</id>
-    <published>2021-12-08T09:47:42Z</published>
-    <summary type="text">
-      CVE-2021-43527 Mozilla加密库NSS存在一个简单却很严重的缓存溢出漏洞
-    </summary>
-  </entry>
-  <entry>
-    <title>关于抓取明文密码的探究</title>
-    <link href="https://forum.butian.net/share/956 "/>
-    <id>https://forum.butian.net/share/956</id>
-    <published>2021-12-07T10:09:50Z</published>
-    <summary type="text">
-      关于抓取明文密码的探究
     </summary>
   </entry>
 
