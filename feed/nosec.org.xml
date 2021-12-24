@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2021-12-24T04:22:13Z</updated>
+  <updated>2021-12-24T10:18:52Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>如何快速验证 Log4j2 漏洞</title>
+    <link href="https://nosec.org/home/detail/4926.html "/>
+    <id>https://nosec.org/home/detail/4926.html</id>
+    <published>2021-12-24T16:33:40Z</published>
+    <summary type="text">
+      近日，log4j2漏洞威胁及其相关新闻持续盘踞安全圈热点榜首，受影响的企业及行业相继被爆出。FOFA密切关注此漏洞，联合白帽汇安全研究院，尽可能搜集整理了所有受...
+    </summary>
+  </entry>
   <entry>
     <title>【安全通报】Apache HTTP Server 更新多个安全漏洞（CVE-20...</title>
     <link href="https://nosec.org/home/detail/4925.html "/>
@@ -174,15 +183,6 @@
     <published>2021-11-12T17:55:36Z</published>
     <summary type="text">
       Goby 内测版 1.9.304 发布了一个新功能，叫 ”IP 库“，可以自动化进行资产收集的各个环节，当然不仅限于上述几个方面，还包括 HTTS 证书、图标、关键字等资产收集...
-    </summary>
-  </entry>
-  <entry>
-    <title>【安全通报】PAN GlobalProtect Portal 内存损坏漏洞（CVE-...</title>
-    <link href="https://nosec.org/home/detail/4902.html "/>
-    <id>https://nosec.org/home/detail/4902.html</id>
-    <published>2021-11-11T12:31:57Z</published>
-    <summary type="text">
-      近日，Palo Alto Networks (PAN) 发布安全公告，修复了Palo Alto Networks GlobalProtect portal 和 gateway interfaces 中的内存损坏漏洞。未经身份验证的攻击...
     </summary>
   </entry>
 
