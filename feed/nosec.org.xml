@@ -3,8 +3,26 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2021-12-27T10:23:45Z</updated>
+  <updated>2021-12-28T04:22:32Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>【安全通报】Apache APISIX Dashboard 身份验证绕过漏洞（C...</title>
+    <link href="https://nosec.org/home/detail/4928.html "/>
+    <id>https://nosec.org/home/detail/4928.html</id>
+    <published>2021-12-28T11:43:55Z</published>
+    <summary type="text">
+      近日，网络上出现 Apache APISIX Dashboard 身份验证绕过漏洞，攻击者可通过该漏洞绕过身份验证过程并通过...
+    </summary>
+  </entry>
+  <entry>
+    <title>【安全通报】Auerswald COMpact 5500R PBX 固件多个后门漏...</title>
+    <link href="https://nosec.org/home/detail/4927.html "/>
+    <id>https://nosec.org/home/detail/4927.html</id>
+    <published>2021-12-28T11:44:42Z</published>
+    <summary type="text">
+      近日，RedTeam Pentesting 公布了 Auerswald COMpact 5500R PBX 固件中的多个后门漏洞。攻击者可通过这些后...
+    </summary>
+  </entry>
   <entry>
     <title>如何快速验证 Log4j2 漏洞</title>
     <link href="https://nosec.org/home/detail/4926.html "/>
@@ -165,24 +183,6 @@
     <published>2021-11-17T16:22:14Z</published>
     <summary type="text">
       近日，Apache ShenYu Admin爆出身份验证绕过漏洞，攻击者可通过该漏洞绕过JSON Web Token (JWT)安全认证，直接进入系统后台。
-    </summary>
-  </entry>
-  <entry>
-    <title>【安全通报】Hadoop Yarn RPC服务未授权访问漏洞</title>
-    <link href="https://nosec.org/home/detail/4905.html "/>
-    <id>https://nosec.org/home/detail/4905.html</id>
-    <published>2021-11-16T17:50:28Z</published>
-    <summary type="text">
-      近日，网络上出现 Hadoop Yarn RPC 服务未授权访问漏洞的在野利用事件，攻击者可在未经过身份验证的情况下通过该漏洞在影响主机执行任意命令。
-    </summary>
-  </entry>
-  <entry>
-    <title>还在手动收集资产？你比别人慢了一步</title>
-    <link href="https://nosec.org/home/detail/4904.html "/>
-    <id>https://nosec.org/home/detail/4904.html</id>
-    <published>2021-11-12T17:55:36Z</published>
-    <summary type="text">
-      Goby 内测版 1.9.304 发布了一个新功能，叫 ”IP 库“，可以自动化进行资产收集的各个环节，当然不仅限于上述几个方面，还包括 HTTS 证书、图标、关键字等资产收集...
     </summary>
   </entry>
 
