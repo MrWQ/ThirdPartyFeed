@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2021-12-28T22:16:23Z</updated>
+  <updated>2021-12-29T04:22:14Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>emlog旧版本代码审计</title>
+    <link href="https://forum.butian.net/share/1040 "/>
+    <id>https://forum.butian.net/share/1040</id>
+    <published>2021-12-29T09:36:53Z</published>
+    <summary type="text">
+      emlog旧版本代码审计
+    </summary>
+  </entry>
+  <entry>
+    <title>天眼查企业信息快速收集工具开发</title>
+    <link href="https://forum.butian.net/share/1022 "/>
+    <id>https://forum.butian.net/share/1022</id>
+    <published>2021-12-29T09:36:34Z</published>
+    <summary type="text">
+      天眼查企业信息快速收集工具开发
+    </summary>
+  </entry>
   <entry>
     <title>从PHPMYADMIN getshell到OTCMS后台 SQL getshell</title>
     <link href="https://forum.butian.net/share/1036 "/>
@@ -165,24 +183,6 @@
     <published>2021-12-16T15:59:28Z</published>
     <summary type="text">
       Ruby ERB模板注入
-    </summary>
-  </entry>
-  <entry>
-    <title>透过认证协议理解最新打域控姿势</title>
-    <link href="https://forum.butian.net/share/983 "/>
-    <id>https://forum.butian.net/share/983</id>
-    <published>2021-12-16T10:58:59Z</published>
-    <summary type="text">
-      透过认证协议理解最新打域控姿势
-    </summary>
-  </entry>
-  <entry>
-    <title>CobaltStrike使用（域内渗透&amp;amp;横向扩展）</title>
-    <link href="https://forum.butian.net/share/981 "/>
-    <id>https://forum.butian.net/share/981</id>
-    <published>2021-12-16T09:51:00Z</published>
-    <summary type="text">
-      CobaltStrike使用（域内渗透&amp;amp;横向扩展）
     </summary>
   </entry>
 
