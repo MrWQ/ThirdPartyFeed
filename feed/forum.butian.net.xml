@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-01-04T22:16:28Z</updated>
+  <updated>2022-01-05T04:22:14Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>cms审计集</title>
+    <link href="https://forum.butian.net/share/1063 "/>
+    <id>https://forum.butian.net/share/1063</id>
+    <published>2022-01-05T09:40:34Z</published>
+    <summary type="text">
+      cms审计集
+    </summary>
+  </entry>
+  <entry>
+    <title>浅析云存储安全漏洞</title>
+    <link href="https://forum.butian.net/share/1032 "/>
+    <id>https://forum.butian.net/share/1032</id>
+    <published>2022-01-05T09:40:24Z</published>
+    <summary type="text">
+      浅析云存储安全漏洞
+    </summary>
+  </entry>
   <entry>
     <title>对获取 rdp 密码的小工具 RdpThief 的一次深究</title>
     <link href="https://forum.butian.net/share/1061 "/>
@@ -165,24 +183,6 @@
     <published>2021-12-23T09:38:55Z</published>
     <summary type="text">
       实战绕过某WAF+拿shell组合拳
-    </summary>
-  </entry>
-  <entry>
-    <title>某私服的渗透测试到揪出维护人员</title>
-    <link href="https://forum.butian.net/share/1000 "/>
-    <id>https://forum.butian.net/share/1000</id>
-    <published>2021-12-23T09:38:24Z</published>
-    <summary type="text">
-      某私服的渗透测试到揪出维护人员
-    </summary>
-  </entry>
-  <entry>
-    <title>CobaltStrike Shellcode分析</title>
-    <link href="https://forum.butian.net/share/997 "/>
-    <id>https://forum.butian.net/share/997</id>
-    <published>2021-12-22T09:31:41Z</published>
-    <summary type="text">
-      CobaltStrike Shellcode分析
     </summary>
   </entry>
 

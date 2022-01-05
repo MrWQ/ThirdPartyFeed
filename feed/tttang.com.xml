@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-01-04T22:16:27Z</updated>
+  <updated>2022-01-05T04:22:20Z</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>hxp CTF 2021 - The End Of LFI?</title>
+    <link href="https://tttang.com/archive/1395/ "/>
+    <id>https://tttang.com/archive/1395/</id>
+    <published>2022-01-05</published>
+    <summary type="text">
+      hxp CTF 2021 - The End Of LFI?
+    </summary>
+  </entry>
   <entry>
     <title>NoAgent内存马检测工具</title>
     <link href="https://tttang.com/archive/1390/ "/>
@@ -129,15 +138,6 @@
     <published>2021-12-16</published>
     <summary type="text">
       浅谈 Log4j2 漏洞
-    </summary>
-  </entry>
-  <entry>
-    <title>Windows 10 RCE 点击链接就触发（译文）</title>
-    <link href="https://tttang.com/archive/1377/ "/>
-    <id>https://tttang.com/archive/1377/</id>
-    <published>2021-12-15</published>
-    <summary type="text">
-      Windows 10 RCE 点击链接就触发（译文）
     </summary>
   </entry>
 
