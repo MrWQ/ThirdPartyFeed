@@ -3,7 +3,7 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-01-08T10:18:07Z</updated>
+  <updated>2022-01-08T22:18:48Z</updated>
   <id>https://forum.butian.net/</id>
   <entry>
     <title>安卓机root抓包及绕过检测教程（下）</title>
@@ -84,15 +84,6 @@
     <published>2021-12-31T09:43:44Z</published>
     <summary type="text">
       0成本快速创建高匿HTTP/DNS LOG
-    </summary>
-  </entry>
-  <entry>
-    <title>记某次值守中对攻击IP的溯源分析</title>
-    <link href="https://forum.butian.net/share/1050 "/>
-    <id>https://forum.butian.net/share/1050</id>
-    <published>2021-12-31T09:42:36Z</published>
-    <summary type="text">
-      记某次值守中对攻击IP的溯源分析
     </summary>
   </entry>
   <entry>
@@ -183,6 +174,15 @@
     <published>2021-12-24T09:31:09Z</published>
     <summary type="text">
       使用系统调用SYSCALL规避杀软HOOK
+    </summary>
+  </entry>
+  <entry>
+    <title>PHP正则表达式绕过姿势之异或绕过</title>
+    <link href="https://forum.butian.net/share/1010 "/>
+    <id>https://forum.butian.net/share/1010</id>
+    <published>2021-12-24T09:30:48Z</published>
+    <summary type="text">
+      PHP正则表达式绕过姿势之异或绕过
     </summary>
   </entry>
 
