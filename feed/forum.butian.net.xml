@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-01-10T22:15:08Z</updated>
+  <updated>2022-01-11T04:22:10Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>【应急响应专题】应急响应方法论</title>
+    <link href="https://forum.butian.net/share/1079 "/>
+    <id>https://forum.butian.net/share/1079</id>
+    <published>2022-01-11T09:54:45Z</published>
+    <summary type="text">
+      【应急响应专题】应急响应方法论
+    </summary>
+  </entry>
+  <entry>
+    <title>Parent Process ID (PPID) Spoofing</title>
+    <link href="https://forum.butian.net/share/1076 "/>
+    <id>https://forum.butian.net/share/1076</id>
+    <published>2022-01-11T09:49:38Z</published>
+    <summary type="text">
+      Parent Process ID (PPID) Spoofing
+    </summary>
+  </entry>
   <entry>
     <title>xunruicms某版本前台RCE</title>
     <link href="https://forum.butian.net/share/1072 "/>
@@ -165,24 +183,6 @@
     <published>2021-12-28T08:43:59Z</published>
     <summary type="text">
       cms审计小结
-    </summary>
-  </entry>
-  <entry>
-    <title>Dump内存得到TeamViewer账号密码</title>
-    <link href="https://forum.butian.net/share/1029 "/>
-    <id>https://forum.butian.net/share/1029</id>
-    <published>2021-12-27T14:56:30Z</published>
-    <summary type="text">
-      Dump内存得到TeamViewer账号密码
-    </summary>
-  </entry>
-  <entry>
-    <title>对获取 Windows 明文密码的小工具 NPPSpy 的一次深究</title>
-    <link href="https://forum.butian.net/share/1012 "/>
-    <id>https://forum.butian.net/share/1012</id>
-    <published>2021-12-27T11:16:13Z</published>
-    <summary type="text">
-      对获取 Windows 明文密码的小工具 NPPSpy 的一次深究
     </summary>
   </entry>
 
