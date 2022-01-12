@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-01-11T22:16:56Z</updated>
+  <updated>2022-01-12T04:22:38Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>应急响应之文件上传漏洞排查</title>
+    <link href="https://forum.butian.net/share/1078 "/>
+    <id>https://forum.butian.net/share/1078</id>
+    <published>2022-01-12T09:56:44Z</published>
+    <summary type="text">
+      应急响应之文件上传漏洞排查
+    </summary>
+  </entry>
+  <entry>
+    <title>免杀笔记之 aes 加 lazy_importer 加 shellcode 分离</title>
+    <link href="https://forum.butian.net/share/1077 "/>
+    <id>https://forum.butian.net/share/1077</id>
+    <published>2022-01-12T09:53:41Z</published>
+    <summary type="text">
+      免杀笔记之 aes 加 lazy_importer 加 shellcode 分离
+    </summary>
+  </entry>
   <entry>
     <title>【应急响应专题】应急响应方法论</title>
     <link href="https://forum.butian.net/share/1079 "/>
@@ -165,24 +183,6 @@
     <published>2021-12-29T09:36:53Z</published>
     <summary type="text">
       emlog旧版本代码审计
-    </summary>
-  </entry>
-  <entry>
-    <title>从PHPMYADMIN getshell到OTCMS后台 SQL getshell</title>
-    <link href="https://forum.butian.net/share/1036 "/>
-    <id>https://forum.butian.net/share/1036</id>
-    <published>2021-12-28T08:44:13Z</published>
-    <summary type="text">
-      从PHPMYADMIN getshell到OTCMS后台 SQL getshell
-    </summary>
-  </entry>
-  <entry>
-    <title>cms审计小结</title>
-    <link href="https://forum.butian.net/share/1035 "/>
-    <id>https://forum.butian.net/share/1035</id>
-    <published>2021-12-28T08:43:59Z</published>
-    <summary type="text">
-      cms审计小结
     </summary>
   </entry>
 
