@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-01-13T04:22:50Z</updated>
+  <updated>2022-01-13T10:18:42Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>记录一次某内网的实战过程</title>
+    <link href="https://nosec.org/home/detail/4947.html "/>
+    <id>https://nosec.org/home/detail/4947.html</id>
+    <published>2022-01-13T15:21:39Z</published>
+    <summary type="text">
+      事情起因是对某机构做渗透测试（已经得到相关授权），从WEB打点 到内网横向移动，一些经典常用内网手法再现，记录一次完整的渗透过程。
+    </summary>
+  </entry>
   <entry>
     <title>Vulfocus 漏洞靶场 v0.3.2.13 漏洞环境加时上线</title>
     <link href="https://nosec.org/home/detail/4941.html "/>
@@ -174,15 +183,6 @@
     <published>2021-12-02T17:58:02Z</published>
     <summary type="text">
       将 Vulfocus 通过插件的方式集成到 Goby，更方便快捷的一键启动漏洞环境一键扫描漏洞
-    </summary>
-  </entry>
-  <entry>
-    <title>【安全通报】惠普多功能打印机多个高危漏洞（CVE-2021-3923...</title>
-    <link href="https://nosec.org/home/detail/4911.html "/>
-    <id>https://nosec.org/home/detail/4911.html</id>
-    <published>2021-12-01T18:24:42Z</published>
-    <summary type="text">
-      近日，惠普多功能打印机多个高危漏洞（CVE-2021-39237&amp;CVE-2021-39238）细节公开，惠普官方曾于11月1日发布安全公告。攻击者可利用这些漏洞获取敏感信息、进行远...
     </summary>
   </entry>
 

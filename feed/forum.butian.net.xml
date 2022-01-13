@@ -3,8 +3,17 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-01-13T04:22:40Z</updated>
+  <updated>2022-01-13T10:18:35Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>ZendFramework的一些反序列化链</title>
+    <link href="https://forum.butian.net/share/1054 "/>
+    <id>https://forum.butian.net/share/1054</id>
+    <published>2022-01-13T17:24:04Z</published>
+    <summary type="text">
+      ZendFramework的一些反序列化链
+    </summary>
+  </entry>
   <entry>
     <title>ssrf+log4j=getshell</title>
     <link href="https://forum.butian.net/share/1085 "/>
@@ -174,15 +183,6 @@
     <published>2021-12-30T09:44:28Z</published>
     <summary type="text">
       侧信道攻击之时序攻击（Time attack）
-    </summary>
-  </entry>
-  <entry>
-    <title>某次驱动人生病毒的应急响应</title>
-    <link href="https://forum.butian.net/share/1045 "/>
-    <id>https://forum.butian.net/share/1045</id>
-    <published>2021-12-30T09:44:17Z</published>
-    <summary type="text">
-      某次驱动人生病毒的应急响应
     </summary>
   </entry>
 
