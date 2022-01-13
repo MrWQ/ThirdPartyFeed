@@ -3,13 +3,13 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-01-13T10:18:42Z</updated>
+  <updated>2022-01-13T22:17:05Z</updated>
   <id>https://nosec.org/home/index</id>
   <entry>
-    <title>记录一次某内网的实战过程</title>
+    <title>从互联网至内网横向渗透攻击链实例——寻找卡巴斯基key之旅</title>
     <link href="https://nosec.org/home/detail/4947.html "/>
     <id>https://nosec.org/home/detail/4947.html</id>
-    <published>2022-01-13T15:21:39Z</published>
+    <published>2022-01-13T18:21:32Z</published>
     <summary type="text">
       事情起因是对某机构做渗透测试（已经得到相关授权），从WEB打点 到内网横向移动，一些经典常用内网手法再现，记录一次完整的渗透过程。
     </summary>
