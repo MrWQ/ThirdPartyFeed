@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-01-14T04:22:46Z</updated>
+  <updated>2022-01-14T10:19:02Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>从互联网到内网横向移动实例-对用户邮件系统的测试</title>
+    <link href="https://nosec.org/home/detail/4951.html "/>
+    <id>https://nosec.org/home/detail/4951.html</id>
+    <published>2022-01-14T12:28:42Z</published>
+    <summary type="text">
+      作者：sakura@白帽汇安全研究院前言得到用户授权对其整个相关资产进行测试，重点是测试其邮件服务器，在测...
+    </summary>
+  </entry>
   <entry>
     <title>Vulfocus 靶场竞赛WP公布</title>
     <link href="https://nosec.org/home/detail/4944.html "/>
@@ -36,7 +45,7 @@
     <title>Vulfocus  圣诞比赛 Wp</title>
     <link href="https://nosec.org/home/detail/4948.html "/>
     <id>https://nosec.org/home/detail/4948.html</id>
-    <published>2022-01-14T10:34:26Z</published>
+    <published>2022-01-14T12:26:49Z</published>
     <summary type="text">
       2021年圣诞节参加了Vulfocus和Goby联合举办的靶场比赛。比赛前一天下发了短信提醒，比赛持续了4小时。具体更多细节可以到vulfocus的公众号去了解。
     </summary>
@@ -174,15 +183,6 @@
     <published>2021-12-21T23:29:52Z</published>
     <summary type="text">
       近日，Apache HTTP Server 发布安全更新，修复了 Apache HTTP Server 中的服务端请求伪造（SSRF）和缓冲区...
-    </summary>
-  </entry>
-  <entry>
-    <title>​Vulfocus  靶场竞赛活动启动</title>
-    <link href="https://nosec.org/home/detail/4923.html "/>
-    <id>https://nosec.org/home/detail/4923.html</id>
-    <published>2021-12-20T22:21:44Z</published>
-    <summary type="text">
-      Vulfocus靶场首届竞赛活动报名通道开启，报名时间12.20-12.23日，25日开始比赛，本次比赛联合Goby、HackingClub、SecIN，安全客等各大社区为大家提供多重大奖，...
     </summary>
   </entry>
 
