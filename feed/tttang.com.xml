@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-01-16T22:16:23Z</updated>
+  <updated>2022-01-17T04:22:53Z</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>不完美的条件竞争JNDI漏洞利用链发现过程</title>
+    <link href="https://tttang.com/archive/1409/ "/>
+    <id>https://tttang.com/archive/1409/</id>
+    <published>2022-01-17</published>
+    <summary type="text">
+      不完美的条件竞争JNDI漏洞利用链发现过程
+    </summary>
+  </entry>
   <entry>
     <title>探索高版本 JDK 下 JNDI 漏洞的利用方法</title>
     <link href="https://tttang.com/archive/1405/ "/>
@@ -129,15 +138,6 @@
     <published>2021-12-27</published>
     <summary type="text">
       log4j2.x 漏洞影响产品系列之Apache Solr内存马注入技术研究
-    </summary>
-  </entry>
-  <entry>
-    <title>CVE-2021-30853漏洞深入分析（译文）</title>
-    <link href="https://tttang.com/archive/1388/ "/>
-    <id>https://tttang.com/archive/1388/</id>
-    <published>2021-12-27</published>
-    <summary type="text">
-      CVE-2021-30853漏洞深入分析（译文）
     </summary>
   </entry>
 

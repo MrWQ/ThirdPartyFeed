@@ -3,15 +3,15 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-01-16T22:16:32Z</updated>
+  <updated>2022-01-17T04:23:04Z</updated>
   <id>https://nosec.org/home/index</id>
   <entry>
     <title>从互联网到内网横向移动实例-对用户邮件系统的测试</title>
     <link href="https://nosec.org/home/detail/4951.html "/>
     <id>https://nosec.org/home/detail/4951.html</id>
-    <published>2022-01-14T12:28:42Z</published>
+    <published>2022-01-17T10:45:36Z</published>
     <summary type="text">
-      作者：sakura@白帽汇安全研究院前言得到用户授权对其整个相关资产进行测试，重点是测试其邮件服务器，在测...
+      得到用户授权对其整个相关资产进行测试，重点是测试其邮件服务器，在测试的过程中发现弱口令漏洞已被修复，账号密码被修改为……
     </summary>
   </entry>
   <entry>
