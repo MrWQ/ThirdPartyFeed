@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-01-18T04:22:48Z</updated>
+  <updated>2022-01-18T10:19:03Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>由log4j攻击事件到泛微OA任意文件上传漏洞分析</title>
+    <link href="https://forum.butian.net/share/991 "/>
+    <id>https://forum.butian.net/share/991</id>
+    <published>2022-01-18T14:13:17Z</published>
+    <summary type="text">
+      由log4j攻击事件到泛微OA任意文件上传漏洞分析
+    </summary>
+  </entry>
+  <entry>
+    <title>taocms审计</title>
+    <link href="https://forum.butian.net/share/992 "/>
+    <id>https://forum.butian.net/share/992</id>
+    <published>2022-01-18T14:13:06Z</published>
+    <summary type="text">
+      taocms审计
+    </summary>
+  </entry>
   <entry>
     <title>白话分析之 fastjson 全系列补丁情况bypass源码分析（一）1.2.25-1.2.42系列</title>
     <link href="https://forum.butian.net/share/1102 "/>
@@ -165,24 +183,6 @@
     <published>2022-01-06T09:38:21Z</published>
     <summary type="text">
       记一次Java代码审计
-    </summary>
-  </entry>
-  <entry>
-    <title>cms审计集</title>
-    <link href="https://forum.butian.net/share/1063 "/>
-    <id>https://forum.butian.net/share/1063</id>
-    <published>2022-01-05T09:40:34Z</published>
-    <summary type="text">
-      cms审计集
-    </summary>
-  </entry>
-  <entry>
-    <title>浅析云存储安全漏洞</title>
-    <link href="https://forum.butian.net/share/1032 "/>
-    <id>https://forum.butian.net/share/1032</id>
-    <published>2022-01-05T09:40:24Z</published>
-    <summary type="text">
-      浅析云存储安全漏洞
     </summary>
   </entry>
 
