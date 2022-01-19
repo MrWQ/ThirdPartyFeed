@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-01-18T22:20:38Z</updated>
+  <updated>2022-01-19T04:20:09Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>Gh0st 对lsp 的诱惑</title>
+    <link href="https://forum.butian.net/share/1112 "/>
+    <id>https://forum.butian.net/share/1112</id>
+    <published>2022-01-19T09:52:42Z</published>
+    <summary type="text">
+      Gh0st 对lsp 的诱惑
+    </summary>
+  </entry>
+  <entry>
+    <title>【Rootkit 系列研究】序章：悬顶的达摩克利斯之剑</title>
+    <link href="https://forum.butian.net/share/1109 "/>
+    <id>https://forum.butian.net/share/1109</id>
+    <published>2022-01-19T09:28:08Z</published>
+    <summary type="text">
+      【Rootkit 系列研究】序章：悬顶的达摩克利斯之剑
+    </summary>
+  </entry>
   <entry>
     <title>由log4j攻击事件到泛微OA任意文件上传漏洞分析</title>
     <link href="https://forum.butian.net/share/991 "/>
@@ -165,24 +183,6 @@
     <published>2022-01-07T09:34:27Z</published>
     <summary type="text">
       安卓机root抓包及绕过检测教程（上）
-    </summary>
-  </entry>
-  <entry>
-    <title>CTF-pwn 技术总结（1）</title>
-    <link href="https://forum.butian.net/share/1065 "/>
-    <id>https://forum.butian.net/share/1065</id>
-    <published>2022-01-06T09:38:28Z</published>
-    <summary type="text">
-      CTF-pwn 技术总结（1）
-    </summary>
-  </entry>
-  <entry>
-    <title>记一次Java代码审计</title>
-    <link href="https://forum.butian.net/share/998 "/>
-    <id>https://forum.butian.net/share/998</id>
-    <published>2022-01-06T09:38:21Z</published>
-    <summary type="text">
-      记一次Java代码审计
     </summary>
   </entry>
 
