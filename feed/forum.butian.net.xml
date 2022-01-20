@@ -3,8 +3,44 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-01-19T22:15:31Z</updated>
+  <updated>2022-01-20T04:20:03Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>三款主流编辑器漏洞整理分析</title>
+    <link href="https://forum.butian.net/share/1111 "/>
+    <id>https://forum.butian.net/share/1111</id>
+    <published>2022-01-20T11:41:18Z</published>
+    <summary type="text">
+      三款主流编辑器漏洞整理分析
+    </summary>
+  </entry>
+  <entry>
+    <title>某国外cms代码审计</title>
+    <link href="https://forum.butian.net/share/1108 "/>
+    <id>https://forum.butian.net/share/1108</id>
+    <published>2022-01-20T11:40:43Z</published>
+    <summary type="text">
+      某国外cms代码审计
+    </summary>
+  </entry>
+  <entry>
+    <title>骑士CMS模版注入+文件包含getshell漏洞复现</title>
+    <link href="https://forum.butian.net/share/455 "/>
+    <id>https://forum.butian.net/share/455</id>
+    <published>2022-01-20T11:40:21Z</published>
+    <summary type="text">
+      骑士CMS模版注入+文件包含getshell漏洞复现
+    </summary>
+  </entry>
+  <entry>
+    <title>WebSphere中间件总结</title>
+    <link href="https://forum.butian.net/share/458 "/>
+    <id>https://forum.butian.net/share/458</id>
+    <published>2022-01-20T11:33:45Z</published>
+    <summary type="text">
+      WebSphere中间件总结
+    </summary>
+  </entry>
   <entry>
     <title>Gh0st 对lsp 的诱惑</title>
     <link href="https://forum.butian.net/share/1112 "/>
@@ -147,42 +183,6 @@
     <published>2022-01-11T09:49:38Z</published>
     <summary type="text">
       Parent Process ID (PPID) Spoofing
-    </summary>
-  </entry>
-  <entry>
-    <title>xunruicms某版本前台RCE</title>
-    <link href="https://forum.butian.net/share/1072 "/>
-    <id>https://forum.butian.net/share/1072</id>
-    <published>2022-01-10T09:38:38Z</published>
-    <summary type="text">
-      xunruicms某版本前台RCE
-    </summary>
-  </entry>
-  <entry>
-    <title>老版本seacms代码审计</title>
-    <link href="https://forum.butian.net/share/1071 "/>
-    <id>https://forum.butian.net/share/1071</id>
-    <published>2022-01-10T09:38:27Z</published>
-    <summary type="text">
-      老版本seacms代码审计
-    </summary>
-  </entry>
-  <entry>
-    <title>安卓机root抓包及绕过检测教程（下）</title>
-    <link href="https://forum.butian.net/share/1069 "/>
-    <id>https://forum.butian.net/share/1069</id>
-    <published>2022-01-07T09:34:34Z</published>
-    <summary type="text">
-      安卓机root抓包及绕过检测教程（下）
-    </summary>
-  </entry>
-  <entry>
-    <title>安卓机root抓包及绕过检测教程（上）</title>
-    <link href="https://forum.butian.net/share/1068 "/>
-    <id>https://forum.butian.net/share/1068</id>
-    <published>2022-01-07T09:34:27Z</published>
-    <summary type="text">
-      安卓机root抓包及绕过检测教程（上）
     </summary>
   </entry>
 
