@@ -3,8 +3,26 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-01-26T04:19:53Z</updated>
+  <updated>2022-01-26T10:17:24Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>【安全通报】Linux Polkit本地权限提升漏洞（CVE-2021-4034...</title>
+    <link href="https://nosec.org/home/detail/4959.html "/>
+    <id>https://nosec.org/home/detail/4959.html</id>
+    <published>2022-01-26T17:32:43Z</published>
+    <summary type="text">
+      近日，网络上出现 Linux 下 Polkit 工具集的本地权限提升漏洞，任何非特权本地用户可通过此漏洞获取root权...
+    </summary>
+  </entry>
+  <entry>
+    <title>如何使用FaPro批量模拟设备</title>
+    <link href="https://nosec.org/home/detail/4958.html "/>
+    <id>https://nosec.org/home/detail/4958.html</id>
+    <published>2022-01-26T17:25:10Z</published>
+    <summary type="text">
+      现在通过FaPro，可以使用一条命令，模拟一个虚拟网络中的多个不同设备。
+    </summary>
+  </entry>
   <entry>
     <title>Goby 内测版1.9.325｜Web 特征资产收集重磅新功能！插件作...</title>
     <link href="https://nosec.org/home/detail/4957.html "/>
@@ -165,24 +183,6 @@
     <published>2021-12-30T21:19:10Z</published>
     <summary type="text">
       本次更新概况01：Log4j2漏洞专题上新，95种产品 &amp;amp; 460万+；02：页面展示修改，每个人都是FOFA的主人；0...
-    </summary>
-  </entry>
-  <entry>
-    <title>攻击者滥用MSBuild绕过防御系统并植入Cobalt Strike Beacon</title>
-    <link href="https://nosec.org/home/detail/4935.html "/>
-    <id>https://nosec.org/home/detail/4935.html</id>
-    <published>2022-01-05T15:36:33Z</published>
-    <summary type="text">
-      Microsoft Build Engine是在Windows系统上构建应用程序的一个平台，主要用于没有安装Visual Studio的环境中。该引擎也被称为MSBuild，它为项目文件提供了一个xml...
-    </summary>
-  </entry>
-  <entry>
-    <title>Vulfocus &amp; Goby 首期靶场竞赛活动圆满结束｜奖励升级</title>
-    <link href="https://nosec.org/home/detail/4933.html "/>
-    <id>https://nosec.org/home/detail/4933.html</id>
-    <published>2021-12-29T13:30:58Z</published>
-    <summary type="text">
-      Vulfocus &amp; Goby 第一期靶场竞赛活动圆满结束。本次大赛作为首届 Vulfocus 靶场竞赛的探路之举，以线上团队赛的形式开展，着重于靶场的针对性漏洞。
     </summary>
   </entry>
 
