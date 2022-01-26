@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-01-25T22:15:45Z</updated>
+  <updated>2022-01-26T04:19:49Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>VMPWN初探-不愿再探</title>
+    <link href="https://forum.butian.net/share/1128 "/>
+    <id>https://forum.butian.net/share/1128</id>
+    <published>2022-01-26T10:04:04Z</published>
+    <summary type="text">
+      VMPWN初探-不愿再探
+    </summary>
+  </entry>
+  <entry>
+    <title>一次信息泄露到越权支付的实战</title>
+    <link href="https://forum.butian.net/share/1125 "/>
+    <id>https://forum.butian.net/share/1125</id>
+    <published>2022-01-26T10:03:51Z</published>
+    <summary type="text">
+      一次信息泄露到越权支付的实战
+    </summary>
+  </entry>
   <entry>
     <title>wuzhicms的在初次尝试审计</title>
     <link href="https://forum.butian.net/share/1126 "/>
@@ -165,24 +183,6 @@
     <published>2022-01-17T09:42:31Z</published>
     <summary type="text">
       白话分析 fastjson&amp;lt;=1.2.24 TemplatesImpl调用链 rce
-    </summary>
-  </entry>
-  <entry>
-    <title>phpyun人才招聘系统最新版v5.1.5漏洞挖掘</title>
-    <link href="https://forum.butian.net/share/1051 "/>
-    <id>https://forum.butian.net/share/1051</id>
-    <published>2022-01-14T11:14:24Z</published>
-    <summary type="text">
-      phpyun人才招聘系统最新版v5.1.5漏洞挖掘
-    </summary>
-  </entry>
-  <entry>
-    <title>云原生之Kubernetes安全</title>
-    <link href="https://forum.butian.net/share/1095 "/>
-    <id>https://forum.butian.net/share/1095</id>
-    <published>2022-01-14T10:52:39Z</published>
-    <summary type="text">
-      云原生之Kubernetes安全
     </summary>
   </entry>
 

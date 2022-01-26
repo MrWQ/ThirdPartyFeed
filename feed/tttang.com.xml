@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-01-25T22:15:41Z</updated>
+  <updated>2022-01-26T04:19:45Z</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>从Challenge42看Linux提权基本技巧</title>
+    <link href="https://tttang.com/archive/1414/ "/>
+    <id>https://tttang.com/archive/1414/</id>
+    <published>2022-01-26</published>
+    <summary type="text">
+      从Challenge42看Linux提权基本技巧
+    </summary>
+  </entry>
   <entry>
     <title>JAVA反序列化之C3P0</title>
     <link href="https://tttang.com/archive/1411/ "/>
@@ -129,15 +138,6 @@
     <published>2022-01-06</published>
     <summary type="text">
       GoAhead环境变量注入复现踩坑记
-    </summary>
-  </entry>
-  <entry>
-    <title>hxp CTF 2021 - The End Of LFI?</title>
-    <link href="https://tttang.com/archive/1395/ "/>
-    <id>https://tttang.com/archive/1395/</id>
-    <published>2022-01-05</published>
-    <summary type="text">
-      hxp CTF 2021 - The End Of LFI?
     </summary>
   </entry>
 
