@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-01-28T10:17:56Z</updated>
+  <updated>2022-01-28T22:14:53Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>Windows内核中的猫鼠游戏，Part2</title>
+    <link href="https://nosec.org/home/detail/4955.html "/>
+    <id>https://nosec.org/home/detail/4955.html</id>
+    <published>2022-01-20T10:51:02Z</published>
+    <summary type="text">
+      在本文中，我们将为读者详细介绍“驱动程序的构造和功能”，并尝试实现我们自己的内核钩子。
+    </summary>
+  </entry>
   <entry>
     <title>Windows内核中的猫鼠游戏，Part 1</title>
     <link href="https://nosec.org/home/detail/4954.html "/>
@@ -174,15 +183,6 @@
     <published>2022-01-07T10:08:46Z</published>
     <summary type="text">
       简介2021年2月，Dbappsecurity公司在野外发现了一个利用Windows10 x64系统上的一个零日漏洞的恶意软件样本...
-    </summary>
-  </entry>
-  <entry>
-    <title>VULFOCUS初级题目WP</title>
-    <link href="https://nosec.org/home/detail/4937.html "/>
-    <id>https://nosec.org/home/detail/4937.html</id>
-    <published>2022-01-13T19:45:50Z</published>
-    <summary type="text">
-      初级题目基本上都是很常见的一些中间件、漏洞，还有cms，很基础的一些RCE漏洞，基本没有什么利用难度。
     </summary>
   </entry>
 
