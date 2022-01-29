@@ -3,8 +3,35 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-01-28T22:14:49Z</updated>
+  <updated>2022-01-29T04:19:48Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>phpokcms代码审计</title>
+    <link href="https://forum.butian.net/share/1164 "/>
+    <id>https://forum.butian.net/share/1164</id>
+    <published>2022-01-29T10:17:56Z</published>
+    <summary type="text">
+      phpokcms代码审计
+    </summary>
+  </entry>
+  <entry>
+    <title>CobaltStrike逆向学习系列(3)：Beacon C2Profile 解析</title>
+    <link href="https://forum.butian.net/share/1161 "/>
+    <id>https://forum.butian.net/share/1161</id>
+    <published>2022-01-29T09:30:49Z</published>
+    <summary type="text">
+      CobaltStrike逆向学习系列(3)：Beacon C2Profile 解析
+    </summary>
+  </entry>
+  <entry>
+    <title>花椒CMS渗透测试后的漏洞总结</title>
+    <link href="https://forum.butian.net/share/1160 "/>
+    <id>https://forum.butian.net/share/1160</id>
+    <published>2022-01-29T09:24:54Z</published>
+    <summary type="text">
+      花椒CMS渗透测试后的漏洞总结
+    </summary>
+  </entry>
   <entry>
     <title>CobaltStrike逆向学习系列(2)：Stageless Beacon 生成流程分析</title>
     <link href="https://forum.butian.net/share/1141 "/>
@@ -156,33 +183,6 @@
     <published>2022-01-20T11:33:45Z</published>
     <summary type="text">
       WebSphere中间件总结
-    </summary>
-  </entry>
-  <entry>
-    <title>Gh0st 对lsp 的诱惑</title>
-    <link href="https://forum.butian.net/share/1112 "/>
-    <id>https://forum.butian.net/share/1112</id>
-    <published>2022-01-19T09:52:42Z</published>
-    <summary type="text">
-      Gh0st 对lsp 的诱惑
-    </summary>
-  </entry>
-  <entry>
-    <title>【Rootkit 系列研究】序章：悬顶的达摩克利斯之剑</title>
-    <link href="https://forum.butian.net/share/1109 "/>
-    <id>https://forum.butian.net/share/1109</id>
-    <published>2022-01-19T09:28:08Z</published>
-    <summary type="text">
-      【Rootkit 系列研究】序章：悬顶的达摩克利斯之剑
-    </summary>
-  </entry>
-  <entry>
-    <title>由log4j攻击事件到泛微OA任意文件上传漏洞分析</title>
-    <link href="https://forum.butian.net/share/991 "/>
-    <id>https://forum.butian.net/share/991</id>
-    <published>2022-01-18T14:13:17Z</published>
-    <summary type="text">
-      由log4j攻击事件到泛微OA任意文件上传漏洞分析
     </summary>
   </entry>
 
