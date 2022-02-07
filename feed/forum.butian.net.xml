@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-02-06T22:14:45Z</updated>
+  <updated>2022-02-07T04:20:10Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>ThinkPHP6.0反序列化链审计与分析</title>
+    <link href="https://forum.butian.net/share/1168 "/>
+    <id>https://forum.butian.net/share/1168</id>
+    <published>2022-02-07T09:41:45Z</published>
+    <summary type="text">
+      ThinkPHP6.0反序列化链审计与分析
+    </summary>
+  </entry>
+  <entry>
+    <title>CobaltStrike逆向学习系列(5)：Bypass BeaconEye</title>
+    <link href="https://forum.butian.net/share/1174 "/>
+    <id>https://forum.butian.net/share/1174</id>
+    <published>2022-02-07T09:41:30Z</published>
+    <summary type="text">
+      CobaltStrike逆向学习系列(5)：Bypass BeaconEye
+    </summary>
+  </entry>
   <entry>
     <title>CobaltStrike逆向学习系列(4)：Beacon 上线协议分析</title>
     <link href="https://forum.butian.net/share/1167 "/>
@@ -165,24 +183,6 @@
     <published>2022-01-21T10:38:00Z</published>
     <summary type="text">
       SysJoker：以npm软件供应链为攻击入口的跨平台恶意后门分析
-    </summary>
-  </entry>
-  <entry>
-    <title>三款主流编辑器漏洞整理分析</title>
-    <link href="https://forum.butian.net/share/1111 "/>
-    <id>https://forum.butian.net/share/1111</id>
-    <published>2022-01-20T11:41:18Z</published>
-    <summary type="text">
-      三款主流编辑器漏洞整理分析
-    </summary>
-  </entry>
-  <entry>
-    <title>某国外cms代码审计</title>
-    <link href="https://forum.butian.net/share/1108 "/>
-    <id>https://forum.butian.net/share/1108</id>
-    <published>2022-01-20T11:40:43Z</published>
-    <summary type="text">
-      某国外cms代码审计
     </summary>
   </entry>
 
