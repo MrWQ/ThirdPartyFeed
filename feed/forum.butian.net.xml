@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-02-07T22:15:30Z</updated>
+  <updated>2022-02-08T04:19:30Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>CTF-pwn 技术总结（2）</title>
+    <link href="https://forum.butian.net/share/1181 "/>
+    <id>https://forum.butian.net/share/1181</id>
+    <published>2022-02-08T09:38:15Z</published>
+    <summary type="text">
+      CTF-pwn 技术总结（2）
+    </summary>
+  </entry>
+  <entry>
+    <title>通过两篇CTF Android题来入门Android 漏洞挖掘</title>
+    <link href="https://forum.butian.net/share/1175 "/>
+    <id>https://forum.butian.net/share/1175</id>
+    <published>2022-02-08T09:30:54Z</published>
+    <summary type="text">
+      通过两篇CTF Android题来入门Android 漏洞挖掘
+    </summary>
+  </entry>
   <entry>
     <title>奇安信攻防社区文章转换工具</title>
     <link href="https://forum.butian.net/share/1172 "/>
@@ -105,15 +123,6 @@
     </summary>
   </entry>
   <entry>
-    <title>奶茶CMS v1.8的代码审计</title>
-    <link href="https://forum.butian.net/share/1135 "/>
-    <id>https://forum.butian.net/share/1135</id>
-    <published>2022-01-27T09:23:21Z</published>
-    <summary type="text">
-      奶茶CMS v1.8的代码审计
-    </summary>
-  </entry>
-  <entry>
     <title>冬奥网络安全卫士X计划</title>
     <link href="https://forum.butian.net/share/1130 "/>
     <id>https://forum.butian.net/share/1130</id>
@@ -174,15 +183,6 @@
     <published>2022-01-24T10:00:23Z</published>
     <summary type="text">
       浅析JAVA代码审计中的“幽灵代码”
-    </summary>
-  </entry>
-  <entry>
-    <title>对一例包含特殊字符的远控木马进行逆向分析</title>
-    <link href="https://forum.butian.net/share/1110 "/>
-    <id>https://forum.butian.net/share/1110</id>
-    <published>2022-01-21T11:03:01Z</published>
-    <summary type="text">
-      对一例包含特殊字符的远控木马进行逆向分析
     </summary>
   </entry>
 
