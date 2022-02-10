@@ -3,8 +3,35 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-02-09T22:15:01Z</updated>
+  <updated>2022-02-10T04:19:47Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>JNDI入门</title>
+    <link href="https://forum.butian.net/share/1184 "/>
+    <id>https://forum.butian.net/share/1184</id>
+    <published>2022-02-10T11:32:23Z</published>
+    <summary type="text">
+      JNDI入门
+    </summary>
+  </entry>
+  <entry>
+    <title>weblogic反序列化漏洞合集</title>
+    <link href="https://forum.butian.net/share/1191 "/>
+    <id>https://forum.butian.net/share/1191</id>
+    <published>2022-02-10T09:55:33Z</published>
+    <summary type="text">
+      weblogic反序列化漏洞合集
+    </summary>
+  </entry>
+  <entry>
+    <title>CTF-pwn 技术总结（3）</title>
+    <link href="https://forum.butian.net/share/1190 "/>
+    <id>https://forum.butian.net/share/1190</id>
+    <published>2022-02-10T09:34:31Z</published>
+    <summary type="text">
+      CTF-pwn 技术总结（3）
+    </summary>
+  </entry>
   <entry>
     <title>Metersphere项目安全漏洞概览</title>
     <link href="https://forum.butian.net/share/1185 "/>
@@ -156,33 +183,6 @@
     <published>2022-01-26T10:03:51Z</published>
     <summary type="text">
       一次信息泄露到越权支付的实战
-    </summary>
-  </entry>
-  <entry>
-    <title>wuzhicms的在初次尝试审计</title>
-    <link href="https://forum.butian.net/share/1126 "/>
-    <id>https://forum.butian.net/share/1126</id>
-    <published>2022-01-25T09:52:58Z</published>
-    <summary type="text">
-      wuzhicms的在初次尝试审计
-    </summary>
-  </entry>
-  <entry>
-    <title>CobaltStrike逆向学习系列(1)：CS 登陆通信流程分析</title>
-    <link href="https://forum.butian.net/share/1123 "/>
-    <id>https://forum.butian.net/share/1123</id>
-    <published>2022-01-25T09:52:37Z</published>
-    <summary type="text">
-      CobaltStrike逆向学习系列(1)：CS 登陆通信流程分析
-    </summary>
-  </entry>
-  <entry>
-    <title>Thinkphp5-rce-过宝塔小思路</title>
-    <link href="https://forum.butian.net/share/1121 "/>
-    <id>https://forum.butian.net/share/1121</id>
-    <published>2022-01-24T11:12:28Z</published>
-    <summary type="text">
-      Thinkphp5-rce-过宝塔小思路
     </summary>
   </entry>
 
