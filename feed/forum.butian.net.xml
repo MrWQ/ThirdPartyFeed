@@ -3,8 +3,17 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-02-11T04:20:04Z</updated>
+  <updated>2022-02-11T10:16:53Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>利用卷积神经网络与向量搜索引擎在web资产中推荐相似icon</title>
+    <link href="https://forum.butian.net/share/1279 "/>
+    <id>https://forum.butian.net/share/1279</id>
+    <published>2022-02-11T16:35:59Z</published>
+    <summary type="text">
+      利用卷积神经网络与向量搜索引擎在web资产中推荐相似icon
+    </summary>
+  </entry>
   <entry>
     <title>训练验证码识别模型对抗登录验证码</title>
     <link href="https://forum.butian.net/share/1199 "/>
@@ -174,15 +183,6 @@
     <published>2022-01-27T14:19:29Z</published>
     <summary type="text">
       【Rootkit 系列研究】Windows平台的高隐匿、高持久化威胁
-    </summary>
-  </entry>
-  <entry>
-    <title>冬奥网络安全卫士X计划</title>
-    <link href="https://forum.butian.net/share/1130 "/>
-    <id>https://forum.butian.net/share/1130</id>
-    <published>2022-01-26T18:42:16Z</published>
-    <summary type="text">
-      冬奥网络安全卫士X计划
     </summary>
   </entry>
 
