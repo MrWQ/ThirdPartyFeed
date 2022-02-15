@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-02-15T04:20:27Z</updated>
+  <updated>2022-02-15T10:17:18Z</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>Vulfocus靶场-内网死角场景WP</title>
+    <link href="https://nosec.org/home/detail/4966.html "/>
+    <id>https://nosec.org/home/detail/4966.html</id>
+    <published>2022-02-15T16:23:27Z</published>
+    <summary type="text">
+      一、入口初探版本信息：Laravel v8.41.0 漏洞CVE-2021-3129 远程代码执行利用：https://github.com/zhzyker...
+    </summary>
+  </entry>
   <entry>
     <title>Windows内核中的猫鼠游戏，Part2</title>
     <link href="https://nosec.org/home/detail/4955.html "/>
@@ -174,15 +183,6 @@
     <published>2022-01-14T11:22:32Z</published>
     <summary type="text">
       Vulfocus 作为首个基于 Docker 构建的公共型靶场，于 2022 年 1 月 7 日发布 0.3.2.13 版本，加入漏洞环境加时功能，用户在启动漏洞环境之后，可以在现有环境的...
-    </summary>
-  </entry>
-  <entry>
-    <title>深入分析CVE-2021-1732漏洞</title>
-    <link href="https://nosec.org/home/detail/4940.html "/>
-    <id>https://nosec.org/home/detail/4940.html</id>
-    <published>2022-01-07T10:08:46Z</published>
-    <summary type="text">
-      简介2021年2月，Dbappsecurity公司在野外发现了一个利用Windows10 x64系统上的一个零日漏洞的恶意软件样本...
     </summary>
   </entry>
 
