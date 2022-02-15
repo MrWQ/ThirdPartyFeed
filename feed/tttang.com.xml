@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-02-14T22:14:40Z</updated>
+  <updated>2022-02-15T04:20:15Z</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>windows内核之未初始化池变量(六)</title>
+    <link href="https://tttang.com/archive/1439/ "/>
+    <id>https://tttang.com/archive/1439/</id>
+    <published>2022-02-15</published>
+    <summary type="text">
+      windows内核之未初始化池变量(六)
+    </summary>
+  </entry>
   <entry>
     <title>MSF渗透常用操作指南</title>
     <link href="https://tttang.com/archive/1432/ "/>
@@ -129,15 +138,6 @@
     <published>2022-01-28</published>
     <summary type="text">
       RWCTF 体验赛 the Real Menu Challenge &amp;amp; Blockchain方向 解答过程
-    </summary>
-  </entry>
-  <entry>
-    <title>CodeQL 提升篇</title>
-    <link href="https://tttang.com/archive/1415/ "/>
-    <id>https://tttang.com/archive/1415/</id>
-    <published>2022-01-27</published>
-    <summary type="text">
-      CodeQL 提升篇
     </summary>
   </entry>
 
