@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-02-16T22:14:46Z</updated>
+  <updated>2022-02-17T04:20:42Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>记又一次Java代码审计</title>
+    <link href="https://forum.butian.net/share/1229 "/>
+    <id>https://forum.butian.net/share/1229</id>
+    <published>2022-02-17T09:35:54Z</published>
+    <summary type="text">
+      记又一次Java代码审计
+    </summary>
+  </entry>
+  <entry>
+    <title>深入分析PE结构(二)</title>
+    <link href="https://forum.butian.net/share/1222 "/>
+    <id>https://forum.butian.net/share/1222</id>
+    <published>2022-02-17T09:35:39Z</published>
+    <summary type="text">
+      深入分析PE结构(二)
+    </summary>
+  </entry>
   <entry>
     <title>CTF-pwn 技术总结（4）</title>
     <link href="https://forum.butian.net/share/1228 "/>
@@ -165,24 +183,6 @@
     <published>2022-02-08T09:30:54Z</published>
     <summary type="text">
       通过两篇CTF Android题来入门Android 漏洞挖掘
-    </summary>
-  </entry>
-  <entry>
-    <title>奇安信攻防社区文章转换工具</title>
-    <link href="https://forum.butian.net/share/1172 "/>
-    <id>https://forum.butian.net/share/1172</id>
-    <published>2022-02-07T14:05:56Z</published>
-    <summary type="text">
-      奇安信攻防社区文章转换工具
-    </summary>
-  </entry>
-  <entry>
-    <title>ThinkPHP6.0反序列化链审计与分析</title>
-    <link href="https://forum.butian.net/share/1168 "/>
-    <id>https://forum.butian.net/share/1168</id>
-    <published>2022-02-07T09:41:45Z</published>
-    <summary type="text">
-      ThinkPHP6.0反序列化链审计与分析
     </summary>
   </entry>
 

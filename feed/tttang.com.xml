@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-02-16T22:14:42Z</updated>
+  <updated>2022-02-17T04:20:39Z</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>JAVA 协议安全笔记-JNDI篇</title>
+    <link href="https://tttang.com/archive/1441/ "/>
+    <id>https://tttang.com/archive/1441/</id>
+    <published>2022-02-17</published>
+    <summary type="text">
+      JAVA 协议安全笔记-JNDI篇
+    </summary>
+  </entry>
   <entry>
     <title>XSSLab保姆级教程</title>
     <link href="https://tttang.com/archive/1433/ "/>
@@ -129,15 +138,6 @@
     <published>2022-01-29</published>
     <summary type="text">
       Cobalt Strike, a Defender’s Guide（译文）
-    </summary>
-  </entry>
-  <entry>
-    <title>如何对ARM架构下的VxWorks系统固件进行修复？</title>
-    <link href="https://tttang.com/archive/1418/ "/>
-    <id>https://tttang.com/archive/1418/</id>
-    <published>2022-01-28</published>
-    <summary type="text">
-      如何对ARM架构下的VxWorks系统固件进行修复？
     </summary>
   </entry>
 
