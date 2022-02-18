@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-02-17T22:15:50Z</updated>
+  <updated>2022-02-18T04:21:10Z</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>CC链之新利用链分析</title>
+    <link href="https://forum.butian.net/share/1233 "/>
+    <id>https://forum.butian.net/share/1233</id>
+    <published>2022-02-18T09:39:19Z</published>
+    <summary type="text">
+      CC链之新利用链分析
+    </summary>
+  </entry>
+  <entry>
+    <title>深入分析PE结构(三)</title>
+    <link href="https://forum.butian.net/share/1223 "/>
+    <id>https://forum.butian.net/share/1223</id>
+    <published>2022-02-18T09:37:41Z</published>
+    <summary type="text">
+      深入分析PE结构(三)
+    </summary>
+  </entry>
   <entry>
     <title>记又一次Java代码审计</title>
     <link href="https://forum.butian.net/share/1229 "/>
@@ -165,24 +183,6 @@
     <published>2022-02-09T09:28:52Z</published>
     <summary type="text">
       渗透测试JS前端加密浅谈
-    </summary>
-  </entry>
-  <entry>
-    <title>CTF-pwn 技术总结（2）</title>
-    <link href="https://forum.butian.net/share/1181 "/>
-    <id>https://forum.butian.net/share/1181</id>
-    <published>2022-02-08T09:38:15Z</published>
-    <summary type="text">
-      CTF-pwn 技术总结（2）
-    </summary>
-  </entry>
-  <entry>
-    <title>通过两篇CTF Android题来入门Android 漏洞挖掘</title>
-    <link href="https://forum.butian.net/share/1175 "/>
-    <id>https://forum.butian.net/share/1175</id>
-    <published>2022-02-08T09:30:54Z</published>
-    <summary type="text">
-      通过两篇CTF Android题来入门Android 漏洞挖掘
     </summary>
   </entry>
 
