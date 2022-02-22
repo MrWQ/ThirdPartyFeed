@@ -18,7 +18,7 @@ NOSEC安全讯息平台 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPart
 跳跳糖 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/tttang.com.xml)
 火线Zone | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/zone.huoxian.cn.xml)
 
-## Ref
+## 相关资源
 
 - [RSSHub](https://github.com/DIYgod/RSSHub)
 - [微信公众号转RSS](https://wechat2rss.xlab.app/)
