@@ -23,4 +23,5 @@ NOSEC安全讯息平台 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPart
 - [RSSHub](https://github.com/DIYgod/RSSHub)
 - [微信公众号转RSS](https://wechat2rss.xlab.app/)
 - [SecCrawler](https://github.com/Le0nsec/SecCrawler)
+- [Telegram RSS / JSON generator](https://tg.i-c-a.su/)
 
