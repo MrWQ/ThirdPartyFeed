@@ -10,7 +10,7 @@
 
 按添加时间排序
 
-feed | raw | jsdelivr
+name | raw | jsdelivr
 ---  | --- | --------
 先知社区 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/xz.aliyun.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/xz.aliyun.com.xml)
 NOSEC安全讯息平台 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/nosec.org.xml)
@@ -21,4 +21,6 @@ NOSEC安全讯息平台 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPart
 ## Ref
 
 - [RSSHub](https://github.com/DIYgod/RSSHub)
+- [微信公众号转RSS](https://wechat2rss.xlab.app/)
+- [SecCrawler](https://github.com/Le0nsec/SecCrawler)
 
