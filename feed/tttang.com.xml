@@ -3,141 +3,155 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-02-21T22:15:46Z</updated>
+  <updated>2022-02-22T15:06:22+08:00</updated>
   <id>https://tttang.com/</id>
   <entry>
-    <title>一道有趣的CTF赛题-unicode引发的WebAssembly与js交互问题</title>
-    <link href="https://tttang.com/archive/1434/ "/>
-    <id>https://tttang.com/archive/1434/</id>
-    <published>2022-02-21</published>
+    <title>影子凭据（译文）</title>
+    <link href="https://tttang.com/archive/1440/"/>
+    <id>https://tttang.com/archive/1440/</id>
+    <published>2022-02-22T12:00:00+08:00</published>
     <summary type="text">
-      一道有趣的CTF赛题-unicode引发的WebAssembly与js交互问题
+      &lt;p&gt;在本文中，我们将为读者详细介绍与影子票据漏洞相关的事宜。&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>V8 沙箱绕过</title>
+    <link href="https://tttang.com/archive/1443/"/>
+    <id>https://tttang.com/archive/1443/</id>
+    <published>2022-02-22T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;这是 DiceCTF2022 的一道题 memory hole。&lt;/p&gt;
+&lt;p&gt;题目给了我们修改任意 array 的 length 的能力，按过往的经验，接下来很简单，就是构造任意地址读写原语，构造 WASM 实例，读 RWX 空间地址，写 shellcode ，调 WASM 函数，OK。&lt;/p&gt;
+&lt;p&gt;但题目开启了 V8 沙箱，一个新的安全机制，直接阻止了我们构造任意地址读写原语，能访问的范围是 array 基址后连续的 4G 地址空间。&lt;/p&gt;
+&lt;p&gt;绕过这个沙箱是本题的重点，看了两篇wp有所收获，所以整理了下绕过手法，未来可能会用到。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Jayl1n/CTF-Writeup/blob/master/DiceCTF2022/memory-hole/1984.tar.gz&quot; target=&quot;_blank&quot;&gt;题目地址&lt;/a&gt;&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>一道有趣的CTF赛题-unicode引发的WebAssembly与js交互问题</title>
+    <link href="https://tttang.com/archive/1434/"/>
+    <id>https://tttang.com/archive/1434/</id>
+    <published>2022-02-21T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;在前几天的DiceCTF里，遇到了一道关于WebAssembly的题目。解题时利用Unicode字符的转换问题，使前端js脚本与WebAssembly进行交互时出现异常，以达到XSS的效果。&lt;/p&gt;
+&lt;p&gt;解题时也了解了一些关于&lt;code&gt;WebAssembly&lt;/code&gt;的知识，算是有所收获&lt;/p&gt;
     </summary>
   </entry>
   <entry>
     <title>我是如何利用环境变量注入执行任意命令</title>
-    <link href="https://tttang.com/archive/1450/ "/>
+    <link href="https://tttang.com/archive/1450/"/>
     <id>https://tttang.com/archive/1450/</id>
-    <published>2022-02-20</published>
+    <published>2022-02-20T12:00:00+08:00</published>
     <summary type="text">
-      我是如何利用环境变量注入执行任意命令
+      &lt;p&gt;本文讲述了在可以控制环境变量的情况下，我是如何劫持dash和bash的环境变量并执行任意命令的，并分享了多个可能导致劫持的环境变量。&lt;/p&gt;
     </summary>
   </entry>
   <entry>
     <title>ParadigmCTF JOP</title>
-    <link href="https://tttang.com/archive/1444/ "/>
+    <link href="https://tttang.com/archive/1444/"/>
     <id>https://tttang.com/archive/1444/</id>
-    <published>2022-02-18</published>
+    <published>2022-02-18T12:00:00+08:00</published>
     <summary type="text">
-      ParadigmCTF JOP
+      &lt;blockquote&gt;
+&lt;p&gt;考点就是JOP（Jump Oriented Programming&lt;a href=&quot;https://ctf-wiki.org/blockchain/ethereum/attacks/jump-oriented-programming/#jump-oriented-programming&quot; target=&quot;_blank&quot;&gt;¶&lt;/a&gt;），这种攻击方式首次应该是出现在RW 2019的决赛上，是首席提出的一种全新攻击方式。然后断断续续在qwb final和其他比赛中也出现过相关的赛题。相对来说是智能合约中较为复杂的一种利用方式。&lt;/p&gt;
+&lt;/blockquote&gt;
     </summary>
   </entry>
   <entry>
     <title>JAVA 协议安全笔记-JNDI篇</title>
-    <link href="https://tttang.com/archive/1441/ "/>
+    <link href="https://tttang.com/archive/1441/"/>
     <id>https://tttang.com/archive/1441/</id>
-    <published>2022-02-17</published>
+    <published>2022-02-17T12:00:00+08:00</published>
     <summary type="text">
-      JAVA 协议安全笔记-JNDI篇
+      &lt;p&gt;JNDI 全称为 &lt;code&gt;Java Naming and Directory Interface&lt;/code&gt; 也即JAVA 名称和目录接口&lt;/p&gt;
     </summary>
   </entry>
   <entry>
     <title>XSSLab保姆级教程</title>
-    <link href="https://tttang.com/archive/1433/ "/>
+    <link href="https://tttang.com/archive/1433/"/>
     <id>https://tttang.com/archive/1433/</id>
-    <published>2022-02-16</published>
+    <published>2022-02-16T12:00:00+08:00</published>
     <summary type="text">
-      XSSLab保姆级教程
+      &lt;p&gt;&lt;code&gt;XSS&lt;/code&gt;（&lt;code&gt;Cross-Site Scripting&lt;/code&gt;）即为跨站脚本攻击。&lt;code&gt;XSS-Lab&lt;/code&gt;是一个&lt;code&gt;XSS&lt;/code&gt;的练习平台。可以在&lt;code&gt;BUUOJ&lt;/code&gt;上很方便的进行练习。以下是我在做&lt;code&gt;XSS-Lab&lt;/code&gt;的时候总结的题解和一些思路，给想要刷题的同学提供一些参考。&lt;/p&gt;
     </summary>
   </entry>
   <entry>
     <title>汽车安全测试终极指南，第二篇（译文）</title>
-    <link href="https://tttang.com/archive/1435/ "/>
+    <link href="https://tttang.com/archive/1435/"/>
     <id>https://tttang.com/archive/1435/</id>
-    <published>2022-02-16</published>
+    <published>2022-02-16T12:00:00+08:00</published>
     <summary type="text">
-      汽车安全测试终极指南，第二篇（译文）
+      &lt;p&gt;在本系列的第一篇文章中，我们讨论了什么是CAN总线，并简单介绍了CAN流量的基础知识，以及如何使用ICSim创建虚拟的汽车安全测试系统。在本文中，我们将为读者详细介绍如何通过CAN Traffic来嗅探汽车数据。&lt;/p&gt;
     </summary>
   </entry>
   <entry>
     <title>windows内核之未初始化池变量(六)</title>
-    <link href="https://tttang.com/archive/1439/ "/>
+    <link href="https://tttang.com/archive/1439/"/>
     <id>https://tttang.com/archive/1439/</id>
-    <published>2022-02-15</published>
+    <published>2022-02-15T12:00:00+08:00</published>
     <summary type="text">
-      windows内核之未初始化池变量(六)
+      &lt;p&gt;windows内核系列：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://tttang.com/archive/1332/&quot; target=&quot;_blank&quot;&gt;windows内核之栈溢出(一)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://tttang.com/archive/1344/&quot; target=&quot;_blank&quot;&gt;windows内核之任意地址写入(二)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://tttang.com/archive/1382/&quot; target=&quot;_blank&quot;&gt;windows内核之UAF(三)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://tttang.com/archive/1400/&quot; target=&quot;_blank&quot;&gt;windows内核之Null指针解引用(四)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://tttang.com/archive/1416/&quot; target=&quot;_blank&quot;&gt;windows内核之未初始化栈变量(五)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
     </summary>
   </entry>
   <entry>
     <title>MSF渗透常用操作指南</title>
-    <link href="https://tttang.com/archive/1432/ "/>
+    <link href="https://tttang.com/archive/1432/"/>
     <id>https://tttang.com/archive/1432/</id>
-    <published>2022-02-14</published>
+    <published>2022-02-14T12:00:00+08:00</published>
     <summary type="text">
-      MSF渗透常用操作指南
+      &lt;p&gt;记录MSF常用的功能操作。&lt;/p&gt;
     </summary>
   </entry>
   <entry>
     <title>汽车安全测试终极指南，第一篇（译文）</title>
-    <link href="https://tttang.com/archive/1427/ "/>
+    <link href="https://tttang.com/archive/1427/"/>
     <id>https://tttang.com/archive/1427/</id>
-    <published>2022-02-14</published>
+    <published>2022-02-14T12:00:00+08:00</published>
     <summary type="text">
-      汽车安全测试终极指南，第一篇（译文）
+      &lt;p&gt;汽车安全是一个非常令人兴奋的话题，也是许多安全研究人员热衷的研究课题。随着特斯拉这样的自动驾驶汽车的到来，汽车的安全性将变得愈发重要。如今，当我们开车时，驾驶的就是一台功能极其强大的电脑，只不过加上了轮子和方向盘而已。&lt;/p&gt;
     </summary>
   </entry>
   <entry>
     <title>JAVA 协议安全笔记-RMI篇</title>
-    <link href="https://tttang.com/archive/1430/ "/>
+    <link href="https://tttang.com/archive/1430/"/>
     <id>https://tttang.com/archive/1430/</id>
-    <published>2022-02-11</published>
+    <published>2022-02-11T12:00:00+08:00</published>
     <summary type="text">
-      JAVA 协议安全笔记-RMI篇
+      &lt;p&gt;RMI的全名为&lt;code&gt;Remote Method Invocation&lt;/code&gt;即远程方法调用，他的出现是为了解决一个问题，如何在本地透明的调用远程服务器上的方法。废话不多说，我们直接从一个用例来快速上手。&lt;/p&gt;
     </summary>
   </entry>
   <entry>
     <title>HGAME2022-WEEK1 部分题解</title>
-    <link href="https://tttang.com/archive/1426/ "/>
+    <link href="https://tttang.com/archive/1426/"/>
     <id>https://tttang.com/archive/1426/</id>
-    <published>2022-02-11</published>
+    <published>2022-02-11T12:00:00+08:00</published>
     <summary type="text">
-      HGAME2022-WEEK1 部分题解
+      
     </summary>
   </entry>
   <entry>
     <title>glibc 中偏门利用技巧</title>
-    <link href="https://tttang.com/archive/1429/ "/>
+    <link href="https://tttang.com/archive/1429/"/>
     <id>https://tttang.com/archive/1429/</id>
-    <published>2022-02-10</published>
+    <published>2022-02-10T12:00:00+08:00</published>
     <summary type="text">
-      glibc 中偏门利用技巧
+      
     </summary>
   </entry>
   <entry>
     <title>由defcon延伸出的一类特殊RCE</title>
-    <link href="https://tttang.com/archive/1428/ "/>
+    <link href="https://tttang.com/archive/1428/"/>
     <id>https://tttang.com/archive/1428/</id>
-    <published>2022-02-09</published>
+    <published>2022-02-09T12:00:00+08:00</published>
     <summary type="text">
-      由defcon延伸出的一类特殊RCE
-    </summary>
-  </entry>
-  <entry>
-    <title>Java加载动态链接库</title>
-    <link href="https://tttang.com/archive/1436/ "/>
-    <id>https://tttang.com/archive/1436/</id>
-    <published>2022-02-09</published>
-    <summary type="text">
-      Java加载动态链接库
-    </summary>
-  </entry>
-  <entry>
-    <title>Cobalt Strike, a Defender’s Guide – Part 2（译文）</title>
-    <link href="https://tttang.com/archive/1425/ "/>
-    <id>https://tttang.com/archive/1425/</id>
-    <published>2022-02-08</published>
-    <summary type="text">
-      Cobalt Strike, a Defender’s Guide – Part 2（译文）
+      &lt;p&gt;自从Defcon Qualifier 2020出现了一个奇怪的rce之后，我在之后跟随队伍参加hitcon和seccon的过程中都遇到了类似的题目，觉得很有趣，记录一下，如有错误，还请师傅们指正。&lt;/p&gt;
     </summary>
   </entry>
 

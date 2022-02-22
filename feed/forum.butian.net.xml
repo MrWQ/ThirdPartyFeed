@@ -3,186 +3,194 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-02-22T04:20:43Z</updated>
+  <updated>2022-02-22T15:06:23+08:00</updated>
   <id>https://forum.butian.net/</id>
   <entry>
     <title>浅谈微信小程序渗透</title>
-    <link href="https://forum.butian.net/share/1227 "/>
+    <link href="https://forum.butian.net/share/1227"/>
     <id>https://forum.butian.net/share/1227</id>
-    <published>2022-02-22T09:46:30Z</published>
+    <published>2022-02-22T09:46:30+08:00</published>
     <summary type="text">
-      浅谈微信小程序渗透
+      微信小程序渗透的经验分享
     </summary>
   </entry>
   <entry>
     <title>记一次信息泄露到GetShell</title>
-    <link href="https://forum.butian.net/share/1243 "/>
+    <link href="https://forum.butian.net/share/1243"/>
     <id>https://forum.butian.net/share/1243</id>
-    <published>2022-02-22T09:34:29Z</published>
+    <published>2022-02-22T09:34:29+08:00</published>
     <summary type="text">
-      记一次信息泄露到GetShell
+      一次有趣简短的渗透，记录下从信息泄露到Getshell的有趣过程，主要分享下思路以及基础的知识
     </summary>
   </entry>
   <entry>
     <title>前端攻防之解读浏览器同源策略</title>
-    <link href="https://forum.butian.net/share/1242 "/>
+    <link href="https://forum.butian.net/share/1242"/>
     <id>https://forum.butian.net/share/1242</id>
-    <published>2022-02-21T09:38:53Z</published>
+    <published>2022-02-21T09:38:53+08:00</published>
     <summary type="text">
-      前端攻防之解读浏览器同源策略
+      前端攻防之解读浏览器同源策略。
     </summary>
   </entry>
   <entry>
     <title>狂雨cms代码审计</title>
-    <link href="https://forum.butian.net/share/1238 "/>
+    <link href="https://forum.butian.net/share/1238"/>
     <id>https://forum.butian.net/share/1238</id>
-    <published>2022-02-21T09:38:18Z</published>
+    <published>2022-02-21T09:38:18+08:00</published>
     <summary type="text">
-      狂雨cms代码审计
+      狂雨小说内容管理系统（简称KYXSCMS）提供一个轻量级小说网站解决方案，基于ThinkPHP5.1+MySQL的技术开发。
+KYXSCMS,灵活，方便，人性化设计简单易用是最大的特色，是快速架设小说类网站首选，...
     </summary>
   </entry>
   <entry>
     <title>CC链之新利用链分析</title>
-    <link href="https://forum.butian.net/share/1233 "/>
+    <link href="https://forum.butian.net/share/1233"/>
     <id>https://forum.butian.net/share/1233</id>
-    <published>2022-02-18T09:39:19Z</published>
+    <published>2022-02-18T09:39:19+08:00</published>
     <summary type="text">
-      CC链之新利用链分析
+      分析使用DualHashBidiMap、DualTreeBidiMap、DualLinkedHashBidiMap类作为触发点来构造新的Commons Collections利用链
     </summary>
   </entry>
   <entry>
     <title>深入分析PE结构(三)</title>
-    <link href="https://forum.butian.net/share/1223 "/>
+    <link href="https://forum.butian.net/share/1223"/>
     <id>https://forum.butian.net/share/1223</id>
-    <published>2022-02-18T09:37:41Z</published>
+    <published>2022-02-18T09:37:41+08:00</published>
     <summary type="text">
-      深入分析PE结构(三)
+      分享者才是学习中最大的受益者！
     </summary>
   </entry>
   <entry>
     <title>记又一次Java代码审计</title>
-    <link href="https://forum.butian.net/share/1229 "/>
+    <link href="https://forum.butian.net/share/1229"/>
     <id>https://forum.butian.net/share/1229</id>
-    <published>2022-02-17T09:35:54Z</published>
+    <published>2022-02-17T09:35:54+08:00</published>
     <summary type="text">
-      记又一次Java代码审计
+      这是我的Java代码审计实战的第二篇文章，下面带来一个新的CMS的审计思路和技巧
     </summary>
   </entry>
   <entry>
     <title>深入分析PE结构(二)</title>
-    <link href="https://forum.butian.net/share/1222 "/>
+    <link href="https://forum.butian.net/share/1222"/>
     <id>https://forum.butian.net/share/1222</id>
-    <published>2022-02-17T09:35:39Z</published>
+    <published>2022-02-17T09:35:39+08:00</published>
     <summary type="text">
-      深入分析PE结构(二)
+      分享者才是学习中最大的受益者！
     </summary>
   </entry>
   <entry>
     <title>CTF-pwn 技术总结（4）</title>
-    <link href="https://forum.butian.net/share/1228 "/>
+    <link href="https://forum.butian.net/share/1228"/>
     <id>https://forum.butian.net/share/1228</id>
-    <published>2022-02-16T09:42:22Z</published>
+    <published>2022-02-16T09:42:22+08:00</published>
     <summary type="text">
-      CTF-pwn 技术总结（4）
+      从前面几期我们能够学习到一些CTF-pwn中关于栈溢出、格式化字符串漏洞题型的攻击技巧以及linux安全保护机制的原理以及绕过方法等等，这期我们正式进入堆入门的学习。
     </summary>
   </entry>
   <entry>
     <title>深入分析PE结构(一)</title>
-    <link href="https://forum.butian.net/share/1221 "/>
+    <link href="https://forum.butian.net/share/1221"/>
     <id>https://forum.butian.net/share/1221</id>
-    <published>2022-02-16T09:42:07Z</published>
+    <published>2022-02-16T09:42:07+08:00</published>
     <summary type="text">
-      深入分析PE结构(一)
+      分享者才是学习中最大的受益者！
     </summary>
   </entry>
   <entry>
     <title>GO中SSTI研究</title>
-    <link href="https://forum.butian.net/share/1286 "/>
+    <link href="https://forum.butian.net/share/1286"/>
     <id>https://forum.butian.net/share/1286</id>
-    <published>2022-02-15T15:54:35Z</published>
+    <published>2022-02-15T15:54:35+08:00</published>
     <summary type="text">
-      GO中SSTI研究
+      在ByteCTF2021与SCTF2021中，我们都可以看到GO语言下的SSTI的身影，借此机会深入学习一下GO语言下的SSTI，在ByteCTF的WP文档中有相应的链接来介绍GO语言下的SSTI利用方法的研究。
     </summary>
   </entry>
   <entry>
     <title>一次BC站点的GetShell过程</title>
-    <link href="https://forum.butian.net/share/1225 "/>
+    <link href="https://forum.butian.net/share/1225"/>
     <id>https://forum.butian.net/share/1225</id>
-    <published>2022-02-15T09:44:55Z</published>
+    <published>2022-02-15T09:44:55+08:00</published>
     <summary type="text">
       一次BC站点的GetShell过程
     </summary>
   </entry>
   <entry>
     <title>记一次分离免杀上线msf</title>
-    <link href="https://forum.butian.net/share/1187 "/>
+    <link href="https://forum.butian.net/share/1187"/>
     <id>https://forum.butian.net/share/1187</id>
-    <published>2022-02-15T09:41:42Z</published>
+    <published>2022-02-15T09:41:42+08:00</published>
     <summary type="text">
-      记一次分离免杀上线msf
+      分开shellcode和加载器绕过杀软上线msf。
     </summary>
   </entry>
   <entry>
     <title>CobaltStrike逆向学习系列(6)：Beacon sleep_mask 分析</title>
-    <link href="https://forum.butian.net/share/1250 "/>
+    <link href="https://forum.butian.net/share/1250"/>
     <id>https://forum.butian.net/share/1250</id>
-    <published>2022-02-14T10:32:59Z</published>
+    <published>2022-02-14T10:32:59+08:00</published>
     <summary type="text">
-      CobaltStrike逆向学习系列(6)：Beacon sleep_mask 分析
+      只有对工具足够的了解，才能够更好的进行修改
     </summary>
   </entry>
   <entry>
     <title>zbzcms审计供新手学习</title>
-    <link href="https://forum.butian.net/share/1215 "/>
+    <link href="https://forum.butian.net/share/1215"/>
     <id>https://forum.butian.net/share/1215</id>
-    <published>2022-02-14T09:52:48Z</published>
+    <published>2022-02-14T09:52:48+08:00</published>
     <summary type="text">
-      zbzcms审计供新手学习
+      ### 前言
+也是源自于闲来无事  在之前逛cnvd的时候 发现的cms 然后下下来了一直没审
+现在也是审了一下
+cms也比较老了   有段时间没更新了
+
+也没用很难 供新手学习(篇幅有点长)
+
+下载地址...
     </summary>
   </entry>
   <entry>
     <title>记一次渗透实战-代码审计到getshell</title>
-    <link href="https://forum.butian.net/share/1206 "/>
+    <link href="https://forum.butian.net/share/1206"/>
     <id>https://forum.butian.net/share/1206</id>
-    <published>2022-02-14T09:28:23Z</published>
+    <published>2022-02-14T09:28:23+08:00</published>
     <summary type="text">
-      记一次渗透实战-代码审计到getshell
+      一次渗透测试遇见的系统，遂进行代码审计
     </summary>
   </entry>
   <entry>
     <title>利用卷积神经网络与向量搜索引擎在web资产中推荐相似icon</title>
-    <link href="https://forum.butian.net/share/1279 "/>
+    <link href="https://forum.butian.net/share/1279"/>
     <id>https://forum.butian.net/share/1279</id>
-    <published>2022-02-11T16:35:59Z</published>
+    <published>2022-02-11T16:35:59+08:00</published>
     <summary type="text">
-      利用卷积神经网络与向量搜索引擎在web资产中推荐相似icon
+      目前市面上常见的资产搜索方式主要有语法检索、icon检索、批量检索。icon检索是一种基于图像特征提取和匹配的检索方式，通用实现方式是通过md5计算icon_hash，精确查询指定icon命中的资产。但想要根据指定icon，找到“图形相同大小不同”或“图形相似”的icon所命中的资产时，上述方法难免显得捉襟见肘。为了解决该问题，HUNTER平台在今年1月份推出了相似ICON功能。
     </summary>
   </entry>
   <entry>
     <title>训练验证码识别模型对抗登录验证码</title>
-    <link href="https://forum.butian.net/share/1199 "/>
+    <link href="https://forum.butian.net/share/1199"/>
     <id>https://forum.butian.net/share/1199</id>
-    <published>2022-02-11T09:40:23Z</published>
+    <published>2022-02-11T09:40:23+08:00</published>
     <summary type="text">
-      训练验证码识别模型对抗登录验证码
+      在实际渗透场景中，不少业务站点的登录处都存在验证码，如果不是前端验证的验证码类型情况，就无法使用 burpsuite 爆破测试弱密码。而不少用于验证码识别的 api 接口都是收费的。没办法，人穷，只能自学，我选择通过机器学习来训练验证码识别模型，对抗渗透站点中的验证码。
     </summary>
   </entry>
   <entry>
     <title>那CTF，那VMre，那些事（一）</title>
-    <link href="https://forum.butian.net/share/1195 "/>
+    <link href="https://forum.butian.net/share/1195"/>
     <id>https://forum.butian.net/share/1195</id>
-    <published>2022-02-11T09:40:10Z</published>
+    <published>2022-02-11T09:40:10+08:00</published>
     <summary type="text">
-      那CTF，那VMre，那些事（一）
+      vm虚拟机保护逆向，是一种利用了虚拟机技术的一种特殊加花指令方式。目前比赛中，虚拟机题目特点是核心算法不是很复杂，虚拟机本身没有反调试和代码加密混淆的加入。大部分题目的思路都是考察分析switch语句及其分支。
     </summary>
   </entry>
   <entry>
     <title>JNDI入门</title>
-    <link href="https://forum.butian.net/share/1184 "/>
+    <link href="https://forum.butian.net/share/1184"/>
     <id>https://forum.butian.net/share/1184</id>
-    <published>2022-02-10T11:32:23Z</published>
+    <published>2022-02-10T11:32:23+08:00</published>
     <summary type="text">
-      JNDI入门
+      关于JNDI的一些学习
     </summary>
   </entry>
 
