@@ -3,8 +3,18 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-02-23T06:15:47+08:00</updated>
+  <updated>2022-02-23T12:20:30+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>VNCTF2022公开赛 Blockchain-VNloan</title>
+    <link href="https://tttang.com/archive/1445/"/>
+    <id>https://tttang.com/archive/1445/</id>
+    <published>2022-02-23T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;基于 Uniswap V3 的 DeFi 流动性协议Visor Finance遭受黑客攻击，黑客利用重入漏洞耗尽了880万枚VISR代币，当时，VISR的交易价格约为0.93美元，总损失约为820万美元。&lt;/p&gt;
+&lt;p&gt;因为call调用产生的漏洞还是比较多的，比如重入漏洞，atn代币增发事件等。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>影子凭据（译文）</title>
     <link href="https://tttang.com/archive/1440/"/>
@@ -143,15 +153,6 @@
     <published>2022-02-10T12:00:00+08:00</published>
     <summary type="text">
       
-    </summary>
-  </entry>
-  <entry>
-    <title>由defcon延伸出的一类特殊RCE</title>
-    <link href="https://tttang.com/archive/1428/"/>
-    <id>https://tttang.com/archive/1428/</id>
-    <published>2022-02-09T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;自从Defcon Qualifier 2020出现了一个奇怪的rce之后，我在之后跟随队伍参加hitcon和seccon的过程中都遇到了类似的题目，觉得很有趣，记录一下，如有错误，还请师傅们指正。&lt;/p&gt;
     </summary>
   </entry>
 

@@ -3,8 +3,35 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-02-23T06:15:48+08:00</updated>
+  <updated>2022-02-23T12:20:35+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>Bvp47——来自美国国安局方程式组织的顶级后门</title>
+    <link href="https://forum.butian.net/share/1327"/>
+    <id>https://forum.butian.net/share/1327</id>
+    <published>2022-02-23T11:09:26+08:00</published>
+    <summary type="text">
+      2013年，盘古实验室研究员在针对某国内要害部门主机的调查过程中，提取了一个经过复杂加密的Linux平台后门，其使用的基于SYN包的高级隐蔽信道行为和自身的代码混淆、系统隐藏、自毁设计前所未见...
+    </summary>
+  </entry>
+  <entry>
+    <title>Window向之x86 ShellCode入门</title>
+    <link href="https://forum.butian.net/share/1244"/>
+    <id>https://forum.butian.net/share/1244</id>
+    <published>2022-02-23T09:52:35+08:00</published>
+    <summary type="text">
+      Window向之x86 ShellCode入门
+    </summary>
+  </entry>
+  <entry>
+    <title>JDWP调试接口RCE漏洞介绍</title>
+    <link href="https://forum.butian.net/share/1232"/>
+    <id>https://forum.butian.net/share/1232</id>
+    <published>2022-02-23T09:48:00+08:00</published>
+    <summary type="text">
+      本文介绍了JDWP协议的通信过程以及数据包结构，对JDWP调试接口RCE漏洞的三种漏洞利用方法进行了讲解
+    </summary>
+  </entry>
   <entry>
     <title>浅谈微信小程序渗透</title>
     <link href="https://forum.butian.net/share/1227"/>
@@ -164,33 +191,6 @@ cms也比较老了   有段时间没更新了
     <published>2022-02-11T16:35:59+08:00</published>
     <summary type="text">
       目前市面上常见的资产搜索方式主要有语法检索、icon检索、批量检索。icon检索是一种基于图像特征提取和匹配的检索方式，通用实现方式是通过md5计算icon_hash，精确查询指定icon命中的资产。但想要根据指定icon，找到“图形相同大小不同”或“图形相似”的icon所命中的资产时，上述方法难免显得捉襟见肘。为了解决该问题，HUNTER平台在今年1月份推出了相似ICON功能。
-    </summary>
-  </entry>
-  <entry>
-    <title>训练验证码识别模型对抗登录验证码</title>
-    <link href="https://forum.butian.net/share/1199"/>
-    <id>https://forum.butian.net/share/1199</id>
-    <published>2022-02-11T09:40:23+08:00</published>
-    <summary type="text">
-      在实际渗透场景中，不少业务站点的登录处都存在验证码，如果不是前端验证的验证码类型情况，就无法使用 burpsuite 爆破测试弱密码。而不少用于验证码识别的 api 接口都是收费的。没办法，人穷，只能自学，我选择通过机器学习来训练验证码识别模型，对抗渗透站点中的验证码。
-    </summary>
-  </entry>
-  <entry>
-    <title>那CTF，那VMre，那些事（一）</title>
-    <link href="https://forum.butian.net/share/1195"/>
-    <id>https://forum.butian.net/share/1195</id>
-    <published>2022-02-11T09:40:10+08:00</published>
-    <summary type="text">
-      vm虚拟机保护逆向，是一种利用了虚拟机技术的一种特殊加花指令方式。目前比赛中，虚拟机题目特点是核心算法不是很复杂，虚拟机本身没有反调试和代码加密混淆的加入。大部分题目的思路都是考察分析switch语句及其分支。
-    </summary>
-  </entry>
-  <entry>
-    <title>JNDI入门</title>
-    <link href="https://forum.butian.net/share/1184"/>
-    <id>https://forum.butian.net/share/1184</id>
-    <published>2022-02-10T11:32:23+08:00</published>
-    <summary type="text">
-      关于JNDI的一些学习
     </summary>
   </entry>
 
