@@ -25,4 +25,5 @@ NOSEC安全讯息平台 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPart
 - [SecCrawler](https://github.com/Le0nsec/SecCrawler)
 - [Telegram RSS / JSON generator](https://tg.i-c-a.su/)
 - [Chinese-Security-RSS](https://github.com/zhengjim/Chinese-Security-RSS)
+- [Feed43](https://feed43.com/)
 
