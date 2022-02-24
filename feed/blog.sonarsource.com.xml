@@ -3,8 +3,17 @@
   <title>SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link href="https://blog.sonarsource.com/"/>
-  <updated>2022-02-24T21:17:20+08:00</updated>
+  <updated>2022-02-25T06:16:41+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title>Review your security vulnerabilities in GitHub with code scanning alerts</title>
+    <link href="https://blog.sonarsource.com/review-security-vulnerabilities-with-github-code-scanning"/>
+    <id>https://blog.sonarsource.com/review-security-vulnerabilities-with-github-code-scanning</id>
+    <published>2022-02-24T14:47:46+0000</published>
+    <summary type="text">
+      We’re happy to announce that SonarCloud integrates with GitHub code scanning! It’s available to everyone with a GitHub repository - private or public - independently of your SonarCloud plan. If you have access to the feature on GiHub and your organization admin already accepted the update for the SonarCloud app permissions, you’re all set! You should be able to start using the feature during your next code review.
+    </summary>
+  </entry>
   <entry>
     <title>Horde Webmail 5.2.22 - Account Takeover via Email</title>
     <link href="https://blog.sonarsource.com/horde-webmail-account-takeover-via-email"/>
@@ -56,7 +65,7 @@
     <id>https://blog.sonarsource.com/understanding-xxe-vulnerabilities</id>
     <published>2021-11-26T14:01:27+0000</published>
     <summary type="text">
-      Today XML External Entities (XXE) vulnerabilities are still ubiquitous, despite the fact that recommendations to protect against them have been an integral part of security standards for years. In this post, we will try to demystify XXE vulnerabilities and present the rule we put in place to help you detect and prevent them.Â 
+      Today XML External Entities (XXE) vulnerabilities are still ubiquitous, despite the fact that recommendations to protect against them have been an integral part of security standards for years. In this post, we will try to demystify XXE vulnerabilities and present the rule we put in place to help you detect and prevent them. 
     </summary>
   </entry>
   <entry>
@@ -78,12 +87,12 @@
     </summary>
   </entry>
   <entry>
-    <title>â€˜Quick Fixâ€™ your C++ issues with SonarLint</title>
+    <title>‘Quick Fix’ your C++ issues with SonarLint</title>
     <link href="https://blog.sonarsource.com/quick-fix-cpp-issues-with-sonarlint"/>
     <id>https://blog.sonarsource.com/quick-fix-cpp-issues-with-sonarlint</id>
     <published>2021-12-15T16:09:11+0000</published>
     <summary type="text">
-      â€˜Quick fixesâ€™ with SonarLint bring value to the C++ community by providing more than what they have today. Letâ€™s take a peek at how some of these rules equip you to deliver clean and safe C++ code, efficiently.
+      ‘Quick fixes’ with SonarLint bring value to the C++ community by providing more than what they have today. Let’s take a peek at how some of these rules equip you to deliver clean and safe C++ code, efficiently.
     </summary>
   </entry>
   <entry>
@@ -155,7 +164,7 @@
     <id>https://blog.sonarsource.com/meet-the-new-project-experience</id>
     <published>2021-10-21T14:55:30+0000</published>
     <summary type="text">
-      We are very pleased to announce that we have released a new project experience. Itâ€™s now available in SonarCloud for all users. Youâ€™ll notice a few improvements the next time you open SonarCloud. Weâ€™re going to tell you more about what this makeover is about in this article.
+      We are very pleased to announce that we have released a new project experience. It’s now available in SonarCloud for all users. You’ll notice a few improvements the next time you open SonarCloud. We’re going to tell you more about what this makeover is about in this article.
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2021-09-28T13:32:56+0000</published>
     <summary type="text">
       This article talks about the powerful capabilities of the C++ analyzer with SonarLint and highlights some unique and interesting quality and security rules you might find useful. Through that lens, we demonstrate how you can leverage these rules to elevate your CLion built-in static analysis capabilities for your C++ projects.
-    </summary>
-  </entry>
-  <entry>
-    <title>Modernize Code Quality with â€˜Quick Fixesâ€™</title>
-    <link href="https://blog.sonarsource.com/sonarlint-quick-fixes"/>
-    <id>https://blog.sonarsource.com/sonarlint-quick-fixes</id>
-    <published>2021-09-27T08:10:59+0000</published>
-    <summary type="text">
-      Boost your productivity by automatically applying fixes to repair code quality issues in your IDE with SonarLint.
     </summary>
   </entry>
 
