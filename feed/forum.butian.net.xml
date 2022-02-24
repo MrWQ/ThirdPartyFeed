@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-02-24T06:16:42+08:00</updated>
+  <updated>2022-02-24T12:20:47+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>浅谈CTF中的unity游戏逆向</title>
+    <link href="https://forum.butian.net/share/1294"/>
+    <id>https://forum.butian.net/share/1294</id>
+    <published>2022-02-24T09:22:22+08:00</published>
+    <summary type="text">
+      近期的各种比赛中，re整的花活是越来越多了，unity游戏逆向的地位也是水涨船高。unity游戏逆向主要可以分成两类，dll游戏和libil2cpp游戏。unity游戏逆向在ctf中的难度分布相当不均匀，分析手段花样繁多（常规加解密手段、dll爆破、frida……）。值得我们好好学习。
+    </summary>
+  </entry>
+  <entry>
+    <title>应急响应之响尾蛇APT组织攻击</title>
+    <link href="https://forum.butian.net/share/1292"/>
+    <id>https://forum.butian.net/share/1292</id>
+    <published>2022-02-24T09:19:46+08:00</published>
+    <summary type="text">
+      我司一客户紧急求助，他们被监管单位通报被apt组织攻击，我于是紧急赶往现场进行应急响应。
+    </summary>
+  </entry>
   <entry>
     <title>Bvp47——来自美国国安局方程式组织的顶级后门</title>
     <link href="https://forum.butian.net/share/1327"/>
@@ -173,24 +191,6 @@ cms也比较老了   有段时间没更新了
 也没用很难 供新手学习(篇幅有点长)
 
 下载地址...
-    </summary>
-  </entry>
-  <entry>
-    <title>记一次渗透实战-代码审计到getshell</title>
-    <link href="https://forum.butian.net/share/1206"/>
-    <id>https://forum.butian.net/share/1206</id>
-    <published>2022-02-14T09:28:23+08:00</published>
-    <summary type="text">
-      一次渗透测试遇见的系统，遂进行代码审计
-    </summary>
-  </entry>
-  <entry>
-    <title>利用卷积神经网络与向量搜索引擎在web资产中推荐相似icon</title>
-    <link href="https://forum.butian.net/share/1279"/>
-    <id>https://forum.butian.net/share/1279</id>
-    <published>2022-02-11T16:35:59+08:00</published>
-    <summary type="text">
-      目前市面上常见的资产搜索方式主要有语法检索、icon检索、批量检索。icon检索是一种基于图像特征提取和匹配的检索方式，通用实现方式是通过md5计算icon_hash，精确查询指定icon命中的资产。但想要根据指定icon，找到“图形相同大小不同”或“图形相似”的icon所命中的资产时，上述方法难免显得捉襟见肘。为了解决该问题，HUNTER平台在今年1月份推出了相似ICON功能。
     </summary>
   </entry>
 

@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-02-24T06:16:38+08:00</updated>
+  <updated>2022-02-24T12:20:48+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>shellcode题目整理</title>
+    <link href="https://tttang.com/archive/1447/"/>
+    <id>https://tttang.com/archive/1447/</id>
+    <published>2022-02-24T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;简单整理下shellcode类型的题目&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>VNCTF2022公开赛 Blockchain-VNloan</title>
     <link href="https://tttang.com/archive/1445/"/>
@@ -142,15 +151,6 @@
     <link href="https://tttang.com/archive/1426/"/>
     <id>https://tttang.com/archive/1426/</id>
     <published>2022-02-11T12:00:00+08:00</published>
-    <summary type="text">
-      
-    </summary>
-  </entry>
-  <entry>
-    <title>glibc 中偏门利用技巧</title>
-    <link href="https://tttang.com/archive/1429/"/>
-    <id>https://tttang.com/archive/1429/</id>
-    <published>2022-02-10T12:00:00+08:00</published>
     <summary type="text">
       
     </summary>
