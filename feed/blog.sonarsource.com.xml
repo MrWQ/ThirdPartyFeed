@@ -3,7 +3,7 @@
   <title>SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link href="https://blog.sonarsource.com/"/>
-  <updated>2022-02-24T20:51:35+08:00</updated>
+  <updated>2022-02-24T21:17:20+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
   <entry>
     <title>Horde Webmail 5.2.22 - Account Takeover via Email</title>
@@ -48,6 +48,141 @@
     <published>2021-11-26T14:01:49+0000</published>
     <summary type="text">
       In this post, we will see how to completely disable external entities declaration and expansion, offering a quick and safe solution.
+    </summary>
+  </entry>
+  <entry>
+    <title>Don&#x27;t be afraid of XXE vulnerabilities: understand the beast and how to detect them</title>
+    <link href="https://blog.sonarsource.com/understanding-xxe-vulnerabilities"/>
+    <id>https://blog.sonarsource.com/understanding-xxe-vulnerabilities</id>
+    <published>2021-11-26T14:01:27+0000</published>
+    <summary type="text">
+      Today XML External Entities (XXE) vulnerabilities are still ubiquitous, despite the fact that recommendations to protect against them have been an integral part of security standards for years. In this post, we will try to demystify XXE vulnerabilities and present the rule we put in place to help you detect and prevent them.Â 
+    </summary>
+  </entry>
+  <entry>
+    <title>WordPress 5.8.2 Stored XSS Vulnerability</title>
+    <link href="https://blog.sonarsource.com/wordpress-stored-xss-vulnerability"/>
+    <id>https://blog.sonarsource.com/wordpress-stored-xss-vulnerability</id>
+    <published>2022-01-11T10:07:04+0000</published>
+    <summary type="text">
+      We reported a Stored XSS vulnerability in WordPress (CVE-2022-21662) which remained unpatched for more than 3 years and affected the wordpress.org website.
+    </summary>
+  </entry>
+  <entry>
+    <title>Vulnerability Research Highlights 2021</title>
+    <link href="https://blog.sonarsource.com/vulnerability-research-highlights-2021"/>
+    <id>https://blog.sonarsource.com/vulnerability-research-highlights-2021</id>
+    <published>2022-01-06T17:33:04+0000</published>
+    <summary type="text">
+      Our research team looks back at a great year and summarizes the highlights of their vulnerability research in 2021.
+    </summary>
+  </entry>
+  <entry>
+    <title>â€˜Quick Fixâ€™ your C++ issues with SonarLint</title>
+    <link href="https://blog.sonarsource.com/quick-fix-cpp-issues-with-sonarlint"/>
+    <id>https://blog.sonarsource.com/quick-fix-cpp-issues-with-sonarlint</id>
+    <published>2021-12-15T16:09:11+0000</published>
+    <summary type="text">
+      â€˜Quick fixesâ€™ with SonarLint bring value to the C++ community by providing more than what they have today. Letâ€™s take a peek at how some of these rules equip you to deliver clean and safe C++ code, efficiently.
+    </summary>
+  </entry>
+  <entry>
+    <title>Modernizing your code with C++20</title>
+    <link href="https://blog.sonarsource.com/modernizing-your-code-with-cpp20"/>
+    <id>https://blog.sonarsource.com/modernizing-your-code-with-cpp20</id>
+    <published>2021-12-07T13:54:57+0000</published>
+    <summary type="text">
+      C++20 is here! It&#x27;s a big release with many features designed to make your code easier, faster and safer. Let&#x27;s see how the latest C++ analysis rules in SonarLint, SonarQube and SonarCloud can help us modernize our code to take advantage of some of the new features.
+    </summary>
+  </entry>
+  <entry>
+    <title>NodeBB 1.18.4 - Remote Code Execution With One Shot</title>
+    <link href="https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot"/>
+    <id>https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot</id>
+    <published>2021-11-30T16:24:31+0000</published>
+    <summary type="text">
+      We recently discovered three interesting code vulnerabilities in NodeBB 1.18.4, allowing attackers to compromise servers. Find out about the details in this article!
+    </summary>
+  </entry>
+  <entry>
+    <title>Code Security Advent Calendar 2021</title>
+    <link href="https://blog.sonarsource.com/code-security-advent-calendar-2021"/>
+    <id>https://blog.sonarsource.com/code-security-advent-calendar-2021</id>
+    <published>2021-11-29T13:32:54+0000</published>
+    <summary type="text">
+      Our code security advent calendar is back for the sixth consecutive year. We will release daily challenges until December 24th, get ready to fill your bag of tricks!
+    </summary>
+  </entry>
+  <entry>
+    <title>10 Unknown Security Pitfalls for Python</title>
+    <link href="https://blog.sonarsource.com/10-unknown-security-pitfalls-for-python"/>
+    <id>https://blog.sonarsource.com/10-unknown-security-pitfalls-for-python</id>
+    <published>2021-11-16T13:41:03+0000</published>
+    <summary type="text">
+      In this blog post, we share 10 security pitfalls for Python developers that we encountered in real-world projects.
+    </summary>
+  </entry>
+  <entry>
+    <title>Agent 008: Chaining Vulnerabilities to Compromise GoCD</title>
+    <link href="https://blog.sonarsource.com/gocd-vulnerability-chain"/>
+    <id>https://blog.sonarsource.com/gocd-vulnerability-chain</id>
+    <published>2021-11-10T15:21:59+0000</published>
+    <summary type="text">
+      We discovered 3 more code vulnerabilities in the popular GoCD CI/CD system that can be chained by attackers to leak or modify internal code. Learn more in this blog post.
+    </summary>
+  </entry>
+  <entry>
+    <title>SmartStoreNET - Malicious Message leading to E-Commerce Takeover</title>
+    <link href="https://blog.sonarsource.com/smartstorenet-malicious-message-leading-to-e-commerce-takeover"/>
+    <id>https://blog.sonarsource.com/smartstorenet-malicious-message-leading-to-e-commerce-takeover</id>
+    <published>2021-11-02T14:06:16+0000</published>
+    <summary type="text">
+      Check out the details of a Cross-Site Scripting bug in the BBCode processing in SmartStoreNET and how it can be chained into arbitrary code execution!
+    </summary>
+  </entry>
+  <entry>
+    <title>Agent 007: Pre-Auth Takeover of Build Pipelines in GoCD</title>
+    <link href="https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover"/>
+    <id>https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover</id>
+    <published>2021-10-26T09:41:19+0000</published>
+    <summary type="text">
+      We recently discovered critical security issues in the popular CI/CD solution GoCD that can be exploited by unauthenticated attackers
+    </summary>
+  </entry>
+  <entry>
+    <title>Meet the new project experience for SonarCloud</title>
+    <link href="https://blog.sonarsource.com/meet-the-new-project-experience"/>
+    <id>https://blog.sonarsource.com/meet-the-new-project-experience</id>
+    <published>2021-10-21T14:55:30+0000</published>
+    <summary type="text">
+      We are very pleased to announce that we have released a new project experience. Itâ€™s now available in SonarCloud for all users. Youâ€™ll notice a few improvements the next time you open SonarCloud. Weâ€™re going to tell you more about what this makeover is about in this article.
+    </summary>
+  </entry>
+  <entry>
+    <title>Squirrel Sandbox Escape allows Code Execution in Games and Cloud Services</title>
+    <link href="https://blog.sonarsource.com/squirrel-vm-sandbox-escape"/>
+    <id>https://blog.sonarsource.com/squirrel-vm-sandbox-escape</id>
+    <published>2021-10-19T15:10:16+0000</published>
+    <summary type="text">
+      We discovered and reported a vulnerability in the Squirrel VM, written in C, that allows an attacker to escape the sandbox.
+    </summary>
+  </entry>
+  <entry>
+    <title>Supercharge your C++ analysis with SonarLint for CLion</title>
+    <link href="https://blog.sonarsource.com/supercharge-cpp-analysis-sonarlint-for-clion"/>
+    <id>https://blog.sonarsource.com/supercharge-cpp-analysis-sonarlint-for-clion</id>
+    <published>2021-09-28T13:32:56+0000</published>
+    <summary type="text">
+      This article talks about the powerful capabilities of the C++ analyzer with SonarLint and highlights some unique and interesting quality and security rules you might find useful. Through that lens, we demonstrate how you can leverage these rules to elevate your CLion built-in static analysis capabilities for your C++ projects.
+    </summary>
+  </entry>
+  <entry>
+    <title>Modernize Code Quality with â€˜Quick Fixesâ€™</title>
+    <link href="https://blog.sonarsource.com/sonarlint-quick-fixes"/>
+    <id>https://blog.sonarsource.com/sonarlint-quick-fixes</id>
+    <published>2021-09-27T08:10:59+0000</published>
+    <summary type="text">
+      Boost your productivity by automatically applying fixes to repair code quality issues in your IDE with SonarLint.
     </summary>
   </entry>
 
