@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-02-25T09:17:37+08:00</updated>
+  <updated>2022-02-25T12:20:42+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>致火线Zone用户的一封信!（内附奖励规则）</title>
@@ -12,6 +12,15 @@
     <published>2022-02-21T12:38:37+00:00</published>
     <summary type="text">
       致火线Zone用户的一封信!（内附奖励规则）
+    </summary>
+  </entry>
+  <entry>
+    <title>每日云安全技术资讯20220225</title>
+    <link href="https://zone.huoxian.cn/d/920-20220225"/>
+    <id>https://zone.huoxian.cn/d/920-20220225</id>
+    <published>2022-02-25T02:49:16+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220225
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-02-21T03:20:47+00:00</published>
     <summary type="text">
       记一次CNVD原创漏洞证书挖掘
-    </summary>
-  </entry>
-  <entry>
-    <title>利用人员管理安全知识薄弱</title>
-    <link href="https://zone.huoxian.cn/d/899"/>
-    <id>https://zone.huoxian.cn/d/899</id>
-    <published>2022-02-21T02:01:00+00:00</published>
-    <summary type="text">
-      利用人员管理安全知识薄弱
     </summary>
   </entry>
 
