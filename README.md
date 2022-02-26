@@ -19,6 +19,7 @@ NOSEC安全讯息平台 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPart
 火线Zone | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/zone.huoxian.cn.xml)
 Seebug | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/www.seebug.org.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/www.seebug.org.xml)
 SonarSource Blog | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/blog.sonarsource.com.xml)
+SecWiki周刊 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/www.sec-wiki.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/www.sec-wiki.com.xml)
 
 ## 相关资源
 
