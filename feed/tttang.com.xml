@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-02-28T06:15:35+08:00</updated>
+  <updated>2022-02-28T12:21:15+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>SIM Hijacking（译文）</title>
+    <link href="https://tttang.com/archive/1446/"/>
+    <id>https://tttang.com/archive/1446/</id>
+    <published>2022-02-28T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;近期，“5.33亿Facebook用户的电话号码遭泄露”之类的报道占据了各大社交网络的新闻头条。实际上，早在2020年，这些泄密信息就已经被黑客出售了；只是最近这些数据被免费发布到了一个黑客论坛上，其中包括用户的手机号码以及其他相关信息。这则消息甚至催生了像https://haveibeenzucked.com这样的网站，大家可以通过它们检查自己的Facebook数据是否已经泄露。另外，大家也可以通过https://haveibeenpwned.com检查相关泄露情况。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>ASP.NET下的内存马(3) HttpListener内存马</title>
     <link href="https://tttang.com/archive/1451/"/>
@@ -144,15 +153,6 @@
     <published>2022-02-14T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;汽车安全是一个非常令人兴奋的话题，也是许多安全研究人员热衷的研究课题。随着特斯拉这样的自动驾驶汽车的到来，汽车的安全性将变得愈发重要。如今，当我们开车时，驾驶的就是一台功能极其强大的电脑，只不过加上了轮子和方向盘而已。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>JAVA 协议安全笔记-RMI篇</title>
-    <link href="https://tttang.com/archive/1430/"/>
-    <id>https://tttang.com/archive/1430/</id>
-    <published>2022-02-11T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;RMI的全名为&lt;code&gt;Remote Method Invocation&lt;/code&gt;即远程方法调用，他的出现是为了解决一个问题，如何在本地透明的调用远程服务器上的方法。废话不多说，我们直接从一个用例来快速上手。&lt;/p&gt;
     </summary>
   </entry>
 
