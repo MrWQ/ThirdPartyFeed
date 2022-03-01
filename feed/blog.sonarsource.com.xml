@@ -3,8 +3,17 @@
   <title>SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link href="https://blog.sonarsource.com/"/>
-  <updated>2022-03-01T22:19:09+08:00</updated>
+  <updated>2022-03-02T06:20:29+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title>5 things to consider in performance comparisons</title>
+    <link href="https://blog.sonarsource.com/5-things-to-consider-in-performance-comparisons"/>
+    <id>https://blog.sonarsource.com/5-things-to-consider-in-performance-comparisons</id>
+    <published>2022-03-01T15:00:00Z</published>
+    <summary type="text">
+      Most people can probably relate to asking a child to handle a chore, only to have the kid come back way too soon, saying it&#x27;s done. Or maybe you can relate to being that child. Either way, you know what comes next: checking shows the job was handled poorly, and it all goes downhill from there. 
+    </summary>
+  </entry>
   <entry>
     <title>Review your security vulnerabilities in GitHub with code scanning alerts</title>
     <link href="https://blog.sonarsource.com/review-security-vulnerabilities-with-github-code-scanning"/>
@@ -174,15 +183,6 @@
     <published>2021-10-19T15:10:16Z</published>
     <summary type="text">
       We discovered and reported a vulnerability in the Squirrel VM, written in C, that allows an attacker to escape the sandbox.
-    </summary>
-  </entry>
-  <entry>
-    <title>Supercharge your C++ analysis with SonarLint for CLion</title>
-    <link href="https://blog.sonarsource.com/supercharge-cpp-analysis-sonarlint-for-clion"/>
-    <id>https://blog.sonarsource.com/supercharge-cpp-analysis-sonarlint-for-clion</id>
-    <published>2021-09-28T13:32:56Z</published>
-    <summary type="text">
-      This article talks about the powerful capabilities of the C++ analyzer with SonarLint and highlights some unique and interesting quality and security rules you might find useful. Through that lens, we demonstrate how you can leverage these rules to elevate your CLion built-in static analysis capabilities for your C++ projects.
     </summary>
   </entry>
 
