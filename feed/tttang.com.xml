@@ -3,8 +3,26 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-03-01T06:20:31+08:00</updated>
+  <updated>2022-03-01T12:26:07+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>SUSCTF</title>
+    <link href="https://tttang.com/archive/1454/"/>
+    <id>https://tttang.com/archive/1454/</id>
+    <published>2022-03-01T12:00:00+08:00</published>
+    <summary type="text">
+      
+    </summary>
+  </entry>
+  <entry>
+    <title>如何使用机器账户进行域维权</title>
+    <link href="https://tttang.com/archive/1448/"/>
+    <id>https://tttang.com/archive/1448/</id>
+    <published>2022-03-01T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;机器账户在许多技术中可以用于提权或横向移动，如使用机器账户的委派进行dcsyn了上述作用，使用机器账户也可进行维权操作。我们可以将任意计算机账户添加到高权限组(例如Domain Admin、Domain Controllers、Enterprise Admins) 或对计算机账户的userAccountControl属性进行修改。使用这两种方式，我们可以通过机器账户在域内进行身份认证（因为密码已知）并进行提权操作，例如Dcsync拖取域内hash。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>SIM Hijacking（译文）</title>
     <link href="https://tttang.com/archive/1446/"/>
@@ -135,24 +153,6 @@
 &lt;li&gt;&lt;a href=&quot;https://tttang.com/archive/1400/&quot; target=&quot;_blank&quot;&gt;windows内核之Null指针解引用(四)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://tttang.com/archive/1416/&quot; target=&quot;_blank&quot;&gt;windows内核之未初始化栈变量(五)&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>MSF渗透常用操作指南</title>
-    <link href="https://tttang.com/archive/1432/"/>
-    <id>https://tttang.com/archive/1432/</id>
-    <published>2022-02-14T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;记录MSF常用的功能操作。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>汽车安全测试终极指南，第一篇（译文）</title>
-    <link href="https://tttang.com/archive/1427/"/>
-    <id>https://tttang.com/archive/1427/</id>
-    <published>2022-02-14T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;汽车安全是一个非常令人兴奋的话题，也是许多安全研究人员热衷的研究课题。随着特斯拉这样的自动驾驶汽车的到来，汽车的安全性将变得愈发重要。如今，当我们开车时，驾驶的就是一台功能极其强大的电脑，只不过加上了轮子和方向盘而已。&lt;/p&gt;
     </summary>
   </entry>
 

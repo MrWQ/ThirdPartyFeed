@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-03-01T06:20:35+08:00</updated>
+  <updated>2022-03-01T12:26:11+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>那CTF，那VMre，那些事（三）</title>
+    <link href="https://forum.butian.net/share/1323"/>
+    <id>https://forum.butian.net/share/1323</id>
+    <published>2022-03-01T09:34:57+08:00</published>
+    <summary type="text">
+      本篇文章为虚拟机保护re系列文章的第三篇，主要研究存在栈结构的虚拟机保护re的特点与解题步骤
+    </summary>
+  </entry>
+  <entry>
+    <title>CobaltStrike逆向学习系列(7)：Controller 任务发布流程分析</title>
+    <link href="https://forum.butian.net/share/1320"/>
+    <id>https://forum.butian.net/share/1320</id>
+    <published>2022-03-01T09:31:24+08:00</published>
+    <summary type="text">
+      只有对工具足够的了解，才能够更好的进行修改
+    </summary>
+  </entry>
   <entry>
     <title>用户层下API的逆向分析及重构</title>
     <link href="https://forum.butian.net/share/1318"/>
@@ -170,24 +188,6 @@ KYXSCMS,灵活，方便，人性化设计简单易用是最大的特色，是快
     <published>2022-02-16T09:42:22+08:00</published>
     <summary type="text">
       从前面几期我们能够学习到一些CTF-pwn中关于栈溢出、格式化字符串漏洞题型的攻击技巧以及linux安全保护机制的原理以及绕过方法等等，这期我们正式进入堆入门的学习。
-    </summary>
-  </entry>
-  <entry>
-    <title>深入分析PE结构(一)</title>
-    <link href="https://forum.butian.net/share/1221"/>
-    <id>https://forum.butian.net/share/1221</id>
-    <published>2022-02-16T09:42:07+08:00</published>
-    <summary type="text">
-      分享者才是学习中最大的受益者！
-    </summary>
-  </entry>
-  <entry>
-    <title>GO中SSTI研究</title>
-    <link href="https://forum.butian.net/share/1286"/>
-    <id>https://forum.butian.net/share/1286</id>
-    <published>2022-02-15T15:54:35+08:00</published>
-    <summary type="text">
-      在ByteCTF2021与SCTF2021中，我们都可以看到GO语言下的SSTI的身影，借此机会深入学习一下GO语言下的SSTI，在ByteCTF的WP文档中有相应的链接来介绍GO语言下的SSTI利用方法的研究。
     </summary>
   </entry>
 
