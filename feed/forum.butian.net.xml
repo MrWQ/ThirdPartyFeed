@@ -3,8 +3,34 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-03-02T06:20:33+08:00</updated>
+  <updated>2022-03-02T12:25:39+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>刚跑的程序又被kill？服务器挖矿病毒解析与修复</title>
+    <link href="https://forum.butian.net/share/1331"/>
+    <id>https://forum.butian.net/share/1331</id>
+    <published>2022-03-02T09:49:48+08:00</published>
+    <summary type="text">
+      疑惑不解，为什么刚提交的程序没跑几分钟就又又又又又被kill掉了？近期服务器中招了挖矿病毒。本文就对该病毒进行了分析，并附上一些解决方案，帮助遇到类似问题的读者进行修复。
+    </summary>
+  </entry>
+  <entry>
+    <title>ARMPWN初探-题目复现</title>
+    <link href="https://forum.butian.net/share/1329"/>
+    <id>https://forum.butian.net/share/1329</id>
+    <published>2022-03-02T09:47:52+08:00</published>
+    <summary type="text">
+      # 前置知识
+
+### ARM数据类型和寄存器
+
+#### 数据类型
+
+与高级语言类似，ARM支持对不同的数据类型的操作，通常是与ldr、str这类存储加载指令一起使用：
+
+![image.png](https://b3logfil...
+    </summary>
+  </entry>
   <entry>
     <title>那CTF，那VMre，那些事（三）</title>
     <link href="https://forum.butian.net/share/1323"/>
@@ -170,24 +196,6 @@ KYXSCMS,灵活，方便，人性化设计简单易用是最大的特色，是快
     <published>2022-02-17T09:35:54+08:00</published>
     <summary type="text">
       这是我的Java代码审计实战的第二篇文章，下面带来一个新的CMS的审计思路和技巧
-    </summary>
-  </entry>
-  <entry>
-    <title>深入分析PE结构(二)</title>
-    <link href="https://forum.butian.net/share/1222"/>
-    <id>https://forum.butian.net/share/1222</id>
-    <published>2022-02-17T09:35:39+08:00</published>
-    <summary type="text">
-      分享者才是学习中最大的受益者！
-    </summary>
-  </entry>
-  <entry>
-    <title>CTF-pwn 技术总结（4）</title>
-    <link href="https://forum.butian.net/share/1228"/>
-    <id>https://forum.butian.net/share/1228</id>
-    <published>2022-02-16T09:42:22+08:00</published>
-    <summary type="text">
-      从前面几期我们能够学习到一些CTF-pwn中关于栈溢出、格式化字符串漏洞题型的攻击技巧以及linux安全保护机制的原理以及绕过方法等等，这期我们正式进入堆入门的学习。
     </summary>
   </entry>
 
