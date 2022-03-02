@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-03-02T12:25:36+08:00</updated>
+  <updated>2022-03-02T21:19:59+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>致火线Zone用户的一封信!（内附奖励规则）</title>
@@ -12,6 +12,15 @@
     <published>2022-02-21T12:38:37+00:00</published>
     <summary type="text">
       致火线Zone用户的一封信!（内附奖励规则）
+    </summary>
+  </entry>
+  <entry>
+    <title>火线沙龙第23期—云原生&amp;DevSecOps专场</title>
+    <link href="https://zone.huoxian.cn/d/935-23-devsecops"/>
+    <id>https://zone.huoxian.cn/d/935-23-devsecops</id>
+    <published>2022-03-02T10:22:11+00:00</published>
+    <summary type="text">
+      火线沙龙第23期—云原生&amp;DevSecOps专场
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-02-24T05:05:44+00:00</published>
     <summary type="text">
       火线沙龙第22期-云安全专场回顾
-    </summary>
-  </entry>
-  <entry>
-    <title>dirsearch+ fuzzDicts 目录fuzz大法</title>
-    <link href="https://zone.huoxian.cn/d/915-dirsearch-fuzzdicts-fuzz"/>
-    <id>https://zone.huoxian.cn/d/915-dirsearch-fuzzdicts-fuzz</id>
-    <published>2022-02-24T05:04:10+00:00</published>
-    <summary type="text">
-      dirsearch+ fuzzDicts 目录fuzz大法
     </summary>
   </entry>
 
