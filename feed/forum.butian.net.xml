@@ -3,8 +3,34 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-03-02T21:20:02+08:00</updated>
+  <updated>2022-03-03T10:16:02+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>JAVA 反序列化学习之反射</title>
+    <link href="https://forum.butian.net/share/1333"/>
+    <id>https://forum.butian.net/share/1333</id>
+    <published>2022-03-03T09:36:00+08:00</published>
+    <summary type="text">
+      无论看的是什么文章，只要是学习 JAVA 反序列化的文章，就一定会提到反射机制，这里结合了文档、网上的各种资料、P 牛的 JAVA 安全漫谈，写成了一篇还算过得去的文章，主要内容包含了forName、newInstance、getMethod、invoke方法，以及利用这些方法用反射的方式写出一个执行任意类中的任意方法的代码的学习过程。
+
+但这仅仅是 JAVA 安全的开始，甚至只是 JAVA 安全中一个漏洞的一部分的开始。
+
+道阻且艰。
+    </summary>
+  </entry>
+  <entry>
+    <title>Django 中的 XFF 问题</title>
+    <link href="https://forum.butian.net/share/1358"/>
+    <id>https://forum.butian.net/share/1358</id>
+    <published>2022-03-03T09:34:30+08:00</published>
+    <summary type="text">
+      # Django 中的 XFF 问题
+
+最近在用 Django 开发限制访问只能通过 127.0.0.1 或者内网地址访问后台的功能，关注到 Django 中存在的 XFF 问题。
+
+文中 [1. 后台访问地址/域名功能] 主要说的是...
+    </summary>
+  </entry>
   <entry>
     <title>刚跑的程序又被kill？服务器挖矿病毒解析与修复</title>
     <link href="https://forum.butian.net/share/1331"/>
@@ -178,24 +204,6 @@ KYXSCMS,灵活，方便，人性化设计简单易用是最大的特色，是快
     <published>2022-02-18T09:39:19+08:00</published>
     <summary type="text">
       分析使用DualHashBidiMap、DualTreeBidiMap、DualLinkedHashBidiMap类作为触发点来构造新的Commons Collections利用链
-    </summary>
-  </entry>
-  <entry>
-    <title>深入分析PE结构(三)</title>
-    <link href="https://forum.butian.net/share/1223"/>
-    <id>https://forum.butian.net/share/1223</id>
-    <published>2022-02-18T09:37:41+08:00</published>
-    <summary type="text">
-      分享者才是学习中最大的受益者！
-    </summary>
-  </entry>
-  <entry>
-    <title>记又一次Java代码审计</title>
-    <link href="https://forum.butian.net/share/1229"/>
-    <id>https://forum.butian.net/share/1229</id>
-    <published>2022-02-17T09:35:54+08:00</published>
-    <summary type="text">
-      这是我的Java代码审计实战的第二篇文章，下面带来一个新的CMS的审计思路和技巧
     </summary>
   </entry>
 
