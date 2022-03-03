@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-03-03T10:19:24+08:00</updated>
+  <updated>2022-03-03T12:25:28+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>从TSJCTF &amp;amp; Codegate的两道crypto题中学习新姿势</title>
+    <link href="https://tttang.com/archive/1458/"/>
+    <id>https://tttang.com/archive/1458/</id>
+    <published>2022-03-03T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;周末的时候参加了TSJCTF和codegate的比赛，感觉其中有两道题思路比较新颖，有一些新的知识值得学习，记录一下以便日后翻阅。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>shiro反序列化漏洞攻击拓展面--修改key</title>
     <link href="https://tttang.com/archive/1457/"/>
@@ -137,15 +146,6 @@
     <published>2022-02-16T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;&lt;code&gt;XSS&lt;/code&gt;（&lt;code&gt;Cross-Site Scripting&lt;/code&gt;）即为跨站脚本攻击。&lt;code&gt;XSS-Lab&lt;/code&gt;是一个&lt;code&gt;XSS&lt;/code&gt;的练习平台。可以在&lt;code&gt;BUUOJ&lt;/code&gt;上很方便的进行练习。以下是我在做&lt;code&gt;XSS-Lab&lt;/code&gt;的时候总结的题解和一些思路，给想要刷题的同学提供一些参考。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>汽车安全测试终极指南，第二篇（译文）</title>
-    <link href="https://tttang.com/archive/1435/"/>
-    <id>https://tttang.com/archive/1435/</id>
-    <published>2022-02-16T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;在本系列的第一篇文章中，我们讨论了什么是CAN总线，并简单介绍了CAN流量的基础知识，以及如何使用ICSim创建虚拟的汽车安全测试系统。在本文中，我们将为读者详细介绍如何通过CAN Traffic来嗅探汽车数据。&lt;/p&gt;
     </summary>
   </entry>
 

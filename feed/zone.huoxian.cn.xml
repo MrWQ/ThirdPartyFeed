@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-03-03T10:19:26+08:00</updated>
+  <updated>2022-03-03T12:25:27+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>致火线Zone用户的一封信!（内附奖励规则）</title>
@@ -12,6 +12,33 @@
     <published>2022-02-21T12:38:37+00:00</published>
     <summary type="text">
       致火线Zone用户的一封信!（内附奖励规则）
+    </summary>
+  </entry>
+  <entry>
+    <title>每日云安全技术资讯20220303</title>
+    <link href="https://zone.huoxian.cn/d/938-20220303"/>
+    <id>https://zone.huoxian.cn/d/938-20220303</id>
+    <published>2022-03-03T04:04:09+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220303
+    </summary>
+  </entry>
+  <entry>
+    <title>使用OpenID错误配置绕过2FA技巧分析</title>
+    <link href="https://zone.huoxian.cn/d/937-openid2fa"/>
+    <id>https://zone.huoxian.cn/d/937-openid2fa</id>
+    <published>2022-03-03T03:38:21+00:00</published>
+    <summary type="text">
+      使用OpenID错误配置绕过2FA技巧分析
+    </summary>
+  </entry>
+  <entry>
+    <title>CVE-2022-23131_Zabbix登录绕过漏洞分析及复现</title>
+    <link href="https://zone.huoxian.cn/d/936-cve-2022-23131-zabbix"/>
+    <id>https://zone.huoxian.cn/d/936-cve-2022-23131-zabbix</id>
+    <published>2022-03-03T02:50:32+00:00</published>
+    <summary type="text">
+      CVE-2022-23131_Zabbix登录绕过漏洞分析及复现
     </summary>
   </entry>
   <entry>
@@ -156,33 +183,6 @@
     <published>2022-02-24T07:38:02+00:00</published>
     <summary type="text">
       [火线云原生安全议题]浅析云存储的攻击利用方式
-    </summary>
-  </entry>
-  <entry>
-    <title>阿里云 OSS对象存储攻防</title>
-    <link href="https://zone.huoxian.cn/d/918-oss"/>
-    <id>https://zone.huoxian.cn/d/918-oss</id>
-    <published>2022-02-24T06:59:07+00:00</published>
-    <summary type="text">
-      阿里云 OSS对象存储攻防
-    </summary>
-  </entry>
-  <entry>
-    <title>每日云安全技术资讯20220224</title>
-    <link href="https://zone.huoxian.cn/d/917-20220224"/>
-    <id>https://zone.huoxian.cn/d/917-20220224</id>
-    <published>2022-02-24T05:41:07+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220224
-    </summary>
-  </entry>
-  <entry>
-    <title>火线沙龙第22期-云安全专场回顾</title>
-    <link href="https://zone.huoxian.cn/d/916-22"/>
-    <id>https://zone.huoxian.cn/d/916-22</id>
-    <published>2022-02-24T05:05:44+00:00</published>
-    <summary type="text">
-      火线沙龙第22期-云安全专场回顾
     </summary>
   </entry>
 
