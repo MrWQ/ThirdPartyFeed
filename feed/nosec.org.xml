@@ -3,8 +3,26 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-03-04T06:16:49+08:00</updated>
+  <updated>2022-03-04T18:18:21+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>深入分析CVE-2022-22947漏洞</title>
+    <link href="https://nosec.org/home/detail/4972.html"/>
+    <id>https://nosec.org/home/detail/4972.html</id>
+    <published>2022-03-04T17:50:05+08:00</published>
+    <summary type="text">
+      在分析Spring Cloud Gateway Server jar（可用于启用Gatewayactuator）过程中，我发现它用到了SpEL。当然，这本身没有什么问题，但是，问题在于它将不安全的输入...
+    </summary>
+  </entry>
+  <entry>
+    <title>深入分析CVE-2022-0185漏洞</title>
+    <link href="https://nosec.org/home/detail/4970.html"/>
+    <id>https://nosec.org/home/detail/4970.html</id>
+    <published>2022-03-04T14:34:45+08:00</published>
+    <summary type="text">
+      CVE-2022-0185是Linux内核中的一个安全漏洞，该漏洞已经潜藏了两年之久。该漏洞是在Linux v5.1中引入的，具...
+    </summary>
+  </entry>
   <entry>
     <title>【安全通报】Spring Cloud Gateway 远程代码执行漏洞风险通...</title>
     <link href="https://nosec.org/home/detail/4971.html"/>
@@ -165,24 +183,6 @@
     <published>2022-01-14T11:26:16+08:00</published>
     <summary type="text">
       作者：givemefivw@上海观安信息技术股份有限公司声明：本文提及的工具仅用于对已授权的目标进行测试，请自...
-    </summary>
-  </entry>
-  <entry>
-    <title>Vulfocus靶场竞赛 WriteUp</title>
-    <link href="https://nosec.org/home/detail/4945.html"/>
-    <id>https://nosec.org/home/detail/4945.html</id>
-    <published>2022-01-13T20:44:47+08:00</published>
-    <summary type="text">
-      作者：hxd@西津北固战队声明：本文提及的工具仅用于对已授权的目标进行测试，请自行学习网络安全法，因使用...
-    </summary>
-  </entry>
-  <entry>
-    <title>Vulfocus 靶场竞赛 WriteUp</title>
-    <link href="https://nosec.org/home/detail/4943.html"/>
-    <id>https://nosec.org/home/detail/4943.html</id>
-    <published>2022-01-14T10:30:03+08:00</published>
-    <summary type="text">
-      作者：夏天@UTF-8声明：本文提及的工具仅用于对已授权的目标进行测试，请自行学习网络安全法，因使用本文提...
     </summary>
   </entry>
 
