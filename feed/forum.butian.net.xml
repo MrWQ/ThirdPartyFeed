@@ -3,8 +3,17 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-03-07T09:49:50+08:00</updated>
+  <updated>2022-03-07T12:21:09+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>又记一次安服仔薅洞实战-未授权之发现postgresql注入</title>
+    <link href="https://forum.butian.net/share/1344"/>
+    <id>https://forum.butian.net/share/1344</id>
+    <published>2022-03-07T09:55:23+08:00</published>
+    <summary type="text">
+      距离上次文章又过去了小半年的时间，忙了小半年也没有什么优秀的东西分享就一直沉寂着，这次我带着实战干货又回来啦！这一次也是干公司的项目，是关于一个登录框的渗透测试，也不逼逼了开始渗透
+    </summary>
+  </entry>
   <entry>
     <title>从一道pwn题看侧信道攻击</title>
     <link href="https://forum.butian.net/share/1343"/>
@@ -196,15 +205,6 @@ off-by-one是一种堆溢出，从它的名字上来看就知道它只能够溢�
     <published>2022-02-22T09:46:30+08:00</published>
     <summary type="text">
       微信小程序渗透的经验分享
-    </summary>
-  </entry>
-  <entry>
-    <title>记一次信息泄露到GetShell</title>
-    <link href="https://forum.butian.net/share/1243"/>
-    <id>https://forum.butian.net/share/1243</id>
-    <published>2022-02-22T09:34:29+08:00</published>
-    <summary type="text">
-      一次有趣简短的渗透，记录下从信息泄露到Getshell的有趣过程，主要分享下思路以及基础的知识
     </summary>
   </entry>
 
