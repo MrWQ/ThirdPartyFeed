@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-03-07T06:15:48+08:00</updated>
+  <updated>2022-03-07T09:49:47+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>致火线Zone用户的一封信!（内附奖励规则）</title>
@@ -12,6 +12,24 @@
     <published>2022-02-21T12:38:37+00:00</published>
     <summary type="text">
       致火线Zone用户的一封信!（内附奖励规则）
+    </summary>
+  </entry>
+  <entry>
+    <title>Log4j2 RCE 复现</title>
+    <link href="https://zone.huoxian.cn/d/947-log4j2-rce"/>
+    <id>https://zone.huoxian.cn/d/947-log4j2-rce</id>
+    <published>2022-03-07T01:48:17+00:00</published>
+    <summary type="text">
+      Log4j2 RCE 复现
+    </summary>
+  </entry>
+  <entry>
+    <title>VUE站点的XSS漏洞实战分享</title>
+    <link href="https://zone.huoxian.cn/d/946-vuexss"/>
+    <id>https://zone.huoxian.cn/d/946-vuexss</id>
+    <published>2022-03-07T00:56:18+00:00</published>
+    <summary type="text">
+      VUE站点的XSS漏洞实战分享
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-02-28T04:02:53+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220228
-    </summary>
-  </entry>
-  <entry>
-    <title>境外IOT目标信息收集实战——Red Sun</title>
-    <link href="https://zone.huoxian.cn/d/924-iot-red-sun"/>
-    <id>https://zone.huoxian.cn/d/924-iot-red-sun</id>
-    <published>2022-02-28T03:24:20+00:00</published>
-    <summary type="text">
-      境外IOT目标信息收集实战——Red Sun
-    </summary>
-  </entry>
-  <entry>
-    <title>【火线zone社区周激励】2022年2月21号～2022年2月27号公告</title>
-    <link href="https://zone.huoxian.cn/d/923-zone20222212022227"/>
-    <id>https://zone.huoxian.cn/d/923-zone20222212022227</id>
-    <published>2022-02-28T02:45:19+00:00</published>
-    <summary type="text">
-      【火线zone社区周激励】2022年2月21号～2022年2月27号公告
     </summary>
   </entry>
 

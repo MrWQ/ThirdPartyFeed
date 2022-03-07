@@ -3,8 +3,18 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-03-07T06:15:48+08:00</updated>
+  <updated>2022-03-07T09:49:46+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>渗透测试工具 OWASP ZAP 的 RCE 反制</title>
+    <link href="https://tttang.com/archive/1468/"/>
+    <id>https://tttang.com/archive/1468/</id>
+    <published>2022-03-07T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;OWASP Zed Attack Proxy 简称 ZAP，是一个开源的安全测试工具，功能和 Burpsuite 基本一样，它们同样使用 Java 语言编写，本人也曾有用过一段时间 ZAP，它完全可以替代 Burpsuite，不过也可能是由于先入为主的观念还是觉得 Burpsuite 用着更顺手。&lt;/p&gt;
+&lt;p&gt;自从 2021.12 月的 log4j2 JNDI 漏洞出现，ZAP 官方也随之更新了关于 ZAP 受到 log4j2 漏洞影响的公告，详情参见&lt;a href=&quot;https://www.zaproxy.org/blog/2021-12-10-zap-and-log4shell/&quot; target=&quot;_blank&quot;&gt;ZAP and Log4Shell&lt;/a&gt;&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>Make JDBC Attacks Brilliant Again 番外篇</title>
     <link href="https://tttang.com/archive/1462/"/>
@@ -140,15 +150,6 @@
       &lt;blockquote&gt;
 &lt;p&gt;考点就是JOP（Jump Oriented Programming&lt;a href=&quot;https://ctf-wiki.org/blockchain/ethereum/attacks/jump-oriented-programming/#jump-oriented-programming&quot; target=&quot;_blank&quot;&gt;¶&lt;/a&gt;），这种攻击方式首次应该是出现在RW 2019的决赛上，是首席提出的一种全新攻击方式。然后断断续续在qwb final和其他比赛中也出现过相关的赛题。相对来说是智能合约中较为复杂的一种利用方式。&lt;/p&gt;
 &lt;/blockquote&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>JAVA 协议安全笔记-JNDI篇</title>
-    <link href="https://tttang.com/archive/1441/"/>
-    <id>https://tttang.com/archive/1441/</id>
-    <published>2022-02-17T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;JNDI 全称为 &lt;code&gt;Java Naming and Directory Interface&lt;/code&gt; 也即JAVA 名称和目录接口&lt;/p&gt;
     </summary>
   </entry>
 
