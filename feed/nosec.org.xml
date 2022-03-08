@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-03-08T12:21:50+08:00</updated>
+  <updated>2022-03-08T18:18:22+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>【安全通报】Linux DirtyPipe本地权限提升漏洞 （CVE-2022-...</title>
+    <link href="https://nosec.org/home/detail/4974.html"/>
+    <id>https://nosec.org/home/detail/4974.html</id>
+    <published>2022-03-08T17:43:43+08:00</published>
+    <summary type="text">
+      近日，网络上出现 Linux 下 DirtyPipe 本地权限提升漏洞，任何非特权本地用户可通过此漏洞获取root权限。目...
+    </summary>
+  </entry>
   <entry>
     <title>深入分析CVE-2022-0185漏洞</title>
     <link href="https://nosec.org/home/detail/4970.html"/>
@@ -174,15 +183,6 @@
     <published>2022-01-14T11:26:16+08:00</published>
     <summary type="text">
       作者：givemefivw@上海观安信息技术股份有限公司声明：本文提及的工具仅用于对已授权的目标进行测试，请自...
-    </summary>
-  </entry>
-  <entry>
-    <title>Vulfocus靶场竞赛 WriteUp</title>
-    <link href="https://nosec.org/home/detail/4945.html"/>
-    <id>https://nosec.org/home/detail/4945.html</id>
-    <published>2022-01-13T20:44:47+08:00</published>
-    <summary type="text">
-      作者：hxd@西津北固战队声明：本文提及的工具仅用于对已授权的目标进行测试，请自行学习网络安全法，因使用...
     </summary>
   </entry>
 

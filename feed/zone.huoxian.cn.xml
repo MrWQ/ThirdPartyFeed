@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-03-08T12:21:41+08:00</updated>
+  <updated>2022-03-08T18:18:13+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>致火线Zone用户的一封信!（内附奖励规则）</title>
@@ -12,6 +12,33 @@
     <published>2022-02-21T12:38:37+00:00</published>
     <summary type="text">
       致火线Zone用户的一封信!（内附奖励规则）
+    </summary>
+  </entry>
+  <entry>
+    <title>OSS的一点其他思路</title>
+    <link href="https://zone.huoxian.cn/d/958-oss"/>
+    <id>https://zone.huoxian.cn/d/958-oss</id>
+    <published>2022-03-08T05:58:51+00:00</published>
+    <summary type="text">
+      OSS的一点其他思路
+    </summary>
+  </entry>
+  <entry>
+    <title>打靶仔系列：记一次hackmyvm综合靶场渗透-beloved</title>
+    <link href="https://zone.huoxian.cn/d/957-hackmyvm-beloved"/>
+    <id>https://zone.huoxian.cn/d/957-hackmyvm-beloved</id>
+    <published>2022-03-08T05:09:33+00:00</published>
+    <summary type="text">
+      打靶仔系列：记一次hackmyvm综合靶场渗透-beloved
+    </summary>
+  </entry>
+  <entry>
+    <title>打靶仔系列：记一次hackmyvm综合靶场渗透-BASEME</title>
+    <link href="https://zone.huoxian.cn/d/956-hackmyvm-baseme"/>
+    <id>https://zone.huoxian.cn/d/956-hackmyvm-baseme</id>
+    <published>2022-03-08T04:42:37+00:00</published>
+    <summary type="text">
+      打靶仔系列：记一次hackmyvm综合靶场渗透-BASEME
     </summary>
   </entry>
   <entry>
@@ -156,33 +183,6 @@
     <published>2022-03-03T04:04:09+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220303
-    </summary>
-  </entry>
-  <entry>
-    <title>使用OpenID错误配置绕过2FA技巧分析</title>
-    <link href="https://zone.huoxian.cn/d/937-openid2fa"/>
-    <id>https://zone.huoxian.cn/d/937-openid2fa</id>
-    <published>2022-03-03T03:38:21+00:00</published>
-    <summary type="text">
-      使用OpenID错误配置绕过2FA技巧分析
-    </summary>
-  </entry>
-  <entry>
-    <title>CVE-2022-23131_Zabbix登录绕过漏洞分析及复现</title>
-    <link href="https://zone.huoxian.cn/d/936-cve-2022-23131-zabbix"/>
-    <id>https://zone.huoxian.cn/d/936-cve-2022-23131-zabbix</id>
-    <published>2022-03-03T02:50:32+00:00</published>
-    <summary type="text">
-      CVE-2022-23131_Zabbix登录绕过漏洞分析及复现
-    </summary>
-  </entry>
-  <entry>
-    <title>火线沙龙第23期—云原生&amp;DevSecOps专场</title>
-    <link href="https://zone.huoxian.cn/d/935-23-devsecops"/>
-    <id>https://zone.huoxian.cn/d/935-23-devsecops</id>
-    <published>2022-03-02T10:22:11+00:00</published>
-    <summary type="text">
-      火线沙龙第23期—云原生&amp;DevSecOps专场
     </summary>
   </entry>
 
