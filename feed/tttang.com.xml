@@ -3,8 +3,27 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-03-08T09:37:46+08:00</updated>
+  <updated>2022-03-08T12:21:42+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>汽车安全测试终极指南，第三篇（译文）</title>
+    <link href="https://tttang.com/archive/1437/"/>
+    <id>https://tttang.com/archive/1437/</id>
+    <published>2022-03-08T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;在上两篇文章中，我们介绍了如何安装汽车模拟软件，以及进行安全测试所需的其他软硬件。在今天的文章中，我们将详细介绍安全测试过程。&lt;/p&gt;
+&lt;p&gt;首先，我们将为大家介绍SavvyCAN，以及如何与ICSIM搭配使用。之后，我们将演示如何用SavvyCAN进行模糊测试，以及通过脚本控制SavvyCAN。&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>2021柏鹫杯 MISC4 APP深入逆向分析</title>
+    <link href="https://tttang.com/archive/1459/"/>
+    <id>https://tttang.com/archive/1459/</id>
+    <published>2022-03-08T12:00:00+08:00</published>
+    <summary type="text">
+      
+    </summary>
+  </entry>
   <entry>
     <title>渗透测试工具 OWASP ZAP 的 RCE 反制</title>
     <link href="https://tttang.com/archive/1468/"/>
@@ -130,26 +149,6 @@
     <summary type="text">
       &lt;p&gt;在前几天的DiceCTF里，遇到了一道关于WebAssembly的题目。解题时利用Unicode字符的转换问题，使前端js脚本与WebAssembly进行交互时出现异常，以达到XSS的效果。&lt;/p&gt;
 &lt;p&gt;解题时也了解了一些关于&lt;code&gt;WebAssembly&lt;/code&gt;的知识，算是有所收获&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>我是如何利用环境变量注入执行任意命令</title>
-    <link href="https://tttang.com/archive/1450/"/>
-    <id>https://tttang.com/archive/1450/</id>
-    <published>2022-02-20T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;本文讲述了在可以控制环境变量的情况下，我是如何劫持dash和bash的环境变量并执行任意命令的，并分享了多个可能导致劫持的环境变量。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>ParadigmCTF JOP</title>
-    <link href="https://tttang.com/archive/1444/"/>
-    <id>https://tttang.com/archive/1444/</id>
-    <published>2022-02-18T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;blockquote&gt;
-&lt;p&gt;考点就是JOP（Jump Oriented Programming&lt;a href=&quot;https://ctf-wiki.org/blockchain/ethereum/attacks/jump-oriented-programming/#jump-oriented-programming&quot; target=&quot;_blank&quot;&gt;¶&lt;/a&gt;），这种攻击方式首次应该是出现在RW 2019的决赛上，是首席提出的一种全新攻击方式。然后断断续续在qwb final和其他比赛中也出现过相关的赛题。相对来说是智能合约中较为复杂的一种利用方式。&lt;/p&gt;
-&lt;/blockquote&gt;
     </summary>
   </entry>
 

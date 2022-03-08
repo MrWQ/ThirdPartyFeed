@@ -3,8 +3,30 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-03-08T09:37:49+08:00</updated>
+  <updated>2022-03-08T12:21:44+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>基于PEB断链实现进程/模块隐藏</title>
+    <link href="https://forum.butian.net/share/1362"/>
+    <id>https://forum.butian.net/share/1362</id>
+    <published>2022-03-08T09:41:24+08:00</published>
+    <summary type="text">
+      断链这种技术非常古老，同时应用于非常多的场景，在内核层如果我们需要隐藏一个进程的内核结构体，也会使用这种技术。本文基于PEB断链在用户层和内核层分别进行实现，在用户层达到的效果主要是dll模块的隐藏，在内核层达到的效果主要是进程的隐藏。
+    </summary>
+  </entry>
+  <entry>
+    <title>ring0下多核环境hook高并发函数</title>
+    <link href="https://forum.butian.net/share/1361"/>
+    <id>https://forum.butian.net/share/1361</id>
+    <published>2022-03-08T09:39:19+08:00</published>
+    <summary type="text">
+      &amp;amp;gt; r0层多核下hook高并发函数存在的问题是：在使用如memcpy的时候，无法一次性拷贝5个字节的硬编码。即有可能拷贝到一半，别的线程去执行了代码导致蓝屏。
+
+解决的办法有：
+
+1. 短跳中转...
+    </summary>
+  </entry>
   <entry>
     <title>又记一次安服仔薅洞实战-未授权之发现postgresql注入</title>
     <link href="https://forum.butian.net/share/1344"/>
@@ -187,24 +209,6 @@ off-by-one是一种堆溢出，从它的名字上来看就知道它只能够溢�
     <published>2022-02-23T09:52:35+08:00</published>
     <summary type="text">
       Window向之x86 ShellCode入门
-    </summary>
-  </entry>
-  <entry>
-    <title>JDWP调试接口RCE漏洞介绍</title>
-    <link href="https://forum.butian.net/share/1232"/>
-    <id>https://forum.butian.net/share/1232</id>
-    <published>2022-02-23T09:48:00+08:00</published>
-    <summary type="text">
-      本文介绍了JDWP协议的通信过程以及数据包结构，对JDWP调试接口RCE漏洞的三种漏洞利用方法进行了讲解
-    </summary>
-  </entry>
-  <entry>
-    <title>浅谈微信小程序渗透</title>
-    <link href="https://forum.butian.net/share/1227"/>
-    <id>https://forum.butian.net/share/1227</id>
-    <published>2022-02-22T09:46:30+08:00</published>
-    <summary type="text">
-      微信小程序渗透的经验分享
     </summary>
   </entry>
 
