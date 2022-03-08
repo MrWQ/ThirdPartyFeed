@@ -3,8 +3,17 @@
   <title>SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link href="https://blog.sonarsource.com/"/>
-  <updated>2022-03-08T18:18:11+08:00</updated>
+  <updated>2022-03-09T06:16:49+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title>Securing Developer Tools: Package Managers</title>
+    <link href="https://blog.sonarsource.com/securing-developer-tools-package-managers"/>
+    <id>https://blog.sonarsource.com/securing-developer-tools-package-managers</id>
+    <published>2022-03-08T14:02:48Z</published>
+    <summary type="text">
+      Yarn, Pip, Composer &amp; friends: Learn about 3 types of vulnerabilities we found in popular package managers that can be used by attackers to target developers.
+    </summary>
+  </entry>
   <entry>
     <title>5 things to consider in performance comparisons</title>
     <link href="https://blog.sonarsource.com/5-things-to-consider-in-performance-comparisons"/>
@@ -174,15 +183,6 @@
     <published>2021-10-21T14:55:30Z</published>
     <summary type="text">
       We are very pleased to announce that we have released a new project experience. It’s now available in SonarCloud for all users. You’ll notice a few improvements the next time you open SonarCloud. We’re going to tell you more about what this makeover is about in this article.
-    </summary>
-  </entry>
-  <entry>
-    <title>Squirrel Sandbox Escape allows Code Execution in Games and Cloud Services</title>
-    <link href="https://blog.sonarsource.com/squirrel-vm-sandbox-escape"/>
-    <id>https://blog.sonarsource.com/squirrel-vm-sandbox-escape</id>
-    <published>2021-10-19T15:10:16Z</published>
-    <summary type="text">
-      We discovered and reported a vulnerability in the Squirrel VM, written in C, that allows an attacker to escape the sandbox.
     </summary>
   </entry>
 
