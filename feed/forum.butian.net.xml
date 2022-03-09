@@ -3,8 +3,27 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-03-09T06:16:50+08:00</updated>
+  <updated>2022-03-09T12:21:29+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>针对可道云文件管理系统的病毒分析</title>
+    <link href="https://forum.butian.net/share/1378"/>
+    <id>https://forum.butian.net/share/1378</id>
+    <published>2022-03-09T11:35:01+08:00</published>
+    <summary type="text">
+      ## 前言
+之前在挖掘可到云文件管理系统漏洞的时候，在一个没有装防火墙的轻量级服务器上搭建了一个环境。在漏洞挖掘结束以后，服务器就没有再使用过。但是因为服务器之前搭建过靶场，留下了一...
+    </summary>
+  </entry>
+  <entry>
+    <title>flask SSTI学习与总结</title>
+    <link href="https://forum.butian.net/share/1371"/>
+    <id>https://forum.butian.net/share/1371</id>
+    <published>2022-03-09T09:34:27+08:00</published>
+    <summary type="text">
+      以flask框架进行SSTI的学习与绕过姿势的总结
+    </summary>
+  </entry>
   <entry>
     <title>基于PEB断链实现进程/模块隐藏</title>
     <link href="https://forum.butian.net/share/1362"/>
@@ -191,24 +210,6 @@ off-by-one是一种堆溢出，从它的名字上来看就知道它只能够溢�
     <published>2022-02-24T09:19:46+08:00</published>
     <summary type="text">
       我司一客户紧急求助，他们被监管单位通报被apt组织攻击，我于是紧急赶往现场进行应急响应。
-    </summary>
-  </entry>
-  <entry>
-    <title>Bvp47——来自美国国安局方程式组织的顶级后门</title>
-    <link href="https://forum.butian.net/share/1327"/>
-    <id>https://forum.butian.net/share/1327</id>
-    <published>2022-02-23T11:09:26+08:00</published>
-    <summary type="text">
-      2013年，盘古实验室研究员在针对某国内要害部门主机的调查过程中，提取了一个经过复杂加密的Linux平台后门，其使用的基于SYN包的高级隐蔽信道行为和自身的代码混淆、系统隐藏、自毁设计前所未见...
-    </summary>
-  </entry>
-  <entry>
-    <title>Window向之x86 ShellCode入门</title>
-    <link href="https://forum.butian.net/share/1244"/>
-    <id>https://forum.butian.net/share/1244</id>
-    <published>2022-02-23T09:52:35+08:00</published>
-    <summary type="text">
-      Window向之x86 ShellCode入门
     </summary>
   </entry>
 

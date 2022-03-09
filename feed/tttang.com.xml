@@ -3,8 +3,19 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-03-09T06:16:49+08:00</updated>
+  <updated>2022-03-09T12:21:26+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>K8s安全入门学习扫盲贴</title>
+    <link href="https://tttang.com/archive/1465/"/>
+    <id>https://tttang.com/archive/1465/</id>
+    <published>2022-03-09T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;blockquote&gt;
+&lt;p&gt;云的定义看似模糊，但本质上，它是一个用于描述全球服务器网络的术语，每个服务器都有一个独特的功能。云不是一个物理实体，而是一个庞大的全球远程服务器网络，它们连接在一起，旨在作为单一的生态系统运行。这些服务器设计用于存储和管理数据、运行应用程序，或者交付内容/服务（如视频短片、Web 邮件、办公室生产力软件或社交媒体）。不是从本地或个人计算机访问文件和数据，而是通过任何支持 Internet 的设备在线访问 - 这些信息在必要时随时随地可用。&lt;/p&gt;
+&lt;/blockquote&gt;
+    </summary>
+  </entry>
   <entry>
     <title>汽车安全测试终极指南，第三篇（译文）</title>
     <link href="https://tttang.com/archive/1437/"/>
@@ -139,16 +150,6 @@
 &lt;p&gt;但题目开启了 V8 沙箱，一个新的安全机制，直接阻止了我们构造任意地址读写原语，能访问的范围是 array 基址后连续的 4G 地址空间。&lt;/p&gt;
 &lt;p&gt;绕过这个沙箱是本题的重点，看了两篇wp有所收获，所以整理了下绕过手法，未来可能会用到。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/Jayl1n/CTF-Writeup/blob/master/DiceCTF2022/memory-hole/1984.tar.gz&quot; target=&quot;_blank&quot;&gt;题目地址&lt;/a&gt;&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>一道有趣的CTF赛题-unicode引发的WebAssembly与js交互问题</title>
-    <link href="https://tttang.com/archive/1434/"/>
-    <id>https://tttang.com/archive/1434/</id>
-    <published>2022-02-21T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;在前几天的DiceCTF里，遇到了一道关于WebAssembly的题目。解题时利用Unicode字符的转换问题，使前端js脚本与WebAssembly进行交互时出现异常，以达到XSS的效果。&lt;/p&gt;
-&lt;p&gt;解题时也了解了一些关于&lt;code&gt;WebAssembly&lt;/code&gt;的知识，算是有所收获&lt;/p&gt;
     </summary>
   </entry>
 
