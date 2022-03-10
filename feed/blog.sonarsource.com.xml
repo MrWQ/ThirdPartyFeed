@@ -3,8 +3,17 @@
   <title>SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link href="https://blog.sonarsource.com/"/>
-  <updated>2022-03-10T12:21:31+08:00</updated>
+  <updated>2022-03-10T18:18:17+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title>How Productboard helps us prioritize features and build great roadmaps</title>
+    <link href="https://blog.sonarsource.com/how-productboard-helps-us-prioritize-features"/>
+    <id>https://blog.sonarsource.com/how-productboard-helps-us-prioritize-features</id>
+    <published>2022-03-10T09:14:10Z</published>
+    <summary type="text">
+      It&#x27;s been a year and a half now since we started using Productboard at SonarSource to manage features. During this time, we switched from Jira to this new tool and took the time to change our way of doing product management. Here is how.
+    </summary>
+  </entry>
   <entry>
     <title>Securing Developer Tools: Package Managers</title>
     <link href="https://blog.sonarsource.com/securing-developer-tools-package-managers"/>
@@ -174,15 +183,6 @@
     <published>2021-10-26T09:41:19Z</published>
     <summary type="text">
       We recently discovered critical security issues in the popular CI/CD solution GoCD that can be exploited by unauthenticated attackers
-    </summary>
-  </entry>
-  <entry>
-    <title>Meet the new project experience for SonarCloud</title>
-    <link href="https://blog.sonarsource.com/meet-the-new-project-experience"/>
-    <id>https://blog.sonarsource.com/meet-the-new-project-experience</id>
-    <published>2021-10-21T14:55:30Z</published>
-    <summary type="text">
-      We are very pleased to announce that we have released a new project experience. It’s now available in SonarCloud for all users. You’ll notice a few improvements the next time you open SonarCloud. We’re going to tell you more about what this makeover is about in this article.
     </summary>
   </entry>
 

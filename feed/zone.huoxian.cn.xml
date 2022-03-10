@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-03-10T12:21:33+08:00</updated>
+  <updated>2022-03-10T18:18:19+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>致火线Zone用户的一封信!（内附奖励规则）</title>
@@ -12,6 +12,42 @@
     <published>2022-02-21T12:38:37+00:00</published>
     <summary type="text">
       致火线Zone用户的一封信!（内附奖励规则）
+    </summary>
+  </entry>
+  <entry>
+    <title>DevOps落地思考</title>
+    <link href="https://zone.huoxian.cn/d/969-devops"/>
+    <id>https://zone.huoxian.cn/d/969-devops</id>
+    <published>2022-03-10T07:00:55+00:00</published>
+    <summary type="text">
+      DevOps落地思考
+    </summary>
+  </entry>
+  <entry>
+    <title>火线沙龙第23期-云原生&amp;DevSecOps专场总结</title>
+    <link href="https://zone.huoxian.cn/d/968-23-devsecops"/>
+    <id>https://zone.huoxian.cn/d/968-23-devsecops</id>
+    <published>2022-03-10T06:27:03+00:00</published>
+    <summary type="text">
+      火线沙龙第23期-云原生&amp;DevSecOps专场总结
+    </summary>
+  </entry>
+  <entry>
+    <title>每日云安全技术资讯20220310</title>
+    <link href="https://zone.huoxian.cn/d/967-20220310"/>
+    <id>https://zone.huoxian.cn/d/967-20220310</id>
+    <published>2022-03-10T05:18:28+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220310
+    </summary>
+  </entry>
+  <entry>
+    <title>中台和多云管理是伪问题？运维要集体下岗了吗？</title>
+    <link href="https://zone.huoxian.cn/d/966"/>
+    <id>https://zone.huoxian.cn/d/966</id>
+    <published>2022-03-10T04:26:44+00:00</published>
+    <summary type="text">
+      中台和多云管理是伪问题？运维要集体下岗了吗？
     </summary>
   </entry>
   <entry>
@@ -147,42 +183,6 @@
     <published>2022-03-07T03:20:40+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220307
-    </summary>
-  </entry>
-  <entry>
-    <title>【火线zone社区周激励】2022年2月28号～2022年3月6号公告</title>
-    <link href="https://zone.huoxian.cn/d/950-zone2022228202236"/>
-    <id>https://zone.huoxian.cn/d/950-zone2022228202236</id>
-    <published>2022-03-07T03:14:19+00:00</published>
-    <summary type="text">
-      【火线zone社区周激励】2022年2月28号～2022年3月6号公告
-    </summary>
-  </entry>
-  <entry>
-    <title>腾讯云COS对象存储攻防</title>
-    <link href="https://zone.huoxian.cn/d/949-cos"/>
-    <id>https://zone.huoxian.cn/d/949-cos</id>
-    <published>2022-03-07T02:30:51+00:00</published>
-    <summary type="text">
-      腾讯云COS对象存储攻防
-    </summary>
-  </entry>
-  <entry>
-    <title>[更新]想写个存储桶利用工具[画饼进度: 阿里云存储桶]</title>
-    <link href="https://zone.huoxian.cn/d/948"/>
-    <id>https://zone.huoxian.cn/d/948</id>
-    <published>2022-03-07T02:22:47+00:00</published>
-    <summary type="text">
-      [更新]想写个存储桶利用工具[画饼进度: 阿里云存储桶]
-    </summary>
-  </entry>
-  <entry>
-    <title>Log4j2 RCE 复现</title>
-    <link href="https://zone.huoxian.cn/d/947-log4j2-rce"/>
-    <id>https://zone.huoxian.cn/d/947-log4j2-rce</id>
-    <published>2022-03-07T01:48:17+00:00</published>
-    <summary type="text">
-      Log4j2 RCE 复现
     </summary>
   </entry>
 
