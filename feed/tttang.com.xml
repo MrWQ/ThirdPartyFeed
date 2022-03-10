@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-03-10T06:16:29+08:00</updated>
+  <updated>2022-03-10T12:21:33+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>syscall的前世今生</title>
+    <link href="https://tttang.com/archive/1464/"/>
+    <id>https://tttang.com/archive/1464/</id>
+    <published>2022-03-10T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;学免杀不可避免的学习syscall，虽然是几年前的技术，还是有必要学习。学习新技术之前先掌握旧技术。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>K8s安全入门学习扫盲贴</title>
     <link href="https://tttang.com/archive/1465/"/>
@@ -137,19 +146,6 @@
     <published>2022-02-22T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;在本文中，我们将为读者详细介绍与影子票据漏洞相关的事宜。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>V8 沙箱绕过</title>
-    <link href="https://tttang.com/archive/1443/"/>
-    <id>https://tttang.com/archive/1443/</id>
-    <published>2022-02-22T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;这是 DiceCTF2022 的一道题 memory hole。&lt;/p&gt;
-&lt;p&gt;题目给了我们修改任意 array 的 length 的能力，按过往的经验，接下来很简单，就是构造任意地址读写原语，构造 WASM 实例，读 RWX 空间地址，写 shellcode ，调 WASM 函数，OK。&lt;/p&gt;
-&lt;p&gt;但题目开启了 V8 沙箱，一个新的安全机制，直接阻止了我们构造任意地址读写原语，能访问的范围是 array 基址后连续的 4G 地址空间。&lt;/p&gt;
-&lt;p&gt;绕过这个沙箱是本题的重点，看了两篇wp有所收获，所以整理了下绕过手法，未来可能会用到。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Jayl1n/CTF-Writeup/blob/master/DiceCTF2022/memory-hole/1984.tar.gz&quot; target=&quot;_blank&quot;&gt;题目地址&lt;/a&gt;&lt;/p&gt;
     </summary>
   </entry>
 

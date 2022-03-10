@@ -3,8 +3,28 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-03-10T06:16:29+08:00</updated>
+  <updated>2022-03-10T12:21:36+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>CVE-2022-22005 Microsoft Sharepoint RCE</title>
+    <link href="https://forum.butian.net/share/1384"/>
+    <id>https://forum.butian.net/share/1384</id>
+    <published>2022-03-10T10:30:15+08:00</published>
+    <summary type="text">
+      ## 简介
+
+SharePoint 是一个用于共享和管理内容、知识和应用程序以支持团队合作、快速查找信息以及在整个组织内无缝协作的平台。超过 200,000 个组织和 1.9 亿人将 SharePoint 用于 Intranet...
+    </summary>
+  </entry>
+  <entry>
+    <title>Windows原理深入学习系列-强制完整性控制</title>
+    <link href="https://forum.butian.net/share/1381"/>
+    <id>https://forum.butian.net/share/1381</id>
+    <published>2022-03-10T09:50:04+08:00</published>
+    <summary type="text">
+      通过逆向分析来学习一下Windows的机制
+    </summary>
+  </entry>
   <entry>
     <title>针对可道云文件管理系统的病毒分析</title>
     <link href="https://forum.butian.net/share/1378"/>
@@ -192,24 +212,6 @@ off-by-one是一种堆溢出，从它的名字上来看就知道它只能够溢�
     <published>2022-02-25T09:36:09+08:00</published>
     <summary type="text">
       简单的 Django 安全开发小记：SECRET_KEY 密钥、前后端分离身份认证、后台动作安全、复杂的后台数据验证。
-    </summary>
-  </entry>
-  <entry>
-    <title>浅谈CTF中的unity游戏逆向</title>
-    <link href="https://forum.butian.net/share/1294"/>
-    <id>https://forum.butian.net/share/1294</id>
-    <published>2022-02-24T09:22:22+08:00</published>
-    <summary type="text">
-      近期的各种比赛中，re整的花活是越来越多了，unity游戏逆向的地位也是水涨船高。unity游戏逆向主要可以分成两类，dll游戏和libil2cpp游戏。unity游戏逆向在ctf中的难度分布相当不均匀，分析手段花样繁多（常规加解密手段、dll爆破、frida……）。值得我们好好学习。
-    </summary>
-  </entry>
-  <entry>
-    <title>应急响应之响尾蛇APT组织攻击</title>
-    <link href="https://forum.butian.net/share/1292"/>
-    <id>https://forum.butian.net/share/1292</id>
-    <published>2022-02-24T09:19:46+08:00</published>
-    <summary type="text">
-      我司一客户紧急求助，他们被监管单位通报被apt组织攻击，我于是紧急赶往现场进行应急响应。
     </summary>
   </entry>
 
