@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-03-11T06:16:57+08:00</updated>
+  <updated>2022-03-11T18:18:43+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>Windows原理深入学习系列-访问控制列表</title>
+    <link href="https://forum.butian.net/share/1387"/>
+    <id>https://forum.butian.net/share/1387</id>
+    <published>2022-03-11T17:28:11+08:00</published>
+    <summary type="text">
+      逆向学习Windows的机制
+    </summary>
+  </entry>
+  <entry>
+    <title>Spring cloud gateway通过SPEL注入内存马</title>
+    <link href="https://forum.butian.net/share/1385"/>
+    <id>https://forum.butian.net/share/1385</id>
+    <published>2022-03-11T09:31:04+08:00</published>
+    <summary type="text">
+      最进小火的漏洞`CVE-2022-22947`虽然原理简单，但是实战利用还是有点小麻烦。目前公开的利用是每执行一条命就得注册一条路由，refresh一下网关，最后在访问这个路由。先不说步骤较多，就是频繁刷新会影响业务。实战当中注入一个内存马才是硬道理！
+    </summary>
+  </entry>
   <entry>
     <title>CVE-2022-22005 Microsoft Sharepoint RCE</title>
     <link href="https://forum.butian.net/share/1384"/>
@@ -194,24 +212,6 @@ SharePoint 是一个用于共享和管理内容、知识和应用程序以支持
 # 0x00 前言
 
 off-by-one是一种堆溢出，从它的名字上来看就知道它只能够溢出一个字节。在之前很长的一段时间off-by-one漏洞被认为是不可利用的，不过这样...
-    </summary>
-  </entry>
-  <entry>
-    <title>那CTF，那VMre，那些事（二）</title>
-    <link href="https://forum.butian.net/share/1301"/>
-    <id>https://forum.butian.net/share/1301</id>
-    <published>2022-02-25T09:36:24+08:00</published>
-    <summary type="text">
-      本篇文章主要讨论了vm虚拟机逆向中angr符号执行的妙用，以及更加复杂的vm逆向题目的分析，本篇文章为系列文章的第二篇。
-    </summary>
-  </entry>
-  <entry>
-    <title>Django 安全开发小记</title>
-    <link href="https://forum.butian.net/share/1302"/>
-    <id>https://forum.butian.net/share/1302</id>
-    <published>2022-02-25T09:36:09+08:00</published>
-    <summary type="text">
-      简单的 Django 安全开发小记：SECRET_KEY 密钥、前后端分离身份认证、后台动作安全、复杂的后台数据验证。
     </summary>
   </entry>
 
