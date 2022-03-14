@@ -20,6 +20,7 @@ NOSEC安全讯息平台 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPart
 Seebug | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/www.seebug.org.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/www.seebug.org.xml)
 SonarSource Blog | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/blog.sonarsource.com.xml)
 SecWiki周刊 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/www.sec-wiki.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/www.sec-wiki.com.xml)
+SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/sec-in.com.xml)
 
 ## 相关资源
 
