@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-03-14T06:15:42+08:00</updated>
+  <updated>2022-03-14T12:26:23+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>SpringBlade框架JWT认证缺陷漏洞</title>
+    <link href="https://forum.butian.net/share/973"/>
+    <id>https://forum.butian.net/share/973</id>
+    <published>2022-03-14T10:25:34+08:00</published>
+    <summary type="text">
+      SpringBlade框架JWT认证缺陷漏洞
+    </summary>
+  </entry>
+  <entry>
+    <title>spring-blade SQL注入漏洞</title>
+    <link href="https://forum.butian.net/share/1089"/>
+    <id>https://forum.butian.net/share/1089</id>
+    <published>2022-03-14T10:23:43+08:00</published>
+    <summary type="text">
+      spring-blade SQL注入漏洞挖掘实战
+    </summary>
+  </entry>
   <entry>
     <title>Windows原理深入学习系列-访问控制列表</title>
     <link href="https://forum.butian.net/share/1387"/>
@@ -190,28 +208,6 @@ SharePoint 是一个用于共享和管理内容、知识和应用程序以支持
     <published>2022-03-01T09:31:24+08:00</published>
     <summary type="text">
       只有对工具足够的了解，才能够更好的进行修改
-    </summary>
-  </entry>
-  <entry>
-    <title>用户层下API的逆向分析及重构</title>
-    <link href="https://forum.butian.net/share/1318"/>
-    <id>https://forum.butian.net/share/1318</id>
-    <published>2022-02-28T09:45:59+08:00</published>
-    <summary type="text">
-      Windows所提供给R3环的API，实质就是对操作系统接口的封装，其实现部分都是在R0实现的。很多恶意程序会利用钩子来钩取这些API，从而达到截取内容，修改数据的意图。现在我们使用ollydbg对ReadProcessMemory进行跟踪分析，查看其在R3的实现。
-    </summary>
-  </entry>
-  <entry>
-    <title>对于堆上off-by-one的个人见解</title>
-    <link href="https://forum.butian.net/share/1307"/>
-    <id>https://forum.butian.net/share/1307</id>
-    <published>2022-02-28T09:44:07+08:00</published>
-    <summary type="text">
-      # 对于堆上off-by-one的个人见解
-
-# 0x00 前言
-
-off-by-one是一种堆溢出，从它的名字上来看就知道它只能够溢出一个字节。在之前很长的一段时间off-by-one漏洞被认为是不可利用的，不过这样...
     </summary>
   </entry>
 
