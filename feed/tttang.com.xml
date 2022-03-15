@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-03-15T12:21:56+08:00</updated>
+  <updated>2022-03-15T18:19:13+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>CVE-2022-0847 Linux内核漏洞简要分析</title>
+    <link href="https://tttang.com/archive/1480/"/>
+    <id>https://tttang.com/archive/1480/</id>
+    <published>2022-03-15T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;2022年03月07日，国外安全研究员披露了一个Linux内核本地提权漏洞CVE-2022-0847，命名为“Dirtypipe”。攻击者通过利用此漏洞可进行任意可读文件重写，将普通权限用户提升到root权限。目前网上已有公开的漏洞利用工具PoC，但目前还未有对容器环境影响分析，于是就有了这篇文章。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>CIS Controls VERSION 8 Acknowledgments</title>
     <link href="https://tttang.com/archive/1474/"/>
@@ -149,15 +158,6 @@
     <published>2022-03-01T12:00:00+08:00</published>
     <summary type="text">
       
-    </summary>
-  </entry>
-  <entry>
-    <title>如何使用机器账户进行域维权</title>
-    <link href="https://tttang.com/archive/1448/"/>
-    <id>https://tttang.com/archive/1448/</id>
-    <published>2022-03-01T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;机器账户在许多技术中可以用于提权或横向移动，如使用机器账户的委派进行dcsyn了上述作用，使用机器账户也可进行维权操作。我们可以将任意计算机账户添加到高权限组(例如Domain Admin、Domain Controllers、Enterprise Admins) 或对计算机账户的userAccountControl属性进行修改。使用这两种方式，我们可以通过机器账户在域内进行身份认证（因为密码已知）并进行提权操作，例如Dcsync拖取域内hash。&lt;/p&gt;
     </summary>
   </entry>
 
