@@ -3,8 +3,80 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-03-15T06:16:46+08:00</updated>
+  <updated>2022-03-15T12:21:56+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>PHP 序列化和反序列化</title>
+    <link href="https://sec-in.com/article/1565"/>
+    <id>https://sec-in.com/article/1565</id>
+    <published>2022-03-15T11:49:10+08:00</published>
+    <summary type="text">
+      这篇CTF-PHP反序列化和序列化的攻略极其适合刚入门的Web小白，这篇文章可以很好的帮助你入门PHP序列化和反序列化这个知识
+    </summary>
+  </entry>
+  <entry>
+    <title>（纯路人翻译）我是如何发现入侵iCloud账户的漏洞以及苹果对此是怎样做出回应的</title>
+    <link href="https://sec-in.com/article/1544"/>
+    <id>https://sec-in.com/article/1544</id>
+    <published>2022-03-15T11:48:33+08:00</published>
+    <summary type="text">
+      本文主要讲述原作者是如何在苹果的忘记密码处发现一个允许对iCloud账户实现接管的漏洞。目前该漏洞已由苹果安全团队修复且无法复现。
+    </summary>
+  </entry>
+  <entry>
+    <title>java安全之CommonCollections1 TransformedMap链分析</title>
+    <link href="https://sec-in.com/article/1592"/>
+    <id>https://sec-in.com/article/1592</id>
+    <published>2022-03-15T11:46:14+08:00</published>
+    <summary type="text">
+      初学java安全，对CommonCollections1 TransforedMap链进行分析,并且跟着白日梦组长手写了poc,从中学到了很多东西
+    </summary>
+  </entry>
+  <entry>
+    <title>浅谈StandardServletMultipartResolver与文件上传bypass</title>
+    <link href="https://sec-in.com/article/1591"/>
+    <id>https://sec-in.com/article/1591</id>
+    <published>2022-03-15T11:24:15+08:00</published>
+    <summary type="text">
+      StandardServletMultipartResolver是在Spring中文件上传的解析器之一，简单的分析相关的代码实现，看看有没有什么waf bypass思路。
+    </summary>
+  </entry>
+  <entry>
+    <title>记一次对VAuditDemo平台的代码审计（下）</title>
+    <link href="https://sec-in.com/article/1581"/>
+    <id>https://sec-in.com/article/1581</id>
+    <published>2022-03-15T11:15:31+08:00</published>
+    <summary type="text">
+      代码审计在攻防渗透中起着非常重要的作用，分享一次对VauditDemo平台比较全面的代码审计，欢迎大佬拜读，如有描述不当之处，请在评论区留言。
+    </summary>
+  </entry>
+  <entry>
+    <title>记一次对VAuditDemo平台的代码审计（中）</title>
+    <link href="https://sec-in.com/article/1580"/>
+    <id>https://sec-in.com/article/1580</id>
+    <published>2022-03-15T11:13:09+08:00</published>
+    <summary type="text">
+      代码审计在攻防渗透中起着非常重要的作用，分享一次对VauditDemo平台比较全面的代码审计，欢迎大佬拜读，如有描述不当之处，请在评论区留言。
+    </summary>
+  </entry>
+  <entry>
+    <title>记一次对VAuditDemo平台的代码审计（上）</title>
+    <link href="https://sec-in.com/article/1579"/>
+    <id>https://sec-in.com/article/1579</id>
+    <published>2022-03-15T11:12:43+08:00</published>
+    <summary type="text">
+      代码审计在攻防渗透中起着非常重要的作用，分享一次对VauditDemo平台比较全面的代码审计，欢迎大佬拜读，如有描述不当之处，请在评论区留言。
+    </summary>
+  </entry>
+  <entry>
+    <title>分离免杀loader编写</title>
+    <link href="https://sec-in.com/article/1563"/>
+    <id>https://sec-in.com/article/1563</id>
+    <published>2022-03-15T11:11:02+08:00</published>
+    <summary type="text">
+      这是我的第一篇文章内容是，用C语言编写一个免杀的shellcode加载器，思路:通过shellcode与加载器分离绕过杀软，上线msf。
+    </summary>
+  </entry>
   <entry>
     <title>Windows原理深入学习系列-强制完整性控制</title>
     <link href="https://sec-in.com/article/1589"/>
@@ -21,80 +93,6 @@
     <published>2022-03-14T16:19:19+08:00</published>
     <summary type="text">
       C&amp;C信道是网络攻击中必不可少的一环，可用于与远程被感染的主机通信，下发命令，回传机密数据等。APT同样也会使用C&amp;C信道，所以我们可以考虑通过检测C&amp;C信道，从而发现未知的APT攻击
-    </summary>
-  </entry>
-  <entry>
-    <title>GitHub Java CodeQL CTF</title>
-    <link href="https://sec-in.com/article/1576"/>
-    <id>https://sec-in.com/article/1576</id>
-    <published>2022-03-14T15:41:55+08:00</published>
-    <summary type="text">
-      GitHub Security Lab CTF 4: CodeQL and Chill - The Java Edition  
-
-CVE-2020-9297
-    </summary>
-  </entry>
-  <entry>
-    <title>Spring Boot RCE到内存马探索</title>
-    <link href="https://sec-in.com/article/1575"/>
-    <id>https://sec-in.com/article/1575</id>
-    <published>2022-03-14T15:41:46+08:00</published>
-    <summary type="text">
-      SpringBootVulExploit 是Spring Boot漏洞Check list，但在真正的环境中进行漏洞利用还是有一段距离的，因此衍生出了SpringBootExploit这款工具。
-    </summary>
-  </entry>
-  <entry>
-    <title>CodeQL与AST之间联系</title>
-    <link href="https://sec-in.com/article/1573"/>
-    <id>https://sec-in.com/article/1573</id>
-    <published>2022-03-14T15:41:37+08:00</published>
-    <summary type="text">
-      在计算机科学中，抽象语法树（`abstract syntax tree` 或者缩写为 `AST`），或者语法树（`syntax tree`），是源代码的抽象语法结构的树状表现形式，这里特指编程语言的源
-    </summary>
-  </entry>
-  <entry>
-    <title>Log4j2 漏洞分析</title>
-    <link href="https://sec-in.com/article/1574"/>
-    <id>https://sec-in.com/article/1574</id>
-    <published>2022-03-14T15:41:27+08:00</published>
-    <summary type="text">
-      从堆栈角度追击Log4j2 JNDI漏洞分析，使用CodeQL 发现log4j2漏洞是来谈论该漏洞是如何被发现的。
-    </summary>
-  </entry>
-  <entry>
-    <title>ms08-067 复现，使用metasploit</title>
-    <link href="https://sec-in.com/article/1569"/>
-    <id>https://sec-in.com/article/1569</id>
-    <published>2022-03-14T15:35:36+08:00</published>
-    <summary type="text">
-      使用 metasploit 进行 ms08-067 的复现，遇到的问题也有列出，此次只是攻击的复现演示，没有进行漏洞分析。
-    </summary>
-  </entry>
-  <entry>
-    <title>JDBC安全</title>
-    <link href="https://sec-in.com/article/1564"/>
-    <id>https://sec-in.com/article/1564</id>
-    <published>2022-03-11T18:06:54+08:00</published>
-    <summary type="text">
-      刚学了java，JDBC是java中很重要的接口，所以了解了JDBC的安全问题后，对这些安全问题的代码进行了分析
-    </summary>
-  </entry>
-  <entry>
-    <title>浅谈Log4j2在Springboot的检测-2</title>
-    <link href="https://sec-in.com/article/1528"/>
-    <id>https://sec-in.com/article/1528</id>
-    <published>2022-03-11T18:05:58+08:00</published>
-    <summary type="text">
-      结合Springboot的CommonsMultipartResolver，可以尝试在multipart请求中的charset字段进行log4j2漏洞的检测。
-    </summary>
-  </entry>
-  <entry>
-    <title>我在人间凑数的日子---网恋篇（一）</title>
-    <link href="https://sec-in.com/article/1568"/>
-    <id>https://sec-in.com/article/1568</id>
-    <published>2022-03-11T17:54:49+08:00</published>
-    <summary type="text">
-      剧情系列文章，适合培养安全兴趣，了解安全知识，调节枯燥无味的生活，或许能开阔下眼界也不一定...本篇主要涉及一些钓鱼伪装技巧以及部分二维码相关知识和绕过识别思路，希望读完的你能有所收获。
     </summary>
   </entry>
 

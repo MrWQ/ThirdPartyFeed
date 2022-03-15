@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-03-15T06:16:49+08:00</updated>
+  <updated>2022-03-15T12:21:56+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>CVE-2022-21663 wordpress &amp;lt;5.8.3 对象注入漏洞</title>
+    <link href="https://forum.butian.net/share/1303"/>
+    <id>https://forum.butian.net/share/1303</id>
+    <published>2022-03-15T09:24:52+08:00</published>
+    <summary type="text">
+      CVE-2022-21663 wordpress &amp;lt;5.8.3 对象注入漏洞
+    </summary>
+  </entry>
+  <entry>
+    <title>ThinkPHP SQL注入漏洞（CVE-2021-44350）分析</title>
+    <link href="https://forum.butian.net/share/1291"/>
+    <id>https://forum.butian.net/share/1291</id>
+    <published>2022-03-15T09:22:25+08:00</published>
+    <summary type="text">
+      师傅们情人节快乐~来一起分析个洞八
+    </summary>
+  </entry>
   <entry>
     <title>SpringBlade框架JWT认证缺陷漏洞</title>
     <link href="https://forum.butian.net/share/973"/>
@@ -190,24 +208,6 @@ SharePoint 是一个用于共享和管理内容、知识和应用程序以支持
 与高级语言类似，ARM支持对不同的数据类型的操作，通常是与ldr、str这类存储加载指令一起使用：
 
 ![image.png](https://b3logfil...
-    </summary>
-  </entry>
-  <entry>
-    <title>那CTF，那VMre，那些事（三）</title>
-    <link href="https://forum.butian.net/share/1323"/>
-    <id>https://forum.butian.net/share/1323</id>
-    <published>2022-03-01T09:34:57+08:00</published>
-    <summary type="text">
-      本篇文章为虚拟机保护re系列文章的第三篇，主要研究存在栈结构的虚拟机保护re的特点与解题步骤
-    </summary>
-  </entry>
-  <entry>
-    <title>CobaltStrike逆向学习系列(7)：Controller 任务发布流程分析</title>
-    <link href="https://forum.butian.net/share/1320"/>
-    <id>https://forum.butian.net/share/1320</id>
-    <published>2022-03-01T09:31:24+08:00</published>
-    <summary type="text">
-      只有对工具足够的了解，才能够更好的进行修改
     </summary>
   </entry>
 

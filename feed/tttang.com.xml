@@ -3,8 +3,22 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-03-15T06:16:46+08:00</updated>
+  <updated>2022-03-15T12:21:56+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>CIS Controls VERSION 8 Acknowledgments</title>
+    <link href="https://tttang.com/archive/1474/"/>
+    <id>https://tttang.com/archive/1474/</id>
+    <published>2022-03-15T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;CIS Controls®最初是一个简单的项目，旨在确定每天影响企业现实中最常见和最重要的网络攻击，将这些知识和经验转化为如何防御的行动，然后与更多人分享这些信息。最初的目标是帮助企业采取最重要的措施来保护自己免受真正重要的攻击。&lt;/p&gt;
+&lt;p&gt;在互联网安全中心（CIS®）的领导下，CIS控制措施已经成熟，成为一个由志愿者个人和机构组成的国际社区。&lt;/p&gt;
+&lt;p&gt;- 分享对攻击和攻击者的观察，并将其转化为防御行动&lt;/p&gt;
+&lt;p&gt;- 创建和分享工具、工作辅助工具、以及采用和解决问题的案例&lt;/p&gt;
+&lt;p&gt;- 将CIS Controls措施与监管和合规性框架相联系，以确保其一致性。&lt;/p&gt;
+&lt;p&gt;- 识别共同的问题和障碍（如初步评估和实施路线图），并作为一个社区解决这些问题。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>susctf2022 mujs利用</title>
     <link href="https://tttang.com/archive/1463/"/>
@@ -144,15 +158,6 @@
     <published>2022-03-01T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;机器账户在许多技术中可以用于提权或横向移动，如使用机器账户的委派进行dcsyn了上述作用，使用机器账户也可进行维权操作。我们可以将任意计算机账户添加到高权限组(例如Domain Admin、Domain Controllers、Enterprise Admins) 或对计算机账户的userAccountControl属性进行修改。使用这两种方式，我们可以通过机器账户在域内进行身份认证（因为密码已知）并进行提权操作，例如Dcsync拖取域内hash。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>SIM Hijacking（译文）</title>
-    <link href="https://tttang.com/archive/1446/"/>
-    <id>https://tttang.com/archive/1446/</id>
-    <published>2022-02-28T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;近期，“5.33亿Facebook用户的电话号码遭泄露”之类的报道占据了各大社交网络的新闻头条。实际上，早在2020年，这些泄密信息就已经被黑客出售了；只是最近这些数据被免费发布到了一个黑客论坛上，其中包括用户的手机号码以及其他相关信息。这则消息甚至催生了像https://haveibeenzucked.com这样的网站，大家可以通过它们检查自己的Facebook数据是否已经泄露。另外，大家也可以通过https://haveibeenpwned.com检查相关泄露情况。&lt;/p&gt;
     </summary>
   </entry>
 
