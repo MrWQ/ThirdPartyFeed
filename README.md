@@ -30,4 +30,5 @@ SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/Thi
 - [Telegram RSS / JSON generator](https://tg.i-c-a.su/)
 - [Chinese-Security-RSS](https://github.com/zhengjim/Chinese-Security-RSS)
 - [Feed43](https://feed43.com/)
+- [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS)
 
