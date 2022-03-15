@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-03-15T18:19:21+08:00</updated>
+  <updated>2022-03-16T06:17:55+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>插件分享 | 来检测带外（Out-of-Band）流量的Ceye</title>
+    <link href="https://nosec.org/home/detail/4978.html"/>
+    <id>https://nosec.org/home/detail/4978.html</id>
+    <published>2022-03-15T18:22:24+08:00</published>
+    <summary type="text">
+      本文介绍的 Ceye Dnslog 日志接收插件是在 Log4j 漏洞爆发的那段时间发现经常会使用到这个平台，每次登陆网页版进行日志查看又太麻烦，于是就开发了这个插件。
+    </summary>
+  </entry>
   <entry>
     <title>Vulfocus 竞赛背后的技术</title>
     <link href="https://nosec.org/home/detail/4976.html"/>
@@ -174,15 +183,6 @@
     <published>2022-01-14T10:25:51+08:00</published>
     <summary type="text">
       作者：F4n、高诺琪、weske@rm -rf /*赛后写下Vulfocus靶场竞赛高级部分的题解，高级的有些环境还是做不出来...
-    </summary>
-  </entry>
-  <entry>
-    <title>Vulfocus  圣诞比赛 Wp</title>
-    <link href="https://nosec.org/home/detail/4948.html"/>
-    <id>https://nosec.org/home/detail/4948.html</id>
-    <published>2022-01-14T12:26:49+08:00</published>
-    <summary type="text">
-      2021年圣诞节参加了Vulfocus和Goby联合举办的靶场比赛。比赛前一天下发了短信提醒，比赛持续了4小时。具体更多细节可以到vulfocus的公众号去了解。
     </summary>
   </entry>
 

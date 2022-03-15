@@ -3,8 +3,17 @@
   <title>SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link href="https://blog.sonarsource.com/"/>
-  <updated>2022-03-15T18:19:10+08:00</updated>
+  <updated>2022-03-16T06:17:44+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title>Securing Developer Tools: Git Integrations</title>
+    <link href="https://blog.sonarsource.com/securing-developer-tools-git-integrations"/>
+    <id>https://blog.sonarsource.com/securing-developer-tools-git-integrations</id>
+    <published>2022-03-15T14:57:34Z</published>
+    <summary type="text">
+      With this series, we present the results of our research on the security of popular developer tools with the goal of making this ecosystem safer: today’s article revisits Git integrations.
+    </summary>
+  </entry>
   <entry>
     <title>How Productboard helps us prioritize features and build great roadmaps</title>
     <link href="https://blog.sonarsource.com/how-productboard-helps-us-prioritize-features"/>
@@ -174,15 +183,6 @@
     <published>2021-11-02T14:06:16Z</published>
     <summary type="text">
       Check out the details of a Cross-Site Scripting bug in the BBCode processing in SmartStoreNET and how it can be chained into arbitrary code execution!
-    </summary>
-  </entry>
-  <entry>
-    <title>Agent 007: Pre-Auth Takeover of Build Pipelines in GoCD</title>
-    <link href="https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover"/>
-    <id>https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover</id>
-    <published>2021-10-26T09:41:19Z</published>
-    <summary type="text">
-      We recently discovered critical security issues in the popular CI/CD solution GoCD that can be exploited by unauthenticated attackers
     </summary>
   </entry>
 
