@@ -3,8 +3,27 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-03-16T12:20:56+08:00</updated>
+  <updated>2022-03-16T18:19:02+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>PostgreSQL JDBC Driver RCE（CVE-2022-21724）与任意文件写入漏洞利用与分析</title>
+    <link href="https://forum.butian.net/share/1339"/>
+    <id>https://forum.butian.net/share/1339</id>
+    <published>2022-03-16T14:07:29+08:00</published>
+    <summary type="text">
+      上周在github逛漏洞情报的时候，收刮到PostgreSQL数据库JDBC连接驱动存在一句话就可以利用的poc，立马尝试自主分析
+参考：https://github.com/pgjdbc/pgjdbc/security/advisories/GHSA-v7wg-cpwc-24m4
+    </summary>
+  </entry>
+  <entry>
+    <title>CVE-2022-21661 wordpress&amp;lt;5.8.3 SQL注入漏洞</title>
+    <link href="https://forum.butian.net/share/1324"/>
+    <id>https://forum.butian.net/share/1324</id>
+    <published>2022-03-16T14:05:26+08:00</published>
+    <summary type="text">
+      这是最近爆出来的一个 wordpress 的 SQL注入漏洞，实际上不是一个可以直接利用的洞，而是wordpress的一个核心函数 `WP_Query`的漏洞，这个函数常被插件使用，因此能造成的危害也挺大，前台后台都有可能。
+    </summary>
+  </entry>
   <entry>
     <title>CVE-2022-21663 wordpress &amp;lt;5.8.3 对象注入漏洞</title>
     <link href="https://forum.butian.net/share/1303"/>
@@ -182,32 +201,6 @@ SharePoint 是一个用于共享和管理内容、知识和应用程序以支持
 最近在用 Django 开发限制访问只能通过 127.0.0.1 或者内网地址访问后台的功能，关注到 Django 中存在的 XFF 问题。
 
 文中 [1. 后台访问地址/域名功能] 主要说的是...
-    </summary>
-  </entry>
-  <entry>
-    <title>刚跑的程序又被kill？服务器挖矿病毒解析与修复</title>
-    <link href="https://forum.butian.net/share/1331"/>
-    <id>https://forum.butian.net/share/1331</id>
-    <published>2022-03-02T09:49:48+08:00</published>
-    <summary type="text">
-      疑惑不解，为什么刚提交的程序没跑几分钟就又又又又又被kill掉了？近期服务器中招了挖矿病毒。本文就对该病毒进行了分析，并附上一些解决方案，帮助遇到类似问题的读者进行修复。
-    </summary>
-  </entry>
-  <entry>
-    <title>ARMPWN初探-题目复现</title>
-    <link href="https://forum.butian.net/share/1329"/>
-    <id>https://forum.butian.net/share/1329</id>
-    <published>2022-03-02T09:47:52+08:00</published>
-    <summary type="text">
-      # 前置知识
-
-### ARM数据类型和寄存器
-
-#### 数据类型
-
-与高级语言类似，ARM支持对不同的数据类型的操作，通常是与ldr、str这类存储加载指令一起使用：
-
-![image.png](https://b3logfil...
     </summary>
   </entry>
 
