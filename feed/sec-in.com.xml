@@ -3,8 +3,17 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-03-17T12:21:23+08:00</updated>
+  <updated>2022-03-18T06:16:53+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>CTF流量包题目总结</title>
+    <link href="https://sec-in.com/article/1608"/>
+    <id>https://sec-in.com/article/1608</id>
+    <published>2022-03-17T18:08:16+08:00</published>
+    <summary type="text">
+      本文使用于初学ctf流量包的好兄弟迅速了解流量包，知道大题的做题步骤、做题方法、做题技巧。希望本文能够让各位师傅有所收获
+    </summary>
+  </entry>
   <entry>
     <title>缓冲区溢出漏洞那些事：C -gets函数</title>
     <link href="https://sec-in.com/article/1606"/>
@@ -84,15 +93,6 @@
     <published>2022-03-15T11:12:43+08:00</published>
     <summary type="text">
       代码审计在攻防渗透中起着非常重要的作用，分享一次对VauditDemo平台比较全面的代码审计，欢迎大佬拜读，如有描述不当之处，请在评论区留言。
-    </summary>
-  </entry>
-  <entry>
-    <title>分离免杀loader编写</title>
-    <link href="https://sec-in.com/article/1563"/>
-    <id>https://sec-in.com/article/1563</id>
-    <published>2022-03-15T11:11:02+08:00</published>
-    <summary type="text">
-      这是我的第一篇文章内容是，用C语言编写一个免杀的shellcode加载器，思路:通过shellcode与加载器分离绕过杀软，上线msf。
     </summary>
   </entry>
 

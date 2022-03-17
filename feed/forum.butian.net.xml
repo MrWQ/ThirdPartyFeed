@@ -3,8 +3,17 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-03-17T12:21:28+08:00</updated>
+  <updated>2022-03-18T06:16:58+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>深入学习Win32(一)</title>
+    <link href="https://forum.butian.net/share/1386"/>
+    <id>https://forum.butian.net/share/1386</id>
+    <published>2022-03-17T14:28:21+08:00</published>
+    <summary type="text">
+      
+    </summary>
+  </entry>
   <entry>
     <title>NjRat样本分析报告</title>
     <link href="https://forum.butian.net/share/1404"/>
@@ -184,19 +193,6 @@ SharePoint 是一个用于共享和管理内容、知识和应用程序以支持
     <published>2022-03-04T09:24:47+08:00</published>
     <summary type="text">
       这是笔者vmre系列学习的第四篇文章，这篇我们只聊做题，复现分析三道较为复杂的vmre题目(涉及angr自定义函数，贪心搜索算法，大批量opcode处理，复杂函数逻辑运算处理等知识点)，同时谈谈感受
-    </summary>
-  </entry>
-  <entry>
-    <title>JAVA 反序列化学习之反射</title>
-    <link href="https://forum.butian.net/share/1333"/>
-    <id>https://forum.butian.net/share/1333</id>
-    <published>2022-03-03T09:36:00+08:00</published>
-    <summary type="text">
-      无论看的是什么文章，只要是学习 JAVA 反序列化的文章，就一定会提到反射机制，这里结合了文档、网上的各种资料、P 牛的 JAVA 安全漫谈，写成了一篇还算过得去的文章，主要内容包含了forName、newInstance、getMethod、invoke方法，以及利用这些方法用反射的方式写出一个执行任意类中的任意方法的代码的学习过程。
-
-但这仅仅是 JAVA 安全的开始，甚至只是 JAVA 安全中一个漏洞的一部分的开始。
-
-道阻且艰。
     </summary>
   </entry>
 
