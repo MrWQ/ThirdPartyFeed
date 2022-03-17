@@ -3,8 +3,17 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-03-17T06:15:25+08:00</updated>
+  <updated>2022-03-17T12:21:28+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>NjRat样本分析报告</title>
+    <link href="https://forum.butian.net/share/1404"/>
+    <id>https://forum.butian.net/share/1404</id>
+    <published>2022-03-17T09:34:00+08:00</published>
+    <summary type="text">
+      NjRat样本分析报告
+    </summary>
+  </entry>
   <entry>
     <title>PostgreSQL JDBC Driver RCE（CVE-2022-21724）与任意文件写入漏洞利用与分析</title>
     <link href="https://forum.butian.net/share/1339"/>
@@ -188,19 +197,6 @@ SharePoint 是一个用于共享和管理内容、知识和应用程序以支持
 但这仅仅是 JAVA 安全的开始，甚至只是 JAVA 安全中一个漏洞的一部分的开始。
 
 道阻且艰。
-    </summary>
-  </entry>
-  <entry>
-    <title>Django 中的 XFF 问题</title>
-    <link href="https://forum.butian.net/share/1358"/>
-    <id>https://forum.butian.net/share/1358</id>
-    <published>2022-03-03T09:34:30+08:00</published>
-    <summary type="text">
-      # Django 中的 XFF 问题
-
-最近在用 Django 开发限制访问只能通过 127.0.0.1 或者内网地址访问后台的功能，关注到 Django 中存在的 XFF 问题。
-
-文中 [1. 后台访问地址/域名功能] 主要说的是...
     </summary>
   </entry>
 

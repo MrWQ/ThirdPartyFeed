@@ -3,8 +3,17 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-03-17T06:15:25+08:00</updated>
+  <updated>2022-03-17T12:21:23+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>缓冲区溢出漏洞那些事：C -gets函数</title>
+    <link href="https://sec-in.com/article/1606"/>
+    <id>https://sec-in.com/article/1606</id>
+    <published>2022-03-17T10:55:35+08:00</published>
+    <summary type="text">
+      讲解缓冲区溢出基本概念与常见的解决办法，并实战分析使用gets函数编译后的程序运行产生数据溢出的原因
+    </summary>
+  </entry>
   <entry>
     <title>Windwos下基础免杀技术</title>
     <link href="https://sec-in.com/article/1598"/>
@@ -84,15 +93,6 @@
     <published>2022-03-15T11:11:02+08:00</published>
     <summary type="text">
       这是我的第一篇文章内容是，用C语言编写一个免杀的shellcode加载器，思路:通过shellcode与加载器分离绕过杀软，上线msf。
-    </summary>
-  </entry>
-  <entry>
-    <title>Windows原理深入学习系列-强制完整性控制</title>
-    <link href="https://sec-in.com/article/1589"/>
-    <id>https://sec-in.com/article/1589</id>
-    <published>2022-03-14T16:32:28+08:00</published>
-    <summary type="text">
-      通过逆向分析来学习Windows的原理，才能够真正明白在进行各种操作的时候，Windows到底干了什么，因为有很多内容，微软并不会明明白白告诉你
     </summary>
   </entry>
 
