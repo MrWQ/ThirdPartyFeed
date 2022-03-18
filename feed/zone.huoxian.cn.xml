@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-03-18T18:18:41+08:00</updated>
+  <updated>2022-03-18T19:29:07+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>浅谈一下，Linux中基于eBPF的恶意利用与检测机制</title>
@@ -21,6 +21,15 @@
     <published>2022-02-21T12:38:37+00:00</published>
     <summary type="text">
       致火线Zone用户的一封信!（内附奖励规则）
+    </summary>
+  </entry>
+  <entry>
+    <title>DevSecOps： 让大家都 Happy 的安全软件构建模式</title>
+    <link href="https://zone.huoxian.cn/d/991-devsecops-happy"/>
+    <id>https://zone.huoxian.cn/d/991-devsecops-happy</id>
+    <published>2022-03-18T10:27:33+00:00</published>
+    <summary type="text">
+      DevSecOps： 让大家都 Happy 的安全软件构建模式
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-03-14T03:41:42+00:00</published>
     <summary type="text">
       【火线zone社区周激励】2022年3月7号～2022年3月13号公告
-    </summary>
-  </entry>
-  <entry>
-    <title>每日云安全技术资讯20220311</title>
-    <link href="https://zone.huoxian.cn/d/971-20220311"/>
-    <id>https://zone.huoxian.cn/d/971-20220311</id>
-    <published>2022-03-11T05:54:44+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220311
     </summary>
   </entry>
 
