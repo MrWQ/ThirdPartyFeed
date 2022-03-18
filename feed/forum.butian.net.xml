@@ -3,8 +3,34 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-03-18T06:16:58+08:00</updated>
+  <updated>2022-03-18T18:18:48+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>深入学习Win32(二)</title>
+    <link href="https://forum.butian.net/share/1402"/>
+    <id>https://forum.butian.net/share/1402</id>
+    <published>2022-03-18T10:14:11+08:00</published>
+    <summary type="text">
+      # 标准控件
+
+## 前言
+
+Windows标准控件,标准控件总是可用的
+
+## 具体有
+
+```
+Static			
+Group Box			
+Button			
+Check Box			
+Radio Button			
+Edit			
+ComboBox			
+ListBox
+`...
+    </summary>
+  </entry>
   <entry>
     <title>深入学习Win32(一)</title>
     <link href="https://forum.butian.net/share/1386"/>
@@ -184,15 +210,6 @@ SharePoint 是一个用于共享和管理内容、知识和应用程序以支持
     <published>2022-03-04T09:25:43+08:00</published>
     <summary type="text">
       我们知道在windows操作系统里面有ring0跟ring3的概念(ring1、ring2在windows中并未使用)，因为ring0的特权级别是比ring3高的，那么我们肯定不能在ring3调用windows提供的api杀死ring0特权级别的进程，那么这时候我们就需要使用的ring0的函数来强行结束一些处于ring0级别的进程。
-    </summary>
-  </entry>
-  <entry>
-    <title>那CTF，那VMre，那些事（四）</title>
-    <link href="https://forum.butian.net/share/1336"/>
-    <id>https://forum.butian.net/share/1336</id>
-    <published>2022-03-04T09:24:47+08:00</published>
-    <summary type="text">
-      这是笔者vmre系列学习的第四篇文章，这篇我们只聊做题，复现分析三道较为复杂的vmre题目(涉及angr自定义函数，贪心搜索算法，大批量opcode处理，复杂函数逻辑运算处理等知识点)，同时谈谈感受
     </summary>
   </entry>
 

@@ -3,8 +3,17 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-03-18T06:16:53+08:00</updated>
+  <updated>2022-03-18T18:18:37+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>进程注入之FunctionStomping</title>
+    <link href="https://sec-in.com/article/1583"/>
+    <id>https://sec-in.com/article/1583</id>
+    <published>2022-03-18T10:24:15+08:00</published>
+    <summary type="text">
+      本篇文章为进程注入系列的第七篇文章，同样是在process-inject项目的基础上进行进一步的扩展延伸，进而掌握进程注入的各种方式，本系列预计至少会有10篇文章，涉及7种进程注入方式及一些发散扩展
+    </summary>
+  </entry>
   <entry>
     <title>CTF流量包题目总结</title>
     <link href="https://sec-in.com/article/1608"/>
@@ -82,15 +91,6 @@
     <link href="https://sec-in.com/article/1580"/>
     <id>https://sec-in.com/article/1580</id>
     <published>2022-03-15T11:13:09+08:00</published>
-    <summary type="text">
-      代码审计在攻防渗透中起着非常重要的作用，分享一次对VauditDemo平台比较全面的代码审计，欢迎大佬拜读，如有描述不当之处，请在评论区留言。
-    </summary>
-  </entry>
-  <entry>
-    <title>记一次对VAuditDemo平台的代码审计（上）</title>
-    <link href="https://sec-in.com/article/1579"/>
-    <id>https://sec-in.com/article/1579</id>
-    <published>2022-03-15T11:12:43+08:00</published>
     <summary type="text">
       代码审计在攻防渗透中起着非常重要的作用，分享一次对VauditDemo平台比较全面的代码审计，欢迎大佬拜读，如有描述不当之处，请在评论区留言。
     </summary>
