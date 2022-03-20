@@ -3,8 +3,25 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-03-19T18:17:43+08:00</updated>
+  <updated>2022-03-20T12:21:35+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>探索高版本 JDK 下 JNDI 漏洞的利用方法：第二章</title>
+    <link href="https://tttang.com/archive/1489/"/>
+    <id>https://tttang.com/archive/1489/</id>
+    <published>2022-03-19T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;我在前段时间写过一篇《探索高版本 JDK 下 JNDI 漏洞的利用方法》，里面例举了几种可以用作 JNDI 漏洞在Tomcat7和非Tomcat时的利用方法。&lt;/p&gt;
+&lt;p&gt;其中提到&lt;code&gt;NativeLibLoader&lt;/code&gt;能够实现 JNI 功能加载 so/dll/dylib 文件。&lt;/p&gt;
+&lt;p&gt;但有几个前提条件。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;用户可以用某种方式写入一个文件内容开头可控的二进制文件&lt;/li&gt;
+&lt;li&gt;这个文件名必须是以 so/dll/dylib 结尾&lt;/li&gt;
+&lt;li&gt;必须知道这个文件的绝对路径&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这几个条件会使危害大打折扣，所以需要再找到一个写文件的工具类。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>DeTT&amp;amp;CT : Mapping detection to MITRE ATT&amp;amp;CK（译文）</title>
     <link href="https://tttang.com/archive/1485/"/>
@@ -147,18 +164,6 @@
     <summary type="text">
       &lt;p&gt;OWASP Zed Attack Proxy 简称 ZAP，是一个开源的安全测试工具，功能和 Burpsuite 基本一样，它们同样使用 Java 语言编写，本人也曾有用过一段时间 ZAP，它完全可以替代 Burpsuite，不过也可能是由于先入为主的观念还是觉得 Burpsuite 用着更顺手。&lt;/p&gt;
 &lt;p&gt;自从 2021.12 月的 log4j2 JNDI 漏洞出现，ZAP 官方也随之更新了关于 ZAP 受到 log4j2 漏洞影响的公告，详情参见&lt;a href=&quot;https://www.zaproxy.org/blog/2021-12-10-zap-and-log4shell/&quot; target=&quot;_blank&quot;&gt;ZAP and Log4Shell&lt;/a&gt;&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>Make JDBC Attacks Brilliant Again 番外篇</title>
-    <link href="https://tttang.com/archive/1462/"/>
-    <id>https://tttang.com/archive/1462/</id>
-    <published>2022-03-04T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;我在HITB Singapore 2021上做过一次关于JDBC攻击面的分享，议题为《Make JDBC Attacks Brilliant Again》&lt;/p&gt;
-&lt;p&gt;如果有兴趣可以看看，slide地址&lt;br&gt;
-&lt;a href=&quot;https://conference.hitb.org/files/hitbsecconf2021sin/materials/D1T2%20-%20Make%20JDBC%20Attacks%20Brilliant%20Again%20-%20Xu%20Yuanzhen%20&amp;amp;%20Chen%20Hongkun.pdf&quot; target=&quot;_blank&quot;&gt;https://conference.hitb.org/files/hitbsecconf2021sin/materials/D1T2%20-%20Make%20JDBC%20Attacks%20Brilliant%20Again%20-%20Xu%20Yuanzhen%20&amp;amp;%20Chen%20Hongkun.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;去年的分享议题里没有涉及到PostgreSQL数据库，然而最近出现了PostgreSQL JDBC Driver的相关漏洞。特地做个总结，也算是《Make JDBC Attacks Brilliant Again》议题的番外篇&lt;/p&gt;
     </summary>
   </entry>
 
