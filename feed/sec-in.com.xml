@@ -3,8 +3,26 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-03-21T12:21:25+08:00</updated>
+  <updated>2022-03-21T18:23:32+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>CVE-2019-0808</title>
+    <link href="https://sec-in.com/article/1616"/>
+    <id>https://sec-in.com/article/1616</id>
+    <published>2022-03-21T16:59:36+08:00</published>
+    <summary type="text">
+      win32k漏洞分析，CVE-2019-0808是发生在win32k中的一个空指针解引用漏洞，根据网上的blog介绍该漏洞在win32k!xxxMNMouseMove中产生。
+    </summary>
+  </entry>
+  <entry>
+    <title>XXE利用:结合Local DTD和Error-Based技巧bypass防火墙</title>
+    <link href="https://sec-in.com/article/1588"/>
+    <id>https://sec-in.com/article/1588</id>
+    <published>2022-03-21T16:35:26+08:00</published>
+    <summary type="text">
+      本篇文章介绍了各种XXE类型的利用方法，重点在于blind xxe的利用，简单介绍了error-based和oob这两种利用方法，着重强调了当存在防火墙无法访问时的利用。
+    </summary>
+  </entry>
   <entry>
     <title>进程注入之FunctionStomping</title>
     <link href="https://sec-in.com/article/1583"/>
@@ -75,24 +93,6 @@
     <published>2022-03-15T11:24:15+08:00</published>
     <summary type="text">
       StandardServletMultipartResolver是在Spring中文件上传的解析器之一，简单的分析相关的代码实现，看看有没有什么waf bypass思路。
-    </summary>
-  </entry>
-  <entry>
-    <title>记一次对VAuditDemo平台的代码审计（下）</title>
-    <link href="https://sec-in.com/article/1581"/>
-    <id>https://sec-in.com/article/1581</id>
-    <published>2022-03-15T11:15:31+08:00</published>
-    <summary type="text">
-      代码审计在攻防渗透中起着非常重要的作用，分享一次对VauditDemo平台比较全面的代码审计，欢迎大佬拜读，如有描述不当之处，请在评论区留言。
-    </summary>
-  </entry>
-  <entry>
-    <title>记一次对VAuditDemo平台的代码审计（中）</title>
-    <link href="https://sec-in.com/article/1580"/>
-    <id>https://sec-in.com/article/1580</id>
-    <published>2022-03-15T11:13:09+08:00</published>
-    <summary type="text">
-      代码审计在攻防渗透中起着非常重要的作用，分享一次对VauditDemo平台比较全面的代码审计，欢迎大佬拜读，如有描述不当之处，请在评论区留言。
     </summary>
   </entry>
 
