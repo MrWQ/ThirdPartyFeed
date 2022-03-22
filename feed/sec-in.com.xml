@@ -3,8 +3,89 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-03-22T12:21:16+08:00</updated>
+  <updated>2022-03-22T18:22:27+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>CVE-2022-21999</title>
+    <link href="https://sec-in.com/article/1633"/>
+    <id>https://sec-in.com/article/1633</id>
+    <published>2022-03-22T15:45:45+08:00</published>
+    <summary type="text">
+      CVE-2022-21999（CVE-2022–22718）是微软2月周二补丁所爆出来的打印机本地提权漏洞。其本质上是CVE-2020-1030的绕过。
+    </summary>
+  </entry>
+  <entry>
+    <title>PE文件结构解析1</title>
+    <link href="https://sec-in.com/article/1614"/>
+    <id>https://sec-in.com/article/1614</id>
+    <published>2022-03-22T14:20:47+08:00</published>
+    <summary type="text">
+      主要讲了Dos头,Nt头，File头，Option头的一些比较重要的成员的含义，和用代码如何解析出它们。
+    </summary>
+  </entry>
+  <entry>
+    <title>HackMyVM-suidy</title>
+    <link href="https://sec-in.com/article/1613"/>
+    <id>https://sec-in.com/article/1613</id>
+    <published>2022-03-22T14:20:03+08:00</published>
+    <summary type="text">
+      靶机的难度虽然定位于中等，但是并不难，重点在于目录的枚举,需要在平时多收集字典，提权也比较简单，要灵活
+    </summary>
+  </entry>
+  <entry>
+    <title>java安全-tomcat下的filter内存马分析</title>
+    <link href="https://sec-in.com/article/1602"/>
+    <id>https://sec-in.com/article/1602</id>
+    <published>2022-03-22T14:19:26+08:00</published>
+    <summary type="text">
+      以前就听师傅们聊内存马，年少无知的我现在刚学java就迫不及待来学学内存马，希望自己能以后把这方面学好。。
+    </summary>
+  </entry>
+  <entry>
+    <title>java安全-jndi注入</title>
+    <link href="https://sec-in.com/article/1601"/>
+    <id>https://sec-in.com/article/1601</id>
+    <published>2022-03-22T14:19:19+08:00</published>
+    <summary type="text">
+      log4j横扫世界，在爆刚出来的时候，我还不会java，最近学习java，赶紧把jndi注入学学。努力跟上师傅们的脚步
+    </summary>
+  </entry>
+  <entry>
+    <title>红队搬运工-github有趣的免杀项目分享</title>
+    <link href="https://sec-in.com/article/1631"/>
+    <id>https://sec-in.com/article/1631</id>
+    <published>2022-03-22T14:16:26+08:00</published>
+    <summary type="text">
+      github一直是it行业最大的同性交流网站，上面的开源好项目非常之多，不少的渗透好工具都出自github上面的大佬，尤其是免杀的loader，github一直是好免杀的藏宝阁，拿来就能用，拿来就能免
+    </summary>
+  </entry>
+  <entry>
+    <title>红队免杀培训-手把手教使用系统调用(上)</title>
+    <link href="https://sec-in.com/article/1630"/>
+    <id>https://sec-in.com/article/1630</id>
+    <published>2022-03-22T14:16:17+08:00</published>
+    <summary type="text">
+      为了应对，AV/EDR对一些常规windows的api的监控，使用的github项目为Syswhispers
+    </summary>
+  </entry>
+  <entry>
+    <title>一次困难的逆向体验</title>
+    <link href="https://sec-in.com/article/1619"/>
+    <id>https://sec-in.com/article/1619</id>
+    <published>2022-03-22T14:14:58+08:00</published>
+    <summary type="text">
+      这是一次十分有趣的逆向体验，虽然过程很艰辛，但是也收获颇丰，希望各位读者也能深感同受，如果出现错误，希望能够得到纠正。
+    </summary>
+  </entry>
+  <entry>
+    <title>通过HTTP请求走私获取Active Directory凭证</title>
+    <link href="https://sec-in.com/article/1618"/>
+    <id>https://sec-in.com/article/1618</id>
+    <published>2022-03-22T14:11:18+08:00</published>
+    <summary type="text">
+      本篇博客中描述了我们在一次活动中所发现的HTTP请求走私（HRS）漏洞。在对目标客户的网络尝试获取最初的切入点时，它就可以很好的利用对外开放服务中的漏洞。
+    </summary>
+  </entry>
   <entry>
     <title>CVE-2019-0808</title>
     <link href="https://sec-in.com/article/1616"/>
@@ -12,87 +93,6 @@
     <published>2022-03-21T16:59:36+08:00</published>
     <summary type="text">
       win32k漏洞分析，CVE-2019-0808是发生在win32k中的一个空指针解引用漏洞，根据网上的blog介绍该漏洞在win32k!xxxMNMouseMove中产生。
-    </summary>
-  </entry>
-  <entry>
-    <title>XXE利用:结合Local DTD和Error-Based技巧bypass防火墙</title>
-    <link href="https://sec-in.com/article/1588"/>
-    <id>https://sec-in.com/article/1588</id>
-    <published>2022-03-21T16:35:26+08:00</published>
-    <summary type="text">
-      本篇文章介绍了各种XXE类型的利用方法，重点在于blind xxe的利用，简单介绍了error-based和oob这两种利用方法，着重强调了当存在防火墙无法访问时的利用。
-    </summary>
-  </entry>
-  <entry>
-    <title>进程注入之FunctionStomping</title>
-    <link href="https://sec-in.com/article/1583"/>
-    <id>https://sec-in.com/article/1583</id>
-    <published>2022-03-18T10:24:15+08:00</published>
-    <summary type="text">
-      本篇文章为进程注入系列的第七篇文章，同样是在process-inject项目的基础上进行进一步的扩展延伸，进而掌握进程注入的各种方式，本系列预计至少会有10篇文章，涉及7种进程注入方式及一些发散扩展
-    </summary>
-  </entry>
-  <entry>
-    <title>CTF流量包题目总结</title>
-    <link href="https://sec-in.com/article/1608"/>
-    <id>https://sec-in.com/article/1608</id>
-    <published>2022-03-17T18:08:16+08:00</published>
-    <summary type="text">
-      本文使用于初学ctf流量包的好兄弟迅速了解流量包，知道大题的做题步骤、做题方法、做题技巧。希望本文能够让各位师傅有所收获
-    </summary>
-  </entry>
-  <entry>
-    <title>缓冲区溢出漏洞那些事：C -gets函数</title>
-    <link href="https://sec-in.com/article/1606"/>
-    <id>https://sec-in.com/article/1606</id>
-    <published>2022-03-17T10:55:35+08:00</published>
-    <summary type="text">
-      讲解缓冲区溢出基本概念与常见的解决办法，并实战分析使用gets函数编译后的程序运行产生数据溢出的原因
-    </summary>
-  </entry>
-  <entry>
-    <title>Windwos下基础免杀技术</title>
-    <link href="https://sec-in.com/article/1598"/>
-    <id>https://sec-in.com/article/1598</id>
-    <published>2022-03-15T16:18:29+08:00</published>
-    <summary type="text">
-      Windows下的基础免杀手法，从杀软原理到绕过360全家桶，多理解查杀原理才能更好去绕过杀软，本文适合新手阅读。
-    </summary>
-  </entry>
-  <entry>
-    <title>PHP 序列化和反序列化</title>
-    <link href="https://sec-in.com/article/1565"/>
-    <id>https://sec-in.com/article/1565</id>
-    <published>2022-03-15T11:49:10+08:00</published>
-    <summary type="text">
-      这篇CTF-PHP反序列化和序列化的攻略极其适合刚入门的Web小白，这篇文章可以很好的帮助你入门PHP序列化和反序列化这个知识
-    </summary>
-  </entry>
-  <entry>
-    <title>（纯路人翻译）我是如何发现入侵iCloud账户的漏洞以及苹果对此是怎样做出回应的</title>
-    <link href="https://sec-in.com/article/1544"/>
-    <id>https://sec-in.com/article/1544</id>
-    <published>2022-03-15T11:48:33+08:00</published>
-    <summary type="text">
-      本文主要讲述原作者是如何在苹果的忘记密码处发现一个允许对iCloud账户实现接管的漏洞。目前该漏洞已由苹果安全团队修复且无法复现。
-    </summary>
-  </entry>
-  <entry>
-    <title>java安全之CommonCollections1 TransformedMap链分析</title>
-    <link href="https://sec-in.com/article/1592"/>
-    <id>https://sec-in.com/article/1592</id>
-    <published>2022-03-15T11:46:14+08:00</published>
-    <summary type="text">
-      初学java安全，对CommonCollections1 TransforedMap链进行分析,并且跟着白日梦组长手写了poc,从中学到了很多东西
-    </summary>
-  </entry>
-  <entry>
-    <title>浅谈StandardServletMultipartResolver与文件上传bypass</title>
-    <link href="https://sec-in.com/article/1591"/>
-    <id>https://sec-in.com/article/1591</id>
-    <published>2022-03-15T11:24:15+08:00</published>
-    <summary type="text">
-      StandardServletMultipartResolver是在Spring中文件上传的解析器之一，简单的分析相关的代码实现，看看有没有什么waf bypass思路。
     </summary>
   </entry>
 
