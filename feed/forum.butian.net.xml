@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-03-22T06:17:04+08:00</updated>
+  <updated>2022-03-22T12:21:26+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>Blackmonth样本分析</title>
+    <link href="https://forum.butian.net/share/1412"/>
+    <id>https://forum.butian.net/share/1412</id>
+    <published>2022-03-22T09:31:46+08:00</published>
+    <summary type="text">
+      远程控制，C&amp;amp;C服务器，混淆
+    </summary>
+  </entry>
+  <entry>
+    <title>手把手带你挖掘spring-cloud-gateway新链</title>
+    <link href="https://forum.butian.net/share/1410"/>
+    <id>https://forum.butian.net/share/1410</id>
+    <published>2022-03-22T09:29:34+08:00</published>
+    <summary type="text">
+      CVE-2022-22947 从漏洞挖掘的角度看JAVA的漏洞链调试
+    </summary>
+  </entry>
   <entry>
     <title>深入学习Win32(二)</title>
     <link href="https://forum.butian.net/share/1402"/>
@@ -190,26 +208,6 @@ SharePoint 是一个用于共享和管理内容、知识和应用程序以支持
     <published>2022-03-07T09:55:23+08:00</published>
     <summary type="text">
       距离上次文章又过去了小半年的时间，忙了小半年也没有什么优秀的东西分享就一直沉寂着，这次我带着实战干货又回来啦！这一次也是干公司的项目，是关于一个登录框的渗透测试，也不逼逼了开始渗透
-    </summary>
-  </entry>
-  <entry>
-    <title>从一道pwn题看侧信道攻击</title>
-    <link href="https://forum.butian.net/share/1343"/>
-    <id>https://forum.butian.net/share/1343</id>
-    <published>2022-03-07T09:48:34+08:00</published>
-    <summary type="text">
-      # 前言
-
-最近总在一些群里听一些大佬在讨论侧信道攻击这种东西，终于在周末打ctfshow的卷王杯的时候终于见到了侧信道攻击的题目，并且复现了一下，对侧信道其中的姿势深感佩服。所以想要写下...
-    </summary>
-  </entry>
-  <entry>
-    <title>浅谈进程强杀</title>
-    <link href="https://forum.butian.net/share/1330"/>
-    <id>https://forum.butian.net/share/1330</id>
-    <published>2022-03-04T09:25:43+08:00</published>
-    <summary type="text">
-      我们知道在windows操作系统里面有ring0跟ring3的概念(ring1、ring2在windows中并未使用)，因为ring0的特权级别是比ring3高的，那么我们肯定不能在ring3调用windows提供的api杀死ring0特权级别的进程，那么这时候我们就需要使用的ring0的函数来强行结束一些处于ring0级别的进程。
     </summary>
   </entry>
 
