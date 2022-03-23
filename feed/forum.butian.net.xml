@@ -3,8 +3,26 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-03-23T12:21:09+08:00</updated>
+  <updated>2022-03-23T18:22:31+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>虎符CTFWriteUp</title>
+    <link href="https://forum.butian.net/share/1417"/>
+    <id>https://forum.butian.net/share/1417</id>
+    <published>2022-03-23T14:42:00+08:00</published>
+    <summary type="text">
+      2022虎符CTF部分WriteUp
+    </summary>
+  </entry>
+  <entry>
+    <title>基于全局句柄表发现隐藏进程</title>
+    <link href="https://forum.butian.net/share/1416"/>
+    <id>https://forum.butian.net/share/1416</id>
+    <published>2022-03-23T14:04:40+08:00</published>
+    <summary type="text">
+      我们知道在0环进行PEB断链可以达到隐藏进程的效果，但是这只是作为权限维持的一种方法，如果要想完美的隐藏进程几乎是不可能的，本文就基于全局句柄表`PsdCidTable`，来找到隐藏进程的效果。
+    </summary>
+  </entry>
   <entry>
     <title>Blackmonth样本分析</title>
     <link href="https://forum.butian.net/share/1412"/>
@@ -186,28 +204,6 @@ SharePoint 是一个用于共享和管理内容、知识和应用程序以支持
     <published>2022-03-08T09:41:24+08:00</published>
     <summary type="text">
       断链这种技术非常古老，同时应用于非常多的场景，在内核层如果我们需要隐藏一个进程的内核结构体，也会使用这种技术。本文基于PEB断链在用户层和内核层分别进行实现，在用户层达到的效果主要是dll模块的隐藏，在内核层达到的效果主要是进程的隐藏。
-    </summary>
-  </entry>
-  <entry>
-    <title>ring0下多核环境hook高并发函数</title>
-    <link href="https://forum.butian.net/share/1361"/>
-    <id>https://forum.butian.net/share/1361</id>
-    <published>2022-03-08T09:39:19+08:00</published>
-    <summary type="text">
-      &amp;amp;gt; r0层多核下hook高并发函数存在的问题是：在使用如memcpy的时候，无法一次性拷贝5个字节的硬编码。即有可能拷贝到一半，别的线程去执行了代码导致蓝屏。
-
-解决的办法有：
-
-1. 短跳中转...
-    </summary>
-  </entry>
-  <entry>
-    <title>又记一次安服仔薅洞实战-未授权之发现postgresql注入</title>
-    <link href="https://forum.butian.net/share/1344"/>
-    <id>https://forum.butian.net/share/1344</id>
-    <published>2022-03-07T09:55:23+08:00</published>
-    <summary type="text">
-      距离上次文章又过去了小半年的时间，忙了小半年也没有什么优秀的东西分享就一直沉寂着，这次我带着实战干货又回来啦！这一次也是干公司的项目，是关于一个登录框的渗透测试，也不逼逼了开始渗透
     </summary>
   </entry>
 
