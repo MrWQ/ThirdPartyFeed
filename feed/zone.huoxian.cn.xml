@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-03-23T06:16:13+08:00</updated>
+  <updated>2022-03-23T12:21:09+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>致火线Zone用户的一封信!（内附奖励规则）</title>
@@ -12,6 +12,15 @@
     <published>2022-02-21T12:38:37+00:00</published>
     <summary type="text">
       致火线Zone用户的一封信!（内附奖励规则）
+    </summary>
+  </entry>
+  <entry>
+    <title>测试了下spring thymeleaf ssti漏洞</title>
+    <link href="https://zone.huoxian.cn/d/1006-spring-thymeleaf-ssti"/>
+    <id>https://zone.huoxian.cn/d/1006-spring-thymeleaf-ssti</id>
+    <published>2022-03-23T03:14:35+00:00</published>
+    <summary type="text">
+      测试了下spring thymeleaf ssti漏洞
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-03-17T09:09:48+00:00</published>
     <summary type="text">
       DevSecOps邂逅云原生：云原生时代下的持续安全 
-    </summary>
-  </entry>
-  <entry>
-    <title>Android 加固对抗之 Frida 检测绕过</title>
-    <link href="https://zone.huoxian.cn/d/986-android-frida"/>
-    <id>https://zone.huoxian.cn/d/986-android-frida</id>
-    <published>2022-03-17T07:37:44+00:00</published>
-    <summary type="text">
-      Android 加固对抗之 Frida 检测绕过
     </summary>
   </entry>
 

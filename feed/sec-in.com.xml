@@ -3,8 +3,44 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-03-23T06:16:13+08:00</updated>
+  <updated>2022-03-23T12:21:10+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>Spring Cloud Gateway远程代码执行漏洞复现分析</title>
+    <link href="https://sec-in.com/article/1634"/>
+    <id>https://sec-in.com/article/1634</id>
+    <published>2022-03-23T10:58:43+08:00</published>
+    <summary type="text">
+      因为此次分析的源码版本为V3.0.2所以跟其它版本的漏洞分析还是有出入的，漏洞最终的触发点是一致的，但是函数的调用以及利用链还是有区别的，分析问题正向反向分析才有收获。
+    </summary>
+  </entry>
+  <entry>
+    <title>Spring Cloud GateWay CVE-2022-22947 SPEL RCE</title>
+    <link href="https://sec-in.com/article/1629"/>
+    <id>https://sec-in.com/article/1629</id>
+    <published>2022-03-23T10:57:59+08:00</published>
+    <summary type="text">
+      Spring Cloud GateWay CVE-2022-22947 SPEL RCE ，深入学习SPEL 注入
+    </summary>
+  </entry>
+  <entry>
+    <title>小白快速入门src挖掘记录</title>
+    <link href="https://sec-in.com/article/1620"/>
+    <id>https://sec-in.com/article/1620</id>
+    <published>2022-03-23T10:57:24+08:00</published>
+    <summary type="text">
+      最近有几个师傅来问我edusrc挖洞思路，但是我也是才开始的挖掘src一俩个月的新手，在这里就把自己有限的思路分享给大家，通过一些信息收集的举例和一些漏洞挖掘实例来帮助小白入门src挖掘，大师傅勿喷。
+    </summary>
+  </entry>
+  <entry>
+    <title>一次代码审计打点</title>
+    <link href="https://sec-in.com/article/1617"/>
+    <id>https://sec-in.com/article/1617</id>
+    <published>2022-03-23T10:33:18+08:00</published>
+    <summary type="text">
+      在一次攻防项目中遇到了一个站点，通过源码代码审计，利用代码执行漏洞分块传输拿下服务器权限的打点。欢迎师傅们点赞支持！
+    </summary>
+  </entry>
   <entry>
     <title>CVE-2022-21999</title>
     <link href="https://sec-in.com/article/1633"/>
@@ -57,42 +93,6 @@
     <published>2022-03-22T14:16:26+08:00</published>
     <summary type="text">
       github一直是it行业最大的同性交流网站，上面的开源好项目非常之多，不少的渗透好工具都出自github上面的大佬，尤其是免杀的loader，github一直是好免杀的藏宝阁，拿来就能用，拿来就能免
-    </summary>
-  </entry>
-  <entry>
-    <title>红队免杀培训-手把手教使用系统调用(上)</title>
-    <link href="https://sec-in.com/article/1630"/>
-    <id>https://sec-in.com/article/1630</id>
-    <published>2022-03-22T14:16:17+08:00</published>
-    <summary type="text">
-      为了应对，AV/EDR对一些常规windows的api的监控，使用的github项目为Syswhispers
-    </summary>
-  </entry>
-  <entry>
-    <title>一次困难的逆向体验</title>
-    <link href="https://sec-in.com/article/1619"/>
-    <id>https://sec-in.com/article/1619</id>
-    <published>2022-03-22T14:14:58+08:00</published>
-    <summary type="text">
-      这是一次十分有趣的逆向体验，虽然过程很艰辛，但是也收获颇丰，希望各位读者也能深感同受，如果出现错误，希望能够得到纠正。
-    </summary>
-  </entry>
-  <entry>
-    <title>通过HTTP请求走私获取Active Directory凭证</title>
-    <link href="https://sec-in.com/article/1618"/>
-    <id>https://sec-in.com/article/1618</id>
-    <published>2022-03-22T14:11:18+08:00</published>
-    <summary type="text">
-      本篇博客中描述了我们在一次活动中所发现的HTTP请求走私（HRS）漏洞。在对目标客户的网络尝试获取最初的切入点时，它就可以很好的利用对外开放服务中的漏洞。
-    </summary>
-  </entry>
-  <entry>
-    <title>CVE-2019-0808</title>
-    <link href="https://sec-in.com/article/1616"/>
-    <id>https://sec-in.com/article/1616</id>
-    <published>2022-03-21T16:59:36+08:00</published>
-    <summary type="text">
-      win32k漏洞分析，CVE-2019-0808是发生在win32k中的一个空指针解引用漏洞，根据网上的blog介绍该漏洞在win32k!xxxMNMouseMove中产生。
     </summary>
   </entry>
 
