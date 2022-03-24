@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-03-24T12:22:17+08:00</updated>
+  <updated>2022-03-25T06:17:28+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>致火线Zone用户的一封信!（内附奖励规则）</title>
@@ -12,6 +12,24 @@
     <published>2022-02-21T12:38:37+00:00</published>
     <summary type="text">
       致火线Zone用户的一封信!（内附奖励规则）
+    </summary>
+  </entry>
+  <entry>
+    <title>深入理解反射式dll注入技术</title>
+    <link href="https://zone.huoxian.cn/d/1010-dll"/>
+    <id>https://zone.huoxian.cn/d/1010-dll</id>
+    <published>2022-03-24T08:35:03+00:00</published>
+    <summary type="text">
+      深入理解反射式dll注入技术
+    </summary>
+  </entry>
+  <entry>
+    <title>【云原生渗透】- k8s的攻击利用面</title>
+    <link href="https://zone.huoxian.cn/d/1009-k8s"/>
+    <id>https://zone.huoxian.cn/d/1009-k8s</id>
+    <published>2022-03-24T08:05:35+00:00</published>
+    <summary type="text">
+      【云原生渗透】- k8s的攻击利用面
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-03-18T10:27:33+00:00</published>
     <summary type="text">
       DevSecOps： 让大家都 Happy 的安全软件构建模式
-    </summary>
-  </entry>
-  <entry>
-    <title>容器逃逸方法检测指北（附检测脚本）</title>
-    <link href="https://zone.huoxian.cn/d/990"/>
-    <id>https://zone.huoxian.cn/d/990</id>
-    <published>2022-03-18T07:43:48+00:00</published>
-    <summary type="text">
-      容器逃逸方法检测指北（附检测脚本）
-    </summary>
-  </entry>
-  <entry>
-    <title>每日云安全技术资讯20220318</title>
-    <link href="https://zone.huoxian.cn/d/989-20220318"/>
-    <id>https://zone.huoxian.cn/d/989-20220318</id>
-    <published>2022-03-18T04:40:38+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220318
     </summary>
   </entry>
 
