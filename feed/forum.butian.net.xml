@@ -3,8 +3,18 @@
   <title>奇安信攻防社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/forum.butian.net.xml" rel="self"/>
   <link href="https://forum.butian.net/"/>
-  <updated>2022-03-24T06:16:45+08:00</updated>
+  <updated>2022-03-24T12:22:18+08:00</updated>
   <id>https://forum.butian.net/</id>
+  <entry>
+    <title>关于SAXParser未做安全配置所引发的安全漏洞分析</title>
+    <link href="https://forum.butian.net/share/1419"/>
+    <id>https://forum.butian.net/share/1419</id>
+    <published>2022-03-24T09:29:22+08:00</published>
+    <summary type="text">
+      逛啊逛逛github，逛到1day分析下~
+最近发现几个有趣的java-xxe的cve，于是进行了一波研究
+    </summary>
+  </entry>
   <entry>
     <title>虎符CTFWriteUp</title>
     <link href="https://forum.butian.net/share/1417"/>
@@ -195,15 +205,6 @@ SharePoint 是一个用于共享和管理内容、知识和应用程序以支持
     <published>2022-03-09T09:34:27+08:00</published>
     <summary type="text">
       以flask框架进行SSTI的学习与绕过姿势的总结
-    </summary>
-  </entry>
-  <entry>
-    <title>基于PEB断链实现进程/模块隐藏</title>
-    <link href="https://forum.butian.net/share/1362"/>
-    <id>https://forum.butian.net/share/1362</id>
-    <published>2022-03-08T09:41:24+08:00</published>
-    <summary type="text">
-      断链这种技术非常古老，同时应用于非常多的场景，在内核层如果我们需要隐藏一个进程的内核结构体，也会使用这种技术。本文基于PEB断链在用户层和内核层分别进行实现，在用户层达到的效果主要是dll模块的隐藏，在内核层达到的效果主要是进程的隐藏。
     </summary>
   </entry>
 
