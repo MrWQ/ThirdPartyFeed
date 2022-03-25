@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-03-25T06:17:28+08:00</updated>
+  <updated>2022-03-25T12:22:19+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>静态站点托管平台仅能托管静态资源？</title>
+    <link href="https://tttang.com/archive/1501/"/>
+    <id>https://tttang.com/archive/1501/</id>
+    <published>2022-03-25T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;&lt;a href=&quot;https://4everland.org/&quot; target=&quot;_blank&quot;&gt;4everland&lt;/a&gt;、&lt;a href=&quot;https://vercel.com/&quot; target=&quot;_blank&quot;&gt;vercel&lt;/a&gt; 与 &lt;a href=&quot;https://app.netlify.com/&quot; target=&quot;_blank&quot;&gt;netlify&lt;/a&gt; 都是是非常不错的静态资源托管云平台，vercel 我用了有近一年的时间，4everland 才接触两天，由于 4everland 网站的功能问题才有了以下内容，随后也对其他的同类型平台进行了一次测试。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>CodeQL 踩坑指南 - Java</title>
     <link href="https://tttang.com/archive/1497/"/>
@@ -143,23 +152,6 @@
     <published>2022-03-11T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;目前，时间已经来到2022年第一季度末，我们不妨花一些时间来回顾一下2021年出现的安全案例，并总结去年观察到的一些顶级战术、技术及流程（tactics, techniques and procedures，TTP）。总的来说，我们在2021年报告了20起安全事件，其中绝大多数与初始访问代理恶意软件（Trickbot、IcedID、BazarLoader等）相关，这些恶意软件通常用于入侵全域和投放勒索软件。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>windows内核之池溢出(七)</title>
-    <link href="https://tttang.com/archive/1466/"/>
-    <id>https://tttang.com/archive/1466/</id>
-    <published>2022-03-11T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;windows内核系列：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;https://tttang.com/archive/1332/&quot; target=&quot;_blank&quot;&gt;windows内核之栈溢出(一)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://tttang.com/archive/1344/&quot; target=&quot;_blank&quot;&gt;windows内核之任意地址写入(二)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://tttang.com/archive/1382/&quot; target=&quot;_blank&quot;&gt;windows内核之UAF(三)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://tttang.com/archive/1400/&quot; target=&quot;_blank&quot;&gt;windows内核之Null指针解引用(四)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://tttang.com/archive/1416/&quot; target=&quot;_blank&quot;&gt;windows内核之未初始化栈变量(五)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://tttang.com/archive/1439/&quot; target=&quot;_blank&quot;&gt;windows内核之未初始化池变量(六)&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
     </summary>
   </entry>
 
