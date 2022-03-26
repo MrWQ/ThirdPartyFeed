@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-03-26T12:21:11+08:00</updated>
+  <updated>2022-03-26T18:37:23+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>【安全通报】Spring Cloud Function SPEL 远程命令执行漏洞</title>
+    <link href="https://nosec.org/home/detail/4982.html"/>
+    <id>https://nosec.org/home/detail/4982.html</id>
+    <published>2022-03-26T18:20:35+08:00</published>
+    <summary type="text">
+      近日，Spring Cloud Function 官方测试用例曝光了 Spring Cloud Function SPEL表达式注入漏洞，该漏洞可通过对 SPEL表达式进行注入从而引发远程命令执行。
+    </summary>
+  </entry>
   <entry>
     <title>邮件钓鱼思考</title>
     <link href="https://nosec.org/home/detail/4979.html"/>
@@ -174,15 +183,6 @@
     <published>2022-03-16T14:56:16+08:00</published>
     <summary type="text">
       得到用户授权对其整个相关资产进行测试，重点是测试其邮件服务器，在测试的过程中发现弱口令漏洞已被修复，账号密码被修改为……
-    </summary>
-  </entry>
-  <entry>
-    <title>如何利用Office产品绕过EDR以及防御措施</title>
-    <link href="https://nosec.org/home/detail/4952.html"/>
-    <id>https://nosec.org/home/detail/4952.html</id>
-    <published>2022-01-18T18:48:35+08:00</published>
-    <summary type="text">
-      如今，从进程中删除EDR的钩子已经成为一种非常普及的技术：攻击者经常利用这种技术来规避反恶意软件。防御者曾试图对抗这些攻击，但最终都以失败告终，因为他们...
     </summary>
   </entry>
 
