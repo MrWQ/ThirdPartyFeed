@@ -3,8 +3,26 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-03-28T06:16:45+08:00</updated>
+  <updated>2022-03-28T12:21:32+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>Attacking Active Directory: 0 to 0.9（译文，上篇）</title>
+    <link href="https://tttang.com/archive/1509/"/>
+    <id>https://tttang.com/archive/1509/</id>
+    <published>2022-03-28T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;本指南旨在从攻击者的角度考察Active Directory。为此，我们将回顾Active Directory的不同方面，以及所有渗透测试人员都应该掌握的术语，以更好地理解与Active Directory相关的网络攻击。为了理解Active Directory攻击技术，我认为重要的是：不仅要了解相关工具，还要了解这些工具的工作原理，所使用的协议/机制，以及这些机制/协议的设计初衷——当然，理解其他攻击技术时，道理也是一样的。这里提供的信息来开源社区以及自身使用Active Directory的经验。&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>针对CTFer的e与phi不互素的问题</title>
+    <link href="https://tttang.com/archive/1504/"/>
+    <id>https://tttang.com/archive/1504/</id>
+    <published>2022-03-28T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;为什么说是针对CTFer的呢，本篇文章可能针对实用性强一点，针对算法的原理剖析会少一些。最后会总结出板子放在文章的结尾。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>静态站点托管平台仅能托管静态资源？</title>
     <link href="https://tttang.com/archive/1501/"/>
@@ -134,24 +152,6 @@
     <published>2022-03-14T12:00:00+08:00</published>
     <summary type="text">
       
-    </summary>
-  </entry>
-  <entry>
-    <title>Shiro后渗透拓展面</title>
-    <link href="https://tttang.com/archive/1472/"/>
-    <id>https://tttang.com/archive/1472/</id>
-    <published>2022-03-14T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;在shiro利用工具之前是加了个修改key的功能，但这个功能有个遗憾，并不是在所有的中间件是通用的，也是我写shiro工具的一个遗憾吧。之后想过用深度优先算法将这个功能写进去，发现代码工程量太大了，所以不了了之。在前两天看到一个项目&lt;a href=&quot;https://github.com/whwlsfb/JDumpSpider&quot; target=&quot;_blank&quot;&gt;whwlsfb/JDumpSpider&lt;/a&gt;来的又来了灵感，本来是因为静态分析的工具，深入了解之后，发现这个实现很麻烦，无论从操作角度和实现角度来看。但这两天又看到北辰师傅写的文章&lt;a href=&quot;https://mp.weixin.qq.com/s/QCfqO2BJuhSOr58rldZzxA&quot; target=&quot;_blank&quot;&gt;从内存中Dump JDBC数据库明文密码&lt;/a&gt;，看文章中的仓库源码，发现更简单了。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>从MITRE ATT&amp;amp;CK框架角度回顾2021年发生的网络入侵事件（译文）</title>
-    <link href="https://tttang.com/archive/1476/"/>
-    <id>https://tttang.com/archive/1476/</id>
-    <published>2022-03-11T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;目前，时间已经来到2022年第一季度末，我们不妨花一些时间来回顾一下2021年出现的安全案例，并总结去年观察到的一些顶级战术、技术及流程（tactics, techniques and procedures，TTP）。总的来说，我们在2021年报告了20起安全事件，其中绝大多数与初始访问代理恶意软件（Trickbot、IcedID、BazarLoader等）相关，这些恶意软件通常用于入侵全域和投放勒索软件。&lt;/p&gt;
     </summary>
   </entry>
 
