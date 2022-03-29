@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-03-29T12:21:29+08:00</updated>
+  <updated>2022-03-29T18:23:34+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>致火线Zone用户的一封信!（内附奖励规则）</title>
@@ -12,6 +12,51 @@
     <published>2022-02-21T12:38:37+00:00</published>
     <summary type="text">
       致火线Zone用户的一封信!（内附奖励规则）
+    </summary>
+  </entry>
+  <entry>
+    <title>AWS EC2 弹性计算服务攻防</title>
+    <link href="https://zone.huoxian.cn/d/1022-aws-ec2"/>
+    <id>https://zone.huoxian.cn/d/1022-aws-ec2</id>
+    <published>2022-03-29T09:23:57+00:00</published>
+    <summary type="text">
+      AWS EC2 弹性计算服务攻防
+    </summary>
+  </entry>
+  <entry>
+    <title>帅哥小姐姐看过来-BlueMoon靶场渗透</title>
+    <link href="https://zone.huoxian.cn/d/1021-bluemoon"/>
+    <id>https://zone.huoxian.cn/d/1021-bluemoon</id>
+    <published>2022-03-29T09:14:17+00:00</published>
+    <summary type="text">
+      帅哥小姐姐看过来-BlueMoon靶场渗透
+    </summary>
+  </entry>
+  <entry>
+    <title>火线沙龙第24期-开源与安全专场总结</title>
+    <link href="https://zone.huoxian.cn/d/1020-24"/>
+    <id>https://zone.huoxian.cn/d/1020-24</id>
+    <published>2022-03-29T09:05:36+00:00</published>
+    <summary type="text">
+      火线沙龙第24期-开源与安全专场总结
+    </summary>
+  </entry>
+  <entry>
+    <title>Java Filter型内存马入门 - Tomcat JSP内存马为例</title>
+    <link href="https://zone.huoxian.cn/d/1019-java-filter-tomcat-jsp"/>
+    <id>https://zone.huoxian.cn/d/1019-java-filter-tomcat-jsp</id>
+    <published>2022-03-29T08:30:44+00:00</published>
+    <summary type="text">
+      Java Filter型内存马入门 - Tomcat JSP内存马为例
+    </summary>
+  </entry>
+  <entry>
+    <title>【云原生渗透基础】- 1. Kubernetes环境搭建</title>
+    <link href="https://zone.huoxian.cn/d/1018-1-kubernetes"/>
+    <id>https://zone.huoxian.cn/d/1018-1-kubernetes</id>
+    <published>2022-03-29T04:32:48+00:00</published>
+    <summary type="text">
+      【云原生渗透基础】- 1. Kubernetes环境搭建
     </summary>
   </entry>
   <entry>
@@ -138,51 +183,6 @@
     <published>2022-03-22T04:23:27+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220322
-    </summary>
-  </entry>
-  <entry>
-    <title>Kubernetes CRI-O逃逸CVE-2022-0811漏洞复现</title>
-    <link href="https://zone.huoxian.cn/d/1003-kubernetes-cri-ocve-2022-0811"/>
-    <id>https://zone.huoxian.cn/d/1003-kubernetes-cri-ocve-2022-0811</id>
-    <published>2022-03-22T04:10:04+00:00</published>
-    <summary type="text">
-      Kubernetes CRI-O逃逸CVE-2022-0811漏洞复现
-    </summary>
-  </entry>
-  <entry>
-    <title>Dirty Pipe Linux 漏洞：覆盖容器镜像中的文件</title>
-    <link href="https://zone.huoxian.cn/d/1001-dirty-pipe-linux"/>
-    <id>https://zone.huoxian.cn/d/1001-dirty-pipe-linux</id>
-    <published>2022-03-22T02:23:36+00:00</published>
-    <summary type="text">
-      Dirty Pipe Linux 漏洞：覆盖容器镜像中的文件
-    </summary>
-  </entry>
-  <entry>
-    <title>某上市公司渗透测试</title>
-    <link href="https://zone.huoxian.cn/d/1000"/>
-    <id>https://zone.huoxian.cn/d/1000</id>
-    <published>2022-03-22T01:59:55+00:00</published>
-    <summary type="text">
-      某上市公司渗透测试
-    </summary>
-  </entry>
-  <entry>
-    <title>某企业的Shiro内网渗透测试</title>
-    <link href="https://zone.huoxian.cn/d/999-shiro"/>
-    <id>https://zone.huoxian.cn/d/999-shiro</id>
-    <published>2022-03-22T01:55:27+00:00</published>
-    <summary type="text">
-      某企业的Shiro内网渗透测试
-    </summary>
-  </entry>
-  <entry>
-    <title>容器安全之CVE-2022-0185</title>
-    <link href="https://zone.huoxian.cn/d/998-cve-2022-0185"/>
-    <id>https://zone.huoxian.cn/d/998-cve-2022-0185</id>
-    <published>2022-03-21T19:04:01+00:00</published>
-    <summary type="text">
-      容器安全之CVE-2022-0185
     </summary>
   </entry>
 
