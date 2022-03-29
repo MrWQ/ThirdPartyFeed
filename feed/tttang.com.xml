@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-03-29T06:17:32+08:00</updated>
+  <updated>2022-03-29T12:21:29+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>通过afl-training学习afl</title>
+    <link href="https://tttang.com/archive/1508/"/>
+    <id>https://tttang.com/archive/1508/</id>
+    <published>2022-03-29T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;跟着&lt;a href=&quot;https://github.com/mykter/afl-training&quot; target=&quot;_blank&quot;&gt;afl-training&lt;/a&gt;学习&lt;code&gt;afl&lt;/code&gt;&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>Attacking Active Directory: 0 to 0.9（译文，上篇）</title>
     <link href="https://tttang.com/archive/1509/"/>
@@ -143,15 +152,6 @@
 &lt;p&gt;- 创建和分享工具、工作辅助工具、以及采用和解决问题的案例&lt;/p&gt;
 &lt;p&gt;- 将CIS Controls措施与监管和合规性框架相联系，以确保其一致性。&lt;/p&gt;
 &lt;p&gt;- 识别共同的问题和障碍（如初步评估和实施路线图），并作为一个社区解决这些问题。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>susctf2022 mujs利用</title>
-    <link href="https://tttang.com/archive/1463/"/>
-    <id>https://tttang.com/archive/1463/</id>
-    <published>2022-03-14T12:00:00+08:00</published>
-    <summary type="text">
-      
     </summary>
   </entry>
 

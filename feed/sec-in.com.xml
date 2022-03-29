@@ -3,8 +3,17 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-03-29T06:17:31+08:00</updated>
+  <updated>2022-03-29T12:21:29+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>一文帮你解决APP抓包难题</title>
+    <link href="https://sec-in.com/article/1639"/>
+    <id>https://sec-in.com/article/1639</id>
+    <published>2022-03-29T10:26:40+08:00</published>
+    <summary type="text">
+      在日常渗透过程中会有想从app入手的时刻，但是如果抓不到包是很头疼的一件事，那么如何解决抓不到包的问题，读过这篇文章之后，相信你会拥有一些新的解决方案和思考。
+    </summary>
+  </entry>
   <entry>
     <title>JNDI注入工具改造</title>
     <link href="https://sec-in.com/article/1632"/>
@@ -84,15 +93,6 @@
     <published>2022-03-22T14:19:26+08:00</published>
     <summary type="text">
       以前就听师傅们聊内存马，年少无知的我现在刚学java就迫不及待来学学内存马，希望自己能以后把这方面学好。。
-    </summary>
-  </entry>
-  <entry>
-    <title>java安全-jndi注入</title>
-    <link href="https://sec-in.com/article/1601"/>
-    <id>https://sec-in.com/article/1601</id>
-    <published>2022-03-22T14:19:19+08:00</published>
-    <summary type="text">
-      log4j横扫世界，在爆刚出来的时候，我还不会java，最近学习java，赶紧把jndi注入学学。努力跟上师傅们的脚步
     </summary>
   </entry>
 
