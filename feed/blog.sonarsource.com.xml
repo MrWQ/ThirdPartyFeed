@@ -3,8 +3,17 @@
   <title>SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link href="https://blog.sonarsource.com/"/>
-  <updated>2022-03-29T18:23:34+08:00</updated>
+  <updated>2022-03-30T06:17:11+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title>PHP Supply Chain Attack on PEAR</title>
+    <link href="https://blog.sonarsource.com/php-supply-chain-attack-on-pear"/>
+    <id>https://blog.sonarsource.com/php-supply-chain-attack-on-pear</id>
+    <published>2022-03-29T13:35:58Z</published>
+    <summary type="text">
+      For the second time in a year, we identified critical code vulnerabilities in a central component of the PHP supply chain. Let&#x27;s dive into it!
+    </summary>
+  </entry>
   <entry>
     <title>Clean Your Infrastructure Code with Sonar</title>
     <link href="https://blog.sonarsource.com/iac_code_quality"/>
@@ -174,15 +183,6 @@
     <published>2021-11-16T13:41:03Z</published>
     <summary type="text">
       In this blog post, we share 10 security pitfalls for Python developers that we encountered in real-world projects.
-    </summary>
-  </entry>
-  <entry>
-    <title>Agent 008: Chaining Vulnerabilities to Compromise GoCD</title>
-    <link href="https://blog.sonarsource.com/gocd-vulnerability-chain"/>
-    <id>https://blog.sonarsource.com/gocd-vulnerability-chain</id>
-    <published>2021-11-10T15:21:59Z</published>
-    <summary type="text">
-      We discovered 3 more code vulnerabilities in the popular GoCD CI/CD system that can be chained by attackers to leak or modify internal code. Learn more in this blog post.
     </summary>
   </entry>
 
