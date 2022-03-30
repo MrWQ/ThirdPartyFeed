@@ -3,8 +3,53 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-03-30T12:21:26+08:00</updated>
+  <updated>2022-03-30T18:20:10+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>PE文件结构解析3</title>
+    <link href="https://sec-in.com/article/1657"/>
+    <id>https://sec-in.com/article/1657</id>
+    <published>2022-03-30T15:51:10+08:00</published>
+    <summary type="text">
+      本文主要是介绍了pe文件结构导出表和导出表的一些成员，以及如何使用代码打印出它们，涉及到指针和结构体相关的知识。
+    </summary>
+  </entry>
+  <entry>
+    <title>PE文件结构解析2</title>
+    <link href="https://sec-in.com/article/1646"/>
+    <id>https://sec-in.com/article/1646</id>
+    <published>2022-03-30T15:50:54+08:00</published>
+    <summary type="text">
+      本文主要内容是，Rva与Foa的转换和数据目录表，节表中一些比较重要的成员，和如何使用代码打印出它们，涉及到c语言指针和结构体相关的知识。
+    </summary>
+  </entry>
+  <entry>
+    <title>一篇了解Java反射</title>
+    <link href="https://sec-in.com/article/1647"/>
+    <id>https://sec-in.com/article/1647</id>
+    <published>2022-03-30T15:50:15+08:00</published>
+    <summary type="text">
+      Java的反射机制是Java特性之一，是Java安全中不可或缺的组成部分，本篇将会带大家一起了解Java的反射机制和一些常见的用法，希望师傅们能有所收获
+    </summary>
+  </entry>
+  <entry>
+    <title>WordPress Core SQL注入漏洞(CVE-2022–21661)分析</title>
+    <link href="https://sec-in.com/article/1642"/>
+    <id>https://sec-in.com/article/1642</id>
+    <published>2022-03-30T15:49:24+08:00</published>
+    <summary type="text">
+      `WP_Query` 中存在 SQL 注入漏洞，`WP_Query`是WordPress提供的一个用于处理复杂SQL查询的类，在WordPress核心框架和插件中使用范围非常广泛，用户可以通过`WP_
+    </summary>
+  </entry>
+  <entry>
+    <title>webshell变形记之一</title>
+    <link href="https://sec-in.com/article/1545"/>
+    <id>https://sec-in.com/article/1545</id>
+    <published>2022-03-30T15:48:52+08:00</published>
+    <summary type="text">
+      全文非常详细地介绍了各种webshell变形，并且同时采用了D盾来检测变形后的等级！！！虽然有些还是会被检测出来，但是检测机制是没有人灵活的，读者可以进一步变化
+    </summary>
+  </entry>
   <entry>
     <title>来分析下成为红队成员需要那些基础技能</title>
     <link href="https://sec-in.com/article/1645"/>
@@ -50,51 +95,6 @@
     <published>2022-03-23T10:58:43+08:00</published>
     <summary type="text">
       因为此次分析的源码版本为V3.0.2所以跟其它版本的漏洞分析还是有出入的，漏洞最终的触发点是一致的，但是函数的调用以及利用链还是有区别的，分析问题正向反向分析才有收获。
-    </summary>
-  </entry>
-  <entry>
-    <title>Spring Cloud GateWay CVE-2022-22947 SPEL RCE</title>
-    <link href="https://sec-in.com/article/1629"/>
-    <id>https://sec-in.com/article/1629</id>
-    <published>2022-03-23T10:57:59+08:00</published>
-    <summary type="text">
-      Spring Cloud GateWay CVE-2022-22947 SPEL RCE ，深入学习SPEL 注入
-    </summary>
-  </entry>
-  <entry>
-    <title>小白快速入门src挖掘记录</title>
-    <link href="https://sec-in.com/article/1620"/>
-    <id>https://sec-in.com/article/1620</id>
-    <published>2022-03-23T10:57:24+08:00</published>
-    <summary type="text">
-      最近有几个师傅来问我edusrc挖洞思路，但是我也是才开始的挖掘src一俩个月的新手，在这里就把自己有限的思路分享给大家，通过一些信息收集的举例和一些漏洞挖掘实例来帮助小白入门src挖掘，大师傅勿喷。
-    </summary>
-  </entry>
-  <entry>
-    <title>一次代码审计打点</title>
-    <link href="https://sec-in.com/article/1617"/>
-    <id>https://sec-in.com/article/1617</id>
-    <published>2022-03-23T10:33:18+08:00</published>
-    <summary type="text">
-      在一次攻防项目中遇到了一个站点，通过源码代码审计，利用代码执行漏洞分块传输拿下服务器权限的打点。欢迎师傅们点赞支持！
-    </summary>
-  </entry>
-  <entry>
-    <title>CVE-2022-21999</title>
-    <link href="https://sec-in.com/article/1633"/>
-    <id>https://sec-in.com/article/1633</id>
-    <published>2022-03-22T15:45:45+08:00</published>
-    <summary type="text">
-      CVE-2022-21999（CVE-2022–22718）是微软2月周二补丁所爆出来的打印机本地提权漏洞。其本质上是CVE-2020-1030的绕过。
-    </summary>
-  </entry>
-  <entry>
-    <title>PE文件结构解析1</title>
-    <link href="https://sec-in.com/article/1614"/>
-    <id>https://sec-in.com/article/1614</id>
-    <published>2022-03-22T14:20:47+08:00</published>
-    <summary type="text">
-      主要讲了Dos头,Nt头，File头，Option头的一些比较重要的成员的含义，和用代码如何解析出它们。
     </summary>
   </entry>
 

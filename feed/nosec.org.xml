@@ -3,8 +3,26 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-03-30T12:21:38+08:00</updated>
+  <updated>2022-03-30T18:20:18+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>你的NAS不是你的NAS！</title>
+    <link href="https://nosec.org/home/detail/4984.html"/>
+    <id>https://nosec.org/home/detail/4984.html</id>
+    <published>2022-03-30T15:36:19+08:00</published>
+    <summary type="text">
+      前年我们在 Synology 的 NAS 中发现了 Pre-auth RCE 的漏洞，后续也发现这个漏洞不只存在 Synology 的 NAS，也同时存在多数厂牌的 NAS 中，这篇研究将讲述这漏洞...
+    </summary>
+  </entry>
+  <entry>
+    <title>如何逆向分析嵌入式设备的BootLoader（U-Boot），第1篇</title>
+    <link href="https://nosec.org/home/detail/4981.html"/>
+    <id>https://nosec.org/home/detail/4981.html</id>
+    <published>2022-03-18T07:32:56+08:00</published>
+    <summary type="text">
+      &amp;nbsp;在本文中，我们将为读者介绍如何逆向分析嵌入式设备的引导加载程序。简介首先，我们对本文涉及的软硬...
+    </summary>
+  </entry>
   <entry>
     <title>【安全通报】Spring Cloud Function SPEL 远程命令执行漏洞</title>
     <link href="https://nosec.org/home/detail/4982.html"/>
@@ -165,24 +183,6 @@
     <published>2022-01-19T10:25:57+08:00</published>
     <summary type="text">
       近日，Oracle官方 发布了 2022 年 1 月份的安全更新。涉及旗下产品（Weblogic Server、Database Server、Java SE、MySQL等）的 497 个漏洞。此次修复的漏洞中包...
-    </summary>
-  </entry>
-  <entry>
-    <title>深入分析跨平台恶意软件SysJoker</title>
-    <link href="https://nosec.org/home/detail/4953.html"/>
-    <id>https://nosec.org/home/detail/4953.html</id>
-    <published>2022-01-19T14:41:34+08:00</published>
-    <summary type="text">
-      今天早些时候（1月11日），Intezer的研究人员发表了一份题为“新发现的SysJoker后门可以横跨Windows、Linux和macOS平台”的报告。
-    </summary>
-  </entry>
-  <entry>
-    <title>从互联网到内网横向移动实例-对用户邮件系统的测试</title>
-    <link href="https://nosec.org/home/detail/4951.html"/>
-    <id>https://nosec.org/home/detail/4951.html</id>
-    <published>2022-03-16T14:56:16+08:00</published>
-    <summary type="text">
-      得到用户授权对其整个相关资产进行测试，重点是测试其邮件服务器，在测试的过程中发现弱口令漏洞已被修复，账号密码被修改为……
     </summary>
   </entry>
 
