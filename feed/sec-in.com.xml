@@ -3,8 +3,28 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-03-30T06:17:08+08:00</updated>
+  <updated>2022-03-30T12:21:26+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>来分析下成为红队成员需要那些基础技能</title>
+    <link href="https://sec-in.com/article/1645"/>
+    <id>https://sec-in.com/article/1645</id>
+    <published>2022-03-30T11:17:41+08:00</published>
+    <summary type="text">
+      入门红队需要学习那些基础技能，从整个红队的攻击流程上分析，可能涉及那些技能，需要哪些基础，根据自身情况选择适合自己的方向深入发现，成为 redteam 团队中某个方向的专家，
+    </summary>
+  </entry>
+  <entry>
+    <title>Hack the box-Ellingson</title>
+    <link href="https://sec-in.com/article/1641"/>
+    <id>https://sec-in.com/article/1641</id>
+    <published>2022-03-30T11:14:36+08:00</published>
+    <summary type="text">
+      此文来自Khan安全攻防实验室原创文章n00B安全研究员
+此文来自Khan安全攻防实验室原创文章n00B安全研究员
+此文来自Khan安全攻防实验室原创文章n00B安全研究员
+    </summary>
+  </entry>
   <entry>
     <title>一文帮你解决APP抓包难题</title>
     <link href="https://sec-in.com/article/1639"/>
@@ -75,24 +95,6 @@
     <published>2022-03-22T14:20:47+08:00</published>
     <summary type="text">
       主要讲了Dos头,Nt头，File头，Option头的一些比较重要的成员的含义，和用代码如何解析出它们。
-    </summary>
-  </entry>
-  <entry>
-    <title>HackMyVM-suidy</title>
-    <link href="https://sec-in.com/article/1613"/>
-    <id>https://sec-in.com/article/1613</id>
-    <published>2022-03-22T14:20:03+08:00</published>
-    <summary type="text">
-      靶机的难度虽然定位于中等，但是并不难，重点在于目录的枚举,需要在平时多收集字典，提权也比较简单，要灵活
-    </summary>
-  </entry>
-  <entry>
-    <title>java安全-tomcat下的filter内存马分析</title>
-    <link href="https://sec-in.com/article/1602"/>
-    <id>https://sec-in.com/article/1602</id>
-    <published>2022-03-22T14:19:26+08:00</published>
-    <summary type="text">
-      以前就听师傅们聊内存马，年少无知的我现在刚学java就迫不及待来学学内存马，希望自己能以后把这方面学好。。
     </summary>
   </entry>
 

@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-03-30T06:17:11+08:00</updated>
+  <updated>2022-03-30T12:21:27+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>致火线Zone用户的一封信!（内附奖励规则）</title>
@@ -12,6 +12,24 @@
     <published>2022-02-21T12:38:37+00:00</published>
     <summary type="text">
       致火线Zone用户的一封信!（内附奖励规则）
+    </summary>
+  </entry>
+  <entry>
+    <title>每日云安全技术资讯20220330</title>
+    <link href="https://zone.huoxian.cn/d/1025-20220330"/>
+    <id>https://zone.huoxian.cn/d/1025-20220330</id>
+    <published>2022-03-30T03:57:45+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220330
+    </summary>
+  </entry>
+  <entry>
+    <title>记一次反射型XSS的绕过</title>
+    <link href="https://zone.huoxian.cn/d/1024-xss"/>
+    <id>https://zone.huoxian.cn/d/1024-xss</id>
+    <published>2022-03-30T03:32:11+00:00</published>
+    <summary type="text">
+      记一次反射型XSS的绕过
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-03-23T04:27:00+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220323
-    </summary>
-  </entry>
-  <entry>
-    <title>测试了下spring thymeleaf ssti漏洞</title>
-    <link href="https://zone.huoxian.cn/d/1006-spring-thymeleaf-ssti"/>
-    <id>https://zone.huoxian.cn/d/1006-spring-thymeleaf-ssti</id>
-    <published>2022-03-23T03:14:35+00:00</published>
-    <summary type="text">
-      测试了下spring thymeleaf ssti漏洞
-    </summary>
-  </entry>
-  <entry>
-    <title>利用 gateway-api 攻击 kubernetes</title>
-    <link href="https://zone.huoxian.cn/d/1005-gateway-api-kubernetes"/>
-    <id>https://zone.huoxian.cn/d/1005-gateway-api-kubernetes</id>
-    <published>2022-03-22T08:30:47+00:00</published>
-    <summary type="text">
-      利用 gateway-api 攻击 kubernetes
     </summary>
   </entry>
 

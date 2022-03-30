@@ -3,8 +3,18 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-03-30T06:17:08+08:00</updated>
+  <updated>2022-03-30T12:21:29+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>CodeQL 提升篇之路由收集</title>
+    <link href="https://tttang.com/archive/1512/"/>
+    <id>https://tttang.com/archive/1512/</id>
+    <published>2022-03-30T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;在上篇文章&lt;a href=&quot;https://tttang.com/archive/1415/&quot; target=&quot;_blank&quot;&gt;CodeQL 提升篇&lt;/a&gt;介绍了CodeQL的更多细节内容，而本篇带来的是如何使用CodeQL来获取应用的路由信息（目前适用SpringMVC）。&lt;br&gt;
+对于实现这块的想法来源主要是阅读了xsser和楼兰的文章(相关文章链接在本文末尾)，目前已将功能实现并考虑了更多可能出现的场景，尽量做到可以获取正确请求内容。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>通过afl-training学习afl</title>
     <link href="https://tttang.com/archive/1508/"/>
@@ -138,20 +148,6 @@
     <published>2022-03-15T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;2022年03月07日，国外安全研究员披露了一个Linux内核本地提权漏洞CVE-2022-0847，命名为“Dirtypipe”。攻击者通过利用此漏洞可进行任意可读文件重写，将普通权限用户提升到root权限。目前网上已有公开的漏洞利用工具PoC，但目前还未有对容器环境影响分析，于是就有了这篇文章。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>CIS Controls VERSION 8 Acknowledgments</title>
-    <link href="https://tttang.com/archive/1474/"/>
-    <id>https://tttang.com/archive/1474/</id>
-    <published>2022-03-15T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;CIS Controls®最初是一个简单的项目，旨在确定每天影响企业现实中最常见和最重要的网络攻击，将这些知识和经验转化为如何防御的行动，然后与更多人分享这些信息。最初的目标是帮助企业采取最重要的措施来保护自己免受真正重要的攻击。&lt;/p&gt;
-&lt;p&gt;在互联网安全中心（CIS®）的领导下，CIS控制措施已经成熟，成为一个由志愿者个人和机构组成的国际社区。&lt;/p&gt;
-&lt;p&gt;- 分享对攻击和攻击者的观察，并将其转化为防御行动&lt;/p&gt;
-&lt;p&gt;- 创建和分享工具、工作辅助工具、以及采用和解决问题的案例&lt;/p&gt;
-&lt;p&gt;- 将CIS Controls措施与监管和合规性框架相联系，以确保其一致性。&lt;/p&gt;
-&lt;p&gt;- 识别共同的问题和障碍（如初步评估和实施路线图），并作为一个社区解决这些问题。&lt;/p&gt;
     </summary>
   </entry>
 
