@@ -3,7 +3,7 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-03-31T18:21:07+08:00</updated>
+  <updated>2022-04-01T06:17:11+08:00</updated>
   <id>https://nosec.org/home/index</id>
   <entry>
     <title>你的NAS不是你的NAS！</title>
@@ -21,6 +21,15 @@
     <published>2022-03-18T07:32:56+08:00</published>
     <summary type="text">
       &amp;nbsp;在本文中，我们将为读者介绍如何逆向分析嵌入式设备的引导加载程序。简介首先，我们对本文涉及的软硬...
+    </summary>
+  </entry>
+  <entry>
+    <title>【安全通报】Spring Framework 远程命令执行漏洞（CVE-2022...</title>
+    <link href="https://nosec.org/home/detail/4983.html"/>
+    <id>https://nosec.org/home/detail/4983.html</id>
+    <published>2022-03-31T23:13:43+08:00</published>
+    <summary type="text">
+      近日，Spring 官方 GitHub issue中提到了关于 Spring Core 的远程命令执行漏洞，该漏洞广泛存在于Spring 框...
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-01-20T20:51:35+08:00</published>
     <summary type="text">
       农历新年的脚步越来越近，过去的2021，感谢社区每一位表哥表姐的相伴。为了回馈插件作者和社区，Goby 准备...
-    </summary>
-  </entry>
-  <entry>
-    <title>【安全通报】Weblogic 一月份更新多个高危漏洞</title>
-    <link href="https://nosec.org/home/detail/4956.html"/>
-    <id>https://nosec.org/home/detail/4956.html</id>
-    <published>2022-01-19T10:25:57+08:00</published>
-    <summary type="text">
-      近日，Oracle官方 发布了 2022 年 1 月份的安全更新。涉及旗下产品（Weblogic Server、Database Server、Java SE、MySQL等）的 497 个漏洞。此次修复的漏洞中包...
     </summary>
   </entry>
 
