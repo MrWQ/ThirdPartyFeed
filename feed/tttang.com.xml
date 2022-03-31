@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-03-31T06:16:49+08:00</updated>
+  <updated>2022-03-31T12:21:40+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>ByteCodeDL小试牛刀之CHA调用图分析</title>
+    <link href="https://tttang.com/archive/1510/"/>
+    <id>https://tttang.com/archive/1510/</id>
+    <published>2022-03-31T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;本文将分享如何用 &lt;a href=&quot;https://github.com/BytecodeDL/ByteCodeDL&quot; target=&quot;_blank&quot;&gt;ByteCodeDL&lt;/a&gt; 的 CHA 调用图分析功能，解决两个CTF题目。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>CodeQL 提升篇之路由收集</title>
     <link href="https://tttang.com/archive/1512/"/>
@@ -139,15 +148,6 @@
     <published>2022-03-16T12:00:00+08:00</published>
     <summary type="text">
       
-    </summary>
-  </entry>
-  <entry>
-    <title>CVE-2022-0847 Linux内核漏洞简要分析</title>
-    <link href="https://tttang.com/archive/1480/"/>
-    <id>https://tttang.com/archive/1480/</id>
-    <published>2022-03-15T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;2022年03月07日，国外安全研究员披露了一个Linux内核本地提权漏洞CVE-2022-0847，命名为“Dirtypipe”。攻击者通过利用此漏洞可进行任意可读文件重写，将普通权限用户提升到root权限。目前网上已有公开的漏洞利用工具PoC，但目前还未有对容器环境影响分析，于是就有了这篇文章。&lt;/p&gt;
     </summary>
   </entry>
 
