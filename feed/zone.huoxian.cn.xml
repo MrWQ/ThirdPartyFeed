@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-04-02T12:21:34+08:00</updated>
+  <updated>2022-04-02T18:17:55+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>火线2周年福利｜吉祥物首发送送送！</title>
@@ -21,6 +21,33 @@
     <published>2022-02-21T12:38:37+00:00</published>
     <summary type="text">
       致火线Zone用户的一封信!（内附奖励规则）
+    </summary>
+  </entry>
+  <entry>
+    <title>靶机渗透练习01-Driftingblues1</title>
+    <link href="https://zone.huoxian.cn/d/1047-01-driftingblues1"/>
+    <id>https://zone.huoxian.cn/d/1047-01-driftingblues1</id>
+    <published>2022-04-02T09:57:25+00:00</published>
+    <summary type="text">
+      靶机渗透练习01-Driftingblues1
+    </summary>
+  </entry>
+  <entry>
+    <title>hacksudo -Thor靶场实战详解</title>
+    <link href="https://zone.huoxian.cn/d/1046-hacksudo-thor"/>
+    <id>https://zone.huoxian.cn/d/1046-hacksudo-thor</id>
+    <published>2022-04-02T09:50:09+00:00</published>
+    <summary type="text">
+      hacksudo -Thor靶场实战详解
+    </summary>
+  </entry>
+  <entry>
+    <title>安全软件如何做开源</title>
+    <link href="https://zone.huoxian.cn/d/1045"/>
+    <id>https://zone.huoxian.cn/d/1045</id>
+    <published>2022-04-02T07:33:31+00:00</published>
+    <summary type="text">
+      安全软件如何做开源
     </summary>
   </entry>
   <entry>
@@ -156,33 +183,6 @@
     <published>2022-03-30T06:51:47+00:00</published>
     <summary type="text">
       腾讯云服务器攻防（CVM+轻量应用服务器）
-    </summary>
-  </entry>
-  <entry>
-    <title>【Rootkit 系列研究】序章：悬顶的达摩克利斯之剑</title>
-    <link href="https://zone.huoxian.cn/d/1027-rootkit"/>
-    <id>https://zone.huoxian.cn/d/1027-rootkit</id>
-    <published>2022-03-30T06:50:03+00:00</published>
-    <summary type="text">
-      【Rootkit 系列研究】序章：悬顶的达摩克利斯之剑
-    </summary>
-  </entry>
-  <entry>
-    <title>每日云安全技术资讯20220330</title>
-    <link href="https://zone.huoxian.cn/d/1025-20220330"/>
-    <id>https://zone.huoxian.cn/d/1025-20220330</id>
-    <published>2022-03-30T03:57:45+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220330
-    </summary>
-  </entry>
-  <entry>
-    <title>记一次反射型XSS的绕过</title>
-    <link href="https://zone.huoxian.cn/d/1024-xss"/>
-    <id>https://zone.huoxian.cn/d/1024-xss</id>
-    <published>2022-03-30T03:32:11+00:00</published>
-    <summary type="text">
-      记一次反射型XSS的绕过
     </summary>
   </entry>
 
