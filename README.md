@@ -32,4 +32,5 @@ SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/Thi
 - [Feed43](https://feed43.com/)
 - [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS)
 - [SecurityRSS](https://github.com/r0eXpeR/SecurityRSS)
+- [RSS-proxy](https://github.com/damoeb/rss-proxy)
 
