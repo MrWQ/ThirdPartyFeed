@@ -3,8 +3,26 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-04-06T06:16:03+08:00</updated>
+  <updated>2022-04-06T12:21:41+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>how2heap梳理-1</title>
+    <link href="https://sec-in.com/article/512"/>
+    <id>https://sec-in.com/article/512</id>
+    <published>2022-04-06T10:58:45+08:00</published>
+    <summary type="text">
+      看过的漏洞利用技巧总是忘在这里梳理一下，可能对刚接触不太友好，主要侧重在于利用需要什么，能做到什么，方便回忆。对于不清楚的可以从参考链接跳转到原理处。
+    </summary>
+  </entry>
+  <entry>
+    <title>afl启动流程分析</title>
+    <link href="https://sec-in.com/article/1656"/>
+    <id>https://sec-in.com/article/1656</id>
+    <published>2022-04-06T10:58:00+08:00</published>
+    <summary type="text">
+      近期移植了一下afl，对其源代码有了更深的理解，整理了一下相关内容。主要是围绕afl怎么执行被测试程序。
+    </summary>
+  </entry>
   <entry>
     <title>PE文件结构解析3</title>
     <link href="https://sec-in.com/article/1657"/>
@@ -77,24 +95,6 @@
     <published>2022-03-29T10:26:40+08:00</published>
     <summary type="text">
       在日常渗透过程中会有想从app入手的时刻，但是如果抓不到包是很头疼的一件事，那么如何解决抓不到包的问题，读过这篇文章之后，相信你会拥有一些新的解决方案和思考。
-    </summary>
-  </entry>
-  <entry>
-    <title>JNDI注入工具改造</title>
-    <link href="https://sec-in.com/article/1632"/>
-    <id>https://sec-in.com/article/1632</id>
-    <published>2022-03-25T16:03:28+08:00</published>
-    <summary type="text">
-      针对于feihong-JNDI注入工具的改造，将多个中间件的内存马、回显进行整合，之后会在GitHub放出
-    </summary>
-  </entry>
-  <entry>
-    <title>Spring Cloud Gateway远程代码执行漏洞复现分析</title>
-    <link href="https://sec-in.com/article/1634"/>
-    <id>https://sec-in.com/article/1634</id>
-    <published>2022-03-23T10:58:43+08:00</published>
-    <summary type="text">
-      因为此次分析的源码版本为V3.0.2所以跟其它版本的漏洞分析还是有出入的，漏洞最终的触发点是一致的，但是函数的调用以及利用链还是有区别的，分析问题正向反向分析才有收获。
     </summary>
   </entry>
 
