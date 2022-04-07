@@ -3,8 +3,20 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-04-07T06:17:22+08:00</updated>
+  <updated>2022-04-07T12:21:39+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>Linux下无文件Java agent探究</title>
+    <link href="https://tttang.com/archive/1525/"/>
+    <id>https://tttang.com/archive/1525/</id>
+    <published>2022-04-07T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;最近学习了两篇关于Java内存攻击的文章：&lt;br&gt;
+&lt;a href=&quot;https://xz.aliyun.com/t/10075&quot; target=&quot;_blank&quot;&gt;Java内存攻击技术漫谈&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://xz.aliyun.com/t/10186&quot; target=&quot;_blank&quot;&gt;Linux下内存马进阶植入技术&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中我对无文件的Java agent技术挺感兴趣。于是乎花了点时间从头学习了一波，尤其是游望之师傅在Linux下植入无文件java agent的技术。本文将会对这个技术再进行一个梳理。但因我二进制的基础比较薄弱，所以本文在说明Linux下无文件Java Agent时，也会较详细的说明一些二进制相关的基础。希望能帮助同样二进制基础薄弱的同学学习和理解，二进制还是很有趣哒。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>源码层面梳理Java RMI交互流程</title>
     <link href="https://tttang.com/archive/1530/"/>
@@ -130,23 +142,6 @@
     <published>2022-03-21T12:00:00+08:00</published>
     <summary type="text">
       
-    </summary>
-  </entry>
-  <entry>
-    <title>探索高版本 JDK 下 JNDI 漏洞的利用方法：第二章</title>
-    <link href="https://tttang.com/archive/1489/"/>
-    <id>https://tttang.com/archive/1489/</id>
-    <published>2022-03-19T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;我在前段时间写过一篇《探索高版本 JDK 下 JNDI 漏洞的利用方法》，里面例举了几种可以用作 JNDI 漏洞在Tomcat7和非Tomcat时的利用方法。&lt;/p&gt;
-&lt;p&gt;其中提到&lt;code&gt;NativeLibLoader&lt;/code&gt;能够实现 JNI 功能加载 so/dll/dylib 文件。&lt;/p&gt;
-&lt;p&gt;但有几个前提条件。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;用户可以用某种方式写入一个文件内容开头可控的二进制文件&lt;/li&gt;
-&lt;li&gt;这个文件名必须是以 so/dll/dylib 结尾&lt;/li&gt;
-&lt;li&gt;必须知道这个文件的绝对路径&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这几个条件会使危害大打折扣，所以需要再找到一个写文件的工具类。&lt;/p&gt;
     </summary>
   </entry>
 
