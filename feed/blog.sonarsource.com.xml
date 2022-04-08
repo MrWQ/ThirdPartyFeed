@@ -3,8 +3,17 @@
   <title>SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link href="https://blog.sonarsource.com/"/>
-  <updated>2022-04-08T12:21:32+08:00</updated>
+  <updated>2022-04-09T06:17:32+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title>SonarQube 9.4 is here!</title>
+    <link href="https://blog.sonarsource.com/sonarqube-9.4-video"/>
+    <id>https://blog.sonarsource.com/sonarqube-9.4-video</id>
+    <published>2022-04-06T20:28:33Z</published>
+    <summary type="text">
+      Check out whatâ€™s new in SonarQube 9.4 in this 10-minute video brought to you by our Community Managers!
+    </summary>
+  </entry>
   <entry>
     <title>PHP Supply Chain Attack on PEAR</title>
     <link href="https://blog.sonarsource.com/php-supply-chain-attack-on-pear"/>
@@ -174,15 +183,6 @@
     <published>2021-11-29T13:32:54Z</published>
     <summary type="text">
       Our code security advent calendar is back for the sixth consecutive year. We will release daily challenges until December 24th, get ready to fill your bag of tricks!
-    </summary>
-  </entry>
-  <entry>
-    <title>10 Unknown Security Pitfalls for Python</title>
-    <link href="https://blog.sonarsource.com/10-unknown-security-pitfalls-for-python"/>
-    <id>https://blog.sonarsource.com/10-unknown-security-pitfalls-for-python</id>
-    <published>2021-11-16T13:41:03Z</published>
-    <summary type="text">
-      In this blog post, we share 10 security pitfalls for Python developers that we encountered in real-world projects.
     </summary>
   </entry>
 
