@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-04-10T19:58:58+08:00</updated>
+  <updated>2022-04-11T09:30:17+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>火线2周年福利｜吉祥物首发送送送！</title>
@@ -21,6 +21,15 @@
     <published>2022-02-21T12:38:37+00:00</published>
     <summary type="text">
       致火线Zone用户的一封信!（内附奖励规则）
+    </summary>
+  </entry>
+  <entry>
+    <title>特权模式下docker逃逸手法总结</title>
+    <link href="https://zone.huoxian.cn/d/1071-docker"/>
+    <id>https://zone.huoxian.cn/d/1071-docker</id>
+    <published>2022-04-10T19:36:09+00:00</published>
+    <summary type="text">
+      特权模式下docker逃逸手法总结
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-04-06T02:21:12+00:00</published>
     <summary type="text">
       任意注册+越权访问，导致信息泄露
-    </summary>
-  </entry>
-  <entry>
-    <title>记一次反编译小程序寻找签名函数并联动bp插件自动化加签</title>
-    <link href="https://zone.huoxian.cn/d/1052-bp"/>
-    <id>https://zone.huoxian.cn/d/1052-bp</id>
-    <published>2022-04-05T09:41:13+00:00</published>
-    <summary type="text">
-      记一次反编译小程序寻找签名函数并联动bp插件自动化加签
     </summary>
   </entry>
 
