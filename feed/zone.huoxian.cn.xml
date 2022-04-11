@@ -3,17 +3,8 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-04-11T12:22:25+08:00</updated>
+  <updated>2022-04-11T18:23:45+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
-  <entry>
-    <title>火线2周年福利｜吉祥物首发送送送！</title>
-    <link href="https://zone.huoxian.cn/d/1040-2"/>
-    <id>https://zone.huoxian.cn/d/1040-2</id>
-    <published>2022-04-01T06:46:07+00:00</published>
-    <summary type="text">
-      火线2周年福利｜吉祥物首发送送送！
-    </summary>
-  </entry>
   <entry>
     <title>致火线Zone用户的一封信!（内附奖励规则）</title>
     <link href="https://zone.huoxian.cn/d/906-zone"/>
@@ -21,6 +12,33 @@
     <published>2022-02-21T12:38:37+00:00</published>
     <summary type="text">
       致火线Zone用户的一封信!（内附奖励规则）
+    </summary>
+  </entry>
+  <entry>
+    <title>禁用XXE处理漫谈</title>
+    <link href="https://zone.huoxian.cn/d/1075-xxe"/>
+    <id>https://zone.huoxian.cn/d/1075-xxe</id>
+    <published>2022-04-11T06:26:28+00:00</published>
+    <summary type="text">
+      禁用XXE处理漫谈
+    </summary>
+  </entry>
+  <entry>
+    <title>华为云 ECS弹性云服务器攻防</title>
+    <link href="https://zone.huoxian.cn/d/1074-ecs"/>
+    <id>https://zone.huoxian.cn/d/1074-ecs</id>
+    <published>2022-04-11T04:52:49+00:00</published>
+    <summary type="text">
+      华为云 ECS弹性云服务器攻防
+    </summary>
+  </entry>
+  <entry>
+    <title>【火线zone社区周激励】2022年4月4号～2022年4月10号公告</title>
+    <link href="https://zone.huoxian.cn/d/1073-zone2022442022410"/>
+    <id>https://zone.huoxian.cn/d/1073-zone2022442022410</id>
+    <published>2022-04-11T04:51:04+00:00</published>
+    <summary type="text">
+      【火线zone社区周激励】2022年4月4号～2022年4月10号公告
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-04-06T06:58:48+00:00</published>
     <summary type="text">
       【火线zone社区周激励】2022年3月28号～2022年4月3号公告
-    </summary>
-  </entry>
-  <entry>
-    <title>闲谈安全测试之IAST</title>
-    <link href="https://zone.huoxian.cn/d/1055-iast"/>
-    <id>https://zone.huoxian.cn/d/1055-iast</id>
-    <published>2022-04-06T06:18:10+00:00</published>
-    <summary type="text">
-      闲谈安全测试之IAST
-    </summary>
-  </entry>
-  <entry>
-    <title>每日云安全技术资讯20220406</title>
-    <link href="https://zone.huoxian.cn/d/1054-20220406"/>
-    <id>https://zone.huoxian.cn/d/1054-20220406</id>
-    <published>2022-04-06T04:14:04+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220406
     </summary>
   </entry>
 

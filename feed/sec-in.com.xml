@@ -3,8 +3,81 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-04-11T12:22:25+08:00</updated>
+  <updated>2022-04-11T18:23:45+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>MySQL安全配置基线</title>
+    <link href="https://sec-in.com/article/1687"/>
+    <id>https://sec-in.com/article/1687</id>
+    <published>2022-04-11T15:37:53+08:00</published>
+    <summary type="text">
+      网上MySQL安全基线，安全配置的文章很多，大多都已经很多年前的了，在自己看别人的文章的时候去实践会有不少过时的配置，于是自己动手基于实际环境进行了测试总结。将总结的文字发出来，以供大家参考。
+    </summary>
+  </entry>
+  <entry>
+    <title>SSTI漏洞基础解析</title>
+    <link href="https://sec-in.com/article/1678"/>
+    <id>https://sec-in.com/article/1678</id>
+    <published>2022-04-11T15:33:30+08:00</published>
+    <summary type="text">
+      此文从flask基础将到如何造成ssti漏洞，从基础到上手测试，一条龙讲解，此文能让读者迅速了解flask和ssti原理
+    </summary>
+  </entry>
+  <entry>
+    <title>PE文件结构解析4</title>
+    <link href="https://sec-in.com/article/1680"/>
+    <id>https://sec-in.com/article/1680</id>
+    <published>2022-04-11T14:21:51+08:00</published>
+    <summary type="text">
+      本文主要是讲了了pe文件结构导入表的作用和导入表的一些成员，以及如何使用代码打印出导入白哦，涉及到了指针和结构体与逻辑运算相关的知识。需要注意的是对指针做运算时指针的宽度和对导入表的理解。
+    </summary>
+  </entry>
+  <entry>
+    <title>记一次对黑页的渗透测试</title>
+    <link href="https://sec-in.com/article/1681"/>
+    <id>https://sec-in.com/article/1681</id>
+    <published>2022-04-11T14:21:09+08:00</published>
+    <summary type="text">
+      主要在实站环境中对linux系统获取webshell到提权以及权限维持方面做一个学习，最后对linux提权以及权限维持做了一个总结。
+    </summary>
+  </entry>
+  <entry>
+    <title>CVE-2018-10933漏洞分析与复现</title>
+    <link href="https://sec-in.com/article/1682"/>
+    <id>https://sec-in.com/article/1682</id>
+    <published>2022-04-11T14:20:44+08:00</published>
+    <summary type="text">
+      libssh版本0.6及更高版本在服务端代码中具有身份验证绕过漏洞。 本文分析了漏洞产生的原因并且提供了一种较为新奇的维权姿势，有错误请大家指出！
+    </summary>
+  </entry>
+  <entry>
+    <title>WeChall CTF平台20题wp（一）</title>
+    <link href="https://sec-in.com/article/1674"/>
+    <id>https://sec-in.com/article/1674</id>
+    <published>2022-04-11T14:10:25+08:00</published>
+    <summary type="text">
+      CTF平台地址：https://www.wechall.net/challs，全英文（狗头），有兴趣的小伙伴可以试试。
+    </summary>
+  </entry>
+  <entry>
+    <title>Windows远程下载新方案--搭建使用DNS服务器传输数据</title>
+    <link href="https://sec-in.com/article/1670"/>
+    <id>https://sec-in.com/article/1670</id>
+    <published>2022-04-11T14:07:23+08:00</published>
+    <summary type="text">
+      参加护网的伙计们可能经常会遇到在目标主机上已经可以执行命令但是因为杀软拦着无法远程下载（比如powershell，certutil，vbs，Bitsadmin），或者循环写入遇到负载均衡，以及目标不
+    </summary>
+  </entry>
+  <entry>
+    <title>红队笔记专属-shell备忘录</title>
+    <link href="https://sec-in.com/article/1679"/>
+    <id>https://sec-in.com/article/1679</id>
+    <published>2022-04-11T13:50:01+08:00</published>
+    <summary type="text">
+      建议直接复制粘贴到笔记，或点赞收藏，因为时常会用到，这是整理的一些常见的反向shell和特权提升的笔记文档，红队成员必会！
+最全。
+    </summary>
+  </entry>
   <entry>
     <title>免杀基础之一文学废PE文件格式</title>
     <link href="https://sec-in.com/article/1669"/>
@@ -21,80 +94,6 @@
     <published>2022-04-06T10:58:45+08:00</published>
     <summary type="text">
       看过的漏洞利用技巧总是忘在这里梳理一下，可能对刚接触不太友好，主要侧重在于利用需要什么，能做到什么，方便回忆。对于不清楚的可以从参考链接跳转到原理处。
-    </summary>
-  </entry>
-  <entry>
-    <title>afl启动流程分析</title>
-    <link href="https://sec-in.com/article/1656"/>
-    <id>https://sec-in.com/article/1656</id>
-    <published>2022-04-06T10:58:00+08:00</published>
-    <summary type="text">
-      近期移植了一下afl，对其源代码有了更深的理解，整理了一下相关内容。主要是围绕afl怎么执行被测试程序。
-    </summary>
-  </entry>
-  <entry>
-    <title>PE文件结构解析3</title>
-    <link href="https://sec-in.com/article/1657"/>
-    <id>https://sec-in.com/article/1657</id>
-    <published>2022-03-30T15:51:10+08:00</published>
-    <summary type="text">
-      本文主要是介绍了pe文件结构导出表和导出表的一些成员，以及如何使用代码打印出它们，涉及到指针和结构体相关的知识。
-    </summary>
-  </entry>
-  <entry>
-    <title>PE文件结构解析2</title>
-    <link href="https://sec-in.com/article/1646"/>
-    <id>https://sec-in.com/article/1646</id>
-    <published>2022-03-30T15:50:54+08:00</published>
-    <summary type="text">
-      本文主要内容是，Rva与Foa的转换和数据目录表，节表中一些比较重要的成员，和如何使用代码打印出它们，涉及到c语言指针和结构体相关的知识。
-    </summary>
-  </entry>
-  <entry>
-    <title>一篇了解Java反射</title>
-    <link href="https://sec-in.com/article/1647"/>
-    <id>https://sec-in.com/article/1647</id>
-    <published>2022-03-30T15:50:15+08:00</published>
-    <summary type="text">
-      Java的反射机制是Java特性之一，是Java安全中不可或缺的组成部分，本篇将会带大家一起了解Java的反射机制和一些常见的用法，希望师傅们能有所收获
-    </summary>
-  </entry>
-  <entry>
-    <title>WordPress Core SQL注入漏洞(CVE-2022–21661)分析</title>
-    <link href="https://sec-in.com/article/1642"/>
-    <id>https://sec-in.com/article/1642</id>
-    <published>2022-03-30T15:49:24+08:00</published>
-    <summary type="text">
-      `WP_Query` 中存在 SQL 注入漏洞，`WP_Query`是WordPress提供的一个用于处理复杂SQL查询的类，在WordPress核心框架和插件中使用范围非常广泛，用户可以通过`WP_
-    </summary>
-  </entry>
-  <entry>
-    <title>webshell变形记之一</title>
-    <link href="https://sec-in.com/article/1545"/>
-    <id>https://sec-in.com/article/1545</id>
-    <published>2022-03-30T15:48:52+08:00</published>
-    <summary type="text">
-      全文非常详细地介绍了各种webshell变形，并且同时采用了D盾来检测变形后的等级！！！虽然有些还是会被检测出来，但是检测机制是没有人灵活的，读者可以进一步变化
-    </summary>
-  </entry>
-  <entry>
-    <title>来分析下成为红队成员需要那些基础技能</title>
-    <link href="https://sec-in.com/article/1645"/>
-    <id>https://sec-in.com/article/1645</id>
-    <published>2022-03-30T11:17:41+08:00</published>
-    <summary type="text">
-      入门红队需要学习那些基础技能，从整个红队的攻击流程上分析，可能涉及那些技能，需要哪些基础，根据自身情况选择适合自己的方向深入发现，成为 redteam 团队中某个方向的专家，
-    </summary>
-  </entry>
-  <entry>
-    <title>Hack the box-Ellingson</title>
-    <link href="https://sec-in.com/article/1641"/>
-    <id>https://sec-in.com/article/1641</id>
-    <published>2022-03-30T11:14:36+08:00</published>
-    <summary type="text">
-      此文来自Khan安全攻防实验室原创文章n00B安全研究员
-此文来自Khan安全攻防实验室原创文章n00B安全研究员
-此文来自Khan安全攻防实验室原创文章n00B安全研究员
     </summary>
   </entry>
 
