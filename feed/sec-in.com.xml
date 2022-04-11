@@ -3,8 +3,17 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-04-11T09:36:43+08:00</updated>
+  <updated>2022-04-11T12:22:25+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>免杀基础之一文学废PE文件格式</title>
+    <link href="https://sec-in.com/article/1669"/>
+    <id>https://sec-in.com/article/1669</id>
+    <published>2022-04-11T11:31:19+08:00</published>
+    <summary type="text">
+      PE文件的全称是Portable Executable ，意为可移植的可执行文件，常见的有EXE，DLL，SYS，COM，OCX，PE文件是微软Windows操作系统上的程序文件。
+    </summary>
+  </entry>
   <entry>
     <title>how2heap梳理-1</title>
     <link href="https://sec-in.com/article/512"/>
@@ -86,15 +95,6 @@
       此文来自Khan安全攻防实验室原创文章n00B安全研究员
 此文来自Khan安全攻防实验室原创文章n00B安全研究员
 此文来自Khan安全攻防实验室原创文章n00B安全研究员
-    </summary>
-  </entry>
-  <entry>
-    <title>一文帮你解决APP抓包难题</title>
-    <link href="https://sec-in.com/article/1639"/>
-    <id>https://sec-in.com/article/1639</id>
-    <published>2022-03-29T10:26:40+08:00</published>
-    <summary type="text">
-      在日常渗透过程中会有想从app入手的时刻，但是如果抓不到包是很头疼的一件事，那么如何解决抓不到包的问题，读过这篇文章之后，相信你会拥有一些新的解决方案和思考。
     </summary>
   </entry>
 

@@ -3,8 +3,20 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-04-11T09:36:40+08:00</updated>
+  <updated>2022-04-11T12:22:39+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>从零开始，分析Spring Framework RCE</title>
+    <link href="https://tttang.com/archive/1532/"/>
+    <id>https://tttang.com/archive/1532/</id>
+    <published>2022-04-11T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;如果需要让你对一套CMS的安全性进行研究分析，你会从哪里入手？&lt;/p&gt;
+&lt;p&gt;或许你会回答代码审计的那一套知识点。&lt;/p&gt;
+&lt;p&gt;那么，如果需要让你要对 Spring Framework 框架的安全性进行研究分析，你会从哪里入手？&lt;/p&gt;
+&lt;p&gt;更宽泛一点，如果需要让你对一个大型的开源组件的安全性进行研究分析，你会从哪里入手？&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>Attacking Active Directory: 0 to 0.9（译文，下篇）</title>
     <link href="https://tttang.com/archive/1526/"/>
@@ -133,15 +145,6 @@
     <published>2022-03-23T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;asp.net下的内存马研究文章比较少，目前提到过的包括虚拟路径内存马以及HttpListener内存马。最近研究了一下其他类型的内存马，发现.net可以利用的地方要多得多。所以准备写个系列文章，讲一讲asp.net下的内存马。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>虎符初赛 writeup</title>
-    <link href="https://tttang.com/archive/1492/"/>
-    <id>https://tttang.com/archive/1492/</id>
-    <published>2022-03-22T12:00:00+08:00</published>
-    <summary type="text">
-      
     </summary>
   </entry>
 
