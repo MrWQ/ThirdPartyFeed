@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-04-11T18:23:45+08:00</updated>
+  <updated>2022-04-12T08:46:56+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>致火线Zone用户的一封信!（内附奖励规则）</title>
@@ -12,6 +12,15 @@
     <published>2022-02-21T12:38:37+00:00</published>
     <summary type="text">
       致火线Zone用户的一封信!（内附奖励规则）
+    </summary>
+  </entry>
+  <entry>
+    <title>web框架的请求上下文</title>
+    <link href="https://zone.huoxian.cn/d/1077-web"/>
+    <id>https://zone.huoxian.cn/d/1077-web</id>
+    <published>2022-04-11T15:38:12+00:00</published>
+    <summary type="text">
+      web框架的请求上下文
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-04-06T07:02:11+00:00</published>
     <summary type="text">
       如何使用 KMS、Cosign 和 Workload Identity 验证 Kyverno 容器镜像
-    </summary>
-  </entry>
-  <entry>
-    <title>【火线zone社区周激励】2022年3月28号～2022年4月3号公告</title>
-    <link href="https://zone.huoxian.cn/d/1056-zone2022328202243"/>
-    <id>https://zone.huoxian.cn/d/1056-zone2022328202243</id>
-    <published>2022-04-06T06:58:48+00:00</published>
-    <summary type="text">
-      【火线zone社区周激励】2022年3月28号～2022年4月3号公告
     </summary>
   </entry>
 
