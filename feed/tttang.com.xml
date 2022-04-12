@@ -3,8 +3,22 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-04-12T08:56:17+08:00</updated>
+  <updated>2022-04-12T12:21:34+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>ByteCodeDL原理篇之手把手教你实现污点分析</title>
+    <link href="https://tttang.com/archive/1541/"/>
+    <id>https://tttang.com/archive/1541/</id>
+    <published>2022-04-12T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;本文主要是根据&lt;a href=&quot;https://yanniss.github.io/ptaint-oopsla17-prelim.pdf&quot; target=&quot;_blank&quot;&gt;ptaint&lt;/a&gt;这篇论文的思想：将指针分析和污点分析统一起来进行分析，实现ByteCodeDL的污点分析功能，在阅读本文之前建议先学习下面三份资料&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://yanniss.github.io/ptaint-oopsla17-prelim.pdf&quot; target=&quot;_blank&quot;&gt;https://yanniss.github.io/ptaint-oopsla17-prelim.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=IA08d-kiCy8&quot; target=&quot;_blank&quot;&gt;https://www.youtube.com/watch?v=IA08d-kiCy8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pascal-group.bitbucket.io/lectures/Security.pdf&quot; target=&quot;_blank&quot;&gt;https://pascal-group.bitbucket.io/lectures/Security.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+    </summary>
+  </entry>
   <entry>
     <title>从零开始，分析Spring Framework RCE</title>
     <link href="https://tttang.com/archive/1532/"/>
@@ -136,15 +150,6 @@
     <published>2022-03-23T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;浏览器的漏洞利用技术，已经困扰我相当一段时间了。不久前，我写了一篇文章，介绍了Internet Explorer旧版本中一个非常微不足道的UAF漏洞。这让我渴望了解更多，因为在这个案例中ASLR是不成问题的。此外，随着MEMGC的出现，DOM中的UAF漏洞实际上得到了缓解。其他的缓解措施，如控制流保护(CFG)，在这个案例中还没有提供。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>ASP.NET下的内存马(4) VirtualPath内存马</title>
-    <link href="https://tttang.com/archive/1488/"/>
-    <id>https://tttang.com/archive/1488/</id>
-    <published>2022-03-23T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;asp.net下的内存马研究文章比较少，目前提到过的包括虚拟路径内存马以及HttpListener内存马。最近研究了一下其他类型的内存马，发现.net可以利用的地方要多得多。所以准备写个系列文章，讲一讲asp.net下的内存马。&lt;/p&gt;
     </summary>
   </entry>
 
