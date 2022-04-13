@@ -3,8 +3,20 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-04-13T06:16:53+08:00</updated>
+  <updated>2022-04-13T12:22:59+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>How I hacked an ESA&amp;#x27;s experimental satellite（译文）</title>
+    <link href="https://tttang.com/archive/1542/"/>
+    <id>https://tttang.com/archive/1542/</id>
+    <published>2022-04-13T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;&lt;strong&gt;Hacking satellite&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这两个字，听起来真的令人印象深刻。至少对我来说是这样。&lt;/p&gt;
+&lt;p&gt;这是黑客文化中的一个梦想，经常出现在关于间谍/黑客题材的电视剧/电影中，藉此可以“重定向卫星”，以便从轨道上更好地观察敌人的行动。&lt;/p&gt;
+&lt;p&gt;从小时候起，我就一直梦想着获得这样的技能：黑掉一些你看不到它们，但它们却能看到你的东西。由于卫星能够赋予用户强大的力量，所以，它自然是国家防御中最关键的系统之一，因此，卫星应该很难被黑客侵入的。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>ByteCodeDL原理篇之手把手教你实现污点分析</title>
     <link href="https://tttang.com/archive/1541/"/>
@@ -141,15 +153,6 @@
     <published>2022-03-24T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;讲解这东西的大师傅们太多了，不班门弄斧了，这里仅针对一些踩过的坑点提供一些自己的解决方案，希望能对一些师傅提供点帮助。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>Browser Exploitation on Windows - CVE-2019-0567, A Microsoft Edge Type Confusion Vulnerability (Part 1)（译文）</title>
-    <link href="https://tttang.com/archive/1491/"/>
-    <id>https://tttang.com/archive/1491/</id>
-    <published>2022-03-23T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;浏览器的漏洞利用技术，已经困扰我相当一段时间了。不久前，我写了一篇文章，介绍了Internet Explorer旧版本中一个非常微不足道的UAF漏洞。这让我渴望了解更多，因为在这个案例中ASLR是不成问题的。此外，随着MEMGC的出现，DOM中的UAF漏洞实际上得到了缓解。其他的缓解措施，如控制流保护(CFG)，在这个案例中还没有提供。&lt;/p&gt;
     </summary>
   </entry>
 
