@@ -3,8 +3,33 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-04-15T06:18:41+08:00</updated>
+  <updated>2022-04-15T12:36:12+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>内网渗透--NTLM中继与反射浅析</title>
+    <link href="https://tttang.com/archive/1548/"/>
+    <id>https://tttang.com/archive/1548/</id>
+    <published>2022-04-15T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;本章主要介绍NTLM中继和反射&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NTLM中继和反射&lt;/li&gt;
+&lt;li&gt;[NTLM中继]&lt;ul&gt;
+&lt;li&gt;[SMB 协议和欺骗]&lt;/li&gt;
+&lt;li&gt;[工具介绍]&lt;/li&gt;
+&lt;li&gt;[实战解析]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[NTLM反射]&lt;ul&gt;
+&lt;li&gt;[原理讲解]&lt;/li&gt;
+&lt;li&gt;[利用方法]&lt;/li&gt;
+&lt;li&gt;[历史土豆分析]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;总结知识点&lt;/li&gt;
+&lt;/ul&gt;
+    </summary>
+  </entry>
   <entry>
     <title>mssql 提权总结</title>
     <link href="https://tttang.com/archive/1545/"/>
@@ -144,15 +169,6 @@
     <published>2022-03-28T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;为什么说是针对CTFer的呢，本篇文章可能针对实用性强一点，针对算法的原理剖析会少一些。最后会总结出板子放在文章的结尾。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>静态站点托管平台仅能托管静态资源？</title>
-    <link href="https://tttang.com/archive/1501/"/>
-    <id>https://tttang.com/archive/1501/</id>
-    <published>2022-03-25T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;&lt;a href=&quot;https://4everland.org/&quot; target=&quot;_blank&quot;&gt;4everland&lt;/a&gt;、&lt;a href=&quot;https://vercel.com/&quot; target=&quot;_blank&quot;&gt;vercel&lt;/a&gt; 与 &lt;a href=&quot;https://app.netlify.com/&quot; target=&quot;_blank&quot;&gt;netlify&lt;/a&gt; 都是是非常不错的静态资源托管云平台，vercel 我用了有近一年的时间，4everland 才接触两天，由于 4everland 网站的功能问题才有了以下内容，随后也对其他的同类型平台进行了一次测试。&lt;/p&gt;
     </summary>
   </entry>
 
