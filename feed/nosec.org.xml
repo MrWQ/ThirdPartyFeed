@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-04-15T12:36:20+08:00</updated>
+  <updated>2022-04-15T18:19:26+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>通过挂载 vmdk 拿到产品 root</title>
+    <link href="https://nosec.org/home/detail/4990.html"/>
+    <id>https://nosec.org/home/detail/4990.html</id>
+    <published>2022-04-15T15:49:06+08:00</published>
+    <summary type="text">
+      最近在看 watchguard 的 CVE-2022-26318 ，想通过 上传 gdbserver 进行动态调试。watchguard 官方提供了一个 ova 文件，但是利用 ssh 登录进入只能进入 watchgua...
+    </summary>
+  </entry>
   <entry>
     <title>【安全通报】2022年4月微软漏洞补丁日修复多个高危漏洞</title>
     <link href="https://nosec.org/home/detail/4989.html"/>
@@ -174,15 +183,6 @@
     <published>2022-01-20T10:47:09+08:00</published>
     <summary type="text">
       在绕过端点检测和响应（EDR）软件和反病毒（AV）软件时，不仅可以在用户态下完成，也可以从Windows内核态中完成。虽然这个任务听起来让人头大，但是，它实际上并...
-    </summary>
-  </entry>
-  <entry>
-    <title>【安全通报】Linux Polkit本地权限提升漏洞（CVE-2021-4034...</title>
-    <link href="https://nosec.org/home/detail/4959.html"/>
-    <id>https://nosec.org/home/detail/4959.html</id>
-    <published>2022-01-26T17:32:43+08:00</published>
-    <summary type="text">
-      近日，网络上出现 Linux 下 Polkit 工具集的本地权限提升漏洞，任何非特权本地用户可通过此漏洞获取root权...
     </summary>
   </entry>
 
