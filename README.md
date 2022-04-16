@@ -24,6 +24,8 @@ SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/Thi
 
 ## 相关资源
 
+按添加时间排序
+
 - [RSSHub](https://github.com/DIYgod/RSSHub)
 - [微信公众号转RSS](https://wechat2rss.xlab.app/)
 - [SecCrawler](https://github.com/Le0nsec/SecCrawler)
@@ -33,4 +35,5 @@ SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/Thi
 - [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS)
 - [SecurityRSS](https://github.com/r0eXpeR/SecurityRSS)
 - [RSS-proxy](https://github.com/damoeb/rss-proxy)
-
+- [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
+- [yarb (Yet Another Rss Bot)](https://github.com/firmianay/yarb)
