@@ -3,15 +3,15 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-04-18T06:16:33+08:00</updated>
+  <updated>2022-04-18T12:25:39+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
-    <title>从CVE-2019-5736漏洞浅析AppArmor防御机制</title>
-    <link href="https://zone.huoxian.cn/d/1078-cve-2019-5736apparmor"/>
-    <id>https://zone.huoxian.cn/d/1078-cve-2019-5736apparmor</id>
-    <published>2022-04-12T03:21:36+00:00</published>
+    <title>分享个自己搭建的云安全知识文库</title>
+    <link href="https://zone.huoxian.cn/d/1098"/>
+    <id>https://zone.huoxian.cn/d/1098</id>
+    <published>2022-04-17T12:30:48+00:00</published>
     <summary type="text">
-      从CVE-2019-5736漏洞浅析AppArmor防御机制
+      分享个自己搭建的云安全知识文库
     </summary>
   </entry>
   <entry>
@@ -24,12 +24,39 @@
     </summary>
   </entry>
   <entry>
-    <title>分享个自己搭建的云安全知识文库</title>
-    <link href="https://zone.huoxian.cn/d/1098"/>
-    <id>https://zone.huoxian.cn/d/1098</id>
-    <published>2022-04-17T12:30:48+00:00</published>
+    <title>CVE-2022-1162 Gitlab 硬编码漏洞分析</title>
+    <link href="https://zone.huoxian.cn/d/1103-cve-2022-1162-gitlab"/>
+    <id>https://zone.huoxian.cn/d/1103-cve-2022-1162-gitlab</id>
+    <published>2022-04-18T03:05:16+00:00</published>
     <summary type="text">
-      分享个自己搭建的云安全知识文库
+      CVE-2022-1162 Gitlab 硬编码漏洞分析
+    </summary>
+  </entry>
+  <entry>
+    <title>记一次某单位的内网渗透测试</title>
+    <link href="https://zone.huoxian.cn/d/1101"/>
+    <id>https://zone.huoxian.cn/d/1101</id>
+    <published>2022-04-18T02:02:08+00:00</published>
+    <summary type="text">
+      记一次某单位的内网渗透测试
+    </summary>
+  </entry>
+  <entry>
+    <title>缓冲区溢出使用说明书</title>
+    <link href="https://zone.huoxian.cn/d/1100"/>
+    <id>https://zone.huoxian.cn/d/1100</id>
+    <published>2022-04-18T01:32:28+00:00</published>
+    <summary type="text">
+      缓冲区溢出使用说明书
+    </summary>
+  </entry>
+  <entry>
+    <title>业务安全漏洞-登录认证实战总结（二）</title>
+    <link href="https://zone.huoxian.cn/d/1099"/>
+    <id>https://zone.huoxian.cn/d/1099</id>
+    <published>2022-04-18T00:30:03+00:00</published>
+    <summary type="text">
+      业务安全漏洞-登录认证实战总结（二）
     </summary>
   </entry>
   <entry>
@@ -156,33 +183,6 @@
     <published>2022-04-12T07:08:39+00:00</published>
     <summary type="text">
       Android手机APP实现的远控
-    </summary>
-  </entry>
-  <entry>
-    <title>【云原生渗透基础】- 4. k8s集群中的StatefulSet、ConfigMap和Secret</title>
-    <link href="https://zone.huoxian.cn/d/1080-4-k8sstatefulsetconfigmapsecret"/>
-    <id>https://zone.huoxian.cn/d/1080-4-k8sstatefulsetconfigmapsecret</id>
-    <published>2022-04-12T06:18:32+00:00</published>
-    <summary type="text">
-      【云原生渗透基础】- 4. k8s集群中的StatefulSet、ConfigMap和Secret
-    </summary>
-  </entry>
-  <entry>
-    <title>每日云安全技术资讯202204012</title>
-    <link href="https://zone.huoxian.cn/d/1079-202204012"/>
-    <id>https://zone.huoxian.cn/d/1079-202204012</id>
-    <published>2022-04-12T05:36:10+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯202204012
-    </summary>
-  </entry>
-  <entry>
-    <title>web框架的请求上下文</title>
-    <link href="https://zone.huoxian.cn/d/1077-web"/>
-    <id>https://zone.huoxian.cn/d/1077-web</id>
-    <published>2022-04-11T15:38:12+00:00</published>
-    <summary type="text">
-      web框架的请求上下文
     </summary>
   </entry>
 
