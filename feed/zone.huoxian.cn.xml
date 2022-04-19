@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-04-19T12:34:52+08:00</updated>
+  <updated>2022-04-19T18:26:05+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>分享个自己搭建的云安全知识文库</title>
@@ -21,6 +21,33 @@
     <published>2022-02-21T12:38:37+00:00</published>
     <summary type="text">
       致火线Zone用户的一封信!（内附奖励规则）
+    </summary>
+  </entry>
+  <entry>
+    <title>华为云 云数据库RDS攻防</title>
+    <link href="https://zone.huoxian.cn/d/1111-rds"/>
+    <id>https://zone.huoxian.cn/d/1111-rds</id>
+    <published>2022-04-19T07:55:03+00:00</published>
+    <summary type="text">
+      华为云 云数据库RDS攻防
+    </summary>
+  </entry>
+  <entry>
+    <title>【云原生渗透基础】- 5. k8s中使用磁盘挂载使数据持久化</title>
+    <link href="https://zone.huoxian.cn/d/1110-5-k8s"/>
+    <id>https://zone.huoxian.cn/d/1110-5-k8s</id>
+    <published>2022-04-19T07:23:03+00:00</published>
+    <summary type="text">
+      【云原生渗透基础】- 5. k8s中使用磁盘挂载使数据持久化
+    </summary>
+  </entry>
+  <entry>
+    <title>每日云安全技术资讯20220419</title>
+    <link href="https://zone.huoxian.cn/d/1109-20220419"/>
+    <id>https://zone.huoxian.cn/d/1109-20220419</id>
+    <published>2022-04-19T05:45:47+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220419
     </summary>
   </entry>
   <entry>
@@ -156,33 +183,6 @@
     <published>2022-04-14T07:36:28+00:00</published>
     <summary type="text">
       【云原生渗透基础】- 5. k8s中使用磁盘挂载使数据持久化
-    </summary>
-  </entry>
-  <entry>
-    <title>介绍一款可以自定义HTTP头的浏览器插件</title>
-    <link href="https://zone.huoxian.cn/d/1088-http"/>
-    <id>https://zone.huoxian.cn/d/1088-http</id>
-    <published>2022-04-14T07:03:44+00:00</published>
-    <summary type="text">
-      介绍一款可以自定义HTTP头的浏览器插件
-    </summary>
-  </entry>
-  <entry>
-    <title>业务安全漏洞-登录认证实战总结（一）</title>
-    <link href="https://zone.huoxian.cn/d/1086"/>
-    <id>https://zone.huoxian.cn/d/1086</id>
-    <published>2022-04-14T04:48:47+00:00</published>
-    <summary type="text">
-      业务安全漏洞-登录认证实战总结（一）
-    </summary>
-  </entry>
-  <entry>
-    <title>每日云安全技术资讯202204014</title>
-    <link href="https://zone.huoxian.cn/d/1085-202204014"/>
-    <id>https://zone.huoxian.cn/d/1085-202204014</id>
-    <published>2022-04-14T04:41:02+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯202204014
     </summary>
   </entry>
 
