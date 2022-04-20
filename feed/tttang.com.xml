@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-04-20T06:19:06+08:00</updated>
+  <updated>2022-04-20T12:48:13+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>Exploit Development: Browser Exploitation on Windows - CVE-2019-0567, A Microsoft Edge Type Confusion Vulnerability (Part 2) （译文）</title>
+    <link href="https://tttang.com/archive/1557/"/>
+    <id>https://tttang.com/archive/1557/</id>
+    <published>2022-04-20T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;在第一篇文章中，我们介绍了ChakraCore exploit的开发环境，考察了JavaScript（更具体地说，Chakra/ChakraCore引擎）是如何管理内存中的动态对象的，并分析了CVE-2019-0567漏洞——它是一个影响基于Chakra引擎的Microsoft Edge和ChakraCore的类型混淆漏洞。在本文中，我们将为读者介绍该漏洞的概念验证脚本，该脚本能够利用类型混淆漏洞让Edge和ChakraCore发生崩溃，进而将其转换为一个读/写原语。然后，该原语将被用来获得针对ChakraCore和ChakraCore shell（ch.exe）的代码执行，而ChakraCore shell本质上就是一个允许执行JavaScript代码的命令行JavaScript shell。就本文来说，我们可以把ch.exe看作是Microsoft Edge，但没有提供可视化功能。接下来，在第三篇文章中，我们将把这里介绍的exploit移植到Microsoft Edge上，以获得完整的代码执行。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>bpf,ebpf一些原理以及逆向基于libbpf-bootstrap编写的bpf文件</title>
     <link href="https://tttang.com/archive/1550/"/>
@@ -165,15 +174,6 @@
     <summary type="text">
       &lt;p&gt;在上篇文章&lt;a href=&quot;https://tttang.com/archive/1415/&quot; target=&quot;_blank&quot;&gt;CodeQL 提升篇&lt;/a&gt;介绍了CodeQL的更多细节内容，而本篇带来的是如何使用CodeQL来获取应用的路由信息（目前适用SpringMVC）。&lt;br&gt;
 对于实现这块的想法来源主要是阅读了xsser和楼兰的文章(相关文章链接在本文末尾)，目前已将功能实现并考虑了更多可能出现的场景，尽量做到可以获取正确请求内容。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>通过afl-training学习afl</title>
-    <link href="https://tttang.com/archive/1508/"/>
-    <id>https://tttang.com/archive/1508/</id>
-    <published>2022-03-29T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;跟着&lt;a href=&quot;https://github.com/mykter/afl-training&quot; target=&quot;_blank&quot;&gt;afl-training&lt;/a&gt;学习&lt;code&gt;afl&lt;/code&gt;&lt;/p&gt;
     </summary>
   </entry>
 
