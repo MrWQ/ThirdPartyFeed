@@ -3,8 +3,17 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-04-22T06:17:42+08:00</updated>
+  <updated>2022-04-22T12:47:03+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>初探Java安全之JavaAgent</title>
+    <link href="https://sec-in.com/article/1690"/>
+    <id>https://sec-in.com/article/1690</id>
+    <published>2022-04-22T10:59:46+08:00</published>
+    <summary type="text">
+      在JDK1.5版本开始，Java增加了Instrumentation(Java Agent API)和JVMTI(JVM Tool Interface)功能，该功能可以实现JVM再加载某个class文
+    </summary>
+  </entry>
   <entry>
     <title>MySQL安全配置基线</title>
     <link href="https://sec-in.com/article/1687"/>
@@ -85,15 +94,6 @@
     <published>2022-04-11T11:31:19+08:00</published>
     <summary type="text">
       PE文件的全称是Portable Executable ，意为可移植的可执行文件，常见的有EXE，DLL，SYS，COM，OCX，PE文件是微软Windows操作系统上的程序文件。
-    </summary>
-  </entry>
-  <entry>
-    <title>how2heap梳理-1</title>
-    <link href="https://sec-in.com/article/512"/>
-    <id>https://sec-in.com/article/512</id>
-    <published>2022-04-06T10:58:45+08:00</published>
-    <summary type="text">
-      看过的漏洞利用技巧总是忘在这里梳理一下，可能对刚接触不太友好，主要侧重在于利用需要什么，能做到什么，方便回忆。对于不清楚的可以从参考链接跳转到原理处。
     </summary>
   </entry>
 

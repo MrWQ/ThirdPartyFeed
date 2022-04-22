@@ -3,8 +3,26 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-04-22T06:17:42+08:00</updated>
+  <updated>2022-04-22T12:47:04+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>PE文件结构从初识到简单shellcode注入</title>
+    <link href="https://tttang.com/archive/1553/"/>
+    <id>https://tttang.com/archive/1553/</id>
+    <published>2022-04-22T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;将自己学习的PE文件结构进行总结形成文章这件事情，一直躺在我的Notion TodoList里，但是一直是未完成的状态哈哈，拖了那么久也该让它状态变成已完成了。&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>The More You Know, The More You Know You Don’t Know: A Year in Review of 0-days Used In-the-Wild in 2021（译文）</title>
+    <link href="https://tttang.com/archive/1568/"/>
+    <id>https://tttang.com/archive/1568/</id>
+    <published>2022-04-22T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;这是我们第三次对在野利用的0-day漏洞进行年度回顾[2020年，2019年]。每年，我们都对所有已检测到并公之于众的在野0-day漏洞进行回顾，并总结我们认为的趋势和收获。这份报告的宗旨，并非详细说明各个漏洞，而是把当年的漏洞作为整体进行分析，寻找趋势、差距、经验教训、成功案例等。如果您对单个漏洞的分析感兴趣的话，可以访问我们的根本原因分析库。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>Postgresql 渗透总结</title>
     <link href="https://tttang.com/archive/1547/"/>
@@ -155,24 +173,6 @@
     <published>2022-04-02T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;前两天看到一篇老外写的用codeql挖掘Java反序列化gadget的文章 &lt;a href=&quot;https://www.synacktiv.com/en/publications/finding-gadgets-like-its-2022.html&quot; target=&quot;_blank&quot;&gt;https://www.synacktiv.com/en/publications/finding-gadgets-like-its-2022.html&lt;/a&gt;，虽然显示的效果还可以，但用了种比较土味的半自动化半人工的方式。直觉上感觉codeql用法应该不会这么呆，于是研究了下，有了这篇文章。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>Java反序列化注入冰蝎内存马相关踩坑笔记</title>
-    <link href="https://tttang.com/archive/1513/"/>
-    <id>https://tttang.com/archive/1513/</id>
-    <published>2022-04-01T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;朋友叫帮忙打一个内存马进去，用的是cb链，无cc依赖，我寻思这不是有手就行吗，谁知道接下来遇到了无数的坑。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>ByteCodeDL小试牛刀之CHA调用图分析</title>
-    <link href="https://tttang.com/archive/1510/"/>
-    <id>https://tttang.com/archive/1510/</id>
-    <published>2022-03-31T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;本文将分享如何用 &lt;a href=&quot;https://github.com/BytecodeDL/ByteCodeDL&quot; target=&quot;_blank&quot;&gt;ByteCodeDL&lt;/a&gt; 的 CHA 调用图分析功能，解决两个CTF题目。&lt;/p&gt;
     </summary>
   </entry>
 
