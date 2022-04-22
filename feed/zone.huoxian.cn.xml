@@ -3,8 +3,17 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-04-22T12:47:04+08:00</updated>
+  <updated>2022-04-22T18:20:36+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
+  <entry>
+    <title>火线Zone社区规则及激励制度升级（于2022.4.25号开始执行）</title>
+    <link href="https://zone.huoxian.cn/d/1123-zone2022425"/>
+    <id>https://zone.huoxian.cn/d/1123-zone2022425</id>
+    <published>2022-04-22T07:15:09+00:00</published>
+    <summary type="text">
+      火线Zone社区规则及激励制度升级（于2022.4.25号开始执行）
+    </summary>
+  </entry>
   <entry>
     <title>分享个自己搭建的云安全知识文库</title>
     <link href="https://zone.huoxian.cn/d/1098"/>
@@ -15,12 +24,12 @@
     </summary>
   </entry>
   <entry>
-    <title>致火线Zone用户的一封信!（内附奖励规则）</title>
-    <link href="https://zone.huoxian.cn/d/906-zone"/>
-    <id>https://zone.huoxian.cn/d/906-zone</id>
-    <published>2022-02-21T12:38:37+00:00</published>
+    <title>每日云安全技术资讯20220422</title>
+    <link href="https://zone.huoxian.cn/d/1121-20220422"/>
+    <id>https://zone.huoxian.cn/d/1121-20220422</id>
+    <published>2022-04-22T05:57:31+00:00</published>
     <summary type="text">
-      致火线Zone用户的一封信!（内附奖励规则）
+      每日云安全技术资讯20220422
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-04-18T04:52:32+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220418
-    </summary>
-  </entry>
-  <entry>
-    <title>记一次某单位的内网渗透测试</title>
-    <link href="https://zone.huoxian.cn/d/1101"/>
-    <id>https://zone.huoxian.cn/d/1101</id>
-    <published>2022-04-18T02:02:08+00:00</published>
-    <summary type="text">
-      记一次某单位的内网渗透测试
     </summary>
   </entry>
 
