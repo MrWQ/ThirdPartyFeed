@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-04-24T12:22:10+08:00</updated>
+  <updated>2022-04-24T18:18:48+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>深入分析CVE-2022-27643漏洞</title>
+    <link href="https://nosec.org/home/detail/4986.html"/>
+    <id>https://nosec.org/home/detail/4986.html</id>
+    <published>2022-04-04T12:31:08+08:00</published>
+    <summary type="text">
+      最近，安全研究人员在多款NETGEAR产品中提供并默认启用的通用即插即用守护程序（upnpd）中发现了远程预身份...
+    </summary>
+  </entry>
   <entry>
     <title>攻击者是如何利用4个漏洞实现Cisco RV340 RCE的</title>
     <link href="https://nosec.org/home/detail/4985.html"/>
@@ -174,15 +183,6 @@
     <published>2022-02-25T18:56:43+08:00</published>
     <summary type="text">
       近日，Github上曝光了Clash For Windows开源代理工具的远程代码执行漏洞。据了解该漏洞利用细节及漏洞利用代码已在网络上公开，其可能已被在野利用。
-    </summary>
-  </entry>
-  <entry>
-    <title>Vulfocus靶场-内网死角场景WP</title>
-    <link href="https://nosec.org/home/detail/4966.html"/>
-    <id>https://nosec.org/home/detail/4966.html</id>
-    <published>2022-02-15T16:23:27+08:00</published>
-    <summary type="text">
-      一、入口初探版本信息：Laravel v8.41.0 漏洞CVE-2021-3129 远程代码执行利用：https://github.com/zhzyker...
     </summary>
   </entry>
 
