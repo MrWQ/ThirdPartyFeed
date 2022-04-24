@@ -3,8 +3,50 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-04-24T06:17:05+08:00</updated>
+  <updated>2022-04-24T12:22:04+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>内网渗透 -- NTLM 反射分析及土豆家族</title>
+    <link href="https://tttang.com/archive/1560/"/>
+    <id>https://tttang.com/archive/1560/</id>
+    <published>2022-04-24T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;&lt;strong&gt;目录&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;内网渗透 -- NTLM 反射分析及土豆家族&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#前置知识点&quot; target=&quot;_blank&quot;&gt;前置知识点&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#windows-sspsspi&quot; target=&quot;_blank&quot;&gt;Windows SSP&amp;amp;SSPI&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#sspi和ssp如何工作&quot; target=&quot;_blank&quot;&gt;SSPI和SSP如何工作&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#ntlm-ssp-原理ntlm-身份验证协议&quot; target=&quot;_blank&quot;&gt;NTLM SSP 原理(NTLM 身份验证协议)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#integration-with-smb&quot; target=&quot;_blank&quot;&gt;Integration with SMB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#lmcompatibilitylevel&quot; target=&quot;_blank&quot;&gt;LmCompatibilityLevel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#signing&quot; target=&quot;_blank&quot;&gt;Signing&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#ldap-签名&quot; target=&quot;_blank&quot;&gt;LDAP 签名&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#negotiation&quot; target=&quot;_blank&quot;&gt;Negotiation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#土豆家族分析&quot; target=&quot;_blank&quot;&gt;土豆家族分析&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#原理讲解&quot; target=&quot;_blank&quot;&gt;原理讲解&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#如何利用&quot; target=&quot;_blank&quot;&gt;如何利用&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#历史土豆分析&quot; target=&quot;_blank&quot;&gt;历史土豆分析&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#origin-potato_ms08-068-土豆始祖漏洞&quot; target=&quot;_blank&quot;&gt;Origin Potato_MS08-068 (土豆始祖漏洞)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#ms16-075_hot-potato-ms08-068的变种&quot; target=&quot;_blank&quot;&gt;MS16-075_HOT Potato (MS08-068的变种)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#rotten-potato-ms16-075的变种&quot; target=&quot;_blank&quot;&gt;Rotten Potato (MS16-075的变种)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#juicy-potato-ms16-075的变种&quot; target=&quot;_blank&quot;&gt;Juicy Potato (MS16-075的变种)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#sweet-potato_juicy-potato衍生版本&quot; target=&quot;_blank&quot;&gt;Sweet Potato_Juicy Potato衍生版本&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#printspoofer&quot; target=&quot;_blank&quot;&gt;PrintSpoofer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#roguepotato&quot; target=&quot;_blank&quot;&gt;RoguePotato&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#cve-2019-1384_ghost-potato&quot; target=&quot;_blank&quot;&gt;CVE-2019-1384_Ghost potato&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#参考&quot; target=&quot;_blank&quot;&gt;参考&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+    </summary>
+  </entry>
   <entry>
     <title>PE文件结构从初识到简单shellcode注入</title>
     <link href="https://tttang.com/archive/1553/"/>
@@ -164,15 +206,6 @@
     <published>2022-04-06T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;RMI(Remote Method Invocation)是Java语言执行远程方法调用的Java API，相当于面向对象的远程过程调用（RPC），支持直接传输序列化的Java类和分布式垃圾回收。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>使用codeql自动挖掘Java反序列化gadget</title>
-    <link href="https://tttang.com/archive/1511/"/>
-    <id>https://tttang.com/archive/1511/</id>
-    <published>2022-04-02T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;前两天看到一篇老外写的用codeql挖掘Java反序列化gadget的文章 &lt;a href=&quot;https://www.synacktiv.com/en/publications/finding-gadgets-like-its-2022.html&quot; target=&quot;_blank&quot;&gt;https://www.synacktiv.com/en/publications/finding-gadgets-like-its-2022.html&lt;/a&gt;，虽然显示的效果还可以，但用了种比较土味的半自动化半人工的方式。直觉上感觉codeql用法应该不会这么呆，于是研究了下，有了这篇文章。&lt;/p&gt;
     </summary>
   </entry>
 
