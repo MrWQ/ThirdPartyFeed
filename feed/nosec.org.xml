@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-04-25T12:26:04+08:00</updated>
+  <updated>2022-04-25T18:24:35+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>深入考察同时威胁服务器和客户端的双刃式SSRF漏洞</title>
+    <link href="https://nosec.org/home/detail/4987.html"/>
+    <id>https://nosec.org/home/detail/4987.html</id>
+    <published>2022-04-04T14:38:26+08:00</published>
+    <summary type="text">
+      就像双刃剑一样，这里介绍的是一种双刃式服务器端请求伪造(SSRF)漏洞，它能用来同时攻击服务器和客户端，至...
+    </summary>
+  </entry>
   <entry>
     <title>深入分析CVE-2022-27643漏洞</title>
     <link href="https://nosec.org/home/detail/4986.html"/>
@@ -174,15 +183,6 @@
     <published>2022-03-03T19:08:40+08:00</published>
     <summary type="text">
       近日，Spring官方发布了关于Spring Cloud Gateway的CVE报告，其中包含Spring Cloud Gateway 远程代码执行漏洞（CVE-2022-22947）。攻击者可通过该漏洞恶意创建允...
-    </summary>
-  </entry>
-  <entry>
-    <title>【安全通报】Clash For Windows 远程代码执行漏洞</title>
-    <link href="https://nosec.org/home/detail/4969.html"/>
-    <id>https://nosec.org/home/detail/4969.html</id>
-    <published>2022-02-25T18:56:43+08:00</published>
-    <summary type="text">
-      近日，Github上曝光了Clash For Windows开源代理工具的远程代码执行漏洞。据了解该漏洞利用细节及漏洞利用代码已在网络上公开，其可能已被在野利用。
     </summary>
   </entry>
 
