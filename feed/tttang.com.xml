@@ -3,8 +3,24 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-04-25T06:17:02+08:00</updated>
+  <updated>2022-04-25T12:25:54+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>CodeQL能找到log4shell(CVE-2021-44228)漏洞吗？</title>
+    <link href="https://tttang.com/archive/1570/"/>
+    <id>https://tttang.com/archive/1570/</id>
+    <published>2022-04-25T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;本文将回答下面几个问题：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CodeQL能否找到log4shell这个漏洞&lt;/li&gt;
+&lt;li&gt;如何基于log4j-api-2.14.1.jar和log4j-core-2.14.1.jar创建CodeQL database&lt;/li&gt;
+&lt;li&gt;如何基于CodeQL进行调用图分析&lt;/li&gt;
+&lt;li&gt;CodeQL如何解析虚拟函数调用&lt;/li&gt;
+&lt;li&gt;如何对CodeQL的污点分析进行debug&lt;/li&gt;
+&lt;/ol&gt;
+    </summary>
+  </entry>
   <entry>
     <title>内网渗透 -- NTLM 反射分析及土豆家族</title>
     <link href="https://tttang.com/archive/1560/"/>
@@ -197,15 +213,6 @@
 &lt;a href=&quot;https://xz.aliyun.com/t/10075&quot; target=&quot;_blank&quot;&gt;Java内存攻击技术漫谈&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://xz.aliyun.com/t/10186&quot; target=&quot;_blank&quot;&gt;Linux下内存马进阶植入技术&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;其中我对无文件的Java agent技术挺感兴趣。于是乎花了点时间从头学习了一波，尤其是游望之师傅在Linux下植入无文件java agent的技术。本文将会对这个技术再进行一个梳理。但因我二进制的基础比较薄弱，所以本文在说明Linux下无文件Java Agent时，也会较详细的说明一些二进制相关的基础。希望能帮助同样二进制基础薄弱的同学学习和理解，二进制还是很有趣哒。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>源码层面梳理Java RMI交互流程</title>
-    <link href="https://tttang.com/archive/1530/"/>
-    <id>https://tttang.com/archive/1530/</id>
-    <published>2022-04-06T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;RMI(Remote Method Invocation)是Java语言执行远程方法调用的Java API，相当于面向对象的远程过程调用（RPC），支持直接传输序列化的Java类和分布式垃圾回收。&lt;/p&gt;
     </summary>
   </entry>
 
