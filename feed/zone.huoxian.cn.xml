@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-04-27T06:17:35+08:00</updated>
+  <updated>2022-04-27T12:44:04+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>火线Zone社区规则及激励制度升级（于2022.4.25号开始执行）</title>
@@ -21,6 +21,24 @@
     <published>2022-04-17T12:30:48+00:00</published>
     <summary type="text">
       分享个自己搭建的云安全知识文库
+    </summary>
+  </entry>
+  <entry>
+    <title>微软云 云数据库攻防</title>
+    <link href="https://zone.huoxian.cn/d/1134"/>
+    <id>https://zone.huoxian.cn/d/1134</id>
+    <published>2022-04-27T02:46:42+00:00</published>
+    <summary type="text">
+      微软云 云数据库攻防
+    </summary>
+  </entry>
+  <entry>
+    <title>每日云安全技术资讯20220427</title>
+    <link href="https://zone.huoxian.cn/d/1133-20220427"/>
+    <id>https://zone.huoxian.cn/d/1133-20220427</id>
+    <published>2022-04-27T02:42:14+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220427
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-04-19T13:56:43+00:00</published>
     <summary type="text">
        Terraform解决存储桶创建写入策略是提示NoSuckBucket
-    </summary>
-  </entry>
-  <entry>
-    <title>SSRF漏洞学习</title>
-    <link href="https://zone.huoxian.cn/d/1112-ssrf"/>
-    <id>https://zone.huoxian.cn/d/1112-ssrf</id>
-    <published>2022-04-19T11:28:23+00:00</published>
-    <summary type="text">
-      SSRF漏洞学习
-    </summary>
-  </entry>
-  <entry>
-    <title>华为云 云数据库RDS攻防</title>
-    <link href="https://zone.huoxian.cn/d/1111-rds"/>
-    <id>https://zone.huoxian.cn/d/1111-rds</id>
-    <published>2022-04-19T07:55:03+00:00</published>
-    <summary type="text">
-      华为云 云数据库RDS攻防
     </summary>
   </entry>
 

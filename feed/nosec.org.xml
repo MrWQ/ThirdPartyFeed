@@ -3,7 +3,7 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-04-27T06:17:45+08:00</updated>
+  <updated>2022-04-27T12:44:14+08:00</updated>
   <id>https://nosec.org/home/index</id>
   <entry>
     <title>深入考察同时威胁服务器和客户端的双刃式SSRF漏洞</title>
@@ -12,6 +12,15 @@
     <published>2022-04-04T14:38:26+08:00</published>
     <summary type="text">
       就像双刃剑一样，这里介绍的是一种双刃式服务器端请求伪造(SSRF)漏洞，它能用来同时攻击服务器和客户端，至...
+    </summary>
+  </entry>
+  <entry>
+    <title>每日安全资讯小课堂：T-Mobile承认被攻击--衍生SIM卡更换攻...</title>
+    <link href="https://nosec.org/home/detail/4995.html"/>
+    <id>https://nosec.org/home/detail/4995.html</id>
+    <published>2022-04-27T11:08:43+08:00</published>
+    <summary type="text">
+      T-Mobile承认Lapsus黑客获得了其内部工具和源代码。电信公司T-Mobile周五证实，在LAPSUS$雇佣军团伙设法进入其网络后，它是3月份安全漏洞的受害者。
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-03-04T14:34:45+08:00</published>
     <summary type="text">
       CVE-2022-0185是Linux内核中的一个安全漏洞，该漏洞已经潜藏了两年之久。该漏洞是在Linux v5.1中引入的，具...
-    </summary>
-  </entry>
-  <entry>
-    <title>【安全通报】Spring Cloud Gateway 远程代码执行漏洞风险通...</title>
-    <link href="https://nosec.org/home/detail/4971.html"/>
-    <id>https://nosec.org/home/detail/4971.html</id>
-    <published>2022-03-03T19:08:40+08:00</published>
-    <summary type="text">
-      近日，Spring官方发布了关于Spring Cloud Gateway的CVE报告，其中包含Spring Cloud Gateway 远程代码执行漏洞（CVE-2022-22947）。攻击者可通过该漏洞恶意创建允...
     </summary>
   </entry>
 
