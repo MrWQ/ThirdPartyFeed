@@ -3,8 +3,35 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-04-28T13:03:57+08:00</updated>
+  <updated>2022-04-28T18:24:28+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>自定义跳转函数的通用unhook方法</title>
+    <link href="https://sec-in.com/article/1704"/>
+    <id>https://sec-in.com/article/1704</id>
+    <published>2022-04-28T16:33:11+08:00</published>
+    <summary type="text">
+      本文介绍一种自定义函数的unhook方法，并且发出的调用也是由ntdll发出，具有一些学习研究价值。
+    </summary>
+  </entry>
+  <entry>
+    <title>宏景hr-Axis漏洞利用</title>
+    <link href="https://sec-in.com/article/1702"/>
+    <id>https://sec-in.com/article/1702</id>
+    <published>2022-04-28T16:32:27+08:00</published>
+    <summary type="text">
+      给大家带来宏景hr-Axis漏洞利用，站在大佬的肩膀上搞渗透，自己还是太菜了太菜了。菜的睡不着觉，大佬轻点喷咩咩咩。
+    </summary>
+  </entry>
+  <entry>
+    <title>从500到账户接管</title>
+    <link href="https://sec-in.com/article/1692"/>
+    <id>https://sec-in.com/article/1692</id>
+    <published>2022-04-28T16:32:06+08:00</published>
+    <summary type="text">
+      在一次漏洞评估的过程中，一个位于HTTP 500“内部服务器错误”页面上的普通跨站脚本（XSS）漏洞，被我成功地变成了一键式的账户接管。
+    </summary>
+  </entry>
   <entry>
     <title>初探Java安全之JavaAgent</title>
     <link href="https://sec-in.com/article/1690"/>
@@ -66,34 +93,6 @@
     <published>2022-04-11T14:10:25+08:00</published>
     <summary type="text">
       CTF平台地址：https://www.wechall.net/challs，全英文（狗头），有兴趣的小伙伴可以试试。
-    </summary>
-  </entry>
-  <entry>
-    <title>Windows远程下载新方案--搭建使用DNS服务器传输数据</title>
-    <link href="https://sec-in.com/article/1670"/>
-    <id>https://sec-in.com/article/1670</id>
-    <published>2022-04-11T14:07:23+08:00</published>
-    <summary type="text">
-      参加护网的伙计们可能经常会遇到在目标主机上已经可以执行命令但是因为杀软拦着无法远程下载（比如powershell，certutil，vbs，Bitsadmin），或者循环写入遇到负载均衡，以及目标不
-    </summary>
-  </entry>
-  <entry>
-    <title>红队笔记专属-shell备忘录</title>
-    <link href="https://sec-in.com/article/1679"/>
-    <id>https://sec-in.com/article/1679</id>
-    <published>2022-04-11T13:50:01+08:00</published>
-    <summary type="text">
-      建议直接复制粘贴到笔记，或点赞收藏，因为时常会用到，这是整理的一些常见的反向shell和特权提升的笔记文档，红队成员必会！
-最全。
-    </summary>
-  </entry>
-  <entry>
-    <title>免杀基础之一文学废PE文件格式</title>
-    <link href="https://sec-in.com/article/1669"/>
-    <id>https://sec-in.com/article/1669</id>
-    <published>2022-04-11T11:31:19+08:00</published>
-    <summary type="text">
-      PE文件的全称是Portable Executable ，意为可移植的可执行文件，常见的有EXE，DLL，SYS，COM，OCX，PE文件是微软Windows操作系统上的程序文件。
     </summary>
   </entry>
 
