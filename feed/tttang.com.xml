@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-04-28T06:17:54+08:00</updated>
+  <updated>2022-04-28T13:03:58+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>浅谈hook攻防</title>
+    <link href="https://tttang.com/archive/1558/"/>
+    <id>https://tttang.com/archive/1558/</id>
+    <published>2022-04-28T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;攻与防都是相对的，只有掌握细节才能更好的对抗。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>Kerberoasting攻击检测</title>
     <link href="https://tttang.com/archive/1555/"/>
@@ -204,20 +213,6 @@
 &lt;p&gt;这两个字，听起来真的令人印象深刻。至少对我来说是这样。&lt;/p&gt;
 &lt;p&gt;这是黑客文化中的一个梦想，经常出现在关于间谍/黑客题材的电视剧/电影中，藉此可以“重定向卫星”，以便从轨道上更好地观察敌人的行动。&lt;/p&gt;
 &lt;p&gt;从小时候起，我就一直梦想着获得这样的技能：黑掉一些你看不到它们，但它们却能看到你的东西。由于卫星能够赋予用户强大的力量，所以，它自然是国家防御中最关键的系统之一，因此，卫星应该很难被黑客侵入的。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>ByteCodeDL原理篇之手把手教你实现污点分析</title>
-    <link href="https://tttang.com/archive/1541/"/>
-    <id>https://tttang.com/archive/1541/</id>
-    <published>2022-04-12T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;本文主要是根据&lt;a href=&quot;https://yanniss.github.io/ptaint-oopsla17-prelim.pdf&quot; target=&quot;_blank&quot;&gt;ptaint&lt;/a&gt;这篇论文的思想：将指针分析和污点分析统一起来进行分析，实现ByteCodeDL的污点分析功能，在阅读本文之前建议先学习下面三份资料&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://yanniss.github.io/ptaint-oopsla17-prelim.pdf&quot; target=&quot;_blank&quot;&gt;https://yanniss.github.io/ptaint-oopsla17-prelim.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=IA08d-kiCy8&quot; target=&quot;_blank&quot;&gt;https://www.youtube.com/watch?v=IA08d-kiCy8&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://pascal-group.bitbucket.io/lectures/Security.pdf&quot; target=&quot;_blank&quot;&gt;https://pascal-group.bitbucket.io/lectures/Security.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
     </summary>
   </entry>
 
