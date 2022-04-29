@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-04-29T06:17:45+08:00</updated>
+  <updated>2022-04-29T13:01:00+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>GO逆向分析小结-goparse使用与深入理解interface</title>
+    <link href="https://tttang.com/archive/1574/"/>
+    <id>https://tttang.com/archive/1574/</id>
+    <published>2022-04-29T12:00:00+08:00</published>
+    <summary type="text">
+      
+    </summary>
+  </entry>
   <entry>
     <title>浅谈hook攻防</title>
     <link href="https://tttang.com/archive/1558/"/>
@@ -201,18 +210,6 @@
     <published>2022-04-14T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;最近一段时间学习了MSSQL数据库提权相关的知识，总结了一些常见手段，应该是比较全的了，如有遗漏还请指正。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>How I hacked an ESA&amp;#x27;s experimental satellite（译文）</title>
-    <link href="https://tttang.com/archive/1542/"/>
-    <id>https://tttang.com/archive/1542/</id>
-    <published>2022-04-13T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;&lt;strong&gt;Hacking satellite&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;这两个字，听起来真的令人印象深刻。至少对我来说是这样。&lt;/p&gt;
-&lt;p&gt;这是黑客文化中的一个梦想，经常出现在关于间谍/黑客题材的电视剧/电影中，藉此可以“重定向卫星”，以便从轨道上更好地观察敌人的行动。&lt;/p&gt;
-&lt;p&gt;从小时候起，我就一直梦想着获得这样的技能：黑掉一些你看不到它们，但它们却能看到你的东西。由于卫星能够赋予用户强大的力量，所以，它自然是国家防御中最关键的系统之一，因此，卫星应该很难被黑客侵入的。&lt;/p&gt;
     </summary>
   </entry>
 
