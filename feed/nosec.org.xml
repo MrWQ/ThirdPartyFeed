@@ -3,7 +3,7 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-04-29T18:21:12+08:00</updated>
+  <updated>2022-04-30T06:18:35+08:00</updated>
   <id>https://nosec.org/home/index</id>
   <entry>
     <title>深入考察同时威胁服务器和客户端的双刃式SSRF漏洞</title>
