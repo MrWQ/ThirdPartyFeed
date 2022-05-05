@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-05-05T06:18:23+08:00</updated>
+  <updated>2022-05-05T12:34:28+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>通过嵌入x64汇编隐藏数据&amp;amp;反调试</title>
+    <link href="https://tttang.com/archive/1559/"/>
+    <id>https://tttang.com/archive/1559/</id>
+    <published>2022-05-05T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;我们知道在x64里面，从3环进入0环会调用&lt;code&gt;syscall&lt;/code&gt;，那么如果是32位的程序就需要首先转换为x64模式再通过&lt;code&gt;syscall&lt;/code&gt;进入0环，这里就会涉及到一系列64位寄存器的操作，我们通过探究其实现原理来达到隐藏数据和反调试的效果。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>GO逆向分析小结-goparse使用与深入理解interface</title>
     <link href="https://tttang.com/archive/1574/"/>
@@ -201,15 +210,6 @@
 &lt;/li&gt;
 &lt;li&gt;总结知识点&lt;/li&gt;
 &lt;/ul&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>mssql 提权总结</title>
-    <link href="https://tttang.com/archive/1545/"/>
-    <id>https://tttang.com/archive/1545/</id>
-    <published>2022-04-14T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;最近一段时间学习了MSSQL数据库提权相关的知识，总结了一些常见手段，应该是比较全的了，如有遗漏还请指正。&lt;/p&gt;
     </summary>
   </entry>
 
