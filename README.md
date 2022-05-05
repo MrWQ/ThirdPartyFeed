@@ -37,3 +37,4 @@ SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/Thi
 - [RSS-proxy](https://github.com/damoeb/rss-proxy)
 - [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
 - [yarb (Yet Another Rss Bot)](https://github.com/firmianay/yarb)
+- [ALL-about-RSS](https://github.com/aboutrss/ALL-about-RSS)
