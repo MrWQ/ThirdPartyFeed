@@ -3,8 +3,17 @@
   <title>SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link href="https://blog.sonarsource.com/"/>
-  <updated>2022-05-06T18:24:31+08:00</updated>
+  <updated>2022-05-07T06:17:38+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title>A C&amp;C++ tour of SonarLint for VS Code</title>
+    <link href="https://blog.sonarsource.com/a-c-and-cpp-tour-of-sonarlint-for-vs-code"/>
+    <id>https://blog.sonarsource.com/a-c-and-cpp-tour-of-sonarlint-for-vs-code</id>
+    <published>2022-05-06T13:51:33Z</published>
+    <summary type="text">
+      VS Code has been gaining popularity for C and C++ development. We are happy to announce that finally, we will be able to help you write clean C and C++ code in VS Code.
+    </summary>
+  </entry>
   <entry>
     <title>RainLoop Webmail - Emails at Risk due to Code Flaw</title>
     <link href="https://blog.sonarsource.com/rainloop-emails-at-risk-due-to-code-flaw"/>
@@ -174,15 +183,6 @@
     <published>2021-12-07T13:54:57Z</published>
     <summary type="text">
       C++20 is here! It&#x27;s a big release with many features designed to make your code easier, faster and safer. Let&#x27;s see how the latest C++ analysis rules in SonarLint, SonarQube and SonarCloud can help us modernize our code to take advantage of some of the new features.
-    </summary>
-  </entry>
-  <entry>
-    <title>NodeBB 1.18.4 - Remote Code Execution With One Shot</title>
-    <link href="https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot"/>
-    <id>https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot</id>
-    <published>2021-11-30T16:24:31Z</published>
-    <summary type="text">
-      We recently discovered three interesting code vulnerabilities in NodeBB 1.18.4, allowing attackers to compromise servers. Find out about the details in this article!
     </summary>
   </entry>
 
