@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-05-06T06:18:47+08:00</updated>
+  <updated>2022-05-06T14:00:08+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>针对解释性语言包管理器的供应链攻击研究</title>
+    <link href="https://tttang.com/archive/1587/"/>
+    <id>https://tttang.com/archive/1587/</id>
+    <published>2022-05-06T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;这是一篇NDSS 2021年发表的&lt;a href=&quot;https://arxiv.org/pdf/2002.01139.pdf&quot; target=&quot;_blank&quot;&gt;论文&lt;/a&gt;，相关的代码也已经&lt;a href=&quot;https://github.com/osssanitizer/maloss&quot; target=&quot;_blank&quot;&gt;开源&lt;/a&gt;，应该是目前比较全面的研究第三源安全的论文，刚好最近也在做软件供应链安全相关的事情，趁着五一假期翻译了一下。很巧的是OpenSSF(SASL也是它们的项目之一)也在4月28号也发布了&lt;a href=&quot;https://openssf.org/blog/2022/04/28/introducing-package-analysis-scanning-open-source-packages-for-malicious-behavior/&quot; target=&quot;_blank&quot;&gt;一篇文章&lt;/a&gt;也在号召社区一同来做动态检测，也在&lt;a href=&quot;https://github.com/ossf/package-analysis&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt;上开源了相关代码，OpenSSF目前开源的项目只做了安装和导入时候的动态检测，相对简单一些。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>通过嵌入x64汇编隐藏数据&amp;amp;反调试</title>
     <link href="https://tttang.com/archive/1559/"/>
@@ -185,31 +194,6 @@
     <published>2022-04-18T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;我们知道杀软在API函数的监控上一般有两种手段，一种是在3环直接通过挂钩到自己的函数判断是否调用了这个API，另外一种方式就是在0环去往SSDT表的路径上挂钩来判断进0环后的操作。那么我们如果不想杀软监控我们的行为，之前提过的内核重载是一种绕过的方式，但是内核重载的动静太大，这里我们就通过直接重写3环到0环的API，通过重写&lt;code&gt;KiFastCallEntry&lt;/code&gt;来自己调用内核的函数，以达到规避杀软的效果。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>内网渗透--NTLM中继与反射浅析</title>
-    <link href="https://tttang.com/archive/1548/"/>
-    <id>https://tttang.com/archive/1548/</id>
-    <published>2022-04-15T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;本章主要介绍NTLM中继和反射&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;NTLM中继和反射&lt;/li&gt;
-&lt;li&gt;[NTLM中继]&lt;ul&gt;
-&lt;li&gt;[SMB 协议和欺骗]&lt;/li&gt;
-&lt;li&gt;[工具介绍]&lt;/li&gt;
-&lt;li&gt;[实战解析]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;[NTLM反射]&lt;ul&gt;
-&lt;li&gt;[原理讲解]&lt;/li&gt;
-&lt;li&gt;[利用方法]&lt;/li&gt;
-&lt;li&gt;[历史土豆分析]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;总结知识点&lt;/li&gt;
-&lt;/ul&gt;
     </summary>
   </entry>
 
