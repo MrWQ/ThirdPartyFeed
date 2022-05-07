@@ -3,8 +3,28 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-05-07T12:21:56+08:00</updated>
+  <updated>2022-05-07T18:19:30+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>CVE-2021-31209 分析学习</title>
+    <link href="https://sec-in.com/article/1710"/>
+    <id>https://sec-in.com/article/1710</id>
+    <published>2022-05-07T16:54:59+08:00</published>
+    <summary type="text">
+      这个漏洞是在2020年11月中旬发布的漏洞，编号为CVE-2021-31209，该漏洞需要借助MITM攻击
+    </summary>
+  </entry>
+  <entry>
+    <title>警惕：信息窃取程序已通过假的Windows 11更新对加密货币钱包下手</title>
+    <link href="https://sec-in.com/article/1705"/>
+    <id>https://sec-in.com/article/1705</id>
+    <published>2022-05-07T16:54:06+08:00</published>
+    <summary type="text">
+      每日安全资讯小课堂
+警惕：信息窃取程序已通过假的Windows 11更新对加密货币钱包下手
+研究人员警告Windows用户有关针对其系统的新恶意活动，其冒充Windows 11升级产品，该假工具嵌入了
+    </summary>
+  </entry>
   <entry>
     <title>自定义跳转函数的通用unhook方法</title>
     <link href="https://sec-in.com/article/1704"/>
@@ -75,24 +95,6 @@
     <published>2022-04-11T14:21:09+08:00</published>
     <summary type="text">
       主要在实站环境中对linux系统获取webshell到提权以及权限维持方面做一个学习，最后对linux提权以及权限维持做了一个总结。
-    </summary>
-  </entry>
-  <entry>
-    <title>CVE-2018-10933漏洞分析与复现</title>
-    <link href="https://sec-in.com/article/1682"/>
-    <id>https://sec-in.com/article/1682</id>
-    <published>2022-04-11T14:20:44+08:00</published>
-    <summary type="text">
-      libssh版本0.6及更高版本在服务端代码中具有身份验证绕过漏洞。 本文分析了漏洞产生的原因并且提供了一种较为新奇的维权姿势，有错误请大家指出！
-    </summary>
-  </entry>
-  <entry>
-    <title>WeChall CTF平台20题wp（一）</title>
-    <link href="https://sec-in.com/article/1674"/>
-    <id>https://sec-in.com/article/1674</id>
-    <published>2022-04-11T14:10:25+08:00</published>
-    <summary type="text">
-      CTF平台地址：https://www.wechall.net/challs，全英文（狗头），有兴趣的小伙伴可以试试。
     </summary>
   </entry>
 
