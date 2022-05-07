@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-05-07T06:17:34+08:00</updated>
+  <updated>2022-05-07T12:21:55+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>火线Zone社区规则及激励制度升级（于2022.4.25号开始执行）</title>
@@ -12,6 +12,33 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级（于2022.4.25号开始执行）
+    </summary>
+  </entry>
+  <entry>
+    <title>如何保证Kubernetes中部署的安全？</title>
+    <link href="https://zone.huoxian.cn/d/1148-kubernetes"/>
+    <id>https://zone.huoxian.cn/d/1148-kubernetes</id>
+    <published>2022-05-07T03:33:44+00:00</published>
+    <summary type="text">
+      如何保证Kubernetes中部署的安全？
+    </summary>
+  </entry>
+  <entry>
+    <title>每日云安全技术资讯20200507</title>
+    <link href="https://zone.huoxian.cn/d/1147-20200507"/>
+    <id>https://zone.huoxian.cn/d/1147-20200507</id>
+    <published>2022-05-07T03:09:46+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20200507
+    </summary>
+  </entry>
+  <entry>
+    <title>云安全的常见威胁</title>
+    <link href="https://zone.huoxian.cn/d/1146"/>
+    <id>https://zone.huoxian.cn/d/1146</id>
+    <published>2022-05-07T02:54:44+00:00</published>
+    <summary type="text">
+      云安全的常见威胁
     </summary>
   </entry>
   <entry>
@@ -156,33 +183,6 @@
     <published>2022-04-25T11:26:06+00:00</published>
     <summary type="text">
        Apache Apisix jwt插件 (CVE-2022-29266) 密钥泄漏
-    </summary>
-  </entry>
-  <entry>
-    <title>遇到RDS如何利用？阿里云RDS攻防</title>
-    <link href="https://zone.huoxian.cn/d/1129-rdsrds"/>
-    <id>https://zone.huoxian.cn/d/1129-rdsrds</id>
-    <published>2022-04-25T09:25:35+00:00</published>
-    <summary type="text">
-      遇到RDS如何利用？阿里云RDS攻防
-    </summary>
-  </entry>
-  <entry>
-    <title>【火线zone社区周激励】2022年4月18号～2022年4月24号公告</title>
-    <link href="https://zone.huoxian.cn/d/1128-zone20224182022424"/>
-    <id>https://zone.huoxian.cn/d/1128-zone20224182022424</id>
-    <published>2022-04-25T06:46:24+00:00</published>
-    <summary type="text">
-      【火线zone社区周激励】2022年4月18号～2022年4月24号公告
-    </summary>
-  </entry>
-  <entry>
-    <title>&quot;杀鸡刀&quot;小试反序列化POP链</title>
-    <link href="https://zone.huoxian.cn/d/1127-pop"/>
-    <id>https://zone.huoxian.cn/d/1127-pop</id>
-    <published>2022-04-25T06:13:43+00:00</published>
-    <summary type="text">
-      &quot;杀鸡刀&quot;小试反序列化POP链
     </summary>
   </entry>
 

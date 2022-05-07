@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-05-07T06:17:34+08:00</updated>
+  <updated>2022-05-07T12:21:55+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>starCTF2022-Web详解</title>
+    <link href="https://tttang.com/archive/1569/"/>
+    <id>https://tttang.com/archive/1569/</id>
+    <published>2022-05-07T12:00:00+08:00</published>
+    <summary type="text">
+      
+    </summary>
+  </entry>
   <entry>
     <title>针对解释性语言包管理器的供应链攻击研究</title>
     <link href="https://tttang.com/archive/1587/"/>
@@ -185,15 +194,6 @@
 &lt;li&gt;应用程序使用缓存只复制与过滤数据包相关的数据，不会复制数据包的所有信息。这样可以最大程度地减少BPF 处理的数据；&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;由于这些巨大的改进，所有的 Unix 系统都选择采用 BPF 作为网络数据包过滤技术，直到今天，许多 Unix 内核的派生系统中（包括 Linux 内核）仍使用该实现。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>构建API调用框架绕过杀软hook</title>
-    <link href="https://tttang.com/archive/1546/"/>
-    <id>https://tttang.com/archive/1546/</id>
-    <published>2022-04-18T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;我们知道杀软在API函数的监控上一般有两种手段，一种是在3环直接通过挂钩到自己的函数判断是否调用了这个API，另外一种方式就是在0环去往SSDT表的路径上挂钩来判断进0环后的操作。那么我们如果不想杀软监控我们的行为，之前提过的内核重载是一种绕过的方式，但是内核重载的动静太大，这里我们就通过直接重写3环到0环的API，通过重写&lt;code&gt;KiFastCallEntry&lt;/code&gt;来自己调用内核的函数，以达到规避杀软的效果。&lt;/p&gt;
     </summary>
   </entry>
 
