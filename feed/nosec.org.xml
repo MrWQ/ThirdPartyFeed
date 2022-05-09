@@ -3,7 +3,7 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-05-09T06:17:07+08:00</updated>
+  <updated>2022-05-09T12:31:50+08:00</updated>
   <id>https://nosec.org/home/index</id>
   <entry>
     <title>Netatalk RCE漏洞分析（CVE-2022-23121 ）</title>
@@ -45,7 +45,7 @@
     <title>深入分析CVE-2022-27643漏洞</title>
     <link href="https://nosec.org/home/detail/4986.html"/>
     <id>https://nosec.org/home/detail/4986.html</id>
-    <published>2022-04-04T12:31:08+08:00</published>
+    <published>2022-05-09T11:25:53+08:00</published>
     <summary type="text">
       最近，安全研究人员在多款NETGEAR产品中提供并默认启用的通用即插即用守护程序（upnpd）中发现了远程预身份...
     </summary>
@@ -54,7 +54,7 @@
     <title>攻击者是如何利用4个漏洞实现Cisco RV340 RCE的</title>
     <link href="https://nosec.org/home/detail/4985.html"/>
     <id>https://nosec.org/home/detail/4985.html</id>
-    <published>2022-04-03T11:05:10+08:00</published>
+    <published>2022-05-09T11:29:54+08:00</published>
     <summary type="text">
       在2021年11月的Austin pwn2own大赛期间，我们发现了四个漏洞，并利用这些漏洞成功入侵了路由器局域网(LAN)...
     </summary>
