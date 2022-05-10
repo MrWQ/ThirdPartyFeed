@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-05-10T06:17:55+08:00</updated>
+  <updated>2022-05-10T12:23:03+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>Struts2漏洞集合分析与梳理</title>
+    <link href="https://tttang.com/archive/1583/"/>
+    <id>https://tttang.com/archive/1583/</id>
+    <published>2022-05-10T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;本文针对Struts2一些经典漏洞进行分析和梳理。为什么要分析struts2这些略久远的漏洞呢？最近热议的Spring jdk9 漏洞，其中涉及到Struts2+类加载器漏洞的利用方式，由此有了重新梳理Struts2历史漏洞的想法。漏洞虽然是过去的，但知识点永远是知识点。希望通过对Struts2的一些经典漏洞的分析，获取新的认识和知识。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>Musl 程序分析和调试环境配置 &amp;amp;&amp;amp; 部分源码分析</title>
     <link href="https://tttang.com/archive/1582/"/>
@@ -181,15 +190,6 @@
     <published>2022-04-21T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;Postgresql 数据库作为 python 应用中比较常见的数据库，其利用手段公开的不多,而且利用方式也比较单一，我搜集了国内外一些相关的利用思路进行总结，如有遗漏还请指正。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>Exploit Development: Browser Exploitation on Windows - CVE-2019-0567, A Microsoft Edge Type Confusion Vulnerability (Part 2) （译文）</title>
-    <link href="https://tttang.com/archive/1557/"/>
-    <id>https://tttang.com/archive/1557/</id>
-    <published>2022-04-20T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;在第一篇文章中，我们介绍了ChakraCore exploit的开发环境，考察了JavaScript（更具体地说，Chakra/ChakraCore引擎）是如何管理内存中的动态对象的，并分析了CVE-2019-0567漏洞——它是一个影响基于Chakra引擎的Microsoft Edge和ChakraCore的类型混淆漏洞。在本文中，我们将为读者介绍该漏洞的概念验证脚本，该脚本能够利用类型混淆漏洞让Edge和ChakraCore发生崩溃，进而将其转换为一个读/写原语。然后，该原语将被用来获得针对ChakraCore和ChakraCore shell（ch.exe）的代码执行，而ChakraCore shell本质上就是一个允许执行JavaScript代码的命令行JavaScript shell。就本文来说，我们可以把ch.exe看作是Microsoft Edge，但没有提供可视化功能。接下来，在第三篇文章中，我们将把这里介绍的exploit移植到Microsoft Edge上，以获得完整的代码执行。&lt;/p&gt;
     </summary>
   </entry>
 
