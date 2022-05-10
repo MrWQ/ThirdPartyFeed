@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-05-10T12:23:04+08:00</updated>
+  <updated>2022-05-10T18:20:46+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>火线Zone社区规则及激励制度升级（于2022.4.25号开始执行）</title>
@@ -12,6 +12,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级（于2022.4.25号开始执行）
+    </summary>
+  </entry>
+  <entry>
+    <title>【火线Zone社区双周奖励】2022年4月25日~2022年5月8日公告</title>
+    <link href="https://zone.huoxian.cn/d/1160-zone2022425202258"/>
+    <id>https://zone.huoxian.cn/d/1160-zone2022425202258</id>
+    <published>2022-05-10T07:15:45+00:00</published>
+    <summary type="text">
+      【火线Zone社区双周奖励】2022年4月25日~2022年5月8日公告
+    </summary>
+  </entry>
+  <entry>
+    <title>【云原生渗透】- Docker.sock文件容器逃逸漏洞  </title>
+    <link href="https://zone.huoxian.cn/d/1159-dockersock"/>
+    <id>https://zone.huoxian.cn/d/1159-dockersock</id>
+    <published>2022-05-10T06:25:14+00:00</published>
+    <summary type="text">
+      【云原生渗透】- Docker.sock文件容器逃逸漏洞  
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-05-05T05:04:45+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220505
-    </summary>
-  </entry>
-  <entry>
-    <title>每日云安全技术资讯20220429</title>
-    <link href="https://zone.huoxian.cn/d/1139-20220429"/>
-    <id>https://zone.huoxian.cn/d/1139-20220429</id>
-    <published>2022-04-29T02:29:56+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220429
-    </summary>
-  </entry>
-  <entry>
-    <title># 打靶vulnhub系列（1）</title>
-    <link href="https://zone.huoxian.cn/d/1138-vulnhub1"/>
-    <id>https://zone.huoxian.cn/d/1138-vulnhub1</id>
-    <published>2022-04-28T06:38:52+00:00</published>
-    <summary type="text">
-      # 打靶vulnhub系列（1）
     </summary>
   </entry>
 

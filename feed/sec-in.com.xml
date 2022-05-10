@@ -3,8 +3,26 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-05-10T12:23:02+08:00</updated>
+  <updated>2022-05-10T18:20:46+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>Protected Process Light (PPL) Attack</title>
+    <link href="https://sec-in.com/article/1721"/>
+    <id>https://sec-in.com/article/1721</id>
+    <published>2022-05-10T15:30:10+08:00</published>
+    <summary type="text">
+      PPL表示Protected Process Light，但在此之前，只有Protected Processes。受保护进程的概念是随Windows Vista / Server 2008引入的，其目
+    </summary>
+  </entry>
+  <entry>
+    <title>从开源工具中汲取知识之网页爬虫工具</title>
+    <link href="https://sec-in.com/article/1720"/>
+    <id>https://sec-in.com/article/1720</id>
+    <published>2022-05-10T15:17:05+08:00</published>
+    <summary type="text">
+      今天分析了几款网站爬虫开源工具，其主要作用是辅助安全测试人员，测试网站功能，发现网站漏洞，本着学习的原则，通过阅读源码的方式来学习其核心技术，从而有助于我们自身编写相关脚本，在实际的工作中应用它来提升
+    </summary>
+  </entry>
   <entry>
     <title>MYSQL8.0特性—无select注入</title>
     <link href="https://sec-in.com/article/1715"/>
@@ -77,24 +95,6 @@
     <published>2022-04-11T15:37:53+08:00</published>
     <summary type="text">
       网上MySQL安全基线，安全配置的文章很多，大多都已经很多年前的了，在自己看别人的文章的时候去实践会有不少过时的配置，于是自己动手基于实际环境进行了测试总结。将总结的文字发出来，以供大家参考。
-    </summary>
-  </entry>
-  <entry>
-    <title>SSTI漏洞基础解析</title>
-    <link href="https://sec-in.com/article/1678"/>
-    <id>https://sec-in.com/article/1678</id>
-    <published>2022-04-11T15:33:30+08:00</published>
-    <summary type="text">
-      此文从flask基础将到如何造成ssti漏洞，从基础到上手测试，一条龙讲解，此文能让读者迅速了解flask和ssti原理
-    </summary>
-  </entry>
-  <entry>
-    <title>PE文件结构解析4</title>
-    <link href="https://sec-in.com/article/1680"/>
-    <id>https://sec-in.com/article/1680</id>
-    <published>2022-04-11T14:21:51+08:00</published>
-    <summary type="text">
-      本文主要是讲了了pe文件结构导入表的作用和导入表的一些成员，以及如何使用代码打印出导入白哦，涉及到了指针和结构体与逻辑运算相关的知识。需要注意的是对指针做运算时指针的宽度和对导入表的理解。
     </summary>
   </entry>
 
