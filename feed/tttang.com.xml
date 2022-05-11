@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-05-11T06:17:54+08:00</updated>
+  <updated>2022-05-11T12:37:50+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>对抗无落地的shellcode注入</title>
+    <link href="https://tttang.com/archive/1581/"/>
+    <id>https://tttang.com/archive/1581/</id>
+    <published>2022-05-11T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;一般的shellcode加载到内存都是通过&lt;code&gt;LoadLibrary&lt;/code&gt;和&lt;code&gt;GetProcAddress&lt;/code&gt;来获取函数进行shellcode加载，亦或是通过&lt;code&gt;VirtualAllocEx&lt;/code&gt;远程申请一块空间来放入shellcode的地址进行加载。为了隐蔽，攻击者通常会通过PEB找到&lt;code&gt;InLoadOrderModuleList&lt;/code&gt;链表，自己去定位&lt;code&gt;LoadLibrary&lt;/code&gt;函数从而规避杀软对导入表的监控。攻击者先把shellcode加密，在写入时解密存放到内存空间，使用基于文件检测的方法，是无能为力的，那么这种无落地的方式，最终都会在内存中一览无余。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>Struts2漏洞集合分析与梳理</title>
     <link href="https://tttang.com/archive/1583/"/>
@@ -181,15 +190,6 @@
     <published>2022-04-22T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;这是我们第三次对在野利用的0-day漏洞进行年度回顾[2020年，2019年]。每年，我们都对所有已检测到并公之于众的在野0-day漏洞进行回顾，并总结我们认为的趋势和收获。这份报告的宗旨，并非详细说明各个漏洞，而是把当年的漏洞作为整体进行分析，寻找趋势、差距、经验教训、成功案例等。如果您对单个漏洞的分析感兴趣的话，可以访问我们的根本原因分析库。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>Postgresql 渗透总结</title>
-    <link href="https://tttang.com/archive/1547/"/>
-    <id>https://tttang.com/archive/1547/</id>
-    <published>2022-04-21T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;Postgresql 数据库作为 python 应用中比较常见的数据库，其利用手段公开的不多,而且利用方式也比较单一，我搜集了国内外一些相关的利用思路进行总结，如有遗漏还请指正。&lt;/p&gt;
     </summary>
   </entry>
 
