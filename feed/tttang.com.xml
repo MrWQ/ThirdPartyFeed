@@ -3,8 +3,19 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-05-12T06:18:19+08:00</updated>
+  <updated>2022-05-12T12:30:56+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>A blueprint for evading industry leading endpoint protection in 2022（译文）</title>
+    <link href="https://tttang.com/archive/1573/"/>
+    <id>https://tttang.com/archive/1573/</id>
+    <published>2022-05-12T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;大约两年前，我辞去了全职红队操作员的工作。然而，它仍然是一个心仪的专业领域。几周前，我重新拾起昨日的爱好：绕过/逃避端点保护解决方案。&lt;/p&gt;
+&lt;p&gt;在这篇文章中，我们将探讨一系列可用于绕过行业领先的企业端点保护解决方案的技术。由于这纯粹是为了（道德）红队队员等安全从业者教育之用，因此我决定不公开发布源代码。本文旨在让安全行业的广大读者能够全面了解相关技术，而不是深入研究每种技术的细节。相反，具体的技术细节，读者可以参阅参考资料部分列出的文章。&lt;/p&gt;
+&lt;p&gt;在模拟对抗过程中，“初始访问”阶段的一个关键挑战，就是绕过企业端点上的检测和响应能力 (EDR)。由于商业的c2框架向红队队员提供的是不可修改的shellcode和二进制文件，所以，安全解决方案供应商会提取这些代码的特征（或者成为签名），那么，为了植入这些代码，红队就必须对其特征（静态和行为特征）进行必要的混淆处理。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>对抗无落地的shellcode注入</title>
     <link href="https://tttang.com/archive/1581/"/>
@@ -181,15 +192,6 @@
     <published>2022-04-22T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;将自己学习的PE文件结构进行总结形成文章这件事情，一直躺在我的Notion TodoList里，但是一直是未完成的状态哈哈，拖了那么久也该让它状态变成已完成了。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>The More You Know, The More You Know You Don’t Know: A Year in Review of 0-days Used In-the-Wild in 2021（译文）</title>
-    <link href="https://tttang.com/archive/1568/"/>
-    <id>https://tttang.com/archive/1568/</id>
-    <published>2022-04-22T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;这是我们第三次对在野利用的0-day漏洞进行年度回顾[2020年，2019年]。每年，我们都对所有已检测到并公之于众的在野0-day漏洞进行回顾，并总结我们认为的趋势和收获。这份报告的宗旨，并非详细说明各个漏洞，而是把当年的漏洞作为整体进行分析，寻找趋势、差距、经验教训、成功案例等。如果您对单个漏洞的分析感兴趣的话，可以访问我们的根本原因分析库。&lt;/p&gt;
     </summary>
   </entry>
 
