@@ -3,7 +3,7 @@
   <title>SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link href="https://blog.sonarsource.com/"/>
-  <updated>2022-05-14T18:23:55+08:00</updated>
+  <updated>2022-05-14T20:45:52+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
   <entry>
     <title>Path Traversal Vulnerabilities in Icinga Web</title>
@@ -11,7 +11,7 @@
     <id>https://blog.sonarsource.com/path-traversal-vulnerabilities-in-icinga-web</id>
     <published>2022-05-11T13:46:15Z</published>
     <summary type="text">
-      We recently discovered two critical vulnerabilities in the IT monitoring dashboard Icinga Web. Letâ€™s review their respective root cause and their patches!
+      We recently discovered two critical vulnerabilities in the IT monitoring dashboard Icinga Web. Let’s review their respective root cause and their patches!
     </summary>
   </entry>
   <entry>
@@ -38,7 +38,7 @@
     <id>https://blog.sonarsource.com/sonarqube-9.4-video</id>
     <published>2022-04-06T20:28:33Z</published>
     <summary type="text">
-      Check out whatâ€™s new in SonarQube 9.4 in this 10-minute video brought to you by our Community Managers!
+      Check out what’s new in SonarQube 9.4 in this 10-minute video brought to you by our Community Managers!
     </summary>
   </entry>
   <entry>
@@ -56,7 +56,7 @@
     <id>https://blog.sonarsource.com/iac_code_quality</id>
     <published>2022-03-15T15:00:45Z</published>
     <summary type="text">
-      The norm for setting up your cloud-native app infrastructure is quickly becoming Infrastructure as Code (IaC). In this blog, weâ€™ll cover how Sonar is the solution for safeguarding your IaC invoked infrastructure.
+      The norm for setting up your cloud-native app infrastructure is quickly becoming Infrastructure as Code (IaC). In this blog, we’ll cover how Sonar is the solution for safeguarding your IaC invoked infrastructure.
     </summary>
   </entry>
   <entry>
@@ -65,7 +65,7 @@
     <id>https://blog.sonarsource.com/securing-developer-tools-git-integrations</id>
     <published>2022-03-15T14:57:34Z</published>
     <summary type="text">
-      With this series, we present the results of our research on the security of popular developer tools with the goal of making this ecosystem safer: todayâ€™s article revisits Git integrations.
+      With this series, we present the results of our research on the security of popular developer tools with the goal of making this ecosystem safer: today’s article revisits Git integrations.
     </summary>
   </entry>
   <entry>
@@ -92,7 +92,7 @@
     <id>https://blog.sonarsource.com/5-things-to-consider-in-performance-comparisons</id>
     <published>2022-03-01T15:00:00Z</published>
     <summary type="text">
-      Most people can probably relate to asking a child to handle a chore, only to have the kid come back way too soon, saying it&#x27;s done. Or maybe you can relate to being that child. Either way, you know what comes next: checking shows the job was handled poorly, and it all goes downhill from there.Â 
+      Most people can probably relate to asking a child to handle a chore, only to have the kid come back way too soon, saying it&#x27;s done. Or maybe you can relate to being that child. Either way, you know what comes next: checking shows the job was handled poorly, and it all goes downhill from there. 
     </summary>
   </entry>
   <entry>
@@ -101,7 +101,7 @@
     <id>https://blog.sonarsource.com/review-security-vulnerabilities-with-github-code-scanning</id>
     <published>2022-02-24T14:47:46Z</published>
     <summary type="text">
-      Weâ€™re happy to announce that SonarCloud integrates with GitHub code scanning! Itâ€™s available to everyone with a GitHub repository - private or public - independently of your SonarCloud plan. If you have access to the feature on GiHub and your organization admin already accepted the update for the SonarCloud app permissions, youâ€™re all set! You should be able to start using the feature during your next code review.
+      We’re happy to announce that SonarCloud integrates with GitHub code scanning! It’s available to everyone with a GitHub repository - private or public - independently of your SonarCloud plan. If you have access to the feature on GiHub and your organization admin already accepted the update for the SonarCloud app permissions, you’re all set! You should be able to start using the feature during your next code review.
     </summary>
   </entry>
   <entry>
@@ -155,7 +155,7 @@
     <id>https://blog.sonarsource.com/understanding-xxe-vulnerabilities</id>
     <published>2021-11-26T14:01:27Z</published>
     <summary type="text">
-      Today XML External Entities (XXE) vulnerabilities are still ubiquitous, despite the fact that recommendations to protect against them have been an integral part of security standards for years. In this post, we will try to demystify XXE vulnerabilities and present the rule we put in place to help you detect and prevent them.Â 
+      Today XML External Entities (XXE) vulnerabilities are still ubiquitous, despite the fact that recommendations to protect against them have been an integral part of security standards for years. In this post, we will try to demystify XXE vulnerabilities and present the rule we put in place to help you detect and prevent them. 
     </summary>
   </entry>
   <entry>
@@ -177,12 +177,12 @@
     </summary>
   </entry>
   <entry>
-    <title>â€˜Quick Fixâ€™ your C++ issues with SonarLint</title>
+    <title>‘Quick Fix’ your C++ issues with SonarLint</title>
     <link href="https://blog.sonarsource.com/quick-fix-cpp-issues-with-sonarlint"/>
     <id>https://blog.sonarsource.com/quick-fix-cpp-issues-with-sonarlint</id>
     <published>2021-12-15T16:09:11Z</published>
     <summary type="text">
-      â€˜Quick fixesâ€™ with SonarLint bring value to the C++ community by providing more than what they have today. Letâ€™s take a peek at how some of these rules equip you to deliver clean and safe C++ code, efficiently.
+      ‘Quick fixes’ with SonarLint bring value to the C++ community by providing more than what they have today. Let’s take a peek at how some of these rules equip you to deliver clean and safe C++ code, efficiently.
     </summary>
   </entry>
 
