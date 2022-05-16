@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-05-16T06:17:26+08:00</updated>
+  <updated>2022-05-16T12:28:06+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>Java安全之SnakeYaml反序列化分析</title>
+    <link href="https://tttang.com/archive/1591/"/>
+    <id>https://tttang.com/archive/1591/</id>
+    <published>2022-05-16T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;snakeyaml包主要用来解析yaml格式的内容，yaml语言比普通的xml与properties等配置文件的可读性更高，像是Spring系列就支持yaml的配置文件，而SnakeYaml是一个完整的YAML1.1规范Processor，支持UTF-8/UTF-16，支持Java对象的序列化/反序列化，支持所有YAML定义的类型。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>浅析Shiro权限绕过</title>
     <link href="https://tttang.com/archive/1592/"/>
@@ -150,48 +159,6 @@
 &lt;li&gt;CodeQL如何解析虚拟函数调用&lt;/li&gt;
 &lt;li&gt;如何对CodeQL的污点分析进行debug&lt;/li&gt;
 &lt;/ol&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>内网渗透 -- NTLM 反射分析及土豆家族</title>
-    <link href="https://tttang.com/archive/1560/"/>
-    <id>https://tttang.com/archive/1560/</id>
-    <published>2022-04-24T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;&lt;strong&gt;目录&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;内网渗透 -- NTLM 反射分析及土豆家族&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#前置知识点&quot; target=&quot;_blank&quot;&gt;前置知识点&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#windows-sspsspi&quot; target=&quot;_blank&quot;&gt;Windows SSP&amp;amp;SSPI&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#sspi和ssp如何工作&quot; target=&quot;_blank&quot;&gt;SSPI和SSP如何工作&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#ntlm-ssp-原理ntlm-身份验证协议&quot; target=&quot;_blank&quot;&gt;NTLM SSP 原理(NTLM 身份验证协议)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#integration-with-smb&quot; target=&quot;_blank&quot;&gt;Integration with SMB&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#lmcompatibilitylevel&quot; target=&quot;_blank&quot;&gt;LmCompatibilityLevel&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#signing&quot; target=&quot;_blank&quot;&gt;Signing&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#ldap-签名&quot; target=&quot;_blank&quot;&gt;LDAP 签名&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#negotiation&quot; target=&quot;_blank&quot;&gt;Negotiation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#土豆家族分析&quot; target=&quot;_blank&quot;&gt;土豆家族分析&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#原理讲解&quot; target=&quot;_blank&quot;&gt;原理讲解&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#如何利用&quot; target=&quot;_blank&quot;&gt;如何利用&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#历史土豆分析&quot; target=&quot;_blank&quot;&gt;历史土豆分析&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#origin-potato_ms08-068-土豆始祖漏洞&quot; target=&quot;_blank&quot;&gt;Origin Potato_MS08-068 (土豆始祖漏洞)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#ms16-075_hot-potato-ms08-068的变种&quot; target=&quot;_blank&quot;&gt;MS16-075_HOT Potato (MS08-068的变种)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#rotten-potato-ms16-075的变种&quot; target=&quot;_blank&quot;&gt;Rotten Potato (MS16-075的变种)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#juicy-potato-ms16-075的变种&quot; target=&quot;_blank&quot;&gt;Juicy Potato (MS16-075的变种)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#sweet-potato_juicy-potato衍生版本&quot; target=&quot;_blank&quot;&gt;Sweet Potato_Juicy Potato衍生版本&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#printspoofer&quot; target=&quot;_blank&quot;&gt;PrintSpoofer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#roguepotato&quot; target=&quot;_blank&quot;&gt;RoguePotato&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#cve-2019-1384_ghost-potato&quot; target=&quot;_blank&quot;&gt;CVE-2019-1384_Ghost potato&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#参考&quot; target=&quot;_blank&quot;&gt;参考&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
     </summary>
   </entry>
 
