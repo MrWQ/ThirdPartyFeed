@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-05-17T12:33:34+08:00</updated>
+  <updated>2022-05-17T18:20:34+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -15,12 +15,39 @@
     </summary>
   </entry>
   <entry>
-    <title>火线Zone社区规则及激励制度升级（于2022.4.25号开始执行）</title>
-    <link href="https://zone.huoxian.cn/d/1123-zone2022425"/>
-    <id>https://zone.huoxian.cn/d/1123-zone2022425</id>
+    <title>火线Zone社区规则及激励制度升级</title>
+    <link href="https://zone.huoxian.cn/d/1123-zone"/>
+    <id>https://zone.huoxian.cn/d/1123-zone</id>
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
-      火线Zone社区规则及激励制度升级（于2022.4.25号开始执行）
+      火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title>k8s安全基础学习笔记</title>
+    <link href="https://zone.huoxian.cn/d/1185-k8s"/>
+    <id>https://zone.huoxian.cn/d/1185-k8s</id>
+    <published>2022-05-17T08:17:19+00:00</published>
+    <summary type="text">
+      k8s安全基础学习笔记
+    </summary>
+  </entry>
+  <entry>
+    <title>【云原生渗透】- 特权容器设备挂载逃逸漏洞</title>
+    <link href="https://zone.huoxian.cn/d/1184"/>
+    <id>https://zone.huoxian.cn/d/1184</id>
+    <published>2022-05-17T06:21:58+00:00</published>
+    <summary type="text">
+      【云原生渗透】- 特权容器设备挂载逃逸漏洞
+    </summary>
+  </entry>
+  <entry>
+    <title>【火线Zone社区周奖励】2022年5月9日~2022年5月15日公告</title>
+    <link href="https://zone.huoxian.cn/d/1183-zone2022592022515"/>
+    <id>https://zone.huoxian.cn/d/1183-zone2022592022515</id>
+    <published>2022-05-17T05:57:25+00:00</published>
+    <summary type="text">
+      【火线Zone社区周奖励】2022年5月9日~2022年5月15日公告
     </summary>
   </entry>
   <entry>
@@ -156,33 +183,6 @@
     <published>2022-05-12T03:02:49+00:00</published>
     <summary type="text">
       【云原生渗透】- Docker API 2375端口未授权访问容器逃逸漏洞
-    </summary>
-  </entry>
-  <entry>
-    <title>某微信小程序一次接口sign值的分析</title>
-    <link href="https://zone.huoxian.cn/d/1164-sign"/>
-    <id>https://zone.huoxian.cn/d/1164-sign</id>
-    <published>2022-05-11T09:24:15+00:00</published>
-    <summary type="text">
-      某微信小程序一次接口sign值的分析
-    </summary>
-  </entry>
-  <entry>
-    <title>常见中间件——Weblogic漏洞复现分析</title>
-    <link href="https://zone.huoxian.cn/d/1163-weblogic"/>
-    <id>https://zone.huoxian.cn/d/1163-weblogic</id>
-    <published>2022-05-11T06:48:46+00:00</published>
-    <summary type="text">
-      常见中间件——Weblogic漏洞复现分析
-    </summary>
-  </entry>
-  <entry>
-    <title>腾讯云 CLB、VPC 和 CAM 服务攻防</title>
-    <link href="https://zone.huoxian.cn/d/1162-clbvpc-cam"/>
-    <id>https://zone.huoxian.cn/d/1162-clbvpc-cam</id>
-    <published>2022-05-11T04:27:32+00:00</published>
-    <summary type="text">
-      腾讯云 CLB、VPC 和 CAM 服务攻防
     </summary>
   </entry>
 
