@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-05-18T06:18:58+08:00</updated>
+  <updated>2022-05-18T15:11:43+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>windows环境下的自保护探究</title>
+    <link href="https://tttang.com/archive/1584/"/>
+    <id>https://tttang.com/archive/1584/</id>
+    <published>2022-05-18T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;我们要想在32位下实现进程保护很简单，通过SSDT hook重写函数即可实现，但是在64位系统下因为引入了&lt;code&gt;PG&lt;/code&gt;和&lt;code&gt;DSE&lt;/code&gt;的原因，导致&lt;code&gt;SSDT hook&lt;/code&gt;实现起来处处受限。但微软同样为了系统安全，增加了一个对象回调函数的接口，利用该回调可以实现对对象请求的过滤保护自身的进程，目前大部分64位下的安全软件保护机制都是基于该方法，我们深入进行探究&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>HOW DO YOU ACTUALLY FIND BUGS?（译文）</title>
     <link href="https://tttang.com/archive/1597/"/>
@@ -142,16 +151,6 @@
 &lt;p&gt;总体而言整个题目有点像个剧情，类型偏向 Misc 和 Web，正好就合喵喵胃口了。由于有的题目脑洞有点大，再加上后面还有课以及其他事情，一般是半夜在看题，以至于想不通怎么做挺难受的睡不着，直到22号下午才把所有题目 AK，最后排名第17。&lt;/p&gt;
 &lt;p&gt;唉，看了看榜首的 ha1c9on、Yoshino-s 等大师傅都挺熟悉了，他们第一天晚上就 AK 了 Orz，喵喵还是太菜了。&lt;/p&gt;
 &lt;p&gt;那下面就来记录一下解题的过程吧，大部分边做边写的，可能包含一些误导性的内容，希望各位师傅不要在意。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>滥用具备RWX-S权限且有签名的dll进行无感知的shellcode注入</title>
-    <link href="https://tttang.com/archive/1565/"/>
-    <id>https://tttang.com/archive/1565/</id>
-    <published>2022-04-26T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;常规的shellcode注入一般是通过&lt;code&gt;VirtualAllocEx&lt;/code&gt;,&lt;code&gt;WriteProcessMemory&lt;/code&gt; 和 &lt;code&gt;CreateRemoteThread&lt;/code&gt; 来实现的，但是这种方式是被安全软件重点监控的，同时微软提供的ETW接口也是可以轻易检测出上述方式进行代码注入的痕迹。本文的核心是讲解怎么利用具备 RWX-S 权限且自身有签名的白DLL进行一种比较隐蔽的shellcode注入，&lt;br&gt;
-并讲解具体的代码实现以及在写代码实现的过程中遇到的坑。本方法是由文章提出的：&lt;a href=&quot;https://billdemirkapi.me/sharing-is-caring-abusing-shared-sections-for-code-injection/&quot; target=&quot;_blank&quot;&gt;https://billdemirkapi.me/sharing-is-caring-abusing-shared-sections-for-code-injection/&lt;/a&gt; ，详情可以参考此文章。&lt;/p&gt;
     </summary>
   </entry>
 
