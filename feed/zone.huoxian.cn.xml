@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-05-19T18:22:14+08:00</updated>
+  <updated>2022-05-20T06:16:50+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,15 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title>通过实验理解&quot;k8s的api聚合&quot;</title>
+    <link href="https://zone.huoxian.cn/d/1193-k8sapi"/>
+    <id>https://zone.huoxian.cn/d/1193-k8sapi</id>
+    <published>2022-05-19T11:08:08+00:00</published>
+    <summary type="text">
+      通过实验理解&quot;k8s的api聚合&quot;
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-05-13T08:55:06+00:00</published>
     <summary type="text">
       Kubernetes 安全
-    </summary>
-  </entry>
-  <entry>
-    <title>以Raven2靶机学习Mysql提权</title>
-    <link href="https://zone.huoxian.cn/d/1174-raven2mysql"/>
-    <id>https://zone.huoxian.cn/d/1174-raven2mysql</id>
-    <published>2022-05-13T08:20:02+00:00</published>
-    <summary type="text">
-      以Raven2靶机学习Mysql提权
     </summary>
   </entry>
 
