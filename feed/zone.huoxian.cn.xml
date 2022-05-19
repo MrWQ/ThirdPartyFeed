@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-05-19T06:18:10+08:00</updated>
+  <updated>2022-05-19T12:33:45+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title>每日云安全技术资讯20220519</title>
+    <link href="https://zone.huoxian.cn/d/1189-20220519"/>
+    <id>https://zone.huoxian.cn/d/1189-20220519</id>
+    <published>2022-05-19T03:36:57+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220519
+    </summary>
+  </entry>
+  <entry>
+    <title>【云原生渗透】- 共享Cgroup容器逃逸漏洞</title>
+    <link href="https://zone.huoxian.cn/d/1188-cgroup"/>
+    <id>https://zone.huoxian.cn/d/1188-cgroup</id>
+    <published>2022-05-19T03:10:53+00:00</published>
+    <summary type="text">
+      【云原生渗透】- 共享Cgroup容器逃逸漏洞
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-05-12T09:04:41+00:00</published>
     <summary type="text">
       记一次突破&quot;固化思维&quot;渗透
-    </summary>
-  </entry>
-  <entry>
-    <title>初识Kubernetes 集群</title>
-    <link href="https://zone.huoxian.cn/d/1169-kubernetes"/>
-    <id>https://zone.huoxian.cn/d/1169-kubernetes</id>
-    <published>2022-05-12T08:51:43+00:00</published>
-    <summary type="text">
-      初识Kubernetes 集群
-    </summary>
-  </entry>
-  <entry>
-    <title>用无文件的恶意软件破坏只读容器</title>
-    <link href="https://zone.huoxian.cn/d/1168"/>
-    <id>https://zone.huoxian.cn/d/1168</id>
-    <published>2022-05-12T06:42:43+00:00</published>
-    <summary type="text">
-      用无文件的恶意软件破坏只读容器
     </summary>
   </entry>
 
