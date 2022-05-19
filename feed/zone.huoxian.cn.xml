@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-05-19T12:33:45+08:00</updated>
+  <updated>2022-05-19T18:22:14+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,33 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title>常见中间件——Tomcat漏洞复现分析</title>
+    <link href="https://zone.huoxian.cn/d/1192-tomcat"/>
+    <id>https://zone.huoxian.cn/d/1192-tomcat</id>
+    <published>2022-05-19T08:43:23+00:00</published>
+    <summary type="text">
+      常见中间件——Tomcat漏洞复现分析
+    </summary>
+  </entry>
+  <entry>
+    <title>谷歌云 CLB 、VPC 和 IAM 服务攻防.md</title>
+    <link href="https://zone.huoxian.cn/d/1191-clb-vpc-iam-md"/>
+    <id>https://zone.huoxian.cn/d/1191-clb-vpc-iam-md</id>
+    <published>2022-05-19T07:19:51+00:00</published>
+    <summary type="text">
+      谷歌云 CLB 、VPC 和 IAM 服务攻防.md
+    </summary>
+  </entry>
+  <entry>
+    <title>应用程序安全完整指南</title>
+    <link href="https://zone.huoxian.cn/d/1190"/>
+    <id>https://zone.huoxian.cn/d/1190</id>
+    <published>2022-05-19T06:11:42+00:00</published>
+    <summary type="text">
+      应用程序安全完整指南
     </summary>
   </entry>
   <entry>
@@ -156,33 +183,6 @@
     <published>2022-05-13T08:20:02+00:00</published>
     <summary type="text">
       以Raven2靶机学习Mysql提权
-    </summary>
-  </entry>
-  <entry>
-    <title>每日云安全技术资讯20220513</title>
-    <link href="https://zone.huoxian.cn/d/1173-20220513"/>
-    <id>https://zone.huoxian.cn/d/1173-20220513</id>
-    <published>2022-05-13T03:15:22+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220513
-    </summary>
-  </entry>
-  <entry>
-    <title>【技术推荐】前端JS攻防对抗</title>
-    <link href="https://zone.huoxian.cn/d/1172-js"/>
-    <id>https://zone.huoxian.cn/d/1172-js</id>
-    <published>2022-05-13T02:38:03+00:00</published>
-    <summary type="text">
-      【技术推荐】前端JS攻防对抗
-    </summary>
-  </entry>
-  <entry>
-    <title>记一次突破&quot;固化思维&quot;渗透</title>
-    <link href="https://zone.huoxian.cn/d/1170"/>
-    <id>https://zone.huoxian.cn/d/1170</id>
-    <published>2022-05-12T09:04:41+00:00</published>
-    <summary type="text">
-      记一次突破&quot;固化思维&quot;渗透
     </summary>
   </entry>
 

@@ -3,8 +3,73 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-05-19T12:33:44+08:00</updated>
+  <updated>2022-05-19T18:22:14+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>入侵光猫盒子</title>
+    <link href="https://sec-in.com/article/1743"/>
+    <id>https://sec-in.com/article/1743</id>
+    <published>2022-05-19T16:59:49+08:00</published>
+    <summary type="text">
+      灼剑安全团队10vez师傅出了一篇iot方面的入侵光猫盒子文章，欢迎大家搜索微信公众号关注灼剑安全团队
+    </summary>
+  </entry>
+  <entry>
+    <title>报错注入函数——floor、updatexml、extractvalue的浅入解析</title>
+    <link href="https://sec-in.com/article/1694"/>
+    <id>https://sec-in.com/article/1694</id>
+    <published>2022-05-19T16:59:12+08:00</published>
+    <summary type="text">
+      灼剑安全团队 F5 new_floor、updatexml、extractvalue报错注入浅析,可以搜索微信公众号关注哦
+    </summary>
+  </entry>
+  <entry>
+    <title>linux多跳透明网关配置</title>
+    <link href="https://sec-in.com/article/1742"/>
+    <id>https://sec-in.com/article/1742</id>
+    <published>2022-05-19T16:15:36+08:00</published>
+    <summary type="text">
+      渗透测试中如何配置多条透明网关，增加隐蔽性                   
+渗透测试中如何配置多条透明网关，增加隐蔽性                
+渗透测试中如何配置多条透明网关，增加隐蔽性
+    </summary>
+  </entry>
+  <entry>
+    <title>尽可能详细的文件上传讲解</title>
+    <link href="https://sec-in.com/article/1738"/>
+    <id>https://sec-in.com/article/1738</id>
+    <published>2022-05-19T16:07:11+08:00</published>
+    <summary type="text">
+      大部分看到这篇文章的人应该都明白什么是文件上传，文件上传是攻击非常常见的方式，网上也有非常多的优秀文章，不过还是想自己整理+归纳+总结+讲解一篇关于文件上传的文章
+    </summary>
+  </entry>
+  <entry>
+    <title>简易版TCP实现Http Chunk</title>
+    <link href="https://sec-in.com/article/1736"/>
+    <id>https://sec-in.com/article/1736</id>
+    <published>2022-05-19T16:04:57+08:00</published>
+    <summary type="text">
+      如何通过设置用户态tcp实现http chunk，如何通过设置用户态tcp实现http chunk，如何通过设置用户态tcp实现http chunk，如何通过设置用户态tcp实现http chunk，
+    </summary>
+  </entry>
+  <entry>
+    <title>关于蜜罐</title>
+    <link href="https://sec-in.com/article/1735"/>
+    <id>https://sec-in.com/article/1735</id>
+    <published>2022-05-19T15:46:18+08:00</published>
+    <summary type="text">
+      蜜罐技术本质上是一种对攻击方进行欺骗的技术，通过布置一些作为诱饵的主机、网络服务或者信息，诱使攻击方对它们实施攻击，从而可以对攻击行为进行捕获和分析，
+    </summary>
+  </entry>
+  <entry>
+    <title>Thinkphp5.1应用初探</title>
+    <link href="https://sec-in.com/article/1733"/>
+    <id>https://sec-in.com/article/1733</id>
+    <published>2022-05-19T14:29:07+08:00</published>
+    <summary type="text">
+      直接审计tp的话应该会很有难度，不妨先了解一些tp内置规则和用法，便于在后续的审计中更好的理解代码含义。
+    </summary>
+  </entry>
   <entry>
     <title>蚁剑webshell动态加密连接分析</title>
     <link href="https://sec-in.com/article/1730"/>
@@ -30,72 +95,6 @@
     <published>2022-05-16T16:27:58+08:00</published>
     <summary type="text">
       PE文件的全称是Portable Executable，意为可移植的可执行的文件，常见的EXE、DLL、OCX、SYS、COM都是PE文件
-    </summary>
-  </entry>
-  <entry>
-    <title>端口扫描技术实现分析</title>
-    <link href="https://sec-in.com/article/1717"/>
-    <id>https://sec-in.com/article/1717</id>
-    <published>2022-05-16T16:27:16+08:00</published>
-    <summary type="text">
-      端口（port），可以认为是设备与外界通讯交流的出口，端口的范围是从0 到 65535，主机通常通过“IP地址+端口号”来区分不同的服务的
-    </summary>
-  </entry>
-  <entry>
-    <title>极致CMS建站系统代码审计之旅</title>
-    <link href="https://sec-in.com/article/1719"/>
-    <id>https://sec-in.com/article/1719</id>
-    <published>2022-05-16T16:27:09+08:00</published>
-    <summary type="text">
-      大路小路迅速封堵安排人员值守，我们为此还建了个群，半夜各个路口都有人员轮流值守，估计连个鸟都飞不出去，只能老老实实呆在家里了，然后在家做了这个极致cms代码审计过程，拿出来和大家分享一下我的分析过程。
-    </summary>
-  </entry>
-  <entry>
-    <title>十二种不常见密码及部分实现脚本</title>
-    <link href="https://sec-in.com/article/1726"/>
-    <id>https://sec-in.com/article/1726</id>
-    <published>2022-05-16T16:09:54+08:00</published>
-    <summary type="text">
-      Atbash密码是一种替换密码，具有特定的密钥，其中字母表中的字母是颠倒的
-
-例如，所有的“A”被替换为“Z”，所有的“B”被替换为“Y”，以此类推
-它最初用于希伯来字母表，但可以用于任何字母表。就像
-    </summary>
-  </entry>
-  <entry>
-    <title>子域名接管漏洞是怎么回事儿</title>
-    <link href="https://sec-in.com/article/1725"/>
-    <id>https://sec-in.com/article/1725</id>
-    <published>2022-05-16T16:08:04+08:00</published>
-    <summary type="text">
-      今天学习了下子域名接管漏洞，通过该漏洞可以接管目标子域名，让其显示我设置的任意页面，造成的危害，主要用于网络钓鱼，包括但不限于伪造钓鱼页面，还可以盗取 Cookie，伪造电子邮件等，具体风险可参考文章
-    </summary>
-  </entry>
-  <entry>
-    <title>Frida自吐证书密码</title>
-    <link href="https://sec-in.com/article/1708"/>
-    <id>https://sec-in.com/article/1708</id>
-    <published>2022-05-16T16:07:24+08:00</published>
-    <summary type="text">
-      在许多业务非常聚焦比如行业应用、银行、公共交通、游戏等行业，C/S架构中服务器高度集中，对应用的版本控制非常严格，这时候就会在服务器上部署对app内置证书的校验代码。
-    </summary>
-  </entry>
-  <entry>
-    <title>Protected Process Light (PPL) Attack</title>
-    <link href="https://sec-in.com/article/1721"/>
-    <id>https://sec-in.com/article/1721</id>
-    <published>2022-05-10T15:30:10+08:00</published>
-    <summary type="text">
-      PPL表示Protected Process Light，但在此之前，只有Protected Processes。受保护进程的概念是随Windows Vista / Server 2008引入的，其目
-    </summary>
-  </entry>
-  <entry>
-    <title>从开源工具中汲取知识之网页爬虫工具</title>
-    <link href="https://sec-in.com/article/1720"/>
-    <id>https://sec-in.com/article/1720</id>
-    <published>2022-05-10T15:17:05+08:00</published>
-    <summary type="text">
-      今天分析了几款网站爬虫开源工具，其主要作用是辅助安全测试人员，测试网站功能，发现网站漏洞，本着学习的原则，通过阅读源码的方式来学习其核心技术，从而有助于我们自身编写相关脚本，在实际的工作中应用它来提升
     </summary>
   </entry>
 
