@@ -3,8 +3,19 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-05-20T06:16:49+08:00</updated>
+  <updated>2022-05-20T12:28:14+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>A new way to bypass __wakeup() and build POP chain</title>
+    <link href="https://tttang.com/archive/1603/"/>
+    <id>https://tttang.com/archive/1603/</id>
+    <published>2022-05-20T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;blockquote&gt;
+&lt;p&gt;本文以 Laravel 9.1.8 为例，介绍一个通用的新思路，用以绕过 pop chain 构造过程中遇到的  &lt;code&gt;__wakeup()&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+    </summary>
+  </entry>
   <entry>
     <title>Attack Surface Mining For AD CS</title>
     <link href="https://tttang.com/archive/1593/"/>
@@ -132,22 +143,6 @@
     <published>2022-04-28T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;攻与防都是相对的，只有掌握细节才能更好的对抗。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>Kerberoasting攻击检测</title>
-    <link href="https://tttang.com/archive/1555/"/>
-    <id>https://tttang.com/archive/1555/</id>
-    <published>2022-04-27T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;首先，我们来整体了解一下实际用户请求访问域内某个服务时会经过哪些步骤：&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&quot;mf&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;、&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;用户将AS&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;REQ数据包发送给KDC&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;（&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Key&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Distribution&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Centre&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;，&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;密钥分发中心&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;，&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;此处为域控&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;），&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;进行身份认证&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;。&lt;/span&gt;
-&lt;span class=&quot;mf&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;、&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;KDC验证用户的凭据&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;，&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;如果凭据有效&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;，&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;则返回TGT&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;（&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Ticket&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Granting&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Ticket&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;，&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;票据授予票据&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;）。&lt;/span&gt;
-&lt;span class=&quot;mf&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;、&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;如果用户想通过身份认证&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;，&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;访问某个服务&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;（&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;如CIFS&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;），&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;那么他需要发起&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;（&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Ticket&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Granting&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Service&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;，&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;票据授予服务&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;）&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;请求&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;，&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;请求中包含TGT以及所请求服务的SPN&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;（&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Service&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Principal&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Name&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;，&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;服务主体名称&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;）。&lt;/span&gt;
-&lt;span class=&quot;mf&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;、&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;如果TGT有效并且没有过期&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;，&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TGS会创建用于目标服务的一个服务票据&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;。&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;服务票据使用服务账户的凭据进行加密&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;。&lt;/span&gt;
-&lt;span class=&quot;mf&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;、&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;用户收到包含加密服务票据的TGS响应数据包&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;。&lt;/span&gt;
-&lt;span class=&quot;mf&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;、&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;最后&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;，&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;服务票据会转发给目标服务&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;，&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;然后使用服务账户的凭据进行解密&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;。&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
     </summary>
   </entry>
 
