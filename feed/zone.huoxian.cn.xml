@@ -3,7 +3,7 @@
   <title>火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-05-23T12:34:28+08:00</updated>
+  <updated>2022-05-23T18:20:57+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title>重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title>从Fastjson和log4j2学习JNDI注入</title>
+    <link href="https://zone.huoxian.cn/d/1201-fastjsonlog4j2jndi"/>
+    <id>https://zone.huoxian.cn/d/1201-fastjsonlog4j2jndi</id>
+    <published>2022-05-23T09:39:41+00:00</published>
+    <summary type="text">
+      从Fastjson和log4j2学习JNDI注入
+    </summary>
+  </entry>
+  <entry>
+    <title>【火线Zone社区周奖励】2022年5月16日~2022年5月22日公告</title>
+    <link href="https://zone.huoxian.cn/d/1200-zone20225162022522"/>
+    <id>https://zone.huoxian.cn/d/1200-zone20225162022522</id>
+    <published>2022-05-23T08:44:44+00:00</published>
+    <summary type="text">
+      【火线Zone社区周奖励】2022年5月16日~2022年5月22日公告
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-05-17T05:57:25+00:00</published>
     <summary type="text">
       【火线Zone社区周奖励】2022年5月9日~2022年5月15日公告
-    </summary>
-  </entry>
-  <entry>
-    <title>每日云安全技术资讯20220517</title>
-    <link href="https://zone.huoxian.cn/d/1182-20220517"/>
-    <id>https://zone.huoxian.cn/d/1182-20220517</id>
-    <published>2022-05-17T02:56:44+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220517
-    </summary>
-  </entry>
-  <entry>
-    <title>demo apk逆向破解分析</title>
-    <link href="https://zone.huoxian.cn/d/1181-demo-apk"/>
-    <id>https://zone.huoxian.cn/d/1181-demo-apk</id>
-    <published>2022-05-17T02:06:04+00:00</published>
-    <summary type="text">
-      demo apk逆向破解分析
     </summary>
   </entry>
 
