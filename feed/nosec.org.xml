@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-05-24T06:20:58+08:00</updated>
+  <updated>2022-05-24T12:35:30+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>Spring Security RegexRequestMatcher 认证绕过漏洞分析（C...</title>
+    <link href="https://nosec.org/home/detail/5006.html"/>
+    <id>https://nosec.org/home/detail/5006.html</id>
+    <published>2022-05-24T10:45:14+08:00</published>
+    <summary type="text">
+      Spring Security 是 Spring 家族中的一个安全管理框架。在 Spring Security 正则表达式中使用带有 . 的 RegexRequestMatcher 的应用程序可能容易受到授权绕过。...
+    </summary>
+  </entry>
   <entry>
     <title>【安全通报】Fastjson 1.2.80 及之前版本存在 Throwable 反...</title>
     <link href="https://nosec.org/home/detail/5005.html"/>
@@ -174,15 +183,6 @@
     <published>2022-03-31T23:13:43+08:00</published>
     <summary type="text">
       近日，Spring 官方 GitHub issue中提到了关于 Spring Core 的远程命令执行漏洞，该漏洞广泛存在于Spring 框...
-    </summary>
-  </entry>
-  <entry>
-    <title>【安全通报】Spring Cloud Function SPEL 远程命令执行漏洞</title>
-    <link href="https://nosec.org/home/detail/4982.html"/>
-    <id>https://nosec.org/home/detail/4982.html</id>
-    <published>2022-03-26T18:20:35+08:00</published>
-    <summary type="text">
-      近日，Spring Cloud Function 官方测试用例曝光了 Spring Cloud Function SPEL表达式注入漏洞，该漏洞可通过对 SPEL表达式进行注入从而引发远程命令执行。
     </summary>
   </entry>
 
