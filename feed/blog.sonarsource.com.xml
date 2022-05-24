@@ -3,8 +3,17 @@
   <title>SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link href="https://blog.sonarsource.com/"/>
-  <updated>2022-05-24T12:35:15+08:00</updated>
+  <updated>2022-05-24T18:20:38+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title>A new and refreshed website for Sonar</title>
+    <link href="https://blog.sonarsource.com/new-and-refreshed-website-sonar"/>
+    <id>https://blog.sonarsource.com/new-and-refreshed-website-sonar</id>
+    <published>2022-05-24T09:06:33Z</published>
+    <summary type="text">
+      Earlier this year we launched our new brand and website. Read more in this post by Sonar CEO and Co-founder, Olivier Gaudin.
+    </summary>
+  </entry>
   <entry>
     <title>Reflections from PyCon US 2022</title>
     <link href="https://blog.sonarsource.com/reflections-from-pycon-us-2022"/>
@@ -174,15 +183,6 @@
     <published>2022-01-11T10:07:04Z</published>
     <summary type="text">
       We reported a Stored XSS vulnerability in WordPress (CVE-2022-21662) which remained unpatched for more than 3 years and affected the wordpress.org website.
-    </summary>
-  </entry>
-  <entry>
-    <title>Vulnerability Research Highlights 2021</title>
-    <link href="https://blog.sonarsource.com/vulnerability-research-highlights-2021"/>
-    <id>https://blog.sonarsource.com/vulnerability-research-highlights-2021</id>
-    <published>2022-01-06T17:33:04Z</published>
-    <summary type="text">
-      Our research team looks back at a great year and summarizes the highlights of their vulnerability research in 2021.
     </summary>
   </entry>
 
