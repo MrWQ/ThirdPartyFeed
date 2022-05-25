@@ -3,8 +3,17 @@
   <title>跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link href="https://tttang.com/"/>
-  <updated>2022-05-25T06:18:38+08:00</updated>
+  <updated>2022-05-25T12:34:01+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title>Fastjson 反序列化分析</title>
+    <link href="https://tttang.com/archive/1579/"/>
+    <id>https://tttang.com/archive/1579/</id>
+    <published>2022-05-25T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;学习Fastjson反序列化&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title>Exploiting a Use-After-Free for code execution in every version of Python 3[译文]</title>
     <link href="https://tttang.com/archive/1601/"/>
@@ -135,15 +144,6 @@
     <published>2022-05-06T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;这是一篇NDSS 2021年发表的&lt;a href=&quot;https://arxiv.org/pdf/2002.01139.pdf&quot; target=&quot;_blank&quot;&gt;论文&lt;/a&gt;，相关的代码也已经&lt;a href=&quot;https://github.com/osssanitizer/maloss&quot; target=&quot;_blank&quot;&gt;开源&lt;/a&gt;，应该是目前比较全面的研究第三源安全的论文，刚好最近也在做软件供应链安全相关的事情，趁着五一假期翻译了一下。很巧的是OpenSSF(SASL也是它们的项目之一)也在4月28号也发布了&lt;a href=&quot;https://openssf.org/blog/2022/04/28/introducing-package-analysis-scanning-open-source-packages-for-malicious-behavior/&quot; target=&quot;_blank&quot;&gt;一篇文章&lt;/a&gt;也在号召社区一同来做动态检测，也在&lt;a href=&quot;https://github.com/ossf/package-analysis&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt;上开源了相关代码，OpenSSF目前开源的项目只做了安装和导入时候的动态检测，相对简单一些。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>通过嵌入x64汇编隐藏数据&amp;amp;反调试</title>
-    <link href="https://tttang.com/archive/1559/"/>
-    <id>https://tttang.com/archive/1559/</id>
-    <published>2022-05-05T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;我们知道在x64里面，从3环进入0环会调用&lt;code&gt;syscall&lt;/code&gt;，那么如果是32位的程序就需要首先转换为x64模式再通过&lt;code&gt;syscall&lt;/code&gt;进入0环，这里就会涉及到一系列64位寄存器的操作，我们通过探究其实现原理来达到隐藏数据和反调试的效果。&lt;/p&gt;
     </summary>
   </entry>
 
