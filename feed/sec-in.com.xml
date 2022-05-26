@@ -3,8 +3,80 @@
   <title>SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link href="https://sec-in.com/"/>
-  <updated>2022-05-26T06:18:54+08:00</updated>
+  <updated>2022-05-26T12:32:19+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title>从BPFdoor浅谈Linux隐蔽后门检测</title>
+    <link href="https://sec-in.com/article/1753"/>
+    <id>https://sec-in.com/article/1753</id>
+    <published>2022-05-26T11:03:05+08:00</published>
+    <summary type="text">
+      通过对BPFdoor的详细分析，了解隐蔽性Linux/Unix后门的工作机制，对应急响应、溯源排查做有力支撑。
+    </summary>
+  </entry>
+  <entry>
+    <title>cs上线Linux</title>
+    <link href="https://sec-in.com/article/1756"/>
+    <id>https://sec-in.com/article/1756</id>
+    <published>2022-05-26T11:02:00+08:00</published>
+    <summary type="text">
+      基于自身办公环境的需求，想着在自己Mac上搭建cs的服务端和客户端，解决资源可以充分利用，学习cs摆脱多个机器的尴尬处境，之前不知道互联网上有没有这方面的实践，随手百度，得此文，记录之。
+    </summary>
+  </entry>
+  <entry>
+    <title>sudo权限绕过漏洞（CVE-2019-14287）</title>
+    <link href="https://sec-in.com/article/1755"/>
+    <id>https://sec-in.com/article/1755</id>
+    <published>2022-05-26T10:58:26+08:00</published>
+    <summary type="text">
+      Linux Sudo 被曝出存在一个提权漏洞CVE-2019-14287，可以让sudo功能受限的用户绕过Sudo 的安全策略以root权限执行。
+    </summary>
+  </entry>
+  <entry>
+    <title>sudo缓冲区提权漏洞（CVE-2021-3156）</title>
+    <link href="https://sec-in.com/article/1754"/>
+    <id>https://sec-in.com/article/1754</id>
+    <published>2022-05-26T10:57:36+08:00</published>
+    <summary type="text">
+      利用CVE-2021-3156,攻击者无需知道用户密码，一样可以获得root权限，并且是在默认配置下。
+    </summary>
+  </entry>
+  <entry>
+    <title>Linux内核权限提升漏洞“DirtyPipe”（CVE-2022-0847）</title>
+    <link href="https://sec-in.com/article/1751"/>
+    <id>https://sec-in.com/article/1751</id>
+    <published>2022-05-26T10:57:27+08:00</published>
+    <summary type="text">
+      CVE-2022-0847它是自 5.8 以来 Linux 内核中的一个漏洞，它允许覆盖任意只读文件中的数据。这会导致权限提升，因为非特权进程可以将代码注入根进程
+    </summary>
+  </entry>
+  <entry>
+    <title>安卓调试桥ADB</title>
+    <link href="https://sec-in.com/article/1750"/>
+    <id>https://sec-in.com/article/1750</id>
+    <published>2022-05-26T10:56:06+08:00</published>
+    <summary type="text">
+      adb的全称为Android Debug Bridge,起到调试桥的作用，是连接Android手机与PC端的桥梁，方便我们在电脑上对手机进行操作。
+    </summary>
+  </entry>
+  <entry>
+    <title>Android逆向：基础入门</title>
+    <link href="https://sec-in.com/article/1745"/>
+    <id>https://sec-in.com/article/1745</id>
+    <published>2022-05-26T10:52:12+08:00</published>
+    <summary type="text">
+      当然此观念是在经过两节框架式知识铺垫的前提下，想了解andorid逆向，没有提前做功课可不行。接下来这篇文章呢，大家就当科普内容，先了解下andnroid系统的运行机制、框架及andorid应用程序的
+    </summary>
+  </entry>
+  <entry>
+    <title>域渗透-域内权限维持(上)</title>
+    <link href="https://sec-in.com/article/1746"/>
+    <id>https://sec-in.com/article/1746</id>
+    <published>2022-05-26T10:46:25+08:00</published>
+    <summary type="text">
+      域渗透 - 域内权限维持的方法总结（上），围绕DSRM、利用基于资源的约束委派进行域权限维持这两点进行技术展开
+    </summary>
+  </entry>
   <entry>
     <title>入侵光猫盒子</title>
     <link href="https://sec-in.com/article/1743"/>
@@ -21,80 +93,6 @@
     <published>2022-05-19T16:59:12+08:00</published>
     <summary type="text">
       灼剑安全团队 F5 new_floor、updatexml、extractvalue报错注入浅析,可以搜索微信公众号关注哦
-    </summary>
-  </entry>
-  <entry>
-    <title>linux多跳透明网关配置</title>
-    <link href="https://sec-in.com/article/1742"/>
-    <id>https://sec-in.com/article/1742</id>
-    <published>2022-05-19T16:15:36+08:00</published>
-    <summary type="text">
-      渗透测试中如何配置多条透明网关，增加隐蔽性                   
-渗透测试中如何配置多条透明网关，增加隐蔽性                
-渗透测试中如何配置多条透明网关，增加隐蔽性
-    </summary>
-  </entry>
-  <entry>
-    <title>尽可能详细的文件上传讲解</title>
-    <link href="https://sec-in.com/article/1738"/>
-    <id>https://sec-in.com/article/1738</id>
-    <published>2022-05-19T16:07:11+08:00</published>
-    <summary type="text">
-      大部分看到这篇文章的人应该都明白什么是文件上传，文件上传是攻击非常常见的方式，网上也有非常多的优秀文章，不过还是想自己整理+归纳+总结+讲解一篇关于文件上传的文章
-    </summary>
-  </entry>
-  <entry>
-    <title>简易版TCP实现Http Chunk</title>
-    <link href="https://sec-in.com/article/1736"/>
-    <id>https://sec-in.com/article/1736</id>
-    <published>2022-05-19T16:04:57+08:00</published>
-    <summary type="text">
-      如何通过设置用户态tcp实现http chunk，如何通过设置用户态tcp实现http chunk，如何通过设置用户态tcp实现http chunk，如何通过设置用户态tcp实现http chunk，
-    </summary>
-  </entry>
-  <entry>
-    <title>关于蜜罐</title>
-    <link href="https://sec-in.com/article/1735"/>
-    <id>https://sec-in.com/article/1735</id>
-    <published>2022-05-19T15:46:18+08:00</published>
-    <summary type="text">
-      蜜罐技术本质上是一种对攻击方进行欺骗的技术，通过布置一些作为诱饵的主机、网络服务或者信息，诱使攻击方对它们实施攻击，从而可以对攻击行为进行捕获和分析，
-    </summary>
-  </entry>
-  <entry>
-    <title>Thinkphp5.1应用初探</title>
-    <link href="https://sec-in.com/article/1733"/>
-    <id>https://sec-in.com/article/1733</id>
-    <published>2022-05-19T14:29:07+08:00</published>
-    <summary type="text">
-      直接审计tp的话应该会很有难度，不妨先了解一些tp内置规则和用法，便于在后续的审计中更好的理解代码含义。
-    </summary>
-  </entry>
-  <entry>
-    <title>蚁剑webshell动态加密连接分析</title>
-    <link href="https://sec-in.com/article/1730"/>
-    <id>https://sec-in.com/article/1730</id>
-    <published>2022-05-16T16:31:30+08:00</published>
-    <summary type="text">
-      用户/开发者只需要下载对应平台的加载器，无需安装额外的环境，即可对源代码进行编辑/执行/调试等操作。可直接运行当前最新的开发版和发行版源代码。
-    </summary>
-  </entry>
-  <entry>
-    <title>frp优化</title>
-    <link href="https://sec-in.com/article/1728"/>
-    <id>https://sec-in.com/article/1728</id>
-    <published>2022-05-16T16:28:34+08:00</published>
-    <summary type="text">
-      工欲善其事，必先利其器。由于frp并不是主要以渗透测试内网穿透为目的而开发的软件，所以为符合攻击对抗的要求需要对其进行改造来达到免杀、流量隐蔽等要求。
-    </summary>
-  </entry>
-  <entry>
-    <title>Windows PE 文件头解析</title>
-    <link href="https://sec-in.com/article/1712"/>
-    <id>https://sec-in.com/article/1712</id>
-    <published>2022-05-16T16:27:58+08:00</published>
-    <summary type="text">
-      PE文件的全称是Portable Executable，意为可移植的可执行的文件，常见的EXE、DLL、OCX、SYS、COM都是PE文件
     </summary>
   </entry>
 
