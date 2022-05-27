@@ -3,8 +3,17 @@
   <title>NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link href="https://nosec.org/home/index"/>
-  <updated>2022-05-27T06:19:11+08:00</updated>
+  <updated>2022-05-27T12:33:41+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title>Zyxel设备固件提取与口令破解</title>
+    <link href="https://nosec.org/home/detail/5004.html"/>
+    <id>https://nosec.org/home/detail/5004.html</id>
+    <published>2022-05-26T17:02:20+08:00</published>
+    <summary type="text">
+      在受客户之邀进行渗透测试过程中，我们利用弱口令成功拿下了Zyxel ZyWALL统一安全网关（USG）设备的管理权限，这些设备被用作分支机构的防火墙和VPN集线器。另外...
+    </summary>
+  </entry>
   <entry>
     <title>Dotcms SI-62 任意文件上传 (CVE-2022-26352)</title>
     <link href="https://nosec.org/home/detail/5007.html"/>
@@ -174,15 +183,6 @@
     <published>2022-03-30T15:36:19+08:00</published>
     <summary type="text">
       前年我们在 Synology 的 NAS 中发现了 Pre-auth RCE 的漏洞，后续也发现这个漏洞不只存在 Synology 的 NAS，也同时存在多数厂牌的 NAS 中，这篇研究将讲述这漏洞...
-    </summary>
-  </entry>
-  <entry>
-    <title>如何逆向分析嵌入式设备的BootLoader（U-Boot），第1篇</title>
-    <link href="https://nosec.org/home/detail/4981.html"/>
-    <id>https://nosec.org/home/detail/4981.html</id>
-    <published>2022-03-18T07:32:56+08:00</published>
-    <summary type="text">
-      &amp;nbsp;在本文中，我们将为读者介绍如何逆向分析嵌入式设备的引导加载程序。简介首先，我们对本文涉及的软硬...
     </summary>
   </entry>
 
