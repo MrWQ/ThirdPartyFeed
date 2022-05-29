@@ -25,7 +25,7 @@ SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/Thi
 
 按添加时间排序
 
-- [RSSHub](https://github.com/DIYgod/RSSHub)
+- [RSSHub](https://docs.rsshub.app/)
 - [微信公众号转RSS](https://wechat2rss.xlab.app/)
 - [SecCrawler](https://github.com/Le0nsec/SecCrawler)
 - [Telegram RSS / JSON generator](https://tg.i-c-a.su/)
@@ -38,3 +38,5 @@ SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/Thi
 - [yarb (Yet Another Rss Bot)](https://github.com/firmianay/yarb)
 - [ALL-about-RSS](https://github.com/aboutrss/ALL-about-RSS)
 - [各种转 RSS 服务](https://rss.lilydjwg.me/)
+- [Weibo to RSS](https://rssfeed.today/weibo/)
+
