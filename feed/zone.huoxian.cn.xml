@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-05-30T12:38:41+08:00</updated>
+  <updated>2022-05-30T18:20:43+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,33 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">火线沙龙第25期-云原生应用安全专场总结</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1220-25"/>
+    <id>https://zone.huoxian.cn/d/1220-25</id>
+    <published>2022-05-30T09:43:13+00:00</published>
+    <summary type="text">
+      火线沙龙第25期-云原生应用安全专场总结
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">【火线zone社区周激励】2022年5月23号～2022年5月29号公告</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1219-zone20225232022529"/>
+    <id>https://zone.huoxian.cn/d/1219-zone20225232022529</id>
+    <published>2022-05-30T09:03:19+00:00</published>
+    <summary type="text">
+      【火线zone社区周激励】2022年5月23号～2022年5月29号公告
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Terraform 使用入门以及在云上攻防中的作用</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1218-terraform"/>
+    <id>https://zone.huoxian.cn/d/1218-terraform</id>
+    <published>2022-05-30T07:46:59+00:00</published>
+    <summary type="text">
+      Terraform 使用入门以及在云上攻防中的作用
     </summary>
   </entry>
   <entry>
@@ -156,33 +183,6 @@
     <published>2022-05-24T03:26:54+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220524
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">从Fastjson和log4j2学习JNDI注入</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1201-fastjsonlog4j2jndi"/>
-    <id>https://zone.huoxian.cn/d/1201-fastjsonlog4j2jndi</id>
-    <published>2022-05-23T09:39:41+00:00</published>
-    <summary type="text">
-      从Fastjson和log4j2学习JNDI注入
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">【火线Zone社区周奖励】2022年5月16日~2022年5月22日公告</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1200-zone20225162022522"/>
-    <id>https://zone.huoxian.cn/d/1200-zone20225162022522</id>
-    <published>2022-05-23T08:44:44+00:00</published>
-    <summary type="text">
-      【火线Zone社区周奖励】2022年5月16日~2022年5月22日公告
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220523</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1199-20220523"/>
-    <id>https://zone.huoxian.cn/d/1199-20220523</id>
-    <published>2022-05-23T03:27:04+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220523
     </summary>
   </entry>
 
