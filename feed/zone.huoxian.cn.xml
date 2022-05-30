@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>火线 Zone-云安全社区</title>
+  <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
-  <link href="https://zone.huoxian.cn/"/>
-  <updated>2022-05-30T06:18:17+08:00</updated>
+  <link rel="alternate" href="https://zone.huoxian.cn/"/>
+  <updated>2022-05-30T12:06:10+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
-    <title>重磅首发！火线安全发布《云安全攻防技术期刊》</title>
-    <link href="https://zone.huoxian.cn/d/1180"/>
+    <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1180"/>
     <id>https://zone.huoxian.cn/d/1180</id>
     <published>2022-05-16T09:37:09+00:00</published>
     <summary type="text">
@@ -15,8 +15,8 @@
     </summary>
   </entry>
   <entry>
-    <title>火线Zone社区规则及激励制度升级</title>
-    <link href="https://zone.huoxian.cn/d/1123-zone"/>
+    <title type="text">火线Zone社区规则及激励制度升级</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1123-zone"/>
     <id>https://zone.huoxian.cn/d/1123-zone</id>
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
@@ -24,8 +24,26 @@
     </summary>
   </entry>
   <entry>
-    <title>【云原生渗透】- lxcfs cgroup错误配置容器逃逸漏洞</title>
-    <link href="https://zone.huoxian.cn/d/1215-lxcfs-cgroup"/>
+    <title type="text">每日云安全技术资讯20220530</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1217-20220530"/>
+    <id>https://zone.huoxian.cn/d/1217-20220530</id>
+    <published>2022-05-30T03:27:13+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220530
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">简单的k8s+istio环境搭建</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1216-k8sistio"/>
+    <id>https://zone.huoxian.cn/d/1216-k8sistio</id>
+    <published>2022-05-30T02:10:29+00:00</published>
+    <summary type="text">
+      简单的k8s+istio环境搭建
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">【云原生渗透】- lxcfs cgroup错误配置容器逃逸漏洞</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1215-lxcfs-cgroup"/>
     <id>https://zone.huoxian.cn/d/1215-lxcfs-cgroup</id>
     <published>2022-05-27T08:17:01+00:00</published>
     <summary type="text">
@@ -33,8 +51,8 @@
     </summary>
   </entry>
   <entry>
-    <title>RedGuard - 卓越的C2前置流量控制设施</title>
-    <link href="https://zone.huoxian.cn/d/1214-redguard-c2"/>
+    <title type="text">RedGuard - 卓越的C2前置流量控制设施</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1214-redguard-c2"/>
     <id>https://zone.huoxian.cn/d/1214-redguard-c2</id>
     <published>2022-05-27T08:09:49+00:00</published>
     <summary type="text">
@@ -42,8 +60,8 @@
     </summary>
   </entry>
   <entry>
-    <title>ThinkPHP系列漏洞分析-2.x任意代码执行</title>
-    <link href="https://zone.huoxian.cn/d/1213-thinkphp-2x"/>
+    <title type="text">ThinkPHP系列漏洞分析-2.x任意代码执行</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1213-thinkphp-2x"/>
     <id>https://zone.huoxian.cn/d/1213-thinkphp-2x</id>
     <published>2022-05-27T07:26:48+00:00</published>
     <summary type="text">
@@ -51,8 +69,8 @@
     </summary>
   </entry>
   <entry>
-    <title>每日云安全技术资讯20220527</title>
-    <link href="https://zone.huoxian.cn/d/1212-20220527"/>
+    <title type="text">每日云安全技术资讯20220527</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1212-20220527"/>
     <id>https://zone.huoxian.cn/d/1212-20220527</id>
     <published>2022-05-27T03:25:03+00:00</published>
     <summary type="text">
@@ -60,8 +78,8 @@
     </summary>
   </entry>
   <entry>
-    <title>k8s中各组件和kube apiserver通信时的认证和鉴权</title>
-    <link href="https://zone.huoxian.cn/d/1211-k8skube-apiserver"/>
+    <title type="text">k8s中各组件和kube apiserver通信时的认证和鉴权</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1211-k8skube-apiserver"/>
     <id>https://zone.huoxian.cn/d/1211-k8skube-apiserver</id>
     <published>2022-05-26T11:57:23+00:00</published>
     <summary type="text">
@@ -69,8 +87,8 @@
     </summary>
   </entry>
   <entry>
-    <title>某nginx配置管理平台代码审计分析</title>
-    <link href="https://zone.huoxian.cn/d/1210-nginx"/>
+    <title type="text">某nginx配置管理平台代码审计分析</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1210-nginx"/>
     <id>https://zone.huoxian.cn/d/1210-nginx</id>
     <published>2022-05-26T10:22:32+00:00</published>
     <summary type="text">
@@ -78,8 +96,8 @@
     </summary>
   </entry>
   <entry>
-    <title>每日云安全技术资讯20220526</title>
-    <link href="https://zone.huoxian.cn/d/1209-20220526"/>
+    <title type="text">每日云安全技术资讯20220526</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1209-20220526"/>
     <id>https://zone.huoxian.cn/d/1209-20220526</id>
     <published>2022-05-26T04:38:57+00:00</published>
     <summary type="text">
@@ -87,8 +105,8 @@
     </summary>
   </entry>
   <entry>
-    <title>k8s常见组件配置不当利用记录</title>
-    <link href="https://zone.huoxian.cn/d/1207-k8s"/>
+    <title type="text">k8s常见组件配置不当利用记录</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1207-k8s"/>
     <id>https://zone.huoxian.cn/d/1207-k8s</id>
     <published>2022-05-25T09:55:36+00:00</published>
     <summary type="text">
@@ -96,8 +114,8 @@
     </summary>
   </entry>
   <entry>
-    <title>火线沙龙第25期-云原生应用安全专场</title>
-    <link href="https://zone.huoxian.cn/d/1206-25"/>
+    <title type="text">火线沙龙第25期-云原生应用安全专场</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1206-25"/>
     <id>https://zone.huoxian.cn/d/1206-25</id>
     <published>2022-05-25T07:11:53+00:00</published>
     <summary type="text">
@@ -105,8 +123,8 @@
     </summary>
   </entry>
   <entry>
-    <title>每日云安全技术资讯20220525</title>
-    <link href="https://zone.huoxian.cn/d/1205-20220525"/>
+    <title type="text">每日云安全技术资讯20220525</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1205-20220525"/>
     <id>https://zone.huoxian.cn/d/1205-20220525</id>
     <published>2022-05-25T03:05:17+00:00</published>
     <summary type="text">
@@ -114,8 +132,8 @@
     </summary>
   </entry>
   <entry>
-    <title>【云原生渗透】- Proc 目录挂载逃逸漏洞</title>
-    <link href="https://zone.huoxian.cn/d/1204-proc"/>
+    <title type="text">【云原生渗透】- Proc 目录挂载逃逸漏洞</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1204-proc"/>
     <id>https://zone.huoxian.cn/d/1204-proc</id>
     <published>2022-05-24T10:47:15+00:00</published>
     <summary type="text">
@@ -123,8 +141,8 @@
     </summary>
   </entry>
   <entry>
-    <title>k8s提权漏洞之CVE-2018-1002105</title>
-    <link href="https://zone.huoxian.cn/d/1203-k8scve-2018-1002105"/>
+    <title type="text">k8s提权漏洞之CVE-2018-1002105</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1203-k8scve-2018-1002105"/>
     <id>https://zone.huoxian.cn/d/1203-k8scve-2018-1002105</id>
     <published>2022-05-24T07:52:19+00:00</published>
     <summary type="text">
@@ -132,8 +150,8 @@
     </summary>
   </entry>
   <entry>
-    <title>每日云安全技术资讯20220524</title>
-    <link href="https://zone.huoxian.cn/d/1202-20220524"/>
+    <title type="text">每日云安全技术资讯20220524</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1202-20220524"/>
     <id>https://zone.huoxian.cn/d/1202-20220524</id>
     <published>2022-05-24T03:26:54+00:00</published>
     <summary type="text">
@@ -141,8 +159,8 @@
     </summary>
   </entry>
   <entry>
-    <title>从Fastjson和log4j2学习JNDI注入</title>
-    <link href="https://zone.huoxian.cn/d/1201-fastjsonlog4j2jndi"/>
+    <title type="text">从Fastjson和log4j2学习JNDI注入</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1201-fastjsonlog4j2jndi"/>
     <id>https://zone.huoxian.cn/d/1201-fastjsonlog4j2jndi</id>
     <published>2022-05-23T09:39:41+00:00</published>
     <summary type="text">
@@ -150,8 +168,8 @@
     </summary>
   </entry>
   <entry>
-    <title>【火线Zone社区周奖励】2022年5月16日~2022年5月22日公告</title>
-    <link href="https://zone.huoxian.cn/d/1200-zone20225162022522"/>
+    <title type="text">【火线Zone社区周奖励】2022年5月16日~2022年5月22日公告</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1200-zone20225162022522"/>
     <id>https://zone.huoxian.cn/d/1200-zone20225162022522</id>
     <published>2022-05-23T08:44:44+00:00</published>
     <summary type="text">
@@ -159,30 +177,12 @@
     </summary>
   </entry>
   <entry>
-    <title>每日云安全技术资讯20220523</title>
-    <link href="https://zone.huoxian.cn/d/1199-20220523"/>
+    <title type="text">每日云安全技术资讯20220523</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1199-20220523"/>
     <id>https://zone.huoxian.cn/d/1199-20220523</id>
     <published>2022-05-23T03:27:04+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220523
-    </summary>
-  </entry>
-  <entry>
-    <title>k8s源码编译到远程调试笔记</title>
-    <link href="https://zone.huoxian.cn/d/1198-k8s"/>
-    <id>https://zone.huoxian.cn/d/1198-k8s</id>
-    <published>2022-05-22T08:30:35+00:00</published>
-    <summary type="text">
-      k8s源码编译到远程调试笔记
-    </summary>
-  </entry>
-  <entry>
-    <title>存储桶AK泄露利用小Tips</title>
-    <link href="https://zone.huoxian.cn/d/1197-aktips"/>
-    <id>https://zone.huoxian.cn/d/1197-aktips</id>
-    <published>2022-05-21T08:55:36+00:00</published>
-    <summary type="text">
-      存储桶AK泄露利用小Tips
     </summary>
   </entry>
 

@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>跳跳糖 - 安全与分享社区</title>
+  <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
-  <link href="https://tttang.com/"/>
-  <updated>2022-05-30T06:18:16+08:00</updated>
+  <link rel="alternate" href="https://tttang.com/"/>
+  <updated>2022-05-30T12:06:10+08:00</updated>
   <id>https://tttang.com/</id>
   <entry>
-    <title>MQTT协议-车联网应用&amp;amp;&amp;amp;源码分析（一）</title>
-    <link href="https://tttang.com/archive/1609/"/>
+    <title type="text">ETW的攻与防</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1612/"/>
+    <id>https://tttang.com/archive/1612/</id>
+    <published>2022-05-30T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;&lt;code&gt;ETW&lt;/code&gt;全称为&lt;code&gt;Event Tracing for Windows&lt;/code&gt;，即windows事件跟踪，它是Windows提供的原生的事件跟踪日志系统。由于采用内核层面的缓冲和日志记录机制，所以&lt;code&gt;ETW&lt;/code&gt;提供了一种非常高效的事件跟踪日志解决方案，本文基于&lt;code&gt;ETW&lt;/code&gt;探究其攻与防的实现&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">MQTT协议-车联网应用&amp;amp;&amp;amp;源码分析（一）</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1609/"/>
     <id>https://tttang.com/archive/1609/</id>
     <published>2022-05-27T12:00:00+08:00</published>
     <summary type="text">
@@ -15,8 +24,8 @@
     </summary>
   </entry>
   <entry>
-    <title>CVE-2022-30781：一条普通的 Git 命令导致的 Gitea RCE</title>
-    <link href="https://tttang.com/archive/1607/"/>
+    <title type="text">CVE-2022-30781：一条普通的 Git 命令导致的 Gitea RCE</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1607/"/>
     <id>https://tttang.com/archive/1607/</id>
     <published>2022-05-26T12:00:00+08:00</published>
     <summary type="text">
@@ -25,8 +34,8 @@
     </summary>
   </entry>
   <entry>
-    <title>Fastjson 反序列化分析</title>
-    <link href="https://tttang.com/archive/1579/"/>
+    <title type="text">Fastjson 反序列化分析</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1579/"/>
     <id>https://tttang.com/archive/1579/</id>
     <published>2022-05-25T12:00:00+08:00</published>
     <summary type="text">
@@ -34,8 +43,8 @@
     </summary>
   </entry>
   <entry>
-    <title>Exploiting a Use-After-Free for code execution in every version of Python 3[译文]</title>
-    <link href="https://tttang.com/archive/1601/"/>
+    <title type="text">Exploiting a Use-After-Free for code execution in every version of Python 3[译文]</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1601/"/>
     <id>https://tttang.com/archive/1601/</id>
     <published>2022-05-24T12:00:00+08:00</published>
     <summary type="text">
@@ -43,8 +52,8 @@
     </summary>
   </entry>
   <entry>
-    <title>fuzzer AFL 源码分析（一）- 编译</title>
-    <link href="https://tttang.com/archive/1595/"/>
+    <title type="text">fuzzer AFL 源码分析（一）- 编译</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1595/"/>
     <id>https://tttang.com/archive/1595/</id>
     <published>2022-05-23T12:00:00+08:00</published>
     <summary type="text">
@@ -53,8 +62,8 @@
     </summary>
   </entry>
   <entry>
-    <title>A new way to bypass __wakeup() and build POP chain</title>
-    <link href="https://tttang.com/archive/1603/"/>
+    <title type="text">A new way to bypass __wakeup() and build POP chain</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1603/"/>
     <id>https://tttang.com/archive/1603/</id>
     <published>2022-05-20T12:00:00+08:00</published>
     <summary type="text">
@@ -64,8 +73,8 @@
     </summary>
   </entry>
   <entry>
-    <title>Attack Surface Mining For AD CS</title>
-    <link href="https://tttang.com/archive/1593/"/>
+    <title type="text">Attack Surface Mining For AD CS</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1593/"/>
     <id>https://tttang.com/archive/1593/</id>
     <published>2022-05-19T12:00:00+08:00</published>
     <summary type="text">
@@ -73,8 +82,8 @@
     </summary>
   </entry>
   <entry>
-    <title>windows环境下的自保护探究</title>
-    <link href="https://tttang.com/archive/1584/"/>
+    <title type="text">windows环境下的自保护探究</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1584/"/>
     <id>https://tttang.com/archive/1584/</id>
     <published>2022-05-18T12:00:00+08:00</published>
     <summary type="text">
@@ -82,8 +91,8 @@
     </summary>
   </entry>
   <entry>
-    <title>HOW DO YOU ACTUALLY FIND BUGS?（译文）</title>
-    <link href="https://tttang.com/archive/1597/"/>
+    <title type="text">HOW DO YOU ACTUALLY FIND BUGS?（译文）</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1597/"/>
     <id>https://tttang.com/archive/1597/</id>
     <published>2022-05-17T12:00:00+08:00</published>
     <summary type="text">
@@ -91,8 +100,8 @@
     </summary>
   </entry>
   <entry>
-    <title>Java安全之SnakeYaml反序列化分析</title>
-    <link href="https://tttang.com/archive/1591/"/>
+    <title type="text">Java安全之SnakeYaml反序列化分析</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1591/"/>
     <id>https://tttang.com/archive/1591/</id>
     <published>2022-05-16T12:00:00+08:00</published>
     <summary type="text">
@@ -100,8 +109,8 @@
     </summary>
   </entry>
   <entry>
-    <title>浅析Shiro权限绕过</title>
-    <link href="https://tttang.com/archive/1592/"/>
+    <title type="text">浅析Shiro权限绕过</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1592/"/>
     <id>https://tttang.com/archive/1592/</id>
     <published>2022-05-13T12:00:00+08:00</published>
     <summary type="text">
@@ -109,8 +118,8 @@
     </summary>
   </entry>
   <entry>
-    <title>A blueprint for evading industry leading endpoint protection in 2022（译文）</title>
-    <link href="https://tttang.com/archive/1573/"/>
+    <title type="text">A blueprint for evading industry leading endpoint protection in 2022（译文）</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1573/"/>
     <id>https://tttang.com/archive/1573/</id>
     <published>2022-05-12T12:00:00+08:00</published>
     <summary type="text">
@@ -120,8 +129,8 @@
     </summary>
   </entry>
   <entry>
-    <title>对抗无落地的shellcode注入</title>
-    <link href="https://tttang.com/archive/1581/"/>
+    <title type="text">对抗无落地的shellcode注入</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1581/"/>
     <id>https://tttang.com/archive/1581/</id>
     <published>2022-05-11T12:00:00+08:00</published>
     <summary type="text">
@@ -129,22 +138,12 @@
     </summary>
   </entry>
   <entry>
-    <title>Struts2漏洞集合分析与梳理</title>
-    <link href="https://tttang.com/archive/1583/"/>
+    <title type="text">Struts2漏洞集合分析与梳理</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1583/"/>
     <id>https://tttang.com/archive/1583/</id>
     <published>2022-05-10T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;本文针对Struts2一些经典漏洞进行分析和梳理。为什么要分析struts2这些略久远的漏洞呢？最近热议的Spring jdk9 漏洞，其中涉及到Struts2+类加载器漏洞的利用方式，由此有了重新梳理Struts2历史漏洞的想法。漏洞虽然是过去的，但知识点永远是知识点。希望通过对Struts2的一些经典漏洞的分析，获取新的认识和知识。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title>Musl 程序分析和调试环境配置 &amp;amp;&amp;amp; 部分源码分析</title>
-    <link href="https://tttang.com/archive/1582/"/>
-    <id>https://tttang.com/archive/1582/</id>
-    <published>2022-05-09T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;这里探索了很多方式，勘误之前的启动方式实际上存在一些问题，这里终于探索到了最完备的musl 调试环境，这里特别感谢我的学弟gxh为勘误做出的贡献。&lt;br&gt;
-算是musl 学习的正式终结。&lt;/p&gt;
     </summary>
   </entry>
 
