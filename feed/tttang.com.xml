@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-05-31T06:20:13+08:00</updated>
+  <updated>2022-05-31T12:33:57+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">浅谈Windows传统取证</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1608/"/>
+    <id>https://tttang.com/archive/1608/</id>
+    <published>2022-05-31T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;在2021美亚杯对取证开始产生兴趣，断断续续的学习了一些浅显的取证技能。国内很多取证赛题也是伪取证，甚至用misc充数，正好这个学期有缘学习电子数据取证课程，平时接触最多的就是Windows传统取证，这里进行一点简单的分享。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">ETW的攻与防</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1612/"/>
@@ -135,15 +144,6 @@
     <published>2022-05-11T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;一般的shellcode加载到内存都是通过&lt;code&gt;LoadLibrary&lt;/code&gt;和&lt;code&gt;GetProcAddress&lt;/code&gt;来获取函数进行shellcode加载，亦或是通过&lt;code&gt;VirtualAllocEx&lt;/code&gt;远程申请一块空间来放入shellcode的地址进行加载。为了隐蔽，攻击者通常会通过PEB找到&lt;code&gt;InLoadOrderModuleList&lt;/code&gt;链表，自己去定位&lt;code&gt;LoadLibrary&lt;/code&gt;函数从而规避杀软对导入表的监控。攻击者先把shellcode加密，在写入时解密存放到内存空间，使用基于文件检测的方法，是无能为力的，那么这种无落地的方式，最终都会在内存中一览无余。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Struts2漏洞集合分析与梳理</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1583/"/>
-    <id>https://tttang.com/archive/1583/</id>
-    <published>2022-05-10T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;本文针对Struts2一些经典漏洞进行分析和梳理。为什么要分析struts2这些略久远的漏洞呢？最近热议的Spring jdk9 漏洞，其中涉及到Struts2+类加载器漏洞的利用方式，由此有了重新梳理Struts2历史漏洞的想法。漏洞虽然是过去的，但知识点永远是知识点。希望通过对Struts2的一些经典漏洞的分析，获取新的认识和知识。&lt;/p&gt;
     </summary>
   </entry>
 
