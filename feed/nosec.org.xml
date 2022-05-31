@@ -3,8 +3,17 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2022-05-31T12:34:07+08:00</updated>
+  <updated>2022-05-31T18:22:36+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">【安全通报】Microsoft Office 远程代码执行漏洞（CVE-2022...</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5009.html"/>
+    <id>https://nosec.org/home/detail/5009.html</id>
+    <published>2022-05-31T18:02:53+08:00</published>
+    <summary type="text">
+      Microsoft Office 存在远程代码执行漏洞，攻击者可通过恶意 Office 文件中远程模板功能从服务器获取恶意 HTML 文件，通过 &#x27;ms-msdt&#x27; URI 来执行恶意 PowerShell...
+    </summary>
+  </entry>
   <entry>
     <title type="text">Zyxel设备固件提取与口令破解</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5004.html"/>
@@ -174,15 +183,6 @@
     <published>2022-04-08T17:40:10+08:00</published>
     <summary type="text">
       近日，VMware 官方发布了关于 Workspace ONE Access （前称 VMware Identity Manager）的多个漏洞补丁，其中曝光了一个服务器模板注入导致的远程命令执行漏洞（C...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">你的NAS不是你的NAS！</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/4984.html"/>
-    <id>https://nosec.org/home/detail/4984.html</id>
-    <published>2022-03-30T15:36:19+08:00</published>
-    <summary type="text">
-      前年我们在 Synology 的 NAS 中发现了 Pre-auth RCE 的漏洞，后续也发现这个漏洞不只存在 Synology 的 NAS，也同时存在多数厂牌的 NAS 中，这篇研究将讲述这漏洞...
     </summary>
   </entry>
 

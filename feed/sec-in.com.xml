@@ -3,7 +3,7 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-05-31T12:33:58+08:00</updated>
+  <updated>2022-05-31T18:22:22+08:00</updated>
   <id>https://sec-in.com/</id>
   <entry>
     <title type="text">记一次对Hack the box_remote的渗透测试</title>
@@ -71,17 +71,6 @@
     </summary>
   </entry>
   <entry>
-    <title type="text">赌运挖洞之Apache目录浏览</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1749"/>
-    <id>https://sec-in.com/article/1749</id>
-    <published>2022-05-30T15:19:51+08:00</published>
-    <summary type="text">
-      目录遍历(路径遍历)是由于web服务器或者web应用程序对用户输入的文件名称的安全性验证不足而导致的一-种安全漏洞，使得攻击者通过利用
-
-Apache目录浏览，因为文件都可以直接，可以以最好的体验挖洞
-    </summary>
-  </entry>
-  <entry>
     <title type="text">从BPFdoor浅谈Linux隐蔽后门检测</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1753"/>
     <id>https://sec-in.com/article/1753</id>
@@ -97,6 +86,15 @@ Apache目录浏览，因为文件都可以直接，可以以最好的体验挖�
     <published>2022-05-26T11:02:00+08:00</published>
     <summary type="text">
       基于自身办公环境的需求，想着在自己Mac上搭建cs的服务端和客户端，解决资源可以充分利用，学习cs摆脱多个机器的尴尬处境，之前不知道互联网上有没有这方面的实践，随手百度，得此文，记录之。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">sudo权限绕过漏洞（CVE-2019-14287）</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1755"/>
+    <id>https://sec-in.com/article/1755</id>
+    <published>2022-05-26T10:58:26+08:00</published>
+    <summary type="text">
+      Linux Sudo 被曝出存在一个提权漏洞CVE-2019-14287，可以让sudo功能受限的用户绕过Sudo 的安全策略以root权限执行。
     </summary>
   </entry>
 
