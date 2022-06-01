@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-06-01T18:25:08+08:00</updated>
+  <updated>2022-06-02T06:19:49+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Horde Webmail - Remote Code Execution via Email</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/horde-webmail-rce-via-email"/>
+    <id>https://blog.sonarsource.com/horde-webmail-rce-via-email</id>
+    <published>2022-06-01T09:30:45Z</published>
+    <summary type="text">
+      We discovered vulnerabilities in Horde Webmail that allow an attacker to execute arbitrary code on Horde instances by having a victim open an email
+    </summary>
+  </entry>
   <entry>
     <title type="text">A new and refreshed website for Sonar</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/new-and-refreshed-website-sonar"/>
@@ -174,15 +183,6 @@
     <published>2021-11-26T14:01:27Z</published>
     <summary type="text">
       Today XML External Entities (XXE) vulnerabilities are still ubiquitous, despite the fact that recommendations to protect against them have been an integral part of security standards for years. In this post, we will try to demystify XXE vulnerabilities and present the rule we put in place to help you detect and prevent them. 
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">WordPress 5.8.2 Stored XSS Vulnerability</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/wordpress-stored-xss-vulnerability"/>
-    <id>https://blog.sonarsource.com/wordpress-stored-xss-vulnerability</id>
-    <published>2022-01-11T10:07:04Z</published>
-    <summary type="text">
-      We reported a Stored XSS vulnerability in WordPress (CVE-2022-21662) which remained unpatched for more than 3 years and affected the wordpress.org website.
     </summary>
   </entry>
 
