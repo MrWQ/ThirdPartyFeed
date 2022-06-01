@@ -3,8 +3,17 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2022-06-01T06:18:41+08:00</updated>
+  <updated>2022-06-01T13:12:52+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">Spring Cloud Gateway CVE-2022-22947 漏洞分析</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5008.html"/>
+    <id>https://nosec.org/home/detail/5008.html</id>
+    <published>2022-06-01T11:43:36+08:00</published>
+    <summary type="text">
+      当Gateway Actuator端点是启用状态并且是允许访问的以及相关配置不安全时，使用Spring Cloud Gateway的应用程序容易受到代码注入攻击。远程攻击者可以发出恶意制...
+    </summary>
+  </entry>
   <entry>
     <title type="text">【安全通报】Microsoft Office 远程代码执行漏洞（CVE-2022...</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5009.html"/>
@@ -174,15 +183,6 @@
     <published>2022-04-13T11:29:24+08:00</published>
     <summary type="text">
       近日，微软发布 2022年4月 安全补丁，修复了针对 53 款微软产品的 119 个漏洞，其中 47 个权限提升漏洞，47 个远程代码执行漏洞，13 个信息泄露漏洞，9 个拒绝服...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">【安全通报】VMware 官方修复多个 Workspace ONE Access 漏...</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/4988.html"/>
-    <id>https://nosec.org/home/detail/4988.html</id>
-    <published>2022-04-08T17:40:10+08:00</published>
-    <summary type="text">
-      近日，VMware 官方发布了关于 Workspace ONE Access （前称 VMware Identity Manager）的多个漏洞补丁，其中曝光了一个服务器模板注入导致的远程命令执行漏洞（C...
     </summary>
   </entry>
 

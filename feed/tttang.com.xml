@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-06-01T06:18:32+08:00</updated>
+  <updated>2022-06-01T13:12:42+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">Learning Linux kernel exploitation - Part 1 - Laying the groundwork（译文）</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1606/"/>
+    <id>https://tttang.com/archive/1606/</id>
+    <published>2022-06-01T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;本文中，我们将以&lt;a href=&quot;https://2020.ctf.link/&quot; target=&quot;_blank&quot;&gt;hxp2020 CTF&lt;/a&gt;中的“kernel-rop”挑战题为基础，介绍如何利用驱动程序中的漏洞进行提权。我们知道，内核漏洞利用的主要目标，与用户空间的漏洞利用有很大不同，它不是直接生成一个shell，而是控制存在漏洞的内核代码以实现提权。至少在典型的CTF风格的场景中，生成shell都是后面的事情。有时，只要获得了任意读写原语，就足以渗出敏感信息，或覆盖与安全休戚相关的东西。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">浅谈Windows传统取证</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1608/"/>
@@ -135,15 +144,6 @@
       &lt;p&gt;大约两年前，我辞去了全职红队操作员的工作。然而，它仍然是一个心仪的专业领域。几周前，我重新拾起昨日的爱好：绕过/逃避端点保护解决方案。&lt;/p&gt;
 &lt;p&gt;在这篇文章中，我们将探讨一系列可用于绕过行业领先的企业端点保护解决方案的技术。由于这纯粹是为了（道德）红队队员等安全从业者教育之用，因此我决定不公开发布源代码。本文旨在让安全行业的广大读者能够全面了解相关技术，而不是深入研究每种技术的细节。相反，具体的技术细节，读者可以参阅参考资料部分列出的文章。&lt;/p&gt;
 &lt;p&gt;在模拟对抗过程中，“初始访问”阶段的一个关键挑战，就是绕过企业端点上的检测和响应能力 (EDR)。由于商业的c2框架向红队队员提供的是不可修改的shellcode和二进制文件，所以，安全解决方案供应商会提取这些代码的特征（或者成为签名），那么，为了植入这些代码，红队就必须对其特征（静态和行为特征）进行必要的混淆处理。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">对抗无落地的shellcode注入</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1581/"/>
-    <id>https://tttang.com/archive/1581/</id>
-    <published>2022-05-11T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;一般的shellcode加载到内存都是通过&lt;code&gt;LoadLibrary&lt;/code&gt;和&lt;code&gt;GetProcAddress&lt;/code&gt;来获取函数进行shellcode加载，亦或是通过&lt;code&gt;VirtualAllocEx&lt;/code&gt;远程申请一块空间来放入shellcode的地址进行加载。为了隐蔽，攻击者通常会通过PEB找到&lt;code&gt;InLoadOrderModuleList&lt;/code&gt;链表，自己去定位&lt;code&gt;LoadLibrary&lt;/code&gt;函数从而规避杀软对导入表的监控。攻击者先把shellcode加密，在写入时解密存放到内存空间，使用基于文件检测的方法，是无能为力的，那么这种无落地的方式，最终都会在内存中一览无余。&lt;/p&gt;
     </summary>
   </entry>
 
