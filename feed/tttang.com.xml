@@ -3,8 +3,18 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-06-02T06:19:50+08:00</updated>
+  <updated>2022-06-02T12:50:09+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">JNDI注入分析</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1611/"/>
+    <id>https://tttang.com/archive/1611/</id>
+    <published>2022-06-02T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;&lt;code&gt;JNDI(Java Naming and Directory Interface)&lt;/code&gt;是&lt;code&gt;Java&lt;/code&gt;提供的&lt;code&gt;Java&lt;/code&gt;命名和目录接口。通过调用&lt;code&gt;JNDI&lt;/code&gt;的&lt;code&gt;API&lt;/code&gt;可以定位资源和其他程序对象。&lt;br&gt;
+&lt;code&gt;JNDI&lt;/code&gt;是&lt;code&gt;Java EE&lt;/code&gt;的重要部分，&lt;code&gt;JNDI&lt;/code&gt;可访问的现有的目录及服务有:&lt;code&gt;JDBC&lt;/code&gt;、&lt;code&gt;LDAP&lt;/code&gt;、&lt;code&gt;RMI&lt;/code&gt;、&lt;code&gt;DNS&lt;/code&gt;、&lt;code&gt;NIS&lt;/code&gt;、&lt;code&gt;CORBA&lt;/code&gt;。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">Learning Linux kernel exploitation - Part 1 - Laying the groundwork（译文）</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1606/"/>
@@ -133,17 +143,6 @@
     <published>2022-05-13T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;简单总结一些Shiro的权限绕过。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">A blueprint for evading industry leading endpoint protection in 2022（译文）</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1573/"/>
-    <id>https://tttang.com/archive/1573/</id>
-    <published>2022-05-12T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;大约两年前，我辞去了全职红队操作员的工作。然而，它仍然是一个心仪的专业领域。几周前，我重新拾起昨日的爱好：绕过/逃避端点保护解决方案。&lt;/p&gt;
-&lt;p&gt;在这篇文章中，我们将探讨一系列可用于绕过行业领先的企业端点保护解决方案的技术。由于这纯粹是为了（道德）红队队员等安全从业者教育之用，因此我决定不公开发布源代码。本文旨在让安全行业的广大读者能够全面了解相关技术，而不是深入研究每种技术的细节。相反，具体的技术细节，读者可以参阅参考资料部分列出的文章。&lt;/p&gt;
-&lt;p&gt;在模拟对抗过程中，“初始访问”阶段的一个关键挑战，就是绕过企业端点上的检测和响应能力 (EDR)。由于商业的c2框架向红队队员提供的是不可修改的shellcode和二进制文件，所以，安全解决方案供应商会提取这些代码的特征（或者成为签名），那么，为了植入这些代码，红队就必须对其特征（静态和行为特征）进行必要的混淆处理。&lt;/p&gt;
     </summary>
   </entry>
 
