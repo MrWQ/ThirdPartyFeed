@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-06-02T12:50:10+08:00</updated>
+  <updated>2022-06-02T18:21:53+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,33 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Kubernetes 时代的认证</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1232-kubernetes"/>
+    <id>https://zone.huoxian.cn/d/1232-kubernetes</id>
+    <published>2022-06-02T08:29:11+00:00</published>
+    <summary type="text">
+      Kubernetes 时代的认证
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">软件供应链安全威胁与业界解决方案</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1231"/>
+    <id>https://zone.huoxian.cn/d/1231</id>
+    <published>2022-06-02T07:35:07+00:00</published>
+    <summary type="text">
+      软件供应链安全威胁与业界解决方案
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220602</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1230-20220602"/>
+    <id>https://zone.huoxian.cn/d/1230-20220602</id>
+    <published>2022-06-02T05:25:43+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220602
     </summary>
   </entry>
   <entry>
@@ -156,33 +183,6 @@
     <published>2022-05-27T08:09:49+00:00</published>
     <summary type="text">
       RedGuard - 卓越的C2前置流量控制设施
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">ThinkPHP系列漏洞分析-2.x任意代码执行</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1213-thinkphp-2x"/>
-    <id>https://zone.huoxian.cn/d/1213-thinkphp-2x</id>
-    <published>2022-05-27T07:26:48+00:00</published>
-    <summary type="text">
-      ThinkPHP系列漏洞分析-2.x任意代码执行
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220527</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1212-20220527"/>
-    <id>https://zone.huoxian.cn/d/1212-20220527</id>
-    <published>2022-05-27T03:25:03+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220527
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">k8s中各组件和kube apiserver通信时的认证和鉴权</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1211-k8skube-apiserver"/>
-    <id>https://zone.huoxian.cn/d/1211-k8skube-apiserver</id>
-    <published>2022-05-26T11:57:23+00:00</published>
-    <summary type="text">
-      k8s中各组件和kube apiserver通信时的认证和鉴权
     </summary>
   </entry>
 
