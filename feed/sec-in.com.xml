@@ -3,8 +3,26 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-06-07T12:28:13+08:00</updated>
+  <updated>2022-06-07T18:20:02+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">CVE-2022-30190(FOLLINA)分析</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1782"/>
+    <id>https://sec-in.com/article/1782</id>
+    <published>2022-06-07T17:19:07+08:00</published>
+    <summary type="text">
+      2022年5月27日，安全研究人员nao_sec上传了一个样本，称这个样本从白俄罗斯上传，使用了一系列技巧来运行恶意 PowerShell 脚本。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">对王心凌的一次渗透</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1778"/>
+    <id>https://sec-in.com/article/1778</id>
+    <published>2022-06-07T15:07:46+08:00</published>
+    <summary type="text">
+      最近娱乐节目《成风破浪》开播了，作为技术宅的我本不会去关注这种娱乐节目，但是突然有一天在热搜上看到了我学生时代的偶像之一王心凌上了热搜，想起早些年的社工文章，发出来回味下~
+    </summary>
+  </entry>
   <entry>
     <title type="text">隐藏资产发现的小技巧</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1776"/>
@@ -78,24 +96,6 @@ CTF的技术有一部分提示来自于题目，题目中带lcg，可能和LCG�
     <published>2022-05-30T15:56:42+08:00</published>
     <summary type="text">
       在实际攻防场景中，尤其是钓鱼中，我们不太可能一直保证CS在线，尤其是当网络存在波动，或者频繁的切换时。这时候就需要使用CS上线提醒。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">URLDNS Gadget分析</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1765"/>
-    <id>https://sec-in.com/article/1765</id>
-    <published>2022-05-30T15:56:20+08:00</published>
-    <summary type="text">
-      URLDNS是ysoserial中比较简单的gadget，可以通过分析其利用链来了解反序列化执行java代码的过程。相较于其他gadget，URLDNS不依赖于第三方类和不限制jdk版本的属性使其成为
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">CFS三层靶机实战-内网横向渗透</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1760"/>
-    <id>https://sec-in.com/article/1760</id>
-    <published>2022-05-30T15:20:50+08:00</published>
-    <summary type="text">
-      CFS三层靶机实战-内网横向渗透，内网初学者，靶机渗透，通过一层一层的渗透，获取每个靶机的flag进行拿分
     </summary>
   </entry>
 
