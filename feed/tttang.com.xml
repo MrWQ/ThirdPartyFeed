@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-06-07T06:17:28+08:00</updated>
+  <updated>2022-06-07T12:27:53+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">浅谈EDR绕过</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1618/"/>
+    <id>https://tttang.com/archive/1618/</id>
+    <published>2022-06-07T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;我们知道一般EDR对可疑程序进行监控一般都会采用往程序里注入到检测的进程中，通过hook一些敏感的3环API来判断程序是否进行一些恶意操作，那么我们可以通过添加流程缓解措施和漏洞利用保护参考来实现保护，从而防止EDR的dll注入对进程进行检测。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">域内特权提升 - 将 Certifried 与 KrbRelay 结合利用</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1605/"/>
@@ -134,15 +143,6 @@
     <published>2022-05-17T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;本文是根据具有12年从业经验的安全研究人员Mark Dowd在今年的OffensiveCon大会上面的主题演讲整理而成，主要讲解了他自己在挖掘软件漏洞方面的方法论。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Java安全之SnakeYaml反序列化分析</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1591/"/>
-    <id>https://tttang.com/archive/1591/</id>
-    <published>2022-05-16T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;snakeyaml包主要用来解析yaml格式的内容，yaml语言比普通的xml与properties等配置文件的可读性更高，像是Spring系列就支持yaml的配置文件，而SnakeYaml是一个完整的YAML1.1规范Processor，支持UTF-8/UTF-16，支持Java对象的序列化/反序列化，支持所有YAML定义的类型。&lt;/p&gt;
     </summary>
   </entry>
 

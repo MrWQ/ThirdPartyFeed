@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-06-07T06:17:28+08:00</updated>
+  <updated>2022-06-07T12:27:17+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220607</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1240-20220607"/>
+    <id>https://zone.huoxian.cn/d/1240-20220607</id>
+    <published>2022-06-07T04:26:40+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220607
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">常见框架——Apache Struts2漏洞复现分析</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1239-apache-struts2"/>
+    <id>https://zone.huoxian.cn/d/1239-apache-struts2</id>
+    <published>2022-06-07T02:41:14+00:00</published>
+    <summary type="text">
+      常见框架——Apache Struts2漏洞复现分析
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-05-30T14:45:41+00:00</published>
     <summary type="text">
       代码审计杂项篇-PHPStorm+PHPstudy xdebug动态调试
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">火线沙龙第25期-云原生应用安全专场总结</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1220-25"/>
-    <id>https://zone.huoxian.cn/d/1220-25</id>
-    <published>2022-05-30T09:43:13+00:00</published>
-    <summary type="text">
-      火线沙龙第25期-云原生应用安全专场总结
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">【火线zone社区周激励】2022年5月23号～2022年5月29号公告</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1219-zone20225232022529"/>
-    <id>https://zone.huoxian.cn/d/1219-zone20225232022529</id>
-    <published>2022-05-30T09:03:19+00:00</published>
-    <summary type="text">
-      【火线zone社区周激励】2022年5月23号～2022年5月29号公告
     </summary>
   </entry>
 
