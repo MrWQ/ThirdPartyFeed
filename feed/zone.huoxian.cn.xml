@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-06-07T18:20:03+08:00</updated>
+  <updated>2022-06-08T06:16:20+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">【云原生渗透】- 使用cdk进行容器环境信息探测</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1242-cdk"/>
+    <id>https://zone.huoxian.cn/d/1242-cdk</id>
+    <published>2022-06-07T10:52:48+00:00</published>
+    <summary type="text">
+      【云原生渗透】- 使用cdk进行容器环境信息探测
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Serverless应用安全浅谈</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1241-serverless"/>
+    <id>https://zone.huoxian.cn/d/1241-serverless</id>
+    <published>2022-06-07T10:31:41+00:00</published>
+    <summary type="text">
+      Serverless应用安全浅谈
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-05-31T06:00:25+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220531
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">常见框架——ThinkPHP漏洞复现分析</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1222-thinkphp"/>
-    <id>https://zone.huoxian.cn/d/1222-thinkphp</id>
-    <published>2022-05-31T01:22:47+00:00</published>
-    <summary type="text">
-      常见框架——ThinkPHP漏洞复现分析
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">代码审计杂项篇-PHPStorm+PHPstudy xdebug动态调试</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1221-phpstormphpstudy-xdebug"/>
-    <id>https://zone.huoxian.cn/d/1221-phpstormphpstudy-xdebug</id>
-    <published>2022-05-30T14:45:41+00:00</published>
-    <summary type="text">
-      代码审计杂项篇-PHPStorm+PHPstudy xdebug动态调试
     </summary>
   </entry>
 
