@@ -3,8 +3,26 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-06-08T12:30:56+08:00</updated>
+  <updated>2022-06-08T18:19:28+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">Microsoft Office 远程代码执行</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1787"/>
+    <id>https://sec-in.com/article/1787</id>
+    <published>2022-06-08T16:23:43+08:00</published>
+    <summary type="text">
+      昨天大哥扔了个MS office 0day（CVE-2022-30190）的截图到群里，晚上就复现了一下 ，随即有了下文。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">浅析RDP攻击面</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1777"/>
+    <id>https://sec-in.com/article/1777</id>
+    <published>2022-06-08T16:12:12+08:00</published>
+    <summary type="text">
+      浅析RDP攻击面，内网中遇到RDP的情况很多，尝试总结一下RDP常用的攻击面，如抓取RDP连接记录来分析运维的ip和pass hash to rdp等
+    </summary>
+  </entry>
   <entry>
     <title type="text">对王心凌的一次渗透</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1778"/>
@@ -76,26 +94,6 @@ CTF的技术有一部分提示来自于题目，题目中带lcg，可能和LCG�
     <published>2022-05-30T16:02:31+08:00</published>
     <summary type="text">
       广东大学生网络安全攻防大赛CTF部分WP，分享一下队伍的解题思路，题目也比较简单，官网除了需要环境的题目，其他题目附件都还在，可以去复现一下
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">苦力工的0day挖掘日记（一）</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1744"/>
-    <id>https://sec-in.com/article/1744</id>
-    <published>2022-05-30T16:01:38+08:00</published>
-    <summary type="text">
-      在经历一次次是失败与挫折之后，我重拾代码审计。 希望用的的技能能力继续服务大家。
-但是事与愿违，傻子一样的漏洞和傻子一样的漏洞审计才永远是一对。
-围观傻逼一样的代码审计，点赞转发从我做起。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Cobalt Strike的多种上线提醒方法</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1767"/>
-    <id>https://sec-in.com/article/1767</id>
-    <published>2022-05-30T15:56:42+08:00</published>
-    <summary type="text">
-      在实际攻防场景中，尤其是钓鱼中，我们不太可能一直保证CS在线，尤其是当网络存在波动，或者频繁的切换时。这时候就需要使用CS上线提醒。
     </summary>
   </entry>
 
