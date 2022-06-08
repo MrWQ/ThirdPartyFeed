@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-06-08T06:16:19+08:00</updated>
+  <updated>2022-06-08T12:30:56+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">对王心凌的一次渗透</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1778"/>
+    <id>https://sec-in.com/article/1778</id>
+    <published>2022-06-08T10:28:10+08:00</published>
+    <summary type="text">
+      最近娱乐节目《成风破浪》开播了，作为技术宅的我本不会去关注这种娱乐节目，但是突然有一天在热搜上看到了我学生时代的偶像之一王心凌上了热搜，想起早些年的社工文章，发出来回味下~
+    </summary>
+  </entry>
   <entry>
     <title type="text">CVE-2022-30190(FOLLINA)分析</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1782"/>
@@ -12,15 +21,6 @@
     <published>2022-06-07T17:19:07+08:00</published>
     <summary type="text">
       2022年5月27日，安全研究人员nao_sec上传了一个样本，称这个样本从白俄罗斯上传，使用了一系列技巧来运行恶意 PowerShell 脚本。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">对王心凌的一次渗透</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1778"/>
-    <id>https://sec-in.com/article/1778</id>
-    <published>2022-06-07T15:07:46+08:00</published>
-    <summary type="text">
-      最近娱乐节目《成风破浪》开播了，作为技术宅的我本不会去关注这种娱乐节目，但是突然有一天在热搜上看到了我学生时代的偶像之一王心凌上了热搜，想起早些年的社工文章，发出来回味下~
     </summary>
   </entry>
   <entry>

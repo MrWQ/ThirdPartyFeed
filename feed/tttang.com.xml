@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-06-08T06:16:19+08:00</updated>
+  <updated>2022-06-08T12:30:56+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">SpringBoot Actuator之 logging.config grovvy rce分析及内存马注入</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1620/"/>
+    <id>https://tttang.com/archive/1620/</id>
+    <published>2022-06-08T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;Spring boot最经典的漏洞莫过于由于配置不当导致Actuator的相关路由暴露从而导致信息泄露以及各种远程命令执行漏洞。根据&lt;a href=&quot;https://docs.spring.io/spring-boot/docs/2.1.10.RELEASE/reference/htmlsingle/#production-ready-endpoints&quot; target=&quot;_blank&quot;&gt;spingboot官方文档&lt;/a&gt;，以spring-boot 2.1.10版本为例，对于web应用程序来说，以下端口默认是开启的。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">浅谈EDR绕过</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1618/"/>
@@ -134,15 +143,6 @@
     <published>2022-05-18T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;我们要想在32位下实现进程保护很简单，通过SSDT hook重写函数即可实现，但是在64位系统下因为引入了&lt;code&gt;PG&lt;/code&gt;和&lt;code&gt;DSE&lt;/code&gt;的原因，导致&lt;code&gt;SSDT hook&lt;/code&gt;实现起来处处受限。但微软同样为了系统安全，增加了一个对象回调函数的接口，利用该回调可以实现对对象请求的过滤保护自身的进程，目前大部分64位下的安全软件保护机制都是基于该方法，我们深入进行探究&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">HOW DO YOU ACTUALLY FIND BUGS?（译文）</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1597/"/>
-    <id>https://tttang.com/archive/1597/</id>
-    <published>2022-05-17T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;本文是根据具有12年从业经验的安全研究人员Mark Dowd在今年的OffensiveCon大会上面的主题演讲整理而成，主要讲解了他自己在挖掘软件漏洞方面的方法论。&lt;/p&gt;
     </summary>
   </entry>
 
