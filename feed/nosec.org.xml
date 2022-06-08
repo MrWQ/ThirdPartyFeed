@@ -3,8 +3,26 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2022-06-08T18:19:37+08:00</updated>
+  <updated>2022-06-09T06:16:49+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">【安全通报】泛微 E-Office 文件包含漏洞（CNVD-2022-43247...</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5011.html"/>
+    <id>https://nosec.org/home/detail/5011.html</id>
+    <published>2022-06-08T19:18:34+08:00</published>
+    <summary type="text">
+      近日，CNVD 官方发布了泛微 E-Office 文件包含漏洞，泛微网络官方已发布修复补丁，请广大用户及时下载更新...
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">【安全通报】泛微 E-Office SQL注入漏洞（CNVD-2022-43246...</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5010.html"/>
+    <id>https://nosec.org/home/detail/5010.html</id>
+    <published>2022-06-08T19:18:17+08:00</published>
+    <summary type="text">
+      近日，CNVD 官方发布了泛微 E-Office SQL注入漏洞，泛微网络官方已发布修复补丁，请广大用户及时下载更新。...
+    </summary>
+  </entry>
   <entry>
     <title type="text">Spring Cloud Gateway CVE-2022-22947 漏洞分析</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5008.html"/>
@@ -165,24 +183,6 @@
     <published>2022-04-21T00:52:07+08:00</published>
     <summary type="text">
       近日，Atlassian发布安全公告，修复了一个存在于Atlassian Bitbucket Data Center中的代码执行漏洞，该漏洞...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">通过挂载 vmdk 拿到产品 root</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/4990.html"/>
-    <id>https://nosec.org/home/detail/4990.html</id>
-    <published>2022-04-15T15:49:06+08:00</published>
-    <summary type="text">
-      最近在看 watchguard 的 CVE-2022-26318 ，想通过 上传 gdbserver 进行动态调试。watchguard 官方提供了一个 ova 文件，但是利用 ssh 登录进入只能进入 watchgua...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">【安全通报】2022年4月微软漏洞补丁日修复多个高危漏洞</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/4989.html"/>
-    <id>https://nosec.org/home/detail/4989.html</id>
-    <published>2022-04-13T11:29:24+08:00</published>
-    <summary type="text">
-      近日，微软发布 2022年4月 安全补丁，修复了针对 53 款微软产品的 119 个漏洞，其中 47 个权限提升漏洞，47 个远程代码执行漏洞，13 个信息泄露漏洞，9 个拒绝服...
     </summary>
   </entry>
 
