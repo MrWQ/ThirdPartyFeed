@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-06-09T06:16:39+08:00</updated>
+  <updated>2022-06-09T12:29:34+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">glibc2.29+的off by null利用</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1614/"/>
+    <id>https://tttang.com/archive/1614/</id>
+    <published>2022-06-09T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;本文介绍了off by null的爆破法和直接法两类做法，并基于已有的高版本off by null的利用技巧做了一点改进，提出一种无特殊限制条件的直接法，更具有普适性。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">SpringBoot Actuator之 logging.config grovvy rce分析及内存马注入</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1620/"/>
@@ -134,15 +143,6 @@
     <published>2022-05-19T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;本篇文章大部分翻译并复现自 Will Schroeder（&lt;a href=&quot;https://twitter.com/harmj0y&quot; target=&quot;_blank&quot;&gt;@harmj0y&lt;/a&gt;）和 Lee Christensen（&lt;a href=&quot;https://twitter.com/tifkin_&quot; target=&quot;_blank&quot;&gt;@tifkin_&lt;/a&gt;） 在 2021 年的 BlackHat 大会上所发布的白皮书 &lt;a href=&quot;https://www.specterops.io/assets/resources/Certified_Pre-Owned.pdf&quot; target=&quot;_blank&quot;&gt;《Certified Pre-Owned - Abusing Active Directory Certificate Services》&lt;/a&gt;，其中详细介绍了关于 Active Directory Certificate Services 的滥用方法，关于 Active Directory 证书服务的攻击方法第一次系统性的进入我们的视野。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">windows环境下的自保护探究</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1584/"/>
-    <id>https://tttang.com/archive/1584/</id>
-    <published>2022-05-18T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;我们要想在32位下实现进程保护很简单，通过SSDT hook重写函数即可实现，但是在64位系统下因为引入了&lt;code&gt;PG&lt;/code&gt;和&lt;code&gt;DSE&lt;/code&gt;的原因，导致&lt;code&gt;SSDT hook&lt;/code&gt;实现起来处处受限。但微软同样为了系统安全，增加了一个对象回调函数的接口，利用该回调可以实现对对象请求的过滤保护自身的进程，目前大部分64位下的安全软件保护机制都是基于该方法，我们深入进行探究&lt;/p&gt;
     </summary>
   </entry>
 
