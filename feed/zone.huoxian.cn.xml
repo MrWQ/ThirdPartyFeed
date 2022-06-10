@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-06-10T12:25:44+08:00</updated>
+  <updated>2022-06-10T21:00:50+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -24,6 +24,24 @@
     </summary>
   </entry>
   <entry>
+    <title type="text">K8s污点容忍度横向主节点</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1251-k8s"/>
+    <id>https://zone.huoxian.cn/d/1251-k8s</id>
+    <published>2022-06-10T10:23:57+00:00</published>
+    <summary type="text">
+      K8s污点容忍度横向主节点
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">K8S中使用Ingress时的小技巧</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1250-k8singress"/>
+    <id>https://zone.huoxian.cn/d/1250-k8singress</id>
+    <published>2022-06-10T06:19:13+00:00</published>
+    <summary type="text">
+      K8S中使用Ingress时的小技巧
+    </summary>
+  </entry>
+  <entry>
     <title type="text">每日云安全技术资讯20220610</title>
     <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1249-20220610"/>
     <id>https://zone.huoxian.cn/d/1249-20220610</id>
@@ -33,12 +51,12 @@
     </summary>
   </entry>
   <entry>
-    <title type="text">使用CloudTrail渗透AWS账户</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1248-cloudtrailaws"/>
-    <id>https://zone.huoxian.cn/d/1248-cloudtrailaws</id>
+    <title type="text">使用 CloudTrail 横向 AWS 账户</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1248-cloudtrail-aws"/>
+    <id>https://zone.huoxian.cn/d/1248-cloudtrail-aws</id>
     <published>2022-06-10T02:54:24+00:00</published>
     <summary type="text">
-      使用CloudTrail渗透AWS账户
+      使用 CloudTrail 横向 AWS 账户
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-06-06T03:24:56+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220606
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Kubernetes 时代的认证</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1232-kubernetes"/>
-    <id>https://zone.huoxian.cn/d/1232-kubernetes</id>
-    <published>2022-06-02T08:29:11+00:00</published>
-    <summary type="text">
-      Kubernetes 时代的认证
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">软件供应链安全威胁与业界解决方案</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1231"/>
-    <id>https://zone.huoxian.cn/d/1231</id>
-    <published>2022-06-02T07:35:07+00:00</published>
-    <summary type="text">
-      软件供应链安全威胁与业界解决方案
     </summary>
   </entry>
 

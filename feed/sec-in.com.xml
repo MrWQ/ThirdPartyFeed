@@ -3,8 +3,27 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-06-10T12:25:44+08:00</updated>
+  <updated>2022-06-10T21:00:50+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">PowerShell图片隐写工具的二次开发，绕过国外主流杀软</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1790"/>
+    <id>https://sec-in.com/article/1790</id>
+    <published>2022-06-10T17:05:04+08:00</published>
+    <summary type="text">
+      该技术在2016年的时候就被广泛用于Powershell的恶意攻击中，作者在2019年的时候就停止了更新，本次更新是我在原作者的代码基础之上进行修改，用以在红队工作时规避AV/EDR.
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">记一次IOT设备支撑下的近源渗透</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1758"/>
+    <id>https://sec-in.com/article/1758</id>
+    <published>2022-06-10T16:59:47+08:00</published>
+    <summary type="text">
+      一次IOT设备支撑下的近源渗透。
+从互联网侧渗透进内网没有实质性进展时，你还有别的办法打进内网么。这里就教你一种不需要到目标单位插U盘却可以拿到内网权限的办法。
+    </summary>
+  </entry>
   <entry>
     <title type="text">Microsoft Office 远程代码执行</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1787"/>
@@ -76,24 +95,6 @@ CTF的技术有一部分提示来自于题目，题目中带lcg，可能和LCG�
     <published>2022-05-30T16:04:25+08:00</published>
     <summary type="text">
       这是一个简单的Windows Server 2019靶机，要成功获得SYSTEM权限需要不懈的尝试。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">nopac在MAQ=0时的利用</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1769"/>
-    <id>https://sec-in.com/article/1769</id>
-    <published>2022-05-30T16:03:10+08:00</published>
-    <summary type="text">
-      关于CVE-2021-42278和CVE-2021-42287的利用条件在某些情况下有限制时，提出几种思路
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">广东大学生网络安全攻防大赛CTF部分WP</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1766"/>
-    <id>https://sec-in.com/article/1766</id>
-    <published>2022-05-30T16:02:31+08:00</published>
-    <summary type="text">
-      广东大学生网络安全攻防大赛CTF部分WP，分享一下队伍的解题思路，题目也比较简单，官网除了需要环境的题目，其他题目附件都还在，可以去复现一下
     </summary>
   </entry>
 
