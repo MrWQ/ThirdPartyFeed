@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-06-10T06:18:33+08:00</updated>
+  <updated>2022-06-10T12:25:44+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220610</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1249-20220610"/>
+    <id>https://zone.huoxian.cn/d/1249-20220610</id>
+    <published>2022-06-10T03:32:44+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220610
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">使用CloudTrail渗透AWS账户</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1248-cloudtrailaws"/>
+    <id>https://zone.huoxian.cn/d/1248-cloudtrailaws</id>
+    <published>2022-06-10T02:54:24+00:00</published>
+    <summary type="text">
+      使用CloudTrail渗透AWS账户
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-06-02T07:35:07+00:00</published>
     <summary type="text">
       软件供应链安全威胁与业界解决方案
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220602</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1230-20220602"/>
-    <id>https://zone.huoxian.cn/d/1230-20220602</id>
-    <published>2022-06-02T05:25:43+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220602
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">JSPwebshell免杀一些技巧</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1229-jspwebshell"/>
-    <id>https://zone.huoxian.cn/d/1229-jspwebshell</id>
-    <published>2022-06-01T19:57:06+00:00</published>
-    <summary type="text">
-      JSPwebshell免杀一些技巧
     </summary>
   </entry>
 
