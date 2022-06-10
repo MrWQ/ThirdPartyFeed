@@ -21,6 +21,7 @@ SonarSource Blog | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/m
 SecWiki周刊 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/www.sec-wiki.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/www.sec-wiki.com.xml)
 SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/sec-in.com.xml)
 
+
 ## 相关资源
 
 按添加时间排序
@@ -42,4 +43,23 @@ SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/Thi
 - [Feeddd](https://feeddd.org/)
 - [diff.blog](https://diff.blog/)
 
+
+## 阅读器推荐
+### 自托管
+- [FreshRSS](https://github.com/FreshRSS/FreshRSS)
+- [Tiny Tiny RSS](https://tt-rss.org/)
+- [Awesome TTRSS](https://ttrss.henry.wang/zh/)
+- [Minimalist](https://github.com/miniflux/v2)
+- [Stringer](https://github.com/stringer-rss/stringer)
+
+### 在线
+- [深蓝阅读](https://bluereader.org/)
+- [蚁阅](https://rss.anyant.com/)
+- [Inoreader](https://www.inoreader.com/)
+- [Feeds Pub](https://feeds.pub/)
+- [Feedly](https://feedly.com/)
+
+### 客户端
+- [Fluent Reader](https://github.com/yang991178/fluent-reader)
+- [fatecore irreader](http://irreader.fatecore.com/)
 
