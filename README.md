@@ -10,16 +10,19 @@
 
 按添加时间排序
 
-name | raw | jsdelivr
----  | --- | --------
-先知社区 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/xz.aliyun.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/xz.aliyun.com.xml)
-NOSEC安全讯息平台 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/nosec.org.xml)
-跳跳糖 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/tttang.com.xml)
-火线Zone | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/zone.huoxian.cn.xml)
-Seebug | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/www.seebug.org.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/www.seebug.org.xml)
-SonarSource Blog | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/blog.sonarsource.com.xml)
-SecWiki周刊 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/www.sec-wiki.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/www.sec-wiki.com.xml)
-SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/sec-in.com.xml)
+![](https://api.netlify.com/api/v1/badges/061b8651-1b18-4959-a60e-de46942b815b/deploy-status)
+
+Name | Raw | jsDelivr | Netlify
+---  | --- | -------- | -------
+先知社区 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/xz.aliyun.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/xz.aliyun.com.xml) | [netlify](https://thirdpartyfeed.netlify.app/xz.aliyun.com.xml)
+NOSEC安全讯息平台 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/nosec.org.xml) | [netlify](https://thirdpartyfeed.netlify.app/nosec.org.xml)
+跳跳糖 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/tttang.com.xml) | [netlify](https://thirdpartyfeed.netlify.app/tttang.com.xml)
+火线Zone | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/zone.huoxian.cn.xml) | [netlify](https://thirdpartyfeed.netlify.app/zone.huoxian.cn.xml)
+Seebug | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/www.seebug.org.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/www.seebug.org.xml) | [netlify](https://thirdpartyfeed.netlify.app/www.seebug.org.xml)
+SonarSource Blog | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/blog.sonarsource.com.xml) | [netlify](https://thirdpartyfeed.netlify.app/blog.sonarsource.com.xml)
+SecWiki周刊 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/www.sec-wiki.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/www.sec-wiki.com.xml) | [netlify](https://thirdpartyfeed.netlify.app/www.sec-wiki.com.xml)
+SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/sec-in.com.xml)| [netlify](https://thirdpartyfeed.netlify.app/sec-in.com.xml)
+
 
 
 ## 相关资源
