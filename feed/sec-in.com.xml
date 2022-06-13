@@ -3,8 +3,81 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-06-13T12:39:27+08:00</updated>
+  <updated>2022-06-13T18:20:37+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">记一次对HTB_magic的渗透测试</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1788"/>
+    <id>https://sec-in.com/article/1788</id>
+    <published>2022-06-13T17:01:00+08:00</published>
+    <summary type="text">
+      这个靶机从信息收集-漏洞利用-文件上传。用到了sql注入万能密码漏洞获取登录权限，然后生成图片马，进行命令执行，在使用python3进行反弹shell，获取低权限shell之后............
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">浅谈CVE-2022-22965漏洞成因（六）</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1798"/>
+    <id>https://sec-in.com/article/1798</id>
+    <published>2022-06-13T17:00:37+08:00</published>
+    <summary type="text">
+      Spring MVC源码学习，代码调试学习，Java基础学习，CVE-2010-1622、CVE-2022-22965漏洞复现与分析
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">浅谈CVE-2022-22965漏洞成因（五）</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1797"/>
+    <id>https://sec-in.com/article/1797</id>
+    <published>2022-06-13T17:00:30+08:00</published>
+    <summary type="text">
+      Spring MVC源码学习，代码调试学习，Java基础学习，CVE-2010-1622、CVE-2022-22965漏洞复现与分析
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">浅谈CVE-2022-22965漏洞成因（四）</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1796"/>
+    <id>https://sec-in.com/article/1796</id>
+    <published>2022-06-13T17:00:26+08:00</published>
+    <summary type="text">
+      Spring MVC源码学习，代码调试学习，Java基础学习，CVE-2010-1622、CVE-2022-22965漏洞复现与分析
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">浅谈CVE-2022-22965漏洞成因（三）</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1795"/>
+    <id>https://sec-in.com/article/1795</id>
+    <published>2022-06-13T17:00:10+08:00</published>
+    <summary type="text">
+      Spring MVC源码学习，代码调试学习，Java基础学习，CVE-2010-1622、CVE-2022-22965漏洞复现与分析
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">浅谈CVE-2022-22965漏洞成因（二）</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1794"/>
+    <id>https://sec-in.com/article/1794</id>
+    <published>2022-06-13T17:00:02+08:00</published>
+    <summary type="text">
+      Spring MVC源码学习，代码调试学习，Java基础学习，CVE-2010-1622、CVE-2022-22965漏洞复现与分析
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">浅谈CVE-2022-22965漏洞成因（一）</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1793"/>
+    <id>https://sec-in.com/article/1793</id>
+    <published>2022-06-13T16:59:54+08:00</published>
+    <summary type="text">
+      Spring MVC源码学习，代码调试学习，Java基础学习，CVE-2010-1622、CVE-2022-22965漏洞复现与分析
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Eternity勒索软件的分析和归属: Eternity组织的时间线和兴起</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1799"/>
+    <id>https://sec-in.com/article/1799</id>
+    <published>2022-06-13T14:41:16+08:00</published>
+    <summary type="text">
+      Eternity勒索软件的分析和归属: Eternity组织的时间线和兴起
+TEternity, Jester, Lilith, 和 Merlyn 的广告都采用了类似的艺术涂鸦方法
+    </summary>
+  </entry>
   <entry>
     <title type="text">PowerShell图片隐写工具的二次开发，绕过国外主流杀软</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1790"/>
@@ -22,79 +95,6 @@
     <summary type="text">
       一次IOT设备支撑下的近源渗透。
 从互联网侧渗透进内网没有实质性进展时，你还有别的办法打进内网么。这里就教你一种不需要到目标单位插U盘却可以拿到内网权限的办法。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Microsoft Office 远程代码执行</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1787"/>
-    <id>https://sec-in.com/article/1787</id>
-    <published>2022-06-08T16:23:43+08:00</published>
-    <summary type="text">
-      昨天大哥扔了个MS office 0day（CVE-2022-30190）的截图到群里，晚上就复现了一下 ，随即有了下文。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">浅析RDP攻击面</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1777"/>
-    <id>https://sec-in.com/article/1777</id>
-    <published>2022-06-08T16:12:12+08:00</published>
-    <summary type="text">
-      浅析RDP攻击面，内网中遇到RDP的情况很多，尝试总结一下RDP常用的攻击面，如抓取RDP连接记录来分析运维的ip和pass hash to rdp等
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">对王心凌的一次渗透</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1778"/>
-    <id>https://sec-in.com/article/1778</id>
-    <published>2022-06-08T10:28:10+08:00</published>
-    <summary type="text">
-      最近娱乐节目《成风破浪》开播了，作为技术宅的我本不会去关注这种娱乐节目，但是突然有一天在热搜上看到了我学生时代的偶像之一王心凌上了热搜，想起早些年的社工文章，发出来回味下~
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">CVE-2022-30190(FOLLINA)分析</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1782"/>
-    <id>https://sec-in.com/article/1782</id>
-    <published>2022-06-07T17:19:07+08:00</published>
-    <summary type="text">
-      2022年5月27日，安全研究人员nao_sec上传了一个样本，称这个样本从白俄罗斯上传，使用了一系列技巧来运行恶意 PowerShell 脚本。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">隐藏资产发现的小技巧</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1776"/>
-    <id>https://sec-in.com/article/1776</id>
-    <published>2022-06-06T17:51:28+08:00</published>
-    <summary type="text">
-      有些企业在下线网站应用时，单纯的删除解析记录，但是未对应用下线，通过本文这种方式，可以发现这类隐藏资产，说不定存在安全风险，也是一种扩展攻击面的方式。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">初识Java反序列化</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1775"/>
-    <id>https://sec-in.com/article/1775</id>
-    <published>2022-06-06T17:50:55+08:00</published>
-    <summary type="text">
-      研究某产品反序列化EXP时，搜集到的POC只有一段16进制字节序列难以利用，遂有下文对Java序列化和反序列化的学习。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">密码学LCG—PWNHUB—mylcg</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1773"/>
-    <id>https://sec-in.com/article/1773</id>
-    <published>2022-06-06T17:50:13+08:00</published>
-    <summary type="text">
-      本篇题目来自于PWNHUB五月公开赛的一道Crypto，题目叫做mylcg。
-CTF的技术有一部分提示来自于题目，题目中带lcg，可能和LCG相关。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">记一次对Hack the box_remote的渗透测试</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1761"/>
-    <id>https://sec-in.com/article/1761</id>
-    <published>2022-05-30T16:04:25+08:00</published>
-    <summary type="text">
-      这是一个简单的Windows Server 2019靶机，要成功获得SYSTEM权限需要不懈的尝试。
     </summary>
   </entry>
 
