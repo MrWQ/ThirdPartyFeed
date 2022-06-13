@@ -45,6 +45,8 @@ SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/Thi
 - [Weibo to RSS](https://rssfeed.today/weibo/)
 - [Feeddd](https://feeddd.org/)
 - [diff.blog](https://diff.blog/)
+- [SecWiki聚合](https://www.sec-wiki.com/opml/index)
+
 
 
 ## 阅读器推荐
