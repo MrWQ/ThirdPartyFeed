@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-06-13T06:16:32+08:00</updated>
+  <updated>2022-06-13T12:39:27+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">CVE-2022-26923  Active Directory 域提权 复现与分析</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1613/"/>
+    <id>https://tttang.com/archive/1613/</id>
+    <published>2022-06-13T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;该漏洞允许低权限用户在安装了 Active Directory 证书服务 (AD CS) 服务器角色的默认 Active Directory 环境中将权限提升到域管理员。现在很少有没有安装 AD CS 的大中型 Active Directory 环境，所以该漏洞危害和利用性都较强。该漏洞已作为Microsoft &lt;a href=&quot;https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-26923&quot; target=&quot;_blank&quot;&gt;2022 年 5 月安全更新&lt;/a&gt;的一部分进行了修补。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">libmalloc初探——TinyHeap</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1572/"/>
@@ -132,17 +141,6 @@
     <summary type="text">
       &lt;p&gt;学习经典的&lt;code&gt;fuzz&lt;/code&gt;框架&lt;code&gt;AFL&lt;/code&gt;，通过源码的阅读学习&lt;code&gt;fuzz&lt;/code&gt;，为以后针对特定目标进行模糊测试打下基础。&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;AFL&lt;/code&gt;的基础使用可以去看&lt;a href=&quot;https://f0cus7.github.io/2022/05/14/fuzz-%E9%80%9A%E8%BF%87afl-training%E5%AD%A6%E4%B9%A0afl/&quot; target=&quot;_blank&quot;&gt;通过afl-training学习afl&lt;/a&gt;，具体的使用不再进行说明。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">A new way to bypass __wakeup() and build POP chain</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1603/"/>
-    <id>https://tttang.com/archive/1603/</id>
-    <published>2022-05-20T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;blockquote&gt;
-&lt;p&gt;本文以 Laravel 9.1.8 为例，介绍一个通用的新思路，用以绕过 pop chain 构造过程中遇到的  &lt;code&gt;__wakeup()&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
     </summary>
   </entry>
 
