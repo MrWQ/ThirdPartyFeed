@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-06-15T06:15:34+08:00</updated>
+  <updated>2022-06-15T12:34:39+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">Privilege Escalation - Exploiting RBCD Using a User Account</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1617/"/>
+    <id>https://tttang.com/archive/1617/</id>
+    <published>2022-06-15T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;基于资源的约束委派（Resource Based Constrained Delegation，RBCD）是在 Windows Server 2012 中新引入的功能，与传统的约束委派相比，它不再需要拥有 SeEnableDelegationPrivilege 特权的域管理员去设置相关属性，并且将设置委派的权限交换给了服务资源自身，即服务自己可以决定谁可以对我进行委派。基于资源的约束性委派的关键在于 &lt;code&gt;msDS-AllowedToActOnBehalfOfOtherIdentity&lt;/code&gt; 属性的设置。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">Enumeration and lateral movement in GCP environments(译文)</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1626/"/>
@@ -131,15 +140,6 @@
     <published>2022-05-25T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;学习Fastjson反序列化&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Exploiting a Use-After-Free for code execution in every version of Python 3[译文]</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1601/"/>
-    <id>https://tttang.com/archive/1601/</id>
-    <published>2022-05-24T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;不久前，我在浏览Python的&lt;a href=&quot;https://bugs.python.org/&quot; target=&quot;_blank&quot;&gt;bug追踪系统&lt;/a&gt;时，偶然发现了一个bug，具体描述为“&lt;a href=&quot;https://bugs.python.org/issue15994&quot; target=&quot;_blank&quot;&gt;memoryview to freed memory can cause segfault&lt;/a&gt;”。这个bug提交于2012年，最初出现在Python 2.7版本中；但直到今天，已经10年过去了，这个bug还没有得到修复。这激起了我的极大兴趣，所以，我决定仔细研究一下这个bug。&lt;/p&gt;
     </summary>
   </entry>
 
