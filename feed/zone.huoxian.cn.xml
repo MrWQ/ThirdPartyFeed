@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-06-18T18:17:45+08:00</updated>
+  <updated>2022-06-19T09:37:13+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">部分win下免杀技术以及新思路</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1270-win"/>
+    <id>https://zone.huoxian.cn/d/1270-win</id>
+    <published>2022-06-18T15:54:51+00:00</published>
+    <summary type="text">
+      部分win下免杀技术以及新思路
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">k8s之apiserver组件风险</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1269-k8sapiserver"/>
+    <id>https://zone.huoxian.cn/d/1269-k8sapiserver</id>
+    <published>2022-06-18T12:56:47+00:00</published>
+    <summary type="text">
+      k8s之apiserver组件风险
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-06-13T03:17:19+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220613
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">记一次SRC中漏洞挖掘Tips*Ⅱ</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1252-srctips"/>
-    <id>https://zone.huoxian.cn/d/1252-srctips</id>
-    <published>2022-06-11T07:05:25+00:00</published>
-    <summary type="text">
-      记一次SRC中漏洞挖掘Tips*Ⅱ
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">K8s污点容忍度横向主节点</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1251-k8s"/>
-    <id>https://zone.huoxian.cn/d/1251-k8s</id>
-    <published>2022-06-10T10:23:57+00:00</published>
-    <summary type="text">
-      K8s污点容忍度横向主节点
     </summary>
   </entry>
 
