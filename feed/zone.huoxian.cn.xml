@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-06-20T12:27:07+08:00</updated>
+  <updated>2022-06-20T18:21:15+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,33 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220620</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1273-20220620"/>
+    <id>https://zone.huoxian.cn/d/1273-20220620</id>
+    <published>2022-06-20T09:39:35+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220620
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">对泄露的Azure存储密钥的挖掘和利用</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1272-azure"/>
+    <id>https://zone.huoxian.cn/d/1272-azure</id>
+    <published>2022-06-20T09:14:53+00:00</published>
+    <summary type="text">
+      对泄露的Azure存储密钥的挖掘和利用
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">【火线zone社区周激励】2022年6月13号～2022年6月19号公告</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1271-zone20226132022619"/>
+    <id>https://zone.huoxian.cn/d/1271-zone20226132022619</id>
+    <published>2022-06-20T08:59:01+00:00</published>
+    <summary type="text">
+      【火线zone社区周激励】2022年6月13号～2022年6月19号公告
     </summary>
   </entry>
   <entry>
@@ -156,33 +183,6 @@
     <published>2022-06-13T16:49:55+00:00</published>
     <summary type="text">
       apisix安全评估
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">浅识k8s中的&quot;准入控制器&quot;</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1255-k8s"/>
-    <id>https://zone.huoxian.cn/d/1255-k8s</id>
-    <published>2022-06-13T11:07:24+00:00</published>
-    <summary type="text">
-      浅识k8s中的&quot;准入控制器&quot;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">【火线zone社区周激励】2022年6月6号～2022年6月12号公告</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1254-zone2022662022612"/>
-    <id>https://zone.huoxian.cn/d/1254-zone2022662022612</id>
-    <published>2022-06-13T07:21:02+00:00</published>
-    <summary type="text">
-      【火线zone社区周激励】2022年6月6号～2022年6月12号公告
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220613</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1253-20220613"/>
-    <id>https://zone.huoxian.cn/d/1253-20220613</id>
-    <published>2022-06-13T03:17:19+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220613
     </summary>
   </entry>
 
