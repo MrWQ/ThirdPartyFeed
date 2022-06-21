@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-06-21T06:16:43+08:00</updated>
+  <updated>2022-06-21T12:37:08+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">Java安全笔记-JNI 详解</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1622/"/>
+    <id>https://tttang.com/archive/1622/</id>
+    <published>2022-06-21T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;JNI (&lt;code&gt;Java Native Interface&lt;/code&gt;，JAVA 本地接口) 允许 Java 代码和其它编程语言编写的代码进行交互，主要为Java和Native层（C/C++）相互调用的接口规范，但是并不妨碍扩展其他语言。 JNI 在 Java1.1 中正式推出，在 Java1.2 中加入了&lt;code&gt;JNI_OnLoad&lt;/code&gt;和&lt;code&gt;JNI_OnUnload&lt;/code&gt;方法。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">MQTT协议-Eclipse Paho Java Client源码分析（二）</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1627/"/>
@@ -137,15 +146,6 @@
     <published>2022-05-31T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;在2021美亚杯对取证开始产生兴趣，断断续续的学习了一些浅显的取证技能。国内很多取证赛题也是伪取证，甚至用misc充数，正好这个学期有缘学习电子数据取证课程，平时接触最多的就是Windows传统取证，这里进行一点简单的分享。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">ETW的攻与防</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1612/"/>
-    <id>https://tttang.com/archive/1612/</id>
-    <published>2022-05-30T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;&lt;code&gt;ETW&lt;/code&gt;全称为&lt;code&gt;Event Tracing for Windows&lt;/code&gt;，即windows事件跟踪，它是Windows提供的原生的事件跟踪日志系统。由于采用内核层面的缓冲和日志记录机制，所以&lt;code&gt;ETW&lt;/code&gt;提供了一种非常高效的事件跟踪日志解决方案，本文基于&lt;code&gt;ETW&lt;/code&gt;探究其攻与防的实现&lt;/p&gt;
     </summary>
   </entry>
 
