@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-06-22T06:16:21+08:00</updated>
+  <updated>2022-06-22T12:34:57+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,33 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220622</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1284-20220622"/>
+    <id>https://zone.huoxian.cn/d/1284-20220622</id>
+    <published>2022-06-22T03:48:04+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220622
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">加了dongtai-agent之后，影响到应用的健康检测路径来，/health 500，，应用起不来，</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1283-dongtai-agenthealth-500"/>
+    <id>https://zone.huoxian.cn/d/1283-dongtai-agenthealth-500</id>
+    <published>2022-06-22T00:42:10+00:00</published>
+    <summary type="text">
+      加了dongtai-agent之后，影响到应用的健康检测路径来，/health 500，，应用起不来，
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">1.8.0安装完成后点击组件功能报错</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1282-180"/>
+    <id>https://zone.huoxian.cn/d/1282-180</id>
+    <published>2022-06-22T00:28:16+00:00</published>
+    <summary type="text">
+      1.8.0安装完成后点击组件功能报错
     </summary>
   </entry>
   <entry>
@@ -156,33 +183,6 @@
     <published>2022-06-17T08:36:28+00:00</published>
     <summary type="text">
       在AWS中，将支持MFA的IAM用户与IAM角色链接起来，以实现潜在的权限升级
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">CVE-2022-25165：AWS VPN 客户端中的 SYSTEM 权限提升</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1266-cve-2022-25165aws-vpn-system"/>
-    <id>https://zone.huoxian.cn/d/1266-cve-2022-25165aws-vpn-system</id>
-    <published>2022-06-17T07:24:05+00:00</published>
-    <summary type="text">
-      CVE-2022-25165：AWS VPN 客户端中的 SYSTEM 权限提升
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220617</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1265-20220617"/>
-    <id>https://zone.huoxian.cn/d/1265-20220617</id>
-    <published>2022-06-17T03:38:22+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220617
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">K8s提权之RBAC权限滥用</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1264-k8srbac"/>
-    <id>https://zone.huoxian.cn/d/1264-k8srbac</id>
-    <published>2022-06-16T09:40:10+00:00</published>
-    <summary type="text">
-      K8s提权之RBAC权限滥用
     </summary>
   </entry>
 
