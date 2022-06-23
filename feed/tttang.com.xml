@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-06-23T06:16:46+08:00</updated>
+  <updated>2022-06-23T18:19:35+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">CVE-2022-23222漏洞及利用分析</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1628/"/>
+    <id>https://tttang.com/archive/1628/</id>
+    <published>2022-06-23T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;2022年1月14日，一个编号为CVE-2022-23222的漏洞被公开，这是一个位于eBPF验证器中的漏洞，漏洞允许eBPF程序在未经验证的情况下对特定指针进行运算，通过精心构造的代码，可以实现任意内核内存读写，而这将会造成本地提权的风险。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">Mimikatz详细使用总结</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1616/"/>
@@ -137,15 +146,6 @@
     <summary type="text">
       &lt;p&gt;&lt;code&gt;JNDI(Java Naming and Directory Interface)&lt;/code&gt;是&lt;code&gt;Java&lt;/code&gt;提供的&lt;code&gt;Java&lt;/code&gt;命名和目录接口。通过调用&lt;code&gt;JNDI&lt;/code&gt;的&lt;code&gt;API&lt;/code&gt;可以定位资源和其他程序对象。&lt;br&gt;
 &lt;code&gt;JNDI&lt;/code&gt;是&lt;code&gt;Java EE&lt;/code&gt;的重要部分，&lt;code&gt;JNDI&lt;/code&gt;可访问的现有的目录及服务有:&lt;code&gt;JDBC&lt;/code&gt;、&lt;code&gt;LDAP&lt;/code&gt;、&lt;code&gt;RMI&lt;/code&gt;、&lt;code&gt;DNS&lt;/code&gt;、&lt;code&gt;NIS&lt;/code&gt;、&lt;code&gt;CORBA&lt;/code&gt;。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Learning Linux kernel exploitation - Part 1 - Laying the groundwork（译文）</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1606/"/>
-    <id>https://tttang.com/archive/1606/</id>
-    <published>2022-06-01T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;本文中，我们将以&lt;a href=&quot;https://2020.ctf.link/&quot; target=&quot;_blank&quot;&gt;hxp2020 CTF&lt;/a&gt;中的“kernel-rop”挑战题为基础，介绍如何利用驱动程序中的漏洞进行提权。我们知道，内核漏洞利用的主要目标，与用户空间的漏洞利用有很大不同，它不是直接生成一个shell，而是控制存在漏洞的内核代码以实现提权。至少在典型的CTF风格的场景中，生成shell都是后面的事情。有时，只要获得了任意读写原语，就足以渗出敏感信息，或覆盖与安全休戚相关的东西。&lt;/p&gt;
     </summary>
   </entry>
 
