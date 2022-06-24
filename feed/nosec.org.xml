@@ -3,8 +3,26 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2022-06-24T12:38:39+08:00</updated>
+  <updated>2022-06-24T18:20:52+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">攻击者是如何利用Memcache注入漏洞来窃取Zimbra Email用户...</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5017.html"/>
+    <id>https://nosec.org/home/detail/5017.html</id>
+    <published>2022-06-24T16:20:46+08:00</published>
+    <summary type="text">
+      我们在Zimbra中发现了一个漏洞，该漏洞允许攻击者从部署了Zimbra解决方案的用户那里窃取登录凭证。一旦能够访问受害者的邮箱，攻击者就能进一步升级对目标组织的...
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Linux 下的逆向分析-初探</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5019.html"/>
+    <id>https://nosec.org/home/detail/5019.html</id>
+    <published>2022-06-24T14:48:35+08:00</published>
+    <summary type="text">
+      环境信息系统信息：统信UOS 家庭版21.3涉及工具：gcc、edb-debugger、ghidra、radare2edb-debugger安装 #...
+    </summary>
+  </entry>
   <entry>
     <title type="text">【安全通报】Cisco 多款 Small Business 路由器远程代码执...</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5018.html"/>
@@ -165,24 +183,6 @@
     <published>2022-04-04T14:38:26+08:00</published>
     <summary type="text">
       就像双刃剑一样，这里介绍的是一种双刃式服务器端请求伪造(SSRF)漏洞，它能用来同时攻击服务器和客户端，至...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日安全资讯小课堂：T-Mobile承认被攻击--衍生SIM卡更换攻...</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/4995.html"/>
-    <id>https://nosec.org/home/detail/4995.html</id>
-    <published>2022-04-27T11:08:43+08:00</published>
-    <summary type="text">
-      T-Mobile承认Lapsus黑客获得了其内部工具和源代码。电信公司T-Mobile周五证实，在LAPSUS$雇佣军团伙设法进入其网络后，它是3月份安全漏洞的受害者。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">深入分析CVE-2022-27643漏洞</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/4986.html"/>
-    <id>https://nosec.org/home/detail/4986.html</id>
-    <published>2022-05-09T11:25:53+08:00</published>
-    <summary type="text">
-      最近，安全研究人员在多款NETGEAR产品中提供并默认启用的通用即插即用守护程序（upnpd）中发现了远程预身份...
     </summary>
   </entry>
 
