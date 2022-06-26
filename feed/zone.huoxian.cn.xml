@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-06-26T18:18:00+08:00</updated>
+  <updated>2022-06-27T06:15:58+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,15 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">你的GCP桶中有多少是可以公开访问的？它可能比你想象的要多...</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1298-gcp"/>
+    <id>https://zone.huoxian.cn/d/1298-gcp</id>
+    <published>2022-06-26T15:24:30+00:00</published>
+    <summary type="text">
+      你的GCP桶中有多少是可以公开访问的？它可能比你想象的要多...
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-06-21T08:18:10+00:00</published>
     <summary type="text">
        Azure PostgreSQL中的跨账户数据库漏洞
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">IAST web前端报接口异常</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1279-iast-web"/>
-    <id>https://zone.huoxian.cn/d/1279-iast-web</id>
-    <published>2022-06-21T08:05:30+00:00</published>
-    <summary type="text">
-      IAST web前端报接口异常
     </summary>
   </entry>
 
