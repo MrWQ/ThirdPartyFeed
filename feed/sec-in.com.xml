@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-06-27T12:52:02+08:00</updated>
+  <updated>2022-06-27T18:20:59+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">云主机AK/SK泄露利用</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1812"/>
+    <id>https://sec-in.com/article/1812</id>
+    <published>2022-06-27T15:06:48+08:00</published>
+    <summary type="text">
+      云主机通过使用Access Key Id / Secret Access Key加密的方法来验证某个请求的发送者身份。
+    </summary>
+  </entry>
   <entry>
     <title type="text">记一次实战攻防(打点-Edr-内网-横向-Vcenter)</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1810"/>
@@ -85,15 +94,6 @@
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1797"/>
     <id>https://sec-in.com/article/1797</id>
     <published>2022-06-13T17:00:30+08:00</published>
-    <summary type="text">
-      Spring MVC源码学习，代码调试学习，Java基础学习，CVE-2010-1622、CVE-2022-22965漏洞复现与分析
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">浅谈CVE-2022-22965漏洞成因（四）</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1796"/>
-    <id>https://sec-in.com/article/1796</id>
-    <published>2022-06-13T17:00:26+08:00</published>
     <summary type="text">
       Spring MVC源码学习，代码调试学习，Java基础学习，CVE-2010-1622、CVE-2022-22965漏洞复现与分析
     </summary>
