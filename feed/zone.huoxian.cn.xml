@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-06-27T06:15:58+08:00</updated>
+  <updated>2022-06-27T12:52:02+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220627</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1300-20220627"/>
+    <id>https://zone.huoxian.cn/d/1300-20220627</id>
+    <published>2022-06-27T03:21:00+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220627
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">运行中的Agent 莫名暂停了？</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1299-agent"/>
+    <id>https://zone.huoxian.cn/d/1299-agent</id>
+    <published>2022-06-27T01:05:21+00:00</published>
+    <summary type="text">
+      运行中的Agent 莫名暂停了？
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-06-22T00:28:16+00:00</published>
     <summary type="text">
       1.8.0安装完成后点击组件功能报错
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">AWS Lambda 函数 URL的安全建设</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1281-aws-lambda-url"/>
-    <id>https://zone.huoxian.cn/d/1281-aws-lambda-url</id>
-    <published>2022-06-21T10:58:19+00:00</published>
-    <summary type="text">
-      AWS Lambda 函数 URL的安全建设
-    </summary>
-  </entry>
-  <entry>
-    <title type="text"> Azure PostgreSQL中的跨账户数据库漏洞</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1280-azure-postgresql"/>
-    <id>https://zone.huoxian.cn/d/1280-azure-postgresql</id>
-    <published>2022-06-21T08:18:10+00:00</published>
-    <summary type="text">
-       Azure PostgreSQL中的跨账户数据库漏洞
     </summary>
   </entry>
 

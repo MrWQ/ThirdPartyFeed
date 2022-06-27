@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-06-27T06:15:58+08:00</updated>
+  <updated>2022-06-27T12:52:01+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">CobaltStrike Beacon生成原理分析</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1631/"/>
+    <id>https://tttang.com/archive/1631/</id>
+    <published>2022-06-27T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;学习beacon生成和调试分析和检测beacon的过程中的一些记录。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">虚拟机逃逸初探----2018rwctf_station-escape</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1629/"/>
@@ -138,15 +147,6 @@
     <published>2022-06-07T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;我们知道一般EDR对可疑程序进行监控一般都会采用往程序里注入到检测的进程中，通过hook一些敏感的3环API来判断程序是否进行一些恶意操作，那么我们可以通过添加流程缓解措施和漏洞利用保护参考来实现保护，从而防止EDR的dll注入对进程进行检测。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">域内特权提升 - 将 Certifried 与 KrbRelay 结合利用</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1605/"/>
-    <id>https://tttang.com/archive/1605/</id>
-    <published>2022-06-06T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;2022 年 5 月 10 日，微软发布补丁修复了一个 Active Directory 域权限提升漏洞（CVE-2022–26923，Certifried）。该漏洞是由于对用户属性的不正确获取，允许低权限用户在安装了 Active Directory 证书服务（AD CS）服务器角色的 Active Directory 环境中将权限提升至域管理员。这一漏洞最早由安全研究员 Oliver Lyak（&lt;a href=&quot;https://twitter.com/ly4k_&quot; target=&quot;_blank&quot;&gt;@ly4k_&lt;/a&gt;）在 2021 年 12 月 14 日通过 Zero Day Initiative 向微软报告，Microsoft 在 2022 年 5 月的安全更新中对其进行了修补。&lt;/p&gt;
     </summary>
   </entry>
 
