@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-06-28T18:19:36+08:00</updated>
+  <updated>2022-06-29T06:19:30+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Unrar Path Traversal Vulnerability affects Zimbra Mail</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day"/>
+    <id>https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day</id>
+    <published>2022-06-28T13:08:52Z</published>
+    <summary type="text">
+      We discovered a vulnerability in Zimbra Enterprise Email that allows an unauthenticated, remote attacker fully take over Zimbra instances via a flaw in unrar.
+    </summary>
+  </entry>
   <entry>
     <title type="text">Reflections upon the We Are Developers 2022 World Congress</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/reflections-upon-we-are-developers-2022"/>
@@ -174,15 +183,6 @@
     <published>2022-02-22T10:06:57Z</published>
     <summary type="text">
       We recently discovered a code vulnerability in Horde Webmail that can be used by attackers to take over email accounts by sending a malicious email.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Zabbix - A Case Study of Unsafe Session Storage</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/zabbix-case-study-of-unsafe-session-storage"/>
-    <id>https://blog.sonarsource.com/zabbix-case-study-of-unsafe-session-storage</id>
-    <published>2022-02-16T09:52:56Z</published>
-    <summary type="text">
-      In this article we discuss the security of client-side session storages and analyze a vulnerable implementation in the IT monitoring solution Zabbix.
     </summary>
   </entry>
 
