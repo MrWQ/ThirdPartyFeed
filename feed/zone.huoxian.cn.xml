@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-06-29T12:47:32+08:00</updated>
+  <updated>2022-06-29T18:21:13+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">迁移到云时要避免的 7 个常见安全陷阱--hackerone</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1311-7-hackerone"/>
+    <id>https://zone.huoxian.cn/d/1311-7-hackerone</id>
+    <published>2022-06-29T07:30:38+00:00</published>
+    <summary type="text">
+      迁移到云时要避免的 7 个常见安全陷阱--hackerone
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">数字化时代云安全能力建设及趋势</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1310"/>
+    <id>https://zone.huoxian.cn/d/1310</id>
+    <published>2022-06-29T07:07:05+00:00</published>
+    <summary type="text">
+      数字化时代云安全能力建设及趋势
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-06-23T10:07:27+00:00</published>
     <summary type="text">
       AWS RDS 漏洞导致 AWS 内部服务凭证泄露
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">手动导入sql文件报错</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1292-sql"/>
-    <id>https://zone.huoxian.cn/d/1292-sql</id>
-    <published>2022-06-23T06:11:17+00:00</published>
-    <summary type="text">
-      手动导入sql文件报错
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">部分电脑无法正常启动插桩agent</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1291-agent"/>
-    <id>https://zone.huoxian.cn/d/1291-agent</id>
-    <published>2022-06-23T04:49:01+00:00</published>
-    <summary type="text">
-      部分电脑无法正常启动插桩agent
     </summary>
   </entry>
 
