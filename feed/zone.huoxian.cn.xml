@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-06-29T06:19:32+08:00</updated>
+  <updated>2022-06-29T12:47:32+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,33 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220629</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1309-20220629"/>
+    <id>https://zone.huoxian.cn/d/1309-20220629</id>
+    <published>2022-06-29T03:18:49+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220629
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">burp Intruder Tips</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1308-burp-intruder-tips"/>
+    <id>https://zone.huoxian.cn/d/1308-burp-intruder-tips</id>
+    <published>2022-06-29T02:55:17+00:00</published>
+    <summary type="text">
+      burp Intruder Tips
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">AutoWarp：Microsoft Azure 自动化服务中的严重跨账户漏洞</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1307-autowarpmicrosoft-azure"/>
+    <id>https://zone.huoxian.cn/d/1307-autowarpmicrosoft-azure</id>
+    <published>2022-06-29T02:48:15+00:00</published>
+    <summary type="text">
+      AutoWarp：Microsoft Azure 自动化服务中的严重跨账户漏洞
     </summary>
   </entry>
   <entry>
@@ -156,33 +183,6 @@
     <published>2022-06-23T04:49:01+00:00</published>
     <summary type="text">
       部分电脑无法正常启动插桩agent
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">【云原生渗透】- k8s的安全机制</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1290-k8s"/>
-    <id>https://zone.huoxian.cn/d/1290-k8s</id>
-    <published>2022-06-23T04:01:11+00:00</published>
-    <summary type="text">
-      【云原生渗透】- k8s的安全机制
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Google Cloud Platform中的权限提升——第 1 部分 (IAM)</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1289-google-cloud-platform-1-iam"/>
-    <id>https://zone.huoxian.cn/d/1289-google-cloud-platform-1-iam</id>
-    <published>2022-06-23T03:57:59+00:00</published>
-    <summary type="text">
-      Google Cloud Platform中的权限提升——第 1 部分 (IAM)
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220623</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1288-20220623"/>
-    <id>https://zone.huoxian.cn/d/1288-20220623</id>
-    <published>2022-06-23T03:29:55+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220623
     </summary>
   </entry>
 

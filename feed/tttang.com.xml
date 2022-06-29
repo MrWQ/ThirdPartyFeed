@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-06-29T06:19:32+08:00</updated>
+  <updated>2022-06-29T12:47:32+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">浅谈pyd文件逆向</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1641/"/>
+    <id>https://tttang.com/archive/1641/</id>
+    <published>2022-06-29T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;&lt;code&gt;.pyd&lt;/code&gt; 文件本质上是一个包含 Python 代码的库文件，可以被其他 Python 应用程序调用和使用。 通过使用Cython编译器，可以快速得把python文件打包为一个动态链接库，这个动态链接库也就是&lt;code&gt;pyd&lt;/code&gt;。&lt;code&gt;pyd&lt;/code&gt;相较于python源码本身可读性大大下降，很多人处于类似混淆得目的，也会使用这种形式对python代码进行保护&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">DCSync 技术的攻击和检测</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1634/"/>
@@ -138,15 +147,6 @@
     <published>2022-06-09T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;本文介绍了off by null的爆破法和直接法两类做法，并基于已有的高版本off by null的利用技巧做了一点改进，提出一种无特殊限制条件的直接法，更具有普适性。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">SpringBoot Actuator之 logging.config grovvy rce分析及内存马注入</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1620/"/>
-    <id>https://tttang.com/archive/1620/</id>
-    <published>2022-06-08T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;Spring boot最经典的漏洞莫过于由于配置不当导致Actuator的相关路由暴露从而导致信息泄露以及各种远程命令执行漏洞。根据&lt;a href=&quot;https://docs.spring.io/spring-boot/docs/2.1.10.RELEASE/reference/htmlsingle/#production-ready-endpoints&quot; target=&quot;_blank&quot;&gt;spingboot官方文档&lt;/a&gt;，以spring-boot 2.1.10版本为例，对于web应用程序来说，以下端口默认是开启的。&lt;/p&gt;
     </summary>
   </entry>
 
