@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-06-30T12:39:21+08:00</updated>
+  <updated>2022-06-30T18:24:39+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">AWS：CNAME 子域接管</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1316-awscname"/>
+    <id>https://zone.huoxian.cn/d/1316-awscname</id>
+    <published>2022-06-30T08:29:33+00:00</published>
+    <summary type="text">
+      AWS：CNAME 子域接管
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">安全-&gt;云安全-&gt;多云安全</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1315"/>
+    <id>https://zone.huoxian.cn/d/1315</id>
+    <published>2022-06-30T08:24:20+00:00</published>
+    <summary type="text">
+      安全-&gt;云安全-&gt;多云安全
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-06-27T01:05:21+00:00</published>
     <summary type="text">
       运行中的Agent 莫名暂停了？
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">你的GCP桶中有多少是可以公开访问的？它可能比你想象的要多...</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1298-gcp"/>
-    <id>https://zone.huoxian.cn/d/1298-gcp</id>
-    <published>2022-06-26T15:24:30+00:00</published>
-    <summary type="text">
-      你的GCP桶中有多少是可以公开访问的？它可能比你想象的要多...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">通过错误配置的 AWS Cognito 接管 AWS 帐户</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1297-aws-cognito-aws"/>
-    <id>https://zone.huoxian.cn/d/1297-aws-cognito-aws</id>
-    <published>2022-06-24T08:39:12+00:00</published>
-    <summary type="text">
-      通过错误配置的 AWS Cognito 接管 AWS 帐户
     </summary>
   </entry>
 
