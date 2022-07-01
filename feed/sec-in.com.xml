@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-07-01T12:56:30+08:00</updated>
+  <updated>2022-07-02T06:16:45+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">Golang爬虫框架初探</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1819"/>
+    <id>https://sec-in.com/article/1819</id>
+    <published>2022-07-01T14:35:13+08:00</published>
+    <summary type="text">
+      Golang爬虫也是Go语言中比较核心的一部分，本篇就对Go爬虫的基本应用以及爬虫框架进行一个简单研究
+    </summary>
+  </entry>
   <entry>
     <title type="text">RSA加密解密详解</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1816"/>
@@ -87,15 +96,6 @@
     <published>2022-06-17T16:43:43+08:00</published>
     <summary type="text">
       mimikatz wdigest模块 分析与调试。主要是怎样在lsass进程内存中找到key和密文的位置，以及mimikatz的实现
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">记一次对HTB_magic的渗透测试</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1788"/>
-    <id>https://sec-in.com/article/1788</id>
-    <published>2022-06-13T17:01:00+08:00</published>
-    <summary type="text">
-      这个靶机从信息收集-漏洞利用-文件上传。用到了sql注入万能密码漏洞获取登录权限，然后生成图片马，进行命令执行，在使用python3进行反弹shell，获取低权限shell之后............
     </summary>
   </entry>
 
