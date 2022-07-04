@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-07-04T12:48:37+08:00</updated>
+  <updated>2022-07-04T18:21:33+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,15 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">AWS：代理服务器上的远程代码执行（hackerone漏洞报告）</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1323-awshackerone"/>
+    <id>https://zone.huoxian.cn/d/1323-awshackerone</id>
+    <published>2022-07-04T08:49:55+00:00</published>
+    <summary type="text">
+      AWS：代理服务器上的远程代码执行（hackerone漏洞报告）
     </summary>
   </entry>
   <entry>
@@ -57,15 +66,6 @@
     <published>2022-07-01T09:41:41+00:00</published>
     <summary type="text">
       HTTP头走私
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">基于某安全设备告警的反序列化行为分析</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1318"/>
-    <id>https://zone.huoxian.cn/d/1318</id>
-    <published>2022-07-01T06:28:21+00:00</published>
-    <summary type="text">
-      基于某安全设备告警的反序列化行为分析
     </summary>
   </entry>
   <entry>
