@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-07-04T06:15:52+08:00</updated>
+  <updated>2022-07-04T12:48:37+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">WMI检测思路与实现</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1639/"/>
+    <id>https://tttang.com/archive/1639/</id>
+    <published>2022-07-04T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;在《WMI攻守之道》中，我们通过分析WMI产生的流量数据了解到WMI通过DCE/RPC协议进行通信，这个协议主要由DCOM远程激活机制和NTLM身份认证。DCOM远程激活是WMI远程连接的必要步骤，所以可以通过检测DCOM远程激活，进而检测WMI连接。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">Shiro 历史漏洞分析</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1645/"/>
@@ -138,15 +147,6 @@
     <published>2022-06-14T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;在这篇文章中，我们将为读者详细介绍在某次渗透测试过程中，我们是如何用本地的GCP工具来进行态势感知和横向移动，从而成功地拿下了一个混合型GCP托管的基础设施的。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">CVE-2022-26923  Active Directory 域提权 复现与分析</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1613/"/>
-    <id>https://tttang.com/archive/1613/</id>
-    <published>2022-06-13T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;该漏洞允许低权限用户在安装了 Active Directory 证书服务 (AD CS) 服务器角色的默认 Active Directory 环境中将权限提升到域管理员。现在很少有没有安装 AD CS 的大中型 Active Directory 环境，所以该漏洞危害和利用性都较强。该漏洞已作为Microsoft &lt;a href=&quot;https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-26923&quot; target=&quot;_blank&quot;&gt;2022 年 5 月安全更新&lt;/a&gt;的一部分进行了修补。&lt;/p&gt;
     </summary>
   </entry>
 

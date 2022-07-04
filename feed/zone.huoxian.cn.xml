@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-07-04T06:15:52+08:00</updated>
+  <updated>2022-07-04T12:48:37+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,33 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220704</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1322-20220704"/>
+    <id>https://zone.huoxian.cn/d/1322-20220704</id>
+    <published>2022-07-04T03:59:29+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220704
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">绕过Identity-Aware Proxy（身份感知代理） - Google Cloud 漏洞</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1321-identity-aware-proxy-google-cloud"/>
+    <id>https://zone.huoxian.cn/d/1321-identity-aware-proxy-google-cloud</id>
+    <published>2022-07-04T02:53:26+00:00</published>
+    <summary type="text">
+      绕过Identity-Aware Proxy（身份感知代理） - Google Cloud 漏洞
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">AWS SageMaker Jupyter Notebook 实例接管</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1320-aws-sagemaker-jupyter-notebook"/>
+    <id>https://zone.huoxian.cn/d/1320-aws-sagemaker-jupyter-notebook</id>
+    <published>2022-07-04T02:51:31+00:00</published>
+    <summary type="text">
+      AWS SageMaker Jupyter Notebook 实例接管
     </summary>
   </entry>
   <entry>
@@ -156,33 +183,6 @@
     <published>2022-06-28T06:57:20+00:00</published>
     <summary type="text">
       多云环境的风险发现
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">agent暂停问题</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1304-agent"/>
-    <id>https://zone.huoxian.cn/d/1304-agent</id>
-    <published>2022-06-28T05:42:10+00:00</published>
-    <summary type="text">
-      agent暂停问题
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">在AWS Elastic Beanstalk 中从 SSRF到RCE</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1303-aws-elastic-beanstalk-ssrfrce"/>
-    <id>https://zone.huoxian.cn/d/1303-aws-elastic-beanstalk-ssrfrce</id>
-    <published>2022-06-28T04:29:51+00:00</published>
-    <summary type="text">
-      在AWS Elastic Beanstalk 中从 SSRF到RCE
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220628</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1302-20220628"/>
-    <id>https://zone.huoxian.cn/d/1302-20220628</id>
-    <published>2022-06-28T02:55:58+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220628
     </summary>
   </entry>
 
