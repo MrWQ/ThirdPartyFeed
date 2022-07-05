@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-07-05T06:16:49+08:00</updated>
+  <updated>2022-07-05T12:36:46+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">AWS IAM权限提升</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1325-aws-iam"/>
+    <id>https://zone.huoxian.cn/d/1325-aws-iam</id>
+    <published>2022-07-05T04:02:42+00:00</published>
+    <summary type="text">
+      AWS IAM权限提升
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220705</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1324-20220705"/>
+    <id>https://zone.huoxian.cn/d/1324-20220705</id>
+    <published>2022-07-05T03:29:41+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220705
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-06-29T02:48:15+00:00</published>
     <summary type="text">
       AutoWarp：Microsoft Azure 自动化服务中的严重跨账户漏洞
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">1.8.0版本无法正常安装</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1306-180"/>
-    <id>https://zone.huoxian.cn/d/1306-180</id>
-    <published>2022-06-28T08:18:08+00:00</published>
-    <summary type="text">
-      1.8.0版本无法正常安装
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">多云环境的风险发现</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1305"/>
-    <id>https://zone.huoxian.cn/d/1305</id>
-    <published>2022-06-28T06:57:20+00:00</published>
-    <summary type="text">
-      多云环境的风险发现
     </summary>
   </entry>
 
