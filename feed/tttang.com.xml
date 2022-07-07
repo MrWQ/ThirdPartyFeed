@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-07-07T06:17:52+08:00</updated>
+  <updated>2022-07-07T12:47:50+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">2022虎符_vdq(rust_cve)详解</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1585/"/>
+    <id>https://tttang.com/archive/1585/</id>
+    <published>2022-07-07T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;这题是 GLIBC 2.27-3ubuntu1.5 的版本，想着 2.27 可以直接 free 两次，但是这个 2.27-3ubuntu1.5 patch 了 double free，还加了 key，double_free 就没那么好搞，所以这题我用的是任意写 free_hook 为 system 进行getshell&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">神奇的 C++ 模板 —— 2022-ACTF-Nagi-Knows Writeup</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1643/"/>
@@ -138,15 +147,6 @@
     <published>2022-06-17T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;注册表是windows的重要数据库，存放了很多重要的信息以及一些应用的设置，对注册表进行监控并防止篡改是十分有必要的。在64位系统下微软提供了&lt;code&gt;CmRegisterCallback&lt;/code&gt;这个回调函数来实时监控注册表的操作，那么既然这里微软提供了这么一个方便的接口，病毒木马自然也会利用，这里我们就来探究其实现的原理和如何利用这个回调函数进行对抗&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">WMI攻守之道</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1624/"/>
-    <id>https://tttang.com/archive/1624/</id>
-    <published>2022-06-16T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;Windows Management Instrumentation(Windows 管理规范) 即WMI，是微软实现的基于Web的企业管理(WBEM)。WMI使用通用信息模型(CIM)来表示系统、应用程序、网络、设备和其他托管组件。WMI支持本地和远程访问。WMI底层基于分布式组件对象模型(DCOM)或者Windows远程管理(WinRM)。程序员们可以使用脚本语言(例如powershell)，或者C++，通过COM技术与WMI进行交互。本文行文仓促，如有错误，请各位积极指正。&lt;/p&gt;
     </summary>
   </entry>
 
