@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-07-08T06:17:56+08:00</updated>
+  <updated>2022-07-08T12:40:42+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">从一文中了解SSRF的各种绕过姿势及攻击思路</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1648/"/>
+    <id>https://tttang.com/archive/1648/</id>
+    <published>2022-07-08T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;SSRF之前只有简单了解，进行二次学习后简单总结一下，希望能对正在学习SSRF的师傅们有所帮助&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">2022虎符_vdq(rust_cve)详解</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1585/"/>
@@ -138,15 +147,6 @@
 &lt;li&gt;订阅主题&lt;/li&gt;
 &lt;li&gt;接收主题内容&lt;/li&gt;
 &lt;/ul&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">深入注册表监控</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1588/"/>
-    <id>https://tttang.com/archive/1588/</id>
-    <published>2022-06-17T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;注册表是windows的重要数据库，存放了很多重要的信息以及一些应用的设置，对注册表进行监控并防止篡改是十分有必要的。在64位系统下微软提供了&lt;code&gt;CmRegisterCallback&lt;/code&gt;这个回调函数来实时监控注册表的操作，那么既然这里微软提供了这么一个方便的接口，病毒木马自然也会利用，这里我们就来探究其实现的原理和如何利用这个回调函数进行对抗&lt;/p&gt;
     </summary>
   </entry>
 
