@@ -3,8 +3,44 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-07-08T12:40:37+08:00</updated>
+  <updated>2022-07-08T18:30:58+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">简单实用远控小工具Todesk</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1827"/>
+    <id>https://sec-in.com/article/1827</id>
+    <published>2022-07-08T16:47:11+08:00</published>
+    <summary type="text">
+      之前写过anydesk远控，然后在一次测试中，在客户那边看到一个远控软件–Todesk，然后就去官网下载下来研究了一下。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">[鹏城杯] 鹏城杯部分WP</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1825"/>
+    <id>https://sec-in.com/article/1825</id>
+    <published>2022-07-08T16:43:50+08:00</published>
+    <summary type="text">
+      第二届鹏城杯题目的部分WP，详细解释了每一道题的思路和解题方法，欢迎各位师傅来看，有不足之处欢迎指出~
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">python爬虫由浅入深（基础篇）</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1822"/>
+    <id>https://sec-in.com/article/1822</id>
+    <published>2022-07-08T16:43:22+08:00</published>
+    <summary type="text">
+      python爬虫入门基础篇，需要有一定的python基础，本篇文章讲究从浅入深，从零讲起。学完这篇文章并且做完三个案例，相信会对正则也会有初步的认识，知识结构性上也会有一定的理解，希望大家早日学成！
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">浅析JNDI注入</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1823"/>
+    <id>https://sec-in.com/article/1823</id>
+    <published>2022-07-08T16:42:51+08:00</published>
+    <summary type="text">
+      本篇主要是对JNDI的简单了解并浅析JNDI注入的几种常见方式注入中的高版本绕过方法，并对进行简单的流程分析。
+    </summary>
+  </entry>
   <entry>
     <title type="text">Golang爬虫框架初探</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1819"/>
@@ -60,42 +96,6 @@
 系统信息：统信UOS 家庭版21.3
 
 涉及工具：gcc、edb-debugger、ghidra、radare2
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">vmware的后渗透利用</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1804"/>
-    <id>https://sec-in.com/article/1804</id>
-    <published>2022-06-22T16:21:13+08:00</published>
-    <summary type="text">
-      当我们通过漏洞或者信息收集到vcenter的管理员账号之后，很多人就处于迷茫的状态，这里我分享几种vcenter可以利用的点，实现一些横向或后门的操作。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">cs架构下抓包的几种方法</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1806"/>
-    <id>https://sec-in.com/article/1806</id>
-    <published>2022-06-17T16:47:37+08:00</published>
-    <summary type="text">
-      还在为抓包发愁嘛，快来看看这篇文章趴。灼剑（TST）安全团队，致力于中国网络安全行业发展，专注web安全、移动端安全、漏洞复现、内网安全、网络攻防、代码审计，APT相关研究、二进制内核安全，IOT安全
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">网络攻防｜一次实战中的向日葵 RCE Bypass 360</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1807"/>
-    <id>https://sec-in.com/article/1807</id>
-    <published>2022-06-17T16:47:17+08:00</published>
-    <summary type="text">
-      Bypass360的文章，一篇也不能错过！！！！！！ 灼剑安全团队灼剑安全团队专注于web安全、内网安全、域安全、网络攻防、移动端安全、IOT安全、代码审计、漏洞复现，APT相关技术等研究方向，
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">mimikatz wdigest功能分析与调试</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1805"/>
-    <id>https://sec-in.com/article/1805</id>
-    <published>2022-06-17T16:43:43+08:00</published>
-    <summary type="text">
-      mimikatz wdigest模块 分析与调试。主要是怎样在lsass进程内存中找到key和密文的位置，以及mimikatz的实现
     </summary>
   </entry>
 
