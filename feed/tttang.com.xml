@@ -3,8 +3,18 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-07-12T06:17:10+08:00</updated>
+  <updated>2022-07-12T13:00:46+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">零基础入门V8——理解通用利用链原理</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1653/"/>
+    <id>https://tttang.com/archive/1653/</id>
+    <published>2022-07-12T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;首先需要明确的是，通过 v8 漏洞，我们需要达成什么样的目的？&lt;/p&gt;
+&lt;p&gt;一般在做 CTF 的时候，往往希望让远程执行 system(&quot;/bin/sh&quot;) 或者 execve(&quot;/bin/sh&quot;,0,0) 又或者 ORW ，除了最后一个外，往往一般是希望能够做到远程命令执行，所以一般通过 v8 漏洞也希望能够做到这一点。一般来说，我们希望能往里面写入shellcode，毕竟栈溢出之类的操作在 v8 下似乎不太可能完成。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">从CICD漏洞靶场中学习持续集成安全</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1650/"/>
@@ -131,15 +141,6 @@
     <published>2022-06-22T12:00:00+08:00</published>
     <summary type="text">
       
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Java安全笔记-JNI 详解</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1622/"/>
-    <id>https://tttang.com/archive/1622/</id>
-    <published>2022-06-21T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;JNI (&lt;code&gt;Java Native Interface&lt;/code&gt;，JAVA 本地接口) 允许 Java 代码和其它编程语言编写的代码进行交互，主要为Java和Native层（C/C++）相互调用的接口规范，但是并不妨碍扩展其他语言。 JNI 在 Java1.1 中正式推出，在 Java1.2 中加入了&lt;code&gt;JNI_OnLoad&lt;/code&gt;和&lt;code&gt;JNI_OnUnload&lt;/code&gt;方法。&lt;/p&gt;
     </summary>
   </entry>
 
