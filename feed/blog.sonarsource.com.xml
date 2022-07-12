@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-07-12T18:20:39+08:00</updated>
+  <updated>2022-07-13T06:17:38+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Remote Code Execution via Prototype Pollution in Blitz.js</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/blitzjs-prototype-pollution"/>
+    <id>https://blog.sonarsource.com/blitzjs-prototype-pollution</id>
+    <published>2022-07-12T13:29:54Z</published>
+    <summary type="text">
+      We recently discovered a Prototype Pollution vulnerability in Blitz.js leading to Remote Code Execution. Learn about this bug class and how to avoid it in your code!
+    </summary>
+  </entry>
   <entry>
     <title type="text">Unrar Path Traversal Vulnerability affects Zimbra Mail</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day"/>
@@ -174,15 +183,6 @@
     <published>2022-02-24T14:47:46Z</published>
     <summary type="text">
       We’re happy to announce that SonarCloud integrates with GitHub code scanning! It’s available to everyone with a GitHub repository - private or public - independently of your SonarCloud plan. If you have access to the feature on GiHub and your organization admin already accepted the update for the SonarCloud app permissions, you’re all set! You should be able to start using the feature during your next code review.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Horde Webmail 5.2.22 - Account Takeover via Email</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/horde-webmail-account-takeover-via-email"/>
-    <id>https://blog.sonarsource.com/horde-webmail-account-takeover-via-email</id>
-    <published>2022-02-22T10:06:57Z</published>
-    <summary type="text">
-      We recently discovered a code vulnerability in Horde Webmail that can be used by attackers to take over email accounts by sending a malicious email.
     </summary>
   </entry>
 
