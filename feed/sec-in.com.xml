@@ -3,8 +3,35 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-07-13T12:36:42+08:00</updated>
+  <updated>2022-07-13T18:23:08+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">通过磁场侧信道进行音频窃听攻击</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1839"/>
+    <id>https://sec-in.com/article/1839</id>
+    <published>2022-07-13T14:59:20+08:00</published>
+    <summary type="text">
+      本研究中展示了一种利用微型扬声器（耳机）泄漏的磁场侧信道信号来恢复语音的窃听攻击。其具有足够高的灵敏度，在 60 厘米的距离上可以恢复与原始声音相似度为 90% 的高质量音频。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">初探逻辑分析仪</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1838"/>
+    <id>https://sec-in.com/article/1838</id>
+    <published>2022-07-13T14:52:50+08:00</published>
+    <summary type="text">
+      前段时间采购了个逻辑分析仪，之前对数字信号、芯⽚间通信等接触也不多，近几日恶补了一下，现以文字记录下来以便后续查阅。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">漏洞利用开发的现状，第1部分</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1830"/>
+    <id>https://sec-in.com/article/1830</id>
+    <published>2022-07-13T14:51:30+08:00</published>
+    <summary type="text">
+      在这篇博客中，传统缓解措施与当代缓解措施(如CFG和SMEP)一起被重新审视，这些缓解措施旨在挑战漏洞研究人员并提高漏洞利用的门槛和质量。
+    </summary>
+  </entry>
   <entry>
     <title type="text">简单实用远控小工具Todesk</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1827"/>
@@ -66,36 +93,6 @@
     <published>2022-06-30T17:40:44+08:00</published>
     <summary type="text">
       某天早上接到领导通知，要对某个授权目标进行渗透测试，迫不及待的要来了目标，得知客户只给了一个单位名称。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">云主机AK/SK泄露利用</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1812"/>
-    <id>https://sec-in.com/article/1812</id>
-    <published>2022-06-27T15:06:48+08:00</published>
-    <summary type="text">
-      云主机通过使用Access Key Id / Secret Access Key加密的方法来验证某个请求的发送者身份。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">记一次实战攻防(打点-Edr-内网-横向-Vcenter)</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1810"/>
-    <id>https://sec-in.com/article/1810</id>
-    <published>2022-06-22T16:24:33+08:00</published>
-    <summary type="text">
-      前不久参加了一场攻防演练，过程既简单也曲折，最后通过横向渗透获取到了vcenter管理控制台权限，成功拿下本次演练目标。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Linux 下的逆向分析-初探</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1808"/>
-    <id>https://sec-in.com/article/1808</id>
-    <published>2022-06-22T16:23:38+08:00</published>
-    <summary type="text">
-      Linux 下的逆向分析-初探 
-系统信息：统信UOS 家庭版21.3
-
-涉及工具：gcc、edb-debugger、ghidra、radare2
     </summary>
   </entry>
 
