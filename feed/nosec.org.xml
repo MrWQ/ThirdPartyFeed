@@ -3,8 +3,26 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2022-07-13T18:23:19+08:00</updated>
+  <updated>2022-07-14T06:16:40+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">【安全通报】2022年7月微软漏洞补丁日修复多个高危漏洞</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5028.html"/>
+    <id>https://nosec.org/home/detail/5028.html</id>
+    <published>2022-07-13T21:15:20+08:00</published>
+    <summary type="text">
+      近日，微软发布 2022年7月 安全补丁，修复了针对 36 款微软产品的 84 个漏洞，其中52个权限提升漏洞，4个安全功能绕过漏洞，12个远程代码执行漏洞，11个信息泄露...
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">第二期GoEXP计划开启！守护安全，Goby伴你同行。</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5027.html"/>
+    <id>https://nosec.org/home/detail/5027.html</id>
+    <published>2022-07-13T15:30:48+08:00</published>
+    <summary type="text">
+      GoEXP计划第二期开启做安全很辛苦，挖漏洞真应了那句：台下十年功，台上一个洞。白帽师父们在挖出“核弹级”...
+    </summary>
+  </entry>
   <entry>
     <title type="text">Goby 2.0 | 引擎大升级 · DIY 指纹时代</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5026.html"/>
@@ -165,24 +183,6 @@
     <published>2022-05-19T17:56:04+08:00</published>
     <summary type="text">
       近日，VMware 官方发布安全公告修复了一个高威胁性的身份验证绕过漏洞，该漏洞涉及 Workspace ONE Access、Identity Manager 和 vRealize Automation 产品，目前...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">通过 CVE-2014-8959 漏洞深入理解 PHP 文件包含漏洞</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5001.html"/>
-    <id>https://nosec.org/home/detail/5001.html</id>
-    <published>2022-05-19T16:09:05+08:00</published>
-    <summary type="text">
-      最近在学习PHP代码审计相关内容，遇到的某些漏洞中提到了通过文件包含来实现某些操作。通过这段时间的学习，我总结了关于文件包含漏洞的如下理解。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">【安全通报】SonicWall SSLVPN SMA1000 系列产品存在多个漏...</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5000.html"/>
-    <id>https://nosec.org/home/detail/5000.html</id>
-    <published>2022-05-16T18:37:50+08:00</published>
-    <summary type="text">
-      近日，SonicWall 官方发布安全公告称其 SSLVPN SMA1000 系列产品存在多个安全漏洞，其中包括一个高威胁性的...
     </summary>
   </entry>
 
