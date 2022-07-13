@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-07-13T06:17:39+08:00</updated>
+  <updated>2022-07-13T12:36:42+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">codeql with JNDI injection</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1660/"/>
+    <id>https://tttang.com/archive/1660/</id>
+    <published>2022-07-13T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;今年年初浅蓝师傅发了两篇探索高版本 JDK 下 JNDI 漏洞利用方法的文章，拜读之后一直没时间自己进行探索，正巧最近在工作期间学习codeql相关姿势，看了一下关于寻找高版本JDK下RMI可利用的类及方法的条件，很适合使用codeql写规则探索，于是在这里记录一下自己的探索过程。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">零基础入门V8——理解通用利用链原理</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1653/"/>
@@ -132,15 +141,6 @@
     <published>2022-06-23T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;2022年1月14日，一个编号为CVE-2022-23222的漏洞被公开，这是一个位于eBPF验证器中的漏洞，漏洞允许eBPF程序在未经验证的情况下对特定指针进行运算，通过精心构造的代码，可以实现任意内核内存读写，而这将会造成本地提权的风险。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Mimikatz详细使用总结</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1616/"/>
-    <id>https://tttang.com/archive/1616/</id>
-    <published>2022-06-22T12:00:00+08:00</published>
-    <summary type="text">
-      
     </summary>
   </entry>
 
