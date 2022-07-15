@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-07-15T06:19:14+08:00</updated>
+  <updated>2022-07-15T13:04:28+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">CobaltStrike Malleable PE</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1662/"/>
+    <id>https://tttang.com/archive/1662/</id>
+    <published>2022-07-15T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;Malleable PE 直译就是可拓展PE，通常来说，很多同学在做免杀的时候，会针对Loader进行免杀，并不会考虑针对beacon进行免杀，这就导致了很多杀软/EDR的内存防护能针对默认设置的beacon进行查杀。C2Profile提供了很好地操作beacon的方法，C2Profile不仅仅可以自定义beacon的通信属性(例如uri，header等等)，还可以对beacon进行操作，从而实现免杀的目的。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">从 data 段中加载 PE Executable —— 2022-蓝帽杯-Reverse-Loader Writeup</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1661/"/>
@@ -131,17 +140,6 @@
     <published>2022-06-27T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;学习beacon生成和调试分析和检测beacon的过程中的一些记录。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">虚拟机逃逸初探----2018rwctf_station-escape</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1629/"/>
-    <id>https://tttang.com/archive/1629/</id>
-    <published>2022-06-24T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;blockquote&gt;
-&lt;p&gt;这里的rwctf_station-escape的主要基于&lt;a href=&quot;https://zhuanlan.zhihu.com/p/52140921&quot; target=&quot;_blank&quot;&gt;长亭师傅&lt;/a&gt;在知乎的文章进行，在此基础上进行了比较详细的exp分析和调试&lt;/p&gt;
-&lt;/blockquote&gt;
     </summary>
   </entry>
 
