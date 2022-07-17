@@ -3,7 +3,7 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-07-17T18:17:48+08:00</updated>
+  <updated>2022-07-18T06:16:41+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
   <entry>
     <title type="text">Remote Code Execution via Prototype Pollution in Blitz.js</title>
