@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-07-18T06:16:42+08:00</updated>
+  <updated>2022-07-18T12:49:43+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">x64下隐藏可执行内存</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1589/"/>
+    <id>https://tttang.com/archive/1589/</id>
+    <published>2022-07-18T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;我们如果想要实现进程隐藏在3环通常会使用到PEB断链去达到隐藏进程的效果，但是那只是表面上的进程隐藏，所有内存的详细信息都会被储存在vad树里面，这里我们就来探究在64位下如何隐藏可执行内存&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">CobaltStrike Malleable PE</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1662/"/>
@@ -131,15 +140,6 @@
     <published>2022-06-28T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;在DCSync技术没有出现之前，攻击者要想拿到域内用户的hash，就只能在域控制器上运行 Mimikatz 或 Invoke-Mimikatz去抓取密码hash，但是在2015 年 8 月份， Mimkatz新增了一个主要功能叫&quot;DCSync&quot;，使用这项技术可以有效地 &quot;模拟&quot; 域控制器并从目标域控上请求域内用户密码hash。这项技术为当下域渗透提供了极大地便利，可以直接远程dump域内hash，另外也衍生出很多的攻击方式，所以我想专门做一项DCSync技术的专题。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">CobaltStrike Beacon生成原理分析</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1631/"/>
-    <id>https://tttang.com/archive/1631/</id>
-    <published>2022-06-27T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;学习beacon生成和调试分析和检测beacon的过程中的一些记录。&lt;/p&gt;
     </summary>
   </entry>
 
