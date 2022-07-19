@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-07-19T18:21:08+08:00</updated>
+  <updated>2022-07-20T06:17:43+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,15 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">刺穿云盔甲|Google云平台WAF中的8KB绕过</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1353-googlewaf8kb"/>
+    <id>https://zone.huoxian.cn/d/1353-googlewaf8kb</id>
+    <published>2022-07-19T10:31:38+00:00</published>
+    <summary type="text">
+      刺穿云盔甲|Google云平台WAF中的8KB绕过
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-07-10T08:27:40+00:00</published>
     <summary type="text">
       【由浅入深_打牢基础】一文搞懂XPath 注入漏洞
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">KubeCon会议：攻击者如何使用暴露的 Prometheus 服务器来利用 Kubernetes 集群</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1333-kubecon-prometheus-kubernetes"/>
-    <id>https://zone.huoxian.cn/d/1333-kubecon-prometheus-kubernetes</id>
-    <published>2022-07-08T04:05:26+00:00</published>
-    <summary type="text">
-      KubeCon会议：攻击者如何使用暴露的 Prometheus 服务器来利用 Kubernetes 集群
     </summary>
   </entry>
 
