@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-07-20T12:41:18+08:00</updated>
+  <updated>2022-07-20T18:19:58+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">对Kubernetes 的 AWS IAM Authenticator的身份验证利用</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1356-kubernetes-aws-iam-authenticator"/>
+    <id>https://zone.huoxian.cn/d/1356-kubernetes-aws-iam-authenticator</id>
+    <published>2022-07-20T10:13:00+00:00</published>
+    <summary type="text">
+      对Kubernetes 的 AWS IAM Authenticator的身份验证利用
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">k8s攻防之etcd数据库篇</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1355-k8setcd"/>
+    <id>https://zone.huoxian.cn/d/1355-k8setcd</id>
+    <published>2022-07-20T05:05:47+00:00</published>
+    <summary type="text">
+      k8s攻防之etcd数据库篇
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-07-12T04:55:27+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220712
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">CF 云环境利用框架，一键化渗透云上内网</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1336-cf"/>
-    <id>https://zone.huoxian.cn/d/1336-cf</id>
-    <published>2022-07-11T04:19:23+00:00</published>
-    <summary type="text">
-      CF 云环境利用框架，一键化渗透云上内网
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220711</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1335-20220711"/>
-    <id>https://zone.huoxian.cn/d/1335-20220711</id>
-    <published>2022-07-11T03:41:19+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220711
     </summary>
   </entry>
 
