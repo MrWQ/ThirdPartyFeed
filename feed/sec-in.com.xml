@@ -3,8 +3,35 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-07-20T06:17:42+08:00</updated>
+  <updated>2022-07-20T12:41:18+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">JARM指纹随机化技术实现</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1846"/>
+    <id>https://sec-in.com/article/1846</id>
+    <published>2022-07-20T10:26:34+08:00</published>
+    <summary type="text">
+      JARM的工作原理是主动向目标TLS服务器发送10个特殊构造的TLS Client Hello包，以在TLS服务器中提取独特的响应，并捕获TLS Server Hello响应的特定属性
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">HTB:Obscurity渗透测试</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1833"/>
+    <id>https://sec-in.com/article/1833</id>
+    <published>2022-07-20T10:22:17+08:00</published>
+    <summary type="text">
+      Obscurity是中等难度的Linux机器，特点是自定义web服务器。代码注入漏洞被利用来获得作为www-data的初始立足点。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">小菜鸡的hvv之旅</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1843"/>
+    <id>https://sec-in.com/article/1843</id>
+    <published>2022-07-20T10:09:23+08:00</published>
+    <summary type="text">
+      最近参加了一次小型hw也是我第一次参加这种活动，所以简单记录下过程。此次活动的主要目标是当地医院而且因为规模不大，所以信息收集的工作相对比较简单。
+    </summary>
+  </entry>
   <entry>
     <title type="text">通过磁场侧信道进行音频窃听攻击</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1839"/>
@@ -66,33 +93,6 @@
     <published>2022-07-08T16:42:51+08:00</published>
     <summary type="text">
       本篇主要是对JNDI的简单了解并浅析JNDI注入的几种常见方式注入中的高版本绕过方法，并对进行简单的流程分析。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Golang爬虫框架初探</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1819"/>
-    <id>https://sec-in.com/article/1819</id>
-    <published>2022-07-01T14:35:13+08:00</published>
-    <summary type="text">
-      Golang爬虫也是Go语言中比较核心的一部分，本篇就对Go爬虫的基本应用以及爬虫框架进行一个简单研究
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">RSA加密解密详解</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1816"/>
-    <id>https://sec-in.com/article/1816</id>
-    <published>2022-06-30T17:41:55+08:00</published>
-    <summary type="text">
-      RSA算法是非对称密码算法。非对称密码又称为公钥密码，意思为每对加密包含一个公钥（可能为他人所知）和一个私钥（可能不为所有人所知）。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">记一次失败的实战攻防</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1815"/>
-    <id>https://sec-in.com/article/1815</id>
-    <published>2022-06-30T17:40:44+08:00</published>
-    <summary type="text">
-      某天早上接到领导通知，要对某个授权目标进行渗透测试，迫不及待的要来了目标，得知客户只给了一个单位名称。
     </summary>
   </entry>
 

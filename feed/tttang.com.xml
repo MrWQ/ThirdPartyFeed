@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-07-20T06:17:42+08:00</updated>
+  <updated>2022-07-20T12:41:18+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">关于微信数据库的解密以及取证</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1665/"/>
+    <id>https://tttang.com/archive/1665/</id>
+    <published>2022-07-20T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;之前研究过一段时间的wx聊天记录解密，以及小程序解密，但是在晚上陆续搜了几篇文章后发现解密教程要么下载Visual Studio,不然就是对web安全人员不友好的od调试，而且根据系统的不同，解密方法也不同，于是作者用为数不多的编程知识写出了这篇教程- -在这里记录一下解密的原理以及一些方法分享给大家。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">Burrowing your way into VPNs, Proxies, and Tunnels（译文）</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1664/"/>
@@ -131,15 +140,6 @@
     <published>2022-06-30T12:00:00+08:00</published>
     <summary type="text">
       
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">浅谈pyd文件逆向</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1641/"/>
-    <id>https://tttang.com/archive/1641/</id>
-    <published>2022-06-29T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;&lt;code&gt;.pyd&lt;/code&gt; 文件本质上是一个包含 Python 代码的库文件，可以被其他 Python 应用程序调用和使用。 通过使用Cython编译器，可以快速得把python文件打包为一个动态链接库，这个动态链接库也就是&lt;code&gt;pyd&lt;/code&gt;。&lt;code&gt;pyd&lt;/code&gt;相较于python源码本身可读性大大下降，很多人处于类似混淆得目的，也会使用这种形式对python代码进行保护&lt;/p&gt;
     </summary>
   </entry>
 
