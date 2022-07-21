@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-07-21T12:44:00+08:00</updated>
+  <updated>2022-07-21T18:20:18+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">A EuroPython Retrospective</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/europython2022-blog"/>
+    <id>https://blog.sonarsource.com/europython2022-blog</id>
+    <published>2022-07-21T06:00:01Z</published>
+    <summary type="text">
+      Retrospective of EuroPython 2022 -- Dubin, Ireland
+    </summary>
+  </entry>
   <entry>
     <title type="text">Remote Code Execution via Prototype Pollution in Blitz.js</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/blitzjs-prototype-pollution"/>
@@ -174,15 +183,6 @@
     <published>2022-03-01T15:00:00Z</published>
     <summary type="text">
       Most people can probably relate to asking a child to handle a chore, only to have the kid come back way too soon, saying it&#x27;s done. Or maybe you can relate to being that child. Either way, you know what comes next: checking shows the job was handled poorly, and it all goes downhill from there. 
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Review your security vulnerabilities in GitHub with code scanning alerts</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/review-security-vulnerabilities-with-github-code-scanning"/>
-    <id>https://blog.sonarsource.com/review-security-vulnerabilities-with-github-code-scanning</id>
-    <published>2022-02-24T14:47:46Z</published>
-    <summary type="text">
-      We’re happy to announce that SonarCloud integrates with GitHub code scanning! It’s available to everyone with a GitHub repository - private or public - independently of your SonarCloud plan. If you have access to the feature on GiHub and your organization admin already accepted the update for the SonarCloud app permissions, you’re all set! You should be able to start using the feature during your next code review.
     </summary>
   </entry>
 
