@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-07-22T06:17:41+08:00</updated>
+  <updated>2022-07-22T12:45:35+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">sAMAccountName Spoofing之九个为什么</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1675/"/>
+    <id>https://tttang.com/archive/1675/</id>
+    <published>2022-07-22T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;在2021年11月份，Microsoft发布了两个域内提权漏洞CVE-2021-42287和CVE-2021-42278，但因为POC未公开，也没有引发关注，后来12月份这两个漏洞的利用方式被一一放出，引发了很多windows域安全研究者的关注，这两个漏洞可以进行组合攻击，在获取到域内普通用户权限的情况下模拟成域控机器账号，从而拿到域控权限。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">Tomcat WebSocket内存马原理浅析</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1673/"/>
@@ -132,15 +141,6 @@
     <published>2022-07-04T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;在《WMI攻守之道》中，我们通过分析WMI产生的流量数据了解到WMI通过DCE/RPC协议进行通信，这个协议主要由DCOM远程激活机制和NTLM身份认证。DCOM远程激活是WMI远程连接的必要步骤，所以可以通过检测DCOM远程激活，进而检测WMI连接。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Shiro 历史漏洞分析</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1645/"/>
-    <id>https://tttang.com/archive/1645/</id>
-    <published>2022-07-01T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;&lt;a href=&quot;https://shiro.apache.org/&quot; target=&quot;_blank&quot;&gt;Apache Shiro&lt;/a&gt; is a powerful and easy-to-use Java security framework that performs authentication(身份验证), authorization(授权), cryptography(加密), and session management(会话管理). With Shiro’s easy-to-understand API, you can quickly and easily secure any application – from the smallest mobile applications to the largest web and enterprise applications.&lt;/p&gt;
     </summary>
   </entry>
 
