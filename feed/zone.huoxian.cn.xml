@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-07-25T06:17:05+08:00</updated>
+  <updated>2022-07-25T12:50:01+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,15 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220725</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2171-20220725"/>
+    <id>https://zone.huoxian.cn/d/2171-20220725</id>
+    <published>2022-07-25T04:25:51+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220725
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-07-13T10:00:26+00:00</published>
     <summary type="text">
       攻防演练案例讲解——溯源篇
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">我用 CF 打穿了他的云上内网</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1341-cf"/>
-    <id>https://zone.huoxian.cn/d/1341-cf</id>
-    <published>2022-07-13T04:29:06+00:00</published>
-    <summary type="text">
-      我用 CF 打穿了他的云上内网
     </summary>
   </entry>
 
