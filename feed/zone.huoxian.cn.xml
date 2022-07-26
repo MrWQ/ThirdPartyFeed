@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-07-26T18:22:20+08:00</updated>
+  <updated>2022-07-27T06:19:35+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">漏洞利用链 - 如何获得所有 Shopify 实例的 root 访问权限</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2252-shopify-root"/>
+    <id>https://zone.huoxian.cn/d/2252-shopify-root</id>
+    <published>2022-07-26T10:09:59+00:00</published>
+    <summary type="text">
+      漏洞利用链 - 如何获得所有 Shopify 实例的 root 访问权限
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">AWS: 打开任何用户均可访问的 S3 存储桶 （hackerone漏洞报告）</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2251-aws-s3-hackerone"/>
+    <id>https://zone.huoxian.cn/d/2251-aws-s3-hackerone</id>
+    <published>2022-07-26T09:10:54+00:00</published>
+    <summary type="text">
+      AWS: 打开任何用户均可访问的 S3 存储桶 （hackerone漏洞报告）
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-07-15T09:16:17+00:00</published>
     <summary type="text">
       保护 Amazon S3 数据免受勒索软件的侵害
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">CVE-2020-8558-跨主机访问127.0.0.1</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1345-cve-2020-8558-127001"/>
-    <id>https://zone.huoxian.cn/d/1345-cve-2020-8558-127001</id>
-    <published>2022-07-15T08:47:15+00:00</published>
-    <summary type="text">
-      CVE-2020-8558-跨主机访问127.0.0.1
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220715</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1344-20220715"/>
-    <id>https://zone.huoxian.cn/d/1344-20220715</id>
-    <published>2022-07-15T02:37:45+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220715
     </summary>
   </entry>
 
