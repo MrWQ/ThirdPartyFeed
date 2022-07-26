@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-07-26T06:17:04+08:00</updated>
+  <updated>2022-07-26T13:07:25+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">pem类文件解析及2022蓝帽杯crypto详解</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1670/"/>
+    <id>https://tttang.com/archive/1670/</id>
+    <published>2022-07-26T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;pem格式的文件通常用于数字证书认证机构(Certificate Authorities，CA)，其文件形式主要为&lt;strong&gt;base64编码&lt;/strong&gt;的文件，头尾有类似于&lt;code&gt;-----BEGIN PUBLIC KEY-----&lt;/code&gt;和&lt;code&gt;-----END PUBLIC KEY-----&lt;/code&gt;的头尾标记。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">CVE–2019–8985 Netis WF2411 RCE 详细解析</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1672/"/>
@@ -138,15 +147,6 @@
     <published>2022-07-06T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;很新颖的一道题目，比赛时花了将近一整天的时间做了出来（没抢到血 qaq，带哥们太猛了）。虽然 XCTF 的分站赛主办方都会公布 writeup，但还是很想记录并顺手分享一下我自己在解这道题目时的整个思考过程。尤其是这几年 CTF 中逆向方向其实已经把&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">使用tabby分析Spring Data MongoDB SpEL漏洞</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1647/"/>
-    <id>https://tttang.com/archive/1647/</id>
-    <published>2022-07-05T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;最近学习了一款非常优秀的Java语言静态代码分析工具：&lt;a href=&quot;https://github.com/wh1t3p1g/tabby&quot; target=&quot;_blank&quot;&gt;tabby&lt;/a&gt;。正好近期出了个Spring Data MongoDB的SpEL表达式注入。便想着使用tabby对这个组件进行分析，一来熟悉熟悉tabby的使用，二来想感受一下这款静态代码分析工具对于代码审计的助力。&lt;/p&gt;
     </summary>
   </entry>
 
