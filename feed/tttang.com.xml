@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-07-27T06:19:34+08:00</updated>
+  <updated>2022-07-27T12:54:03+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">基于python的RPC Fuzz寻找可提权函数</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1678/"/>
+    <id>https://tttang.com/archive/1678/</id>
+    <published>2022-07-27T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;本文主要涉及有SeImpersonatePrivilege时通过pipe管道复制客户端权限的rpc提权漏洞挖掘。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">pem类文件解析及2022蓝帽杯crypto详解</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1670/"/>
@@ -138,15 +147,6 @@
     <published>2022-07-07T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;这题是 GLIBC 2.27-3ubuntu1.5 的版本，想着 2.27 可以直接 free 两次，但是这个 2.27-3ubuntu1.5 patch 了 double free，还加了 key，double_free 就没那么好搞，所以这题我用的是任意写 free_hook 为 system 进行getshell&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">神奇的 C++ 模板 —— 2022-ACTF-Nagi-Knows Writeup</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1643/"/>
-    <id>https://tttang.com/archive/1643/</id>
-    <published>2022-07-06T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;很新颖的一道题目，比赛时花了将近一整天的时间做了出来（没抢到血 qaq，带哥们太猛了）。虽然 XCTF 的分站赛主办方都会公布 writeup，但还是很想记录并顺手分享一下我自己在解这道题目时的整个思考过程。尤其是这几年 CTF 中逆向方向其实已经把&lt;/p&gt;
     </summary>
   </entry>
 

@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-07-27T06:19:35+08:00</updated>
+  <updated>2022-07-27T12:54:03+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">漏洞利用链 - 如何获得所有 Shopify 实例的 root 访问权限</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2258-shopify-root"/>
+    <id>https://zone.huoxian.cn/d/2258-shopify-root</id>
+    <published>2022-07-27T03:23:38+00:00</published>
+    <summary type="text">
+      漏洞利用链 - 如何获得所有 Shopify 实例的 root 访问权限
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220727</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2257-20220727"/>
+    <id>https://zone.huoxian.cn/d/2257-20220727</id>
+    <published>2022-07-27T02:33:18+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220727
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-07-17T10:17:33+00:00</published>
     <summary type="text">
       SSRF专向练习（挖SRC错失SSRF的血汗泪）
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">阿里云AK+SK泄露之STS(SecurityToken)如何利用</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1347-akskstssecuritytoken"/>
-    <id>https://zone.huoxian.cn/d/1347-akskstssecuritytoken</id>
-    <published>2022-07-16T11:27:16+00:00</published>
-    <summary type="text">
-      阿里云AK+SK泄露之STS(SecurityToken)如何利用
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">保护 Amazon S3 数据免受勒索软件的侵害</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1346-amazon-s3"/>
-    <id>https://zone.huoxian.cn/d/1346-amazon-s3</id>
-    <published>2022-07-15T09:16:17+00:00</published>
-    <summary type="text">
-      保护 Amazon S3 数据免受勒索软件的侵害
     </summary>
   </entry>
 
