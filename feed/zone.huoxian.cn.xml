@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-07-27T12:54:03+08:00</updated>
+  <updated>2022-07-27T18:21:57+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">lkm和ebpf rootkit分析的简要记录</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2261-lkmebpf-rootkit"/>
+    <id>https://zone.huoxian.cn/d/2261-lkmebpf-rootkit</id>
+    <published>2022-07-27T10:08:13+00:00</published>
+    <summary type="text">
+      lkm和ebpf rootkit分析的简要记录
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">利用Google Cloud Identity Platform 中的弱配置</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2260-google-cloud-identity-platform"/>
+    <id>https://zone.huoxian.cn/d/2260-google-cloud-identity-platform</id>
+    <published>2022-07-27T07:22:37+00:00</published>
+    <summary type="text">
+      利用Google Cloud Identity Platform 中的弱配置
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-07-18T04:45:59+00:00</published>
     <summary type="text">
       在云SQL上获取shell
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220718</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1350-20220718"/>
-    <id>https://zone.huoxian.cn/d/1350-20220718</id>
-    <published>2022-07-18T02:29:44+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220718
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">SSRF专向练习（挖SRC错失SSRF的血汗泪）</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1349-ssrfsrcssrf"/>
-    <id>https://zone.huoxian.cn/d/1349-ssrfsrcssrf</id>
-    <published>2022-07-17T10:17:33+00:00</published>
-    <summary type="text">
-      SSRF专向练习（挖SRC错失SSRF的血汗泪）
     </summary>
   </entry>
 
