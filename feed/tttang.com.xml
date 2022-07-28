@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-07-28T06:18:07+08:00</updated>
+  <updated>2022-07-28T12:44:06+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">windows内存管理详解</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1590/"/>
+    <id>https://tttang.com/archive/1590/</id>
+    <published>2022-07-28T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;只有我们知道了windows如何管理内存空间，才能够得心应手的进行对抗，所以了解windows内存管理是很有必要的。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">基于python的RPC Fuzz寻找可提权函数</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1678/"/>
@@ -138,15 +147,6 @@
     <published>2022-07-08T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;SSRF之前只有简单了解，进行二次学习后简单总结一下，希望能对正在学习SSRF的师傅们有所帮助&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">2022虎符_vdq(rust_cve)详解</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1585/"/>
-    <id>https://tttang.com/archive/1585/</id>
-    <published>2022-07-07T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;这题是 GLIBC 2.27-3ubuntu1.5 的版本，想着 2.27 可以直接 free 两次，但是这个 2.27-3ubuntu1.5 patch 了 double free，还加了 key，double_free 就没那么好搞，所以这题我用的是任意写 free_hook 为 system 进行getshell&lt;/p&gt;
     </summary>
   </entry>
 

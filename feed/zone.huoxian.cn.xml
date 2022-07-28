@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-07-28T06:18:20+08:00</updated>
+  <updated>2022-07-28T12:44:06+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Google Cloud JupyterLab的XSS到任意命令执行</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2266-google-cloud-jupyterlabxss"/>
+    <id>https://zone.huoxian.cn/d/2266-google-cloud-jupyterlabxss</id>
+    <published>2022-07-28T03:35:10+00:00</published>
+    <summary type="text">
+      Google Cloud JupyterLab的XSS到任意命令执行
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220728</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2265-20220728"/>
+    <id>https://zone.huoxian.cn/d/2265-20220728</id>
+    <published>2022-07-28T03:34:59+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220728
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-07-19T10:31:38+00:00</published>
     <summary type="text">
       刺穿云盔甲|Google云平台WAF中的8KB绕过
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220719</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1352-20220719"/>
-    <id>https://zone.huoxian.cn/d/1352-20220719</id>
-    <published>2022-07-19T02:33:31+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220719
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">在云SQL上获取shell</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1351-sqlshell"/>
-    <id>https://zone.huoxian.cn/d/1351-sqlshell</id>
-    <published>2022-07-18T04:45:59+00:00</published>
-    <summary type="text">
-      在云SQL上获取shell
     </summary>
   </entry>
 
