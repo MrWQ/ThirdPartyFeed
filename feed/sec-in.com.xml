@@ -3,8 +3,45 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-07-29T12:51:10+08:00</updated>
+  <updated>2022-07-29T18:21:15+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">session.upload_progress漏洞解析</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1860"/>
+    <id>https://sec-in.com/article/1860</id>
+    <published>2022-07-29T14:03:58+08:00</published>
+    <summary type="text">
+      通过结合例子讲解session文件上传getshell，执行命令，可以更好地理解这个漏洞地原理和利用
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">深入浅出SSRF</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1856"/>
+    <id>https://sec-in.com/article/1856</id>
+    <published>2022-07-29T14:03:29+08:00</published>
+    <summary type="text">
+      本文主要讲了ssrf的gopher协议，以及对redis数据库的一些利用技巧，写文章花了不少时间，也踩了不少坑，有很多细节是网上找不到的，希望我的经验能帮到大家
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Lightning 框架</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1859"/>
+    <id>https://sec-in.com/article/1859</id>
+    <published>2022-07-29T13:58:20+08:00</published>
+    <summary type="text">
+      Lightning 框架: 一个未被发现的 &quot;Swiss Army Knife（瑞士军刀级别） &quot;Linux恶意软件
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">LMCompatibilityLevel 安全隐患</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1850"/>
+    <id>https://sec-in.com/article/1850</id>
+    <published>2022-07-29T13:57:27+08:00</published>
+    <summary type="text">
+      NTLM协议用于在客户端和服务器之间建立经过身份验证的通信。
+LMCompatibilityLevel 安全隐患
+    </summary>
+  </entry>
   <entry>
     <title type="text">Xposed框架食用指南</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1858"/>
@@ -57,42 +94,6 @@
     <published>2022-07-20T10:26:34+08:00</published>
     <summary type="text">
       JARM的工作原理是主动向目标TLS服务器发送10个特殊构造的TLS Client Hello包，以在TLS服务器中提取独特的响应，并捕获TLS Server Hello响应的特定属性
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">HTB:Obscurity渗透测试</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1833"/>
-    <id>https://sec-in.com/article/1833</id>
-    <published>2022-07-20T10:22:17+08:00</published>
-    <summary type="text">
-      Obscurity是中等难度的Linux机器，特点是自定义web服务器。代码注入漏洞被利用来获得作为www-data的初始立足点。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">小菜鸡的hvv之旅</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1843"/>
-    <id>https://sec-in.com/article/1843</id>
-    <published>2022-07-20T10:09:23+08:00</published>
-    <summary type="text">
-      最近参加了一次小型hw也是我第一次参加这种活动，所以简单记录下过程。此次活动的主要目标是当地医院而且因为规模不大，所以信息收集的工作相对比较简单。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">通过磁场侧信道进行音频窃听攻击</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1839"/>
-    <id>https://sec-in.com/article/1839</id>
-    <published>2022-07-13T14:59:20+08:00</published>
-    <summary type="text">
-      本研究中展示了一种利用微型扬声器（耳机）泄漏的磁场侧信道信号来恢复语音的窃听攻击。其具有足够高的灵敏度，在 60 厘米的距离上可以恢复与原始声音相似度为 90% 的高质量音频。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">初探逻辑分析仪</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1838"/>
-    <id>https://sec-in.com/article/1838</id>
-    <published>2022-07-13T14:52:50+08:00</published>
-    <summary type="text">
-      前段时间采购了个逻辑分析仪，之前对数字信号、芯⽚间通信等接触也不多，近几日恶补了一下，现以文字记录下来以便后续查阅。
     </summary>
   </entry>
 
