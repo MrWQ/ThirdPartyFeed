@@ -3,8 +3,26 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-08-02T06:19:34+08:00</updated>
+  <updated>2022-08-02T13:10:11+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">TP5 RCE漏洞总结</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1863"/>
+    <id>https://sec-in.com/article/1863</id>
+    <published>2022-08-02T11:29:12+08:00</published>
+    <summary type="text">
+      thinkphp5的RCE漏洞可以说是tp5中尤为重要的一个漏洞，本篇就是针对于TP5 RCE漏洞的一个总结与分析。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">漏洞开发的现状，第2部分</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1847"/>
+    <id>https://sec-in.com/article/1847</id>
+    <published>2022-08-02T11:19:20+08:00</published>
+    <summary type="text">
+      在这个第1部分中，我们讨论了Windows系统上的二进制漏洞，在第2部分中，我们将更详细的介绍微软已经实施的缓解措施。
+    </summary>
+  </entry>
   <entry>
     <title type="text">session.upload_progress漏洞解析</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1860"/>
@@ -76,24 +94,6 @@ LMCompatibilityLevel 安全隐患
     <published>2022-07-25T11:16:55+08:00</published>
     <summary type="text">
       一种多用途、轻量极的HTTP客户端，使用它来进行HTTP操作可以适用于大多数的应用程序。 虽然HttpURLConnection的API提供的比较简单，但是同时这也使得我们可以更加容易地去使 用和扩展
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">python爬虫由浅入深（进阶篇）</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1826"/>
-    <id>https://sec-in.com/article/1826</id>
-    <published>2022-07-25T11:16:12+08:00</published>
-    <summary type="text">
-      本篇是进阶篇，主要讲了scrapy框架和selenium模块，配合基础篇食用更佳，学完之后爬虫的基本框架相信大家已经了解，让爬虫变得简单，希望大家能收获一点知识。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">JARM指纹随机化技术实现</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1846"/>
-    <id>https://sec-in.com/article/1846</id>
-    <published>2022-07-20T10:26:34+08:00</published>
-    <summary type="text">
-      JARM的工作原理是主动向目标TLS服务器发送10个特殊构造的TLS Client Hello包，以在TLS服务器中提取独特的响应，并捕获TLS Server Hello响应的特定属性
     </summary>
   </entry>
 

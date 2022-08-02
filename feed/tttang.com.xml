@@ -3,8 +3,18 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-08-02T06:19:34+08:00</updated>
+  <updated>2022-08-02T13:10:11+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">浅析Vmess流量与强网杯2022谍影重重</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1687/"/>
+    <id>https://tttang.com/archive/1687/</id>
+    <published>2022-08-02T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;在密码学中，Message Authentication Code(消息认证码，有时也被称为tag)是用来认证消息的比较短的信息。换言之，MAC用来保证消息的&lt;strong&gt;数据完整性&lt;/strong&gt;和&lt;strong&gt;消息的数据源&lt;/strong&gt;认证。&lt;/p&gt;
+&lt;p&gt;MAC由消息本身和一个密钥经过一系列计算产生，用于生成MAC的算法，称为MAC算法。MAC算法应能满足如下几个条件:&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">GadgetInspector原理分析</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1683/"/>
@@ -138,15 +148,6 @@
     <summary type="text">
       &lt;p&gt;首先需要明确的是，通过 v8 漏洞，我们需要达成什么样的目的？&lt;/p&gt;
 &lt;p&gt;一般在做 CTF 的时候，往往希望让远程执行 system(&quot;/bin/sh&quot;) 或者 execve(&quot;/bin/sh&quot;,0,0) 又或者 ORW ，除了最后一个外，往往一般是希望能够做到远程命令执行，所以一般通过 v8 漏洞也希望能够做到这一点。一般来说，我们希望能往里面写入shellcode，毕竟栈溢出之类的操作在 v8 下似乎不太可能完成。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">从CICD漏洞靶场中学习持续集成安全</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1650/"/>
-    <id>https://tttang.com/archive/1650/</id>
-    <published>2022-07-11T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;漏洞靶场地址：&lt;a href=&quot;https://github.com/cider-security-research/cicd-goat&quot; target=&quot;_blank&quot;&gt;https://github.com/cider-security-research/cicd-goat&lt;/a&gt;&lt;/p&gt;
     </summary>
   </entry>
 
