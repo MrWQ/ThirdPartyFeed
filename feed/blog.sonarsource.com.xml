@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-08-02T18:22:26+08:00</updated>
+  <updated>2022-08-03T06:19:23+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">How Clean Code Practices Help You Retain Your Development Talent</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/how-clean-code-practices-help-retain-development-talent"/>
+    <id>https://blog.sonarsource.com/how-clean-code-practices-help-retain-development-talent</id>
+    <published>2022-08-02T13:16:18Z</published>
+    <summary type="text">
+      How Clean Code Practices Help You Retain Your Development Talent
+    </summary>
+  </entry>
   <entry>
     <title type="text">Disclosing information with a side-channel in Django</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/disclosing-information-with-a-side-channel-in-django"/>
@@ -174,15 +183,6 @@
     <published>2022-03-10T09:14:10Z</published>
     <summary type="text">
       It&#x27;s been a year and a half now since we started using Productboard at SonarSource to manage features. During this time, we switched from Jira to this new tool and took the time to change our way of doing product management. Here is how.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Securing Developer Tools: Package Managers</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/securing-developer-tools-package-managers"/>
-    <id>https://blog.sonarsource.com/securing-developer-tools-package-managers</id>
-    <published>2022-03-08T14:02:48Z</published>
-    <summary type="text">
-      Yarn, Pip, Composer &amp; friends: Learn about 3 types of vulnerabilities we found in popular package managers that can be used by attackers to target developers.
     </summary>
   </entry>
 
