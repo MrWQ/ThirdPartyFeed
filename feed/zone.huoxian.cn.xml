@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-08-03T13:05:17+08:00</updated>
+  <updated>2022-08-03T18:20:17+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,15 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">云安全的老家-云原生(0-1)</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2285-0-1"/>
+    <id>https://zone.huoxian.cn/d/2285-0-1</id>
+    <published>2022-08-03T03:22:50+00:00</published>
+    <summary type="text">
+      云安全的老家-云原生(0-1)
     </summary>
   </entry>
   <entry>
@@ -57,6 +66,15 @@
     <published>2022-08-01T02:23:27+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220801
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220729</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2272-20220729"/>
+    <id>https://zone.huoxian.cn/d/2272-20220729</id>
+    <published>2022-08-01T02:22:44+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220729
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-07-25T06:16:59+00:00</published>
     <summary type="text">
       详细案例教会你如何在AWS中链接漏洞getshell和访问数据
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220725</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2171-20220725"/>
-    <id>https://zone.huoxian.cn/d/2171-20220725</id>
-    <published>2022-07-25T04:25:51+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220725
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Google Cloud 部署管理器中的 RCE</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1359-google-cloud-rce"/>
-    <id>https://zone.huoxian.cn/d/1359-google-cloud-rce</id>
-    <published>2022-07-22T06:32:38+00:00</published>
-    <summary type="text">
-      Google Cloud 部署管理器中的 RCE
     </summary>
   </entry>
 
