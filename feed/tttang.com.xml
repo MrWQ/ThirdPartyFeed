@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-08-03T06:19:23+08:00</updated>
+  <updated>2022-08-03T13:05:20+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">探索Windows内核系列——句柄，利用句柄进行进程保护</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1682/"/>
+    <id>https://tttang.com/archive/1682/</id>
+    <published>2022-08-03T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;在本文中，我们会探索句柄在windows内核中表现形式，帮助了解句柄在windows中的作用。通过调试与逆向内核代码的方式，介绍句柄是如何关联到内核对象，并在此基础上介绍一种利用句柄来保护我们的进程不被读写的技术方案。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">浅析Vmess流量与强网杯2022谍影重重</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1687/"/>
@@ -138,16 +147,6 @@
     <published>2022-07-13T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;今年年初浅蓝师傅发了两篇探索高版本 JDK 下 JNDI 漏洞利用方法的文章，拜读之后一直没时间自己进行探索，正巧最近在工作期间学习codeql相关姿势，看了一下关于寻找高版本JDK下RMI可利用的类及方法的条件，很适合使用codeql写规则探索，于是在这里记录一下自己的探索过程。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">零基础入门V8——理解通用利用链原理</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1653/"/>
-    <id>https://tttang.com/archive/1653/</id>
-    <published>2022-07-12T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;首先需要明确的是，通过 v8 漏洞，我们需要达成什么样的目的？&lt;/p&gt;
-&lt;p&gt;一般在做 CTF 的时候，往往希望让远程执行 system(&quot;/bin/sh&quot;) 或者 execve(&quot;/bin/sh&quot;,0,0) 又或者 ORW ，除了最后一个外，往往一般是希望能够做到远程命令执行，所以一般通过 v8 漏洞也希望能够做到这一点。一般来说，我们希望能往里面写入shellcode，毕竟栈溢出之类的操作在 v8 下似乎不太可能完成。&lt;/p&gt;
     </summary>
   </entry>
 
