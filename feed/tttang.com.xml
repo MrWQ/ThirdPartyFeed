@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-08-04T06:17:17+08:00</updated>
+  <updated>2022-08-04T12:44:27+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">2022UIUCTF-Spoink(Pebble最新模板注入)</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1692/"/>
+    <id>https://tttang.com/archive/1692/</id>
+    <published>2022-08-04T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;之前周末忙着强网杯，对这道题只做了一半就搁置下来了，最后卡在绕过最新pebble模板引擎RCE那里，今天抽空来继续进行剩下的分析，正好题目里有几个在现实场景当中能用的trick顺便也分享了&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">探索Windows内核系列——句柄，利用句柄进行进程保护</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1682/"/>
@@ -138,15 +147,6 @@
     <summary type="text">
       &lt;p&gt;这题名为 Loader，其本质也是从 &lt;code&gt;.data&lt;/code&gt; 段中加载了程序的主要逻辑并运行，使用了无文件 PE 文件加载的相关技术。&lt;/p&gt;
 &lt;p&gt;因为这道题没加反调试等 check，所以比赛时我只是略扫了一下 load 的部分，主要精力都放在关键逻辑上了。但其实这题 loader 部分的 assembly 写得很有意思，于是赛后我又着重分析了一下相关部分的代码。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">codeql with JNDI injection</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1660/"/>
-    <id>https://tttang.com/archive/1660/</id>
-    <published>2022-07-13T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;今年年初浅蓝师傅发了两篇探索高版本 JDK 下 JNDI 漏洞利用方法的文章，拜读之后一直没时间自己进行探索，正巧最近在工作期间学习codeql相关姿势，看了一下关于寻找高版本JDK下RMI可利用的类及方法的条件，很适合使用codeql写规则探索，于是在这里记录一下自己的探索过程。&lt;/p&gt;
     </summary>
   </entry>
 
