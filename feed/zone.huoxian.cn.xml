@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-08-04T12:44:27+08:00</updated>
+  <updated>2022-08-04T18:19:58+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -30,15 +30,6 @@
     <published>2022-08-04T02:30:57+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220804
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Kubernetes NGINX Ingress Controller 中的新漏洞</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2287-kubernetes-nginx-ingress-controller"/>
-    <id>https://zone.huoxian.cn/d/2287-kubernetes-nginx-ingress-controller</id>
-    <published>2022-08-03T10:22:44+00:00</published>
-    <summary type="text">
-      Kubernetes NGINX Ingress Controller 中的新漏洞
     </summary>
   </entry>
   <entry>
@@ -183,6 +174,15 @@
     <published>2022-07-26T09:10:54+00:00</published>
     <summary type="text">
       AWS: 打开任何用户均可访问的 S3 存储桶 （hackerone漏洞报告）
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">龙王归来之腾讯云COS攻防</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2250-cos"/>
+    <id>https://zone.huoxian.cn/d/2250-cos</id>
+    <published>2022-07-26T07:30:07+00:00</published>
+    <summary type="text">
+      龙王归来之腾讯云COS攻防
     </summary>
   </entry>
 
