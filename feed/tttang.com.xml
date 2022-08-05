@@ -3,8 +3,23 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-08-05T06:17:40+08:00</updated>
+  <updated>2022-08-05T12:46:46+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">CVE-2022-34918 netfilter nf_tables 本地提权分析</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1693/"/>
+    <id>https://tttang.com/archive/1693/</id>
+    <published>2022-08-05T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;h2 id=&quot;toc_&quot;&gt;&lt;a href=&quot;#toc_&quot;&gt;影响范围&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;引入commit：&lt;a href=&quot;https://github.com/torvalds/linux/commit/fdb9c405e35bdc6e305b9b4e20ebc141ed14fc81&quot; target=&quot;_blank&quot;&gt;fdb9c405e35bdc6e305b9b4e20ebc141ed14fc81&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;修复commit：&lt;a href=&quot;https://github.com/torvalds/linux/commit/7e6bc1f6cabcd30aba0b11219d8e01b952eacbb6&quot; target=&quot;_blank&quot;&gt;7e6bc1f6cabcd30aba0b11219d8e01b952eacbb6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;时间跨度：2020/04/28 ~ 2022/07/03&lt;/li&gt;
+&lt;li&gt;版本跨度：v5.8 ~ v5.19&lt;/li&gt;
+&lt;/ul&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">2022UIUCTF-Spoink(Pebble最新模板注入)</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1692/"/>
@@ -137,16 +152,6 @@
     <published>2022-07-15T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;Malleable PE 直译就是可拓展PE，通常来说，很多同学在做免杀的时候，会针对Loader进行免杀，并不会考虑针对beacon进行免杀，这就导致了很多杀软/EDR的内存防护能针对默认设置的beacon进行查杀。C2Profile提供了很好地操作beacon的方法，C2Profile不仅仅可以自定义beacon的通信属性(例如uri，header等等)，还可以对beacon进行操作，从而实现免杀的目的。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">从 data 段中加载 PE Executable —— 2022-蓝帽杯-Reverse-Loader Writeup</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1661/"/>
-    <id>https://tttang.com/archive/1661/</id>
-    <published>2022-07-14T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;这题名为 Loader，其本质也是从 &lt;code&gt;.data&lt;/code&gt; 段中加载了程序的主要逻辑并运行，使用了无文件 PE 文件加载的相关技术。&lt;/p&gt;
-&lt;p&gt;因为这道题没加反调试等 check，所以比赛时我只是略扫了一下 load 的部分，主要精力都放在关键逻辑上了。但其实这题 loader 部分的 assembly 写得很有意思，于是赛后我又着重分析了一下相关部分的代码。&lt;/p&gt;
     </summary>
   </entry>
 
