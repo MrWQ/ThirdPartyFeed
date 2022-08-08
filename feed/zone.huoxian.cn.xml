@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-08-08T06:17:09+08:00</updated>
+  <updated>2022-08-08T12:35:42+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220808</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2296-20220808"/>
+    <id>https://zone.huoxian.cn/d/2296-20220808</id>
+    <published>2022-08-08T02:24:08+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220808
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">溯源反制常用宝藏网站大全</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2295"/>
+    <id>https://zone.huoxian.cn/d/2295</id>
+    <published>2022-08-06T03:33:54+00:00</published>
+    <summary type="text">
+      溯源反制常用宝藏网站大全
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-07-27T02:33:18+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220727
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">漏洞利用链 - 如何获得所有 Shopify 实例的 root 访问权限</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2252-shopify-root"/>
-    <id>https://zone.huoxian.cn/d/2252-shopify-root</id>
-    <published>2022-07-26T10:09:59+00:00</published>
-    <summary type="text">
-      漏洞利用链 - 如何获得所有 Shopify 实例的 root 访问权限
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">AWS: 打开任何用户均可访问的 S3 存储桶 （hackerone漏洞报告）</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2251-aws-s3-hackerone"/>
-    <id>https://zone.huoxian.cn/d/2251-aws-s3-hackerone</id>
-    <published>2022-07-26T09:10:54+00:00</published>
-    <summary type="text">
-      AWS: 打开任何用户均可访问的 S3 存储桶 （hackerone漏洞报告）
     </summary>
   </entry>
 

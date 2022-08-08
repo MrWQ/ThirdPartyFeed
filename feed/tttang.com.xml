@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-08-08T06:17:09+08:00</updated>
+  <updated>2022-08-08T12:35:42+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">PowerPC PWN从入门到实践</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1695/"/>
+    <id>https://tttang.com/archive/1695/</id>
+    <published>2022-08-08T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;前段时间2022虎符决赛结束，赛后从学长那看到了题目，其中出现了一道PowerPC64架构的pwn题，从架构方面来说比较少见，刚好之前看过一道PowerPC架构32位栈溢出的题目，于是放到一起整理一下。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">CVE-2022-34918 netfilter nf_tables 本地提权分析</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1693/"/>
@@ -143,15 +152,6 @@
     <published>2022-07-18T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;我们如果想要实现进程隐藏在3环通常会使用到PEB断链去达到隐藏进程的效果，但是那只是表面上的进程隐藏，所有内存的详细信息都会被储存在vad树里面，这里我们就来探究在64位下如何隐藏可执行内存&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">CobaltStrike Malleable PE</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1662/"/>
-    <id>https://tttang.com/archive/1662/</id>
-    <published>2022-07-15T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;Malleable PE 直译就是可拓展PE，通常来说，很多同学在做免杀的时候，会针对Loader进行免杀，并不会考虑针对beacon进行免杀，这就导致了很多杀软/EDR的内存防护能针对默认设置的beacon进行查杀。C2Profile提供了很好地操作beacon的方法，C2Profile不仅仅可以自定义beacon的通信属性(例如uri，header等等)，还可以对beacon进行操作，从而实现免杀的目的。&lt;/p&gt;
     </summary>
   </entry>
 
