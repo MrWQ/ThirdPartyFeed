@@ -3,8 +3,28 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-08-08T12:35:41+08:00</updated>
+  <updated>2022-08-08T18:20:28+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">攻防演练案例讲溯源</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1834"/>
+    <id>https://sec-in.com/article/1834</id>
+    <published>2022-08-08T14:09:58+08:00</published>
+    <summary type="text">
+      攻防演练的目的是什么？往小了说是为了提高员工网络安全意识，保障客户信息不外泄。往大了说是为了提升国家网络安全实力，保护公民个人信息财产安全。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">PHP代码审计</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1865"/>
+    <id>https://sec-in.com/article/1865</id>
+    <published>2022-08-08T14:04:08+08:00</published>
+    <summary type="text">
+      trim() 函数移除字符串两侧的空白字符或其他预定义字符。
+
+一般是用来去除字符串首尾处的空白字符（或者其他字符），一般在用在服务端对接收的用户数据进行处理，以免把用户误输入的空格存储到数据库，下次
+    </summary>
+  </entry>
   <entry>
     <title type="text">TP5 RCE漏洞总结</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1863"/>
@@ -76,24 +96,6 @@ LMCompatibilityLevel 安全隐患
     <published>2022-07-25T11:18:20+08:00</published>
     <summary type="text">
       最近练习了下CTF中Android相关题目，发现三题分别考察了三个点： 1、Frida Java Hook与静态函数的主动调用 2、Frida遍历ClassLoader从而Hook动态加载的Ddex的
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">内网--端口转发以及端口复用</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1852"/>
-    <id>https://sec-in.com/article/1852</id>
-    <published>2022-07-25T11:17:34+08:00</published>
-    <summary type="text">
-      前段时间在一次内网中遇到了一个问题，当时想了很多办法，虽然最终没能解决但是也学了很多东西。现在想想也是很愁。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Android网络库详解</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1851"/>
-    <id>https://sec-in.com/article/1851</id>
-    <published>2022-07-25T11:16:55+08:00</published>
-    <summary type="text">
-      一种多用途、轻量极的HTTP客户端，使用它来进行HTTP操作可以适用于大多数的应用程序。 虽然HttpURLConnection的API提供的比较简单，但是同时这也使得我们可以更加容易地去使 用和扩展
     </summary>
   </entry>
 
