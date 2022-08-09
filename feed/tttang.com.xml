@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-08-09T06:19:52+08:00</updated>
+  <updated>2022-08-09T10:24:43+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">WMI调试与检测</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1640/"/>
+    <id>https://tttang.com/archive/1640/</id>
+    <published>2022-08-09T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;这是WMI的第三篇文章，本文主要调式分析WMI消费者的工作原理，进而提出WMI的检测思路。本文首先介绍了本次分析所需要了解的WMI基本组件和底层协议(RPC),然后通过调式网上的RPC客户端和服务端的通信，了解RPC的原理，接着通过分析两个典型的WMI利用(查询数据，执行函数)，了解WMI的检测，由于WMI调试相关资料过少，没有进行自我订正，可能存在错误，或者重大错误，希望有了解的大佬积极斧正。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">PowerPC PWN从入门到实践</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1695/"/>
@@ -143,15 +152,6 @@
     <published>2022-07-19T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;从攻击者的角度考虑攻击生命周期时，他们几乎在每一步都有多种选择。防御者需要回答的一个问题是，对手是否会使用公开已知的恶意软件（即&lt;a href=&quot;https://advantage.mandiant.com/malware/malware--448e822d-8496-5021-88cb-599062f74176&quot; target=&quot;_blank&quot;&gt;BEACON&lt;/a&gt;)、自定义的恶意软件（即&lt;a href=&quot;https://advantage.mandiant.com/malware/malware--d7b72cf6-c413-59e1-9bb2-e06c861bded4&quot; target=&quot;_blank&quot;&gt;HAMMERTOSS&lt;/a&gt;）或提供完成所述步骤所需功能的&lt;a href=&quot;https://advantage.mandiant.com/reports/18-00013382&quot; target=&quot;_blank&quot;&gt;合法软件&lt;/a&gt;和服务（如&lt;a href=&quot;https://www.softether.org/&quot; target=&quot;_blank&quot;&gt;SoftEther虚拟专用网络&lt;/a&gt;）。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">x64下隐藏可执行内存</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1589/"/>
-    <id>https://tttang.com/archive/1589/</id>
-    <published>2022-07-18T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;我们如果想要实现进程隐藏在3环通常会使用到PEB断链去达到隐藏进程的效果，但是那只是表面上的进程隐藏，所有内存的详细信息都会被储存在vad树里面，这里我们就来探究在64位下如何隐藏可执行内存&lt;/p&gt;
     </summary>
   </entry>
 
