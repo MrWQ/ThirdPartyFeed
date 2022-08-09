@@ -3,8 +3,28 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-08-09T12:41:39+08:00</updated>
+  <updated>2022-08-09T18:21:43+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">域渗透实战下-gpo策略利用</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1878"/>
+    <id>https://sec-in.com/article/1878</id>
+    <published>2022-08-09T14:22:48+08:00</published>
+    <summary type="text">
+      在进行内网渗透时候的一些gpo gplink 的一些常规攻击手法
+在进行内网渗透时候的一些gpo gplink 的一些常规攻击手法
+在进行内网渗透时候的一些gpo gplink 的一些常规攻击手法
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">phar反序列化学习</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1867"/>
+    <id>https://sec-in.com/article/1867</id>
+    <published>2022-08-09T14:13:49+08:00</published>
+    <summary type="text">
+      反序列化在CTF比赛中比较经常出现，通过该文可以大概了解到反序列化中的phar反序列化的原理和利用过程，结合例子和赛题加深印象。
+    </summary>
+  </entry>
   <entry>
     <title type="text">攻防演练案例讲溯源</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1834"/>
@@ -78,24 +98,6 @@
     <summary type="text">
       NTLM协议用于在客户端和服务器之间建立经过身份验证的通信。
 LMCompatibilityLevel 安全隐患
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Xposed框架食用指南</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1858"/>
-    <id>https://sec-in.com/article/1858</id>
-    <published>2022-07-25T11:19:50+08:00</published>
-    <summary type="text">
-      对于App来说，Hook技术应用非常广泛。比如朋友圈微信步数的修改，其实就是Hook了数据发送的方法实现步数的修改。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Frida与Android CTF</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1857"/>
-    <id>https://sec-in.com/article/1857</id>
-    <published>2022-07-25T11:18:20+08:00</published>
-    <summary type="text">
-      最近练习了下CTF中Android相关题目，发现三题分别考察了三个点： 1、Frida Java Hook与静态函数的主动调用 2、Frida遍历ClassLoader从而Hook动态加载的Ddex的
     </summary>
   </entry>
 

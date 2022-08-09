@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-08-09T12:41:38+08:00</updated>
+  <updated>2022-08-09T18:21:43+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Security Implications of URL Parsing Differentials</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/security-implications-of-url-parsing-differentials"/>
+    <id>https://blog.sonarsource.com/security-implications-of-url-parsing-differentials</id>
+    <published>2022-08-09T09:22:24Z</published>
+    <summary type="text">
+      Our security research led to the discovery of a flaw in a popular Apache2 authentication module. We come back on this case of parsing differential and how various languages behave when working with URLs.
+    </summary>
+  </entry>
   <entry>
     <title type="text">How Clean Code Practices Help You Retain Your Development Talent</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/how-clean-code-practices-help-retain-development-talent"/>
@@ -174,15 +183,6 @@
     <published>2022-03-15T14:57:34Z</published>
     <summary type="text">
       With this series, we present the results of our research on the security of popular developer tools with the goal of making this ecosystem safer: today’s article revisits Git integrations.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">How Productboard helps us prioritize features and build great roadmaps</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/how-productboard-helps-us-prioritize-features"/>
-    <id>https://blog.sonarsource.com/how-productboard-helps-us-prioritize-features</id>
-    <published>2022-03-10T09:14:10Z</published>
-    <summary type="text">
-      It&#x27;s been a year and a half now since we started using Productboard at SonarSource to manage features. During this time, we switched from Jira to this new tool and took the time to change our way of doing product management. Here is how.
     </summary>
   </entry>
 
