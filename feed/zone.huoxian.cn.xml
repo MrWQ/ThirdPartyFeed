@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-08-13T18:19:28+08:00</updated>
+  <updated>2022-08-14T06:17:15+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -30,6 +30,15 @@
     <published>2022-08-12T08:31:37+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220812
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">&quot;容器逃逸失败&quot;案例分析</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2302"/>
+    <id>https://zone.huoxian.cn/d/2302</id>
+    <published>2022-08-12T04:48:30+00:00</published>
+    <summary type="text">
+      &quot;容器逃逸失败&quot;案例分析
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-07-28T10:32:43+00:00</published>
     <summary type="text">
       信息检测问题
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Google Cloud JupyterLab的XSS到任意命令执行</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2266-google-cloud-jupyterlabxss"/>
-    <id>https://zone.huoxian.cn/d/2266-google-cloud-jupyterlabxss</id>
-    <published>2022-07-28T03:35:10+00:00</published>
-    <summary type="text">
-      Google Cloud JupyterLab的XSS到任意命令执行
     </summary>
   </entry>
 
