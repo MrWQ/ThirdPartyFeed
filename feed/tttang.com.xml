@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-08-16T06:19:10+08:00</updated>
+  <updated>2022-08-16T12:41:15+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">XStream通览漏洞分析</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1699/"/>
+    <id>https://tttang.com/archive/1699/</id>
+    <published>2022-08-16T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;XStream是一个简单的基于Java库，Java对象序列化到XML，反之亦然(即：可以轻易的将Java对象和xml文档相互转换)。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">FLask SSTI从零到入门</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1698/"/>
@@ -138,21 +147,6 @@
     <published>2022-07-26T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;pem格式的文件通常用于数字证书认证机构(Certificate Authorities，CA)，其文件形式主要为&lt;strong&gt;base64编码&lt;/strong&gt;的文件，头尾有类似于&lt;code&gt;-----BEGIN PUBLIC KEY-----&lt;/code&gt;和&lt;code&gt;-----END PUBLIC KEY-----&lt;/code&gt;的头尾标记。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">CVE–2019–8985 Netis WF2411 RCE 详细解析</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1672/"/>
-    <id>https://tttang.com/archive/1672/</id>
-    <published>2022-07-25T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;blockquote&gt;
-&lt;p&gt;我的github上传了固件和代码：&lt;a href=&quot;https://github.com/Ler2sq/CVE-2019-8985&quot; target=&quot;_blank&quot;&gt;Ler2sq/CVE-2019-8985: CVE–2019–8985 Netis WF2411 RCE (github.com)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;NVD官方介绍：&lt;a href=&quot;https://nvd.nist.gov/vuln/detail/CVE-2019-8985&quot; target=&quot;_blank&quot;&gt;NVD - CVE-2019-8985 (nist.gov)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;固件获取： &lt;a href=&quot;https://www.netis-systems.com/Suppory/de_details/id/1/de/168.html&quot; target=&quot;_blank&quot;&gt;WF2419&lt;/a&gt; 选择WF2419（2.2.36123）&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;根据报告者和PoC &lt;a href=&quot;https://github.com/WhooAmii/iot/blob/master/netis&quot; target=&quot;_blank&quot;&gt;WhooAmii&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;可以知道这是一个路由器内的缓冲区溢出漏洞&lt;/p&gt;
     </summary>
   </entry>
 
