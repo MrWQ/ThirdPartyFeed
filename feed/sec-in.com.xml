@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-08-17T06:18:41+08:00</updated>
+  <updated>2022-08-17T13:07:55+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">浅谈Agent内存马</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1900"/>
+    <id>https://sec-in.com/article/1900</id>
+    <published>2022-08-17T11:28:57+08:00</published>
+    <summary type="text">
+      Agent内存马注入主要是通过将jar文件传入到目标服务器进行的注入攻击，注入后我们就可以将jar文件删除，完成真正的无文件落地攻击。
+    </summary>
+  </entry>
   <entry>
     <title type="text">如何对登录接口加密字段进行暴破？</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1899"/>
@@ -86,15 +95,6 @@
     <published>2022-08-09T14:13:49+08:00</published>
     <summary type="text">
       反序列化在CTF比赛中比较经常出现，通过该文可以大概了解到反序列化中的phar反序列化的原理和利用过程，结合例子和赛题加深印象。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">攻防演练案例讲溯源</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1834"/>
-    <id>https://sec-in.com/article/1834</id>
-    <published>2022-08-08T14:09:58+08:00</published>
-    <summary type="text">
-      攻防演练的目的是什么？往小了说是为了提高员工网络安全意识，保障客户信息不外泄。往大了说是为了提升国家网络安全实力，保护公民个人信息财产安全。
     </summary>
   </entry>
 
