@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-08-18T13:01:00+08:00</updated>
+  <updated>2022-08-18T18:21:11+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">电子数据取证</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1902"/>
+    <id>https://sec-in.com/article/1902</id>
+    <published>2022-08-18T14:52:33+08:00</published>
+    <summary type="text">
+      科学的运用提取和证明方法，对从电子数据源提取的证据进行保护、收集、验证、鉴定、分析、解释、存档和出示，以有助于进一步的犯罪事件重构或帮助识别某些计划操作无关的非授权性活动。
+    </summary>
+  </entry>
   <entry>
     <title type="text">浅谈Agent内存马</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1900"/>
@@ -86,15 +95,6 @@
       在进行内网渗透时候的一些gpo gplink 的一些常规攻击手法
 在进行内网渗透时候的一些gpo gplink 的一些常规攻击手法
 在进行内网渗透时候的一些gpo gplink 的一些常规攻击手法
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">phar反序列化学习</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1867"/>
-    <id>https://sec-in.com/article/1867</id>
-    <published>2022-08-09T14:13:49+08:00</published>
-    <summary type="text">
-      反序列化在CTF比赛中比较经常出现，通过该文可以大概了解到反序列化中的phar反序列化的原理和利用过程，结合例子和赛题加深印象。
     </summary>
   </entry>
 
