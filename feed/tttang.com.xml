@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-08-18T06:17:24+08:00</updated>
+  <updated>2022-08-18T13:01:00+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">CodeQL数据库构建原理分析</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1704/"/>
+    <id>https://tttang.com/archive/1704/</id>
+    <published>2022-08-18T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;&lt;a href=&quot;https://github.com/github/codeql&quot; target=&quot;_blank&quot;&gt;CodeQL&lt;/a&gt;是一个帮助开发者自动完成安全检查、帮助安全研究者进行变异分析的分析引擎。它由代码数据库和代码语义分析引擎组成，通过将代码抽象为数据查询表保存到代码数据库中，可以方便地运行代码查询。本文的关注点在于CodeQL是如何生成代码数据库。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">二次反序列化 看我一命通关</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1701/"/>
@@ -139,15 +148,6 @@
     <published>2022-07-28T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;只有我们知道了windows如何管理内存空间，才能够得心应手的进行对抗，所以了解windows内存管理是很有必要的。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">基于python的RPC Fuzz寻找可提权函数</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1678/"/>
-    <id>https://tttang.com/archive/1678/</id>
-    <published>2022-07-27T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;本文主要涉及有SeImpersonatePrivilege时通过pipe管道复制客户端权限的rpc提权漏洞挖掘。&lt;/p&gt;
     </summary>
   </entry>
 
