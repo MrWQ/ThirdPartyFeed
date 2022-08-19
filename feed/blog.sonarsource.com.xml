@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-08-19T18:22:48+08:00</updated>
+  <updated>2022-08-20T06:19:47+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Top 3 takeaways from BlackHat USA 2022</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/blackhat-usa-2022"/>
+    <id>https://blog.sonarsource.com/blackhat-usa-2022</id>
+    <published>2022-08-19T07:02:39Z</published>
+    <summary type="text">
+      Take a look at our top takeaways from BlackHat USA 2022 at Las Vegas in August.
+    </summary>
+  </entry>
   <entry>
     <title type="text">SonarQube 9.6 is here!</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/sonarqube9.6-video"/>
@@ -48,15 +57,6 @@
     <published>2022-07-21T06:00:01Z</published>
     <summary type="text">
       Retrospective of EuroPython 2022 -- Dubin, Ireland
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Top 3 takeaways from BlackHat USA 2022</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/blackhat-usa-2022"/>
-    <id>https://blog.sonarsource.com/blackhat-usa-2022</id>
-    <published>2022-08-19T07:02:39Z</published>
-    <summary type="text">
-      Take a look at our top takeaways from BlackHat USA 2022 at Las Vegas in August.
     </summary>
   </entry>
   <entry>
