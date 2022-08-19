@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-08-19T06:18:28+08:00</updated>
+  <updated>2022-08-19T12:51:32+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">从偶遇Flarum开始的RCE之旅</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1714/"/>
+    <id>https://tttang.com/archive/1714/</id>
+    <published>2022-08-19T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;一次日常测试中，偶然遇到了一个Flarum搭建的论坛，并获得了其管理员账号。本来到这里已经可以算完成了任务，将漏洞报给具体负责的人就结束了，但是既然已经拿到了管理员账号，何不尝试一下RCE呢？&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">CodeQL数据库构建原理分析</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1704/"/>
@@ -139,15 +148,6 @@
     <published>2022-07-29T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;&lt;a href=&quot;https://github.com/JackOfMostTrades/gadgetinspector&quot; target=&quot;_blank&quot;&gt;GadgetInspector&lt;/a&gt;是&lt;a href=&quot;https://github.com/JackOfMostTrades&quot; target=&quot;_blank&quot;&gt;JackOfMostTrades&lt;/a&gt;在&lt;a href=&quot;https://i.blackhat.com/us-18/Thu-August-9/us-18-Haken-Automated-Discovery-of-Deserialization-Gadget-Chains.pdf&quot; target=&quot;_blank&quot;&gt;2018 BLACKHAT USA&lt;/a&gt;上发布的一个自动化反序列化链挖掘工具，它通过对字节码形式的JAVA项目进行污点分析，挖掘可能存在的反序列化链。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">windows内存管理详解</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1590/"/>
-    <id>https://tttang.com/archive/1590/</id>
-    <published>2022-07-28T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;只有我们知道了windows如何管理内存空间，才能够得心应手的进行对抗，所以了解windows内存管理是很有必要的。&lt;/p&gt;
     </summary>
   </entry>
 

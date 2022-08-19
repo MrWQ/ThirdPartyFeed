@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-08-19T06:18:29+08:00</updated>
+  <updated>2022-08-19T12:51:32+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,15 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220818</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2308-20220818"/>
+    <id>https://zone.huoxian.cn/d/2308-20220818</id>
+    <published>2022-08-19T02:23:04+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220818
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-08-02T02:26:46+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220802
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220801</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2273-20220801"/>
-    <id>https://zone.huoxian.cn/d/2273-20220801</id>
-    <published>2022-08-01T02:23:27+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220801
     </summary>
   </entry>
 
