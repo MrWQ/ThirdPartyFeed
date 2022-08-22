@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-08-22T06:17:21+08:00</updated>
+  <updated>2022-08-22T13:09:21+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">Yakit 插件开发之实战nps</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1901"/>
+    <id>https://sec-in.com/article/1901</id>
+    <published>2022-08-22T10:38:42+08:00</published>
+    <summary type="text">
+      之前看到了一篇文章 [hvv反制红队第一章之nps代理工具0day漏洞分析](https://mp.weixin.qq.com/s/PTq01wcV4XJwutbSjHjfvA) ，感觉非常有意思
+    </summary>
+  </entry>
   <entry>
     <title type="text">电子数据取证</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1902"/>
@@ -84,17 +93,6 @@
     <published>2022-08-10T10:38:36+08:00</published>
     <summary type="text">
       HTTP 请求走私(HPS)是一种用于干扰网站处理从一个或多个用户接收的 HTTP 请求序列的方式的技术。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">域渗透实战下-gpo策略利用</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1878"/>
-    <id>https://sec-in.com/article/1878</id>
-    <published>2022-08-09T14:22:48+08:00</published>
-    <summary type="text">
-      在进行内网渗透时候的一些gpo gplink 的一些常规攻击手法
-在进行内网渗透时候的一些gpo gplink 的一些常规攻击手法
-在进行内网渗透时候的一些gpo gplink 的一些常规攻击手法
     </summary>
   </entry>
 
