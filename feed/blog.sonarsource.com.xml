@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-08-23T13:19:06+08:00</updated>
+  <updated>2022-08-23T18:20:18+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Securing Developer Tools: Argument Injection in Visual Studio Code</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode"/>
+    <id>https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode</id>
+    <published>2022-08-23T09:05:44Z</published>
+    <summary type="text">
+      In the third part of our Securing Developer Tools series, we look at a critical vulnerability that affects one of the most popular code editors: Visual Studio Code.
+    </summary>
+  </entry>
   <entry>
     <title type="text">Top 3 takeaways from BlackHat USA 2022</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/blackhat-usa-2022"/>
@@ -174,15 +183,6 @@
     <published>2022-04-06T20:28:33Z</published>
     <summary type="text">
       Check out what’s new in SonarQube 9.4 in this 10-minute video brought to you by our Community Managers!
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">PHP Supply Chain Attack on PEAR</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/php-supply-chain-attack-on-pear"/>
-    <id>https://blog.sonarsource.com/php-supply-chain-attack-on-pear</id>
-    <published>2022-03-29T13:35:58Z</published>
-    <summary type="text">
-      For the second time in a year, we identified critical code vulnerabilities in a central component of the PHP supply chain. Let&#x27;s dive into it!
     </summary>
   </entry>
 
