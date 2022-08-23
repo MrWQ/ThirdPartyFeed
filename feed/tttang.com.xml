@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-08-23T06:18:55+08:00</updated>
+  <updated>2022-08-23T13:19:08+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">一种新的Tomcat内存马 - Upgrade内存马</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1709/"/>
+    <id>https://tttang.com/archive/1709/</id>
+    <published>2022-08-23T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;在渗透过程中，有些时候虽然我们植入了内存马，但是由于原有Filter的缘故，导致鉴权失败或者是无法访问，在亦或是由于反代的缘故，很多时候无法找到对应路径。为了解决这个问题，我们要在进入请求进入Filter之前进入内存马被拦截处理。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">基于USMA的内核通用EXP编写思路在 CVE-2022-34918 上的实践</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1706/"/>
@@ -141,16 +150,6 @@
     <published>2022-08-03T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;在本文中，我们会探索句柄在windows内核中表现形式，帮助了解句柄在windows中的作用。通过调试与逆向内核代码的方式，介绍句柄是如何关联到内核对象，并在此基础上介绍一种利用句柄来保护我们的进程不被读写的技术方案。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">浅析Vmess流量与强网杯2022谍影重重</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1687/"/>
-    <id>https://tttang.com/archive/1687/</id>
-    <published>2022-08-02T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;在密码学中，Message Authentication Code(消息认证码，有时也被称为tag)是用来认证消息的比较短的信息。换言之，MAC用来保证消息的&lt;strong&gt;数据完整性&lt;/strong&gt;和&lt;strong&gt;消息的数据源&lt;/strong&gt;认证。&lt;/p&gt;
-&lt;p&gt;MAC由消息本身和一个密钥经过一系列计算产生，用于生成MAC的算法，称为MAC算法。MAC算法应能满足如下几个条件:&lt;/p&gt;
     </summary>
   </entry>
 
