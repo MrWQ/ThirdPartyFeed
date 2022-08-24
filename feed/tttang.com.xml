@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-08-24T06:17:56+08:00</updated>
+  <updated>2022-08-24T13:12:16+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">利用 PHP-FPM 做内存马的方法</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1720/"/>
+    <id>https://tttang.com/archive/1720/</id>
+    <published>2022-08-24T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;Java 内存马固然是极好的，可我略微瞟了一眼&lt;a href=&quot;https://w3techs.com/technologies/overview/programming_language&quot; target=&quot;_blank&quot;&gt;PHP 的占有率&lt;/a&gt;，虽然从我上次关注 PHP 10年都过去了，PHP 却仍然是最为主流的服务端 Web 语言。所以，为什么没人做 PHP 的内存马研究呢？&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">一种新的Tomcat内存马 - Upgrade内存马</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1709/"/>
@@ -141,15 +150,6 @@
     <published>2022-08-04T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;之前周末忙着强网杯，对这道题只做了一半就搁置下来了，最后卡在绕过最新pebble模板引擎RCE那里，今天抽空来继续进行剩下的分析，正好题目里有几个在现实场景当中能用的trick顺便也分享了&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">探索Windows内核系列——句柄，利用句柄进行进程保护</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1682/"/>
-    <id>https://tttang.com/archive/1682/</id>
-    <published>2022-08-03T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;在本文中，我们会探索句柄在windows内核中表现形式，帮助了解句柄在windows中的作用。通过调试与逆向内核代码的方式，介绍句柄是如何关联到内核对象，并在此基础上介绍一种利用句柄来保护我们的进程不被读写的技术方案。&lt;/p&gt;
     </summary>
   </entry>
 
