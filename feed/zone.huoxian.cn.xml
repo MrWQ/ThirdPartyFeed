@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-08-26T13:25:42+08:00</updated>
+  <updated>2022-08-26T18:20:19+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">洞态IAST&amp;FAQ</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2334-iastfaq"/>
+    <id>https://zone.huoxian.cn/d/2334-iastfaq</id>
+    <published>2022-08-26T07:38:33+00:00</published>
+    <summary type="text">
+      洞态IAST&amp;FAQ
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220826</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2333-20220826"/>
+    <id>https://zone.huoxian.cn/d/2333-20220826</id>
+    <published>2022-08-26T07:14:23+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220826
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-08-09T02:26:37+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220809
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220808</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2296-20220808"/>
-    <id>https://zone.huoxian.cn/d/2296-20220808</id>
-    <published>2022-08-08T02:24:08+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220808
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">溯源反制常用宝藏网站大全</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2295"/>
-    <id>https://zone.huoxian.cn/d/2295</id>
-    <published>2022-08-06T03:33:54+00:00</published>
-    <summary type="text">
-      溯源反制常用宝藏网站大全
     </summary>
   </entry>
 
