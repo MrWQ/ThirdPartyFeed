@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-08-26T06:18:39+08:00</updated>
+  <updated>2022-08-26T13:25:40+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">若依(RuoYi)管理系统后台sql注入漏洞分析</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1712/"/>
+    <id>https://tttang.com/archive/1712/</id>
+    <published>2022-08-26T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;若依管理系统是基于&lt;code&gt;SpringBoot&lt;/code&gt;框架开发的，并利用&lt;code&gt;MyBatis&lt;/code&gt;框架进行数据库操作。在RuoYi &amp;lt;=4.6.1版本中后台存在sql注入漏洞，本着对MyBatis框架中sql注入学习的态度，对该漏洞进行了以下分析。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">psexec原理分析和实现</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1710/"/>
@@ -135,21 +144,6 @@
     <published>2022-08-08T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;前段时间2022虎符决赛结束，赛后从学长那看到了题目，其中出现了一道PowerPC64架构的pwn题，从架构方面来说比较少见，刚好之前看过一道PowerPC架构32位栈溢出的题目，于是放到一起整理一下。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">CVE-2022-34918 netfilter nf_tables 本地提权分析</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1693/"/>
-    <id>https://tttang.com/archive/1693/</id>
-    <published>2022-08-05T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;h2 id=&quot;toc_&quot;&gt;&lt;a href=&quot;#toc_&quot;&gt;影响范围&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;引入commit：&lt;a href=&quot;https://github.com/torvalds/linux/commit/fdb9c405e35bdc6e305b9b4e20ebc141ed14fc81&quot; target=&quot;_blank&quot;&gt;fdb9c405e35bdc6e305b9b4e20ebc141ed14fc81&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;修复commit：&lt;a href=&quot;https://github.com/torvalds/linux/commit/7e6bc1f6cabcd30aba0b11219d8e01b952eacbb6&quot; target=&quot;_blank&quot;&gt;7e6bc1f6cabcd30aba0b11219d8e01b952eacbb6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;时间跨度：2020/04/28 ~ 2022/07/03&lt;/li&gt;
-&lt;li&gt;版本跨度：v5.8 ~ v5.19&lt;/li&gt;
-&lt;/ul&gt;
     </summary>
   </entry>
 
