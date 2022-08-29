@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-08-29T13:35:54+08:00</updated>
+  <updated>2022-08-29T18:21:14+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">我和逻辑漏洞的那些事(一)</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1909"/>
+    <id>https://sec-in.com/article/1909</id>
+    <published>2022-08-29T15:20:13+08:00</published>
+    <summary type="text">
+      文中提到的逻辑漏洞都是平时积累经验总结出来的，这只是部分的，对还没有挖过漏洞的师傅们献上自己的经验。
+    </summary>
+  </entry>
   <entry>
     <title type="text">Bugku-渗透&amp;加固模式-应急加固1-通关wp</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1911"/>
@@ -84,15 +93,6 @@
     <published>2022-08-12T17:12:17+08:00</published>
     <summary type="text">
       防守方的工作我粗略分为三个阶段，**战前准备阶段、演练开始阶段、复盘总结阶段**，从目标导向来看，攻击方的工作重心更偏向于演练开始阶段，而防守的工作重心更多的偏向于战前准备阶段。本文以防守方视角出发对
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">第三部分：我如何找到你的标识 – Brute Rate</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1884"/>
-    <id>https://sec-in.com/article/1884</id>
-    <published>2022-08-10T15:56:28+08:00</published>
-    <summary type="text">
-      在本系列的第三部分，我们将分析Brute Ratel，一个由Dark Vortex. 开发的指挥和控制框架。
     </summary>
   </entry>
 
