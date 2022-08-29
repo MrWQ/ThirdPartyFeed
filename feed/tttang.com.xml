@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-08-29T06:17:21+08:00</updated>
+  <updated>2022-08-29T13:35:56+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">ATT&amp;amp;CK中的攻与防——T1059</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1718/"/>
+    <id>https://tttang.com/archive/1718/</id>
+    <published>2022-08-29T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;为什么会有此篇文章，随着攻防大环境的深入，ATT&amp;amp;CK攻防矩阵也逐渐步入各个企业视野，越来越多的企业采用ATT&amp;amp;CK矩阵来作为反入侵检测，但是笔者很少看到有文章具体分析每一条策略的检测逻辑已经绕过方案，WINDOWS端的或许是零零碎碎的技术细节，MAC的更无从谈起，笔者从事安全的时间也不长，对于ATT&amp;amp;CK矩阵的了解也只能是略知一二，本文就以T1059策略作为切入点，分析一下ATT&amp;amp;CK矩阵中的攻与防，如果读者认为此篇文章能学到一些不一样的东西，笔者自然是很开心，笔者后续也会把ATT&amp;amp;CK矩阵的所有TTP做一个技术分析。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">若依(RuoYi)管理系统后台sql注入漏洞分析</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1712/"/>
@@ -135,15 +144,6 @@
     <published>2022-08-09T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;这是WMI的第三篇文章，本文主要调式分析WMI消费者的工作原理，进而提出WMI的检测思路。本文首先介绍了本次分析所需要了解的WMI基本组件和底层协议(RPC),然后通过调式网上的RPC客户端和服务端的通信，了解RPC的原理，接着通过分析两个典型的WMI利用(查询数据，执行函数)，了解WMI的检测，由于WMI调试相关资料过少，没有进行自我订正，可能存在错误，或者重大错误，希望有了解的大佬积极斧正。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">PowerPC PWN从入门到实践</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1695/"/>
-    <id>https://tttang.com/archive/1695/</id>
-    <published>2022-08-08T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;前段时间2022虎符决赛结束，赛后从学长那看到了题目，其中出现了一道PowerPC64架构的pwn题，从架构方面来说比较少见，刚好之前看过一道PowerPC架构32位栈溢出的题目，于是放到一起整理一下。&lt;/p&gt;
     </summary>
   </entry>
 
