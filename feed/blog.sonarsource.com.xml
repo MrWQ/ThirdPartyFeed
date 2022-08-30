@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-08-30T18:19:56+08:00</updated>
+  <updated>2022-08-31T06:19:06+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Sonar Streamlines the Race to Release</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/sonar-streamlines-the-race-to-release"/>
+    <id>https://blog.sonarsource.com/sonar-streamlines-the-race-to-release</id>
+    <published>2022-08-30T14:46:42Z</published>
+    <summary type="text">
+      Knowing if your latest release candidate is built with clean code doesn’t have to be a guessing game. With Sonar at your side, you’ll know that every new line, every PR and every build is clean.
+    </summary>
+  </entry>
   <entry>
     <title type="text">Securing Developer Tools: Argument Injection in Visual Studio Code</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode"/>
@@ -174,15 +183,6 @@
     <published>2022-04-19T12:43:43Z</published>
     <summary type="text">
       We recently discovered a critical code vulnerability in RainLoop Webmail that allows attackers to steal all emails by sending a malicious mail.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">SonarQube 9.4 is here!</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/sonarqube-9.4-video"/>
-    <id>https://blog.sonarsource.com/sonarqube-9.4-video</id>
-    <published>2022-04-06T20:28:33Z</published>
-    <summary type="text">
-      Check out what’s new in SonarQube 9.4 in this 10-minute video brought to you by our Community Managers!
     </summary>
   </entry>
 

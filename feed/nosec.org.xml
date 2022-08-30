@@ -3,8 +3,17 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2022-08-30T18:20:14+08:00</updated>
+  <updated>2022-08-31T06:19:17+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">技术分享 | 基于攻击视角（GOBY）的暴露面梳理及防护技术（...</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5033.html"/>
+    <id>https://nosec.org/home/detail/5033.html</id>
+    <published>2022-08-30T18:52:22+08:00</published>
+    <summary type="text">
+      本文将从常规的信息收集，以及利用 Goby 的 IP 库功能快速便捷的整理资产等角度来讲述如何弄清楚我们在互联网上的资产暴露面都有哪些。
+    </summary>
+  </entry>
   <entry>
     <title type="text">深入分析CVE-2022-30136 Windows NFS RCE漏洞</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5031.html"/>
@@ -174,15 +183,6 @@
     <published>2022-05-26T17:02:20+08:00</published>
     <summary type="text">
       在受客户之邀进行渗透测试过程中，我们利用弱口令成功拿下了Zyxel ZyWALL统一安全网关（USG）设备的管理权限，这些设备被用作分支机构的防火墙和VPN集线器。另外...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Dotcms SI-62 任意文件上传 (CVE-2022-26352)</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5007.html"/>
-    <id>https://nosec.org/home/detail/5007.html</id>
-    <published>2022-05-25T15:41:57+08:00</published>
-    <summary type="text">
-      DotCMS 是美国dotCMS公司的一套内容管理系统（CMS）。DotCMS对上传的文件名过滤不严格导致目录穿越，攻击者可以将一个特殊的.jsp 文件上传到dotCMS 的webapp/ROO...
     </summary>
   </entry>
 
