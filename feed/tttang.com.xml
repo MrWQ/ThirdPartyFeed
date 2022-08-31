@@ -3,8 +3,19 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-08-31T06:19:05+08:00</updated>
+  <updated>2022-08-31T13:40:04+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">浅析路由器WEB服务架构（一）</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1719/"/>
+    <id>https://tttang.com/archive/1719/</id>
+    <published>2022-08-31T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;blockquote&gt;
+&lt;p&gt;在路由器设备的漏洞挖掘当中，WEB服务通常都是安全研究人员重点关注的内容之一，安全研究员拿到一个设备之后，都会去对这个设备的攻击面进行收集与分析，但可以不可以一拿到设备的固件看到文件夹的结构就知道这个路由器的攻击面呢？网上似乎也没有这种总结从路由器WEB服务架构看路由器的攻击面的文章，这些路由器的WEB架构看着都有相似的点，也有不同之处，那到底是哪里相同，哪里不同呢？作为一个WEB小萌新，对此类概念还很模糊，接下来就来探讨一下吧！&lt;/p&gt;
+&lt;/blockquote&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">UAC 原理与检测</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1715/"/>
@@ -135,15 +146,6 @@
       &lt;p&gt;影响或阻碍 IDA、BinaryNinja、Ghidra 和 Radare2 等反汇编工具的 ELF 或 Mach-O 修改。&lt;/p&gt;
 &lt;p&gt;不会修改汇编代码或二进制数据。重点是修改可执行文件格式的一些结构，比如节区和符号。&lt;/p&gt;
 &lt;p&gt;所有修改均基于LIEF，一个用于解析和修改可执行文件格式的库。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">tabby原理分析</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1696/"/>
-    <id>https://tttang.com/archive/1696/</id>
-    <published>2022-08-10T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;&lt;a href=&quot;https://github.com/wh1t3p1g/tabby&quot; target=&quot;_blank&quot;&gt;tabby&lt;/a&gt;是一款基于&lt;a href=&quot;https://github.com/soot-oss/soot&quot; target=&quot;_blank&quot;&gt;soot&lt;/a&gt;实现的java静态代码分析工具，用于分析jar包，生成代码属性图。结合手工可以半自动地完成java反序列化链挖掘工作。&lt;/p&gt;
     </summary>
   </entry>
 
