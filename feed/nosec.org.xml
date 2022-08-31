@@ -3,8 +3,17 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2022-08-31T13:40:49+08:00</updated>
+  <updated>2022-08-31T18:20:20+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">【漏洞通报】GitLab CE/EE 远程命令执行漏洞（CVE-2022-299...</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5034.html"/>
+    <id>https://nosec.org/home/detail/5034.html</id>
+    <published>2022-08-31T16:28:33+08:00</published>
+    <summary type="text">
+      在 GitLab 中发现了一个关键问题，该问题影响15.1.6前、从15.2 到15.2.4以及从 15.3 到 15.3.2 的所有版本，该漏洞允许经过身份验证的用户通过GitHub 导入功能远...
+    </summary>
+  </entry>
   <entry>
     <title type="text">技术分享 | 基于攻击视角（GOBY）的暴露面梳理及防护技术（...</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5033.html"/>
@@ -174,15 +183,6 @@
     <published>2022-05-31T18:02:53+08:00</published>
     <summary type="text">
       Microsoft Office 存在远程代码执行漏洞，攻击者可通过恶意 Office 文件中远程模板功能从服务器获取恶意 HTML 文件，通过 &#x27;ms-msdt&#x27; URI 来执行恶意 PowerShell...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Zyxel设备固件提取与口令破解</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5004.html"/>
-    <id>https://nosec.org/home/detail/5004.html</id>
-    <published>2022-05-26T17:02:20+08:00</published>
-    <summary type="text">
-      在受客户之邀进行渗透测试过程中，我们利用弱口令成功拿下了Zyxel ZyWALL统一安全网关（USG）设备的管理权限，这些设备被用作分支机构的防火墙和VPN集线器。另外...
     </summary>
   </entry>
 
