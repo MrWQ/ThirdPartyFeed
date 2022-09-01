@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-09-01T06:19:59+08:00</updated>
+  <updated>2022-09-01T13:14:56+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">fuzzer AFL 源码分析（二）-fuzz流程</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1686/"/>
+    <id>https://tttang.com/archive/1686/</id>
+    <published>2022-09-01T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;第一部分介绍了&lt;code&gt;afl&lt;/code&gt;插桩编译的过程，思考了很久才定下第二部分写些什么。本来打算第二部分详细解释插桩部分和&lt;code&gt;forkserver&lt;/code&gt;的代码的，但是感觉如果对&lt;code&gt;afl-fuzz&lt;/code&gt;的整体流程没有大致掌握的话，直接去描述细节会让人不理解为什么&lt;code&gt;afl&lt;/code&gt;这部分要这样去设计，因此决定在第二部分将&lt;code&gt;afl-fuzz&lt;/code&gt;的主要流程（&lt;code&gt;main&lt;/code&gt;）和部分不是关键代码的函数给说清楚，后续再逐步对关键代码模块进行详细分析，j继而实现对&lt;code&gt;afl&lt;/code&gt;模糊测试的解析。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">浅析路由器WEB服务架构（一）</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1719/"/>
@@ -135,17 +144,6 @@
     <published>2022-08-12T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;上周周末结束的 corCTF 中有一个题目提出了一种很有意思的攻击，该攻击方式可以利用 HTTP/2 Server Push 机制 XSS 到其他域，尽管利用条件有点苛刻，但是我个人非常喜欢这种 Magic 的攻击方式。（在征求了原作者 &lt;a href=&quot;https://larry.sh/&quot; target=&quot;_blank&quot;&gt;@ehhthing&lt;/a&gt; 同意下将该方法分享给大家）&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">The Poor Man&amp;#x27;s Obfuscator</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1697/"/>
-    <id>https://tttang.com/archive/1697/</id>
-    <published>2022-08-11T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;影响或阻碍 IDA、BinaryNinja、Ghidra 和 Radare2 等反汇编工具的 ELF 或 Mach-O 修改。&lt;/p&gt;
-&lt;p&gt;不会修改汇编代码或二进制数据。重点是修改可执行文件格式的一些结构，比如节区和符号。&lt;/p&gt;
-&lt;p&gt;所有修改均基于LIEF，一个用于解析和修改可执行文件格式的库。&lt;/p&gt;
     </summary>
   </entry>
 
