@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-09-01T13:14:56+08:00</updated>
+  <updated>2022-09-01T18:20:41+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">You’re 3 minutes away from clean Java pull requests!</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/youre-3-minutes-away-from-clean-java-pull-requests"/>
+    <id>https://blog.sonarsource.com/youre-3-minutes-away-from-clean-java-pull-requests</id>
+    <published>2022-09-01T07:00:11Z</published>
+    <summary type="text">
+      In this blog, I’m going to demonstrate how you can get started with SonarCloud in less than 3 minutes and ensure all new Java pull requests are clean, every time.
+    </summary>
+  </entry>
   <entry>
     <title type="text">Sonar Streamlines the Race to Release</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/sonar-streamlines-the-race-to-release"/>
@@ -174,15 +183,6 @@
     <published>2022-05-06T13:51:33Z</published>
     <summary type="text">
       VS Code has been gaining popularity for C and C++ development. We are happy to announce that finally, we will be able to help you write clean C and C++ code in VS Code.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">RainLoop Webmail - Emails at Risk due to Code Flaw</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/rainloop-emails-at-risk-due-to-code-flaw"/>
-    <id>https://blog.sonarsource.com/rainloop-emails-at-risk-due-to-code-flaw</id>
-    <published>2022-04-19T12:43:43Z</published>
-    <summary type="text">
-      We recently discovered a critical code vulnerability in RainLoop Webmail that allows attackers to steal all emails by sending a malicious mail.
     </summary>
   </entry>
 
