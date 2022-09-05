@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-09-05T13:26:00+08:00</updated>
+  <updated>2022-09-05T18:20:31+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">利用 WebView2 应用进行攻击</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1916"/>
+    <id>https://sec-in.com/article/1916</id>
+    <published>2022-09-05T16:25:53+08:00</published>
+    <summary type="text">
+      对于攻击者而言，使用 WebView2 的主要优势就是它提供了丰富的用于获取凭证及会话信息的功能。在本文中，我将论述并展示作为一名攻击者如何创建一个多用途的 WebView2 应用程序
+    </summary>
+  </entry>
   <entry>
     <title type="text">记一次对HTB:Timelapse的三次远程连接</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1912"/>
@@ -84,15 +93,6 @@
     <published>2022-08-12T17:31:43+08:00</published>
     <summary type="text">
       内网渗透提前是我们已经通过各种手段拿到内网中某一台可以通向外网的服务器或主机的权限，然后把此当作跳板，内网渗透的目的是拿到DC域控制器的权限，达到控制整个域环境
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">红蓝对抗-安装包钓鱼与反钓鱼</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1886"/>
-    <id>https://sec-in.com/article/1886</id>
-    <published>2022-08-12T17:20:55+08:00</published>
-    <summary type="text">
-      文件钓鱼是红蓝对抗中红队经常使用的攻击手段，相反蓝队也可以通过反钓鱼的手段来对红队进行反制，获取分值。
     </summary>
   </entry>
 
