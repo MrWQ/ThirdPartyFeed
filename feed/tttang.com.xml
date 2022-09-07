@@ -3,8 +3,20 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-09-06T18:21:37+08:00</updated>
+  <updated>2022-09-07T10:44:25+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">dpt-shell抽取壳项目源码及其逆向分析</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1728/"/>
+    <id>https://tttang.com/archive/1728/</id>
+    <published>2022-09-07T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;由于前段时间网鼎杯一道Android题目中用了这个，具有一定研究价值，便做一个壳的实现分析&lt;br&gt;
+&lt;a href=&quot;https://github.com/luoyesiqiu/dpt-shell&quot; target=&quot;_blank&quot;&gt;https://github.com/luoyesiqiu/dpt-shell&lt;/a&gt;&lt;br&gt;
+其实这个是一个假的抽取壳，虽然函数抽取壳确实是将dex文件中的函数代码给nop，然后在运行时再把字节码给填回，但是不会填回内存中原dex位置，是填回内存中的一个解析后的结构体，比如梆梆加固，普通的工具是dump不到dex的。&lt;br&gt;
+虽然但是，能写出这个的也足以说明作者对Android的了解。即使作者也有howtowork文档去解释如何实现的，但是很多都被省略掉，这里做个源码分析，许多抽取壳也有类似的操作。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">codeql实践之查找house_of_kiwi利用点</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1727/"/>
@@ -134,16 +146,6 @@
     <published>2022-08-18T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;&lt;a href=&quot;https://github.com/github/codeql&quot; target=&quot;_blank&quot;&gt;CodeQL&lt;/a&gt;是一个帮助开发者自动完成安全检查、帮助安全研究者进行变异分析的分析引擎。它由代码数据库和代码语义分析引擎组成，通过将代码抽象为数据查询表保存到代码数据库中，可以方便地运行代码查询。本文的关注点在于CodeQL是如何生成代码数据库。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">二次反序列化 看我一命通关</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1701/"/>
-    <id>https://tttang.com/archive/1701/</id>
-    <published>2022-08-17T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;不记得是哪一场比赛了，遇到了一个 Java 的题目，过滤了很多关键类，不管茯苓把 CC 链如何拆开组合，都没有办法绕过。&lt;/p&gt;
-&lt;p&gt;就在此时，大佬看了一眼说，用二次反序列化就可以绕过了。“二次反序列化”这六个字重重地敲在了我的心巴上，从那以后我就对二次反序列化产生了莫名的渴望。&lt;/p&gt;
     </summary>
   </entry>
 

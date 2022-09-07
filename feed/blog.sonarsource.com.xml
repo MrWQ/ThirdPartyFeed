@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-09-06T18:21:36+08:00</updated>
+  <updated>2022-09-07T10:44:24+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">WordPress Core - Unauthenticated Blind SSRF</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf"/>
+    <id>https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf</id>
+    <published>2022-09-06T12:50:56Z</published>
+    <summary type="text">
+      Our security researchers were surprised to discover a low-hanging code vulnerability in WordPress Core that we will discuss in this blog post.
+    </summary>
+  </entry>
   <entry>
     <title type="text">You’re 3 minutes away from clean Java pull requests!</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/youre-3-minutes-away-from-clean-java-pull-requests"/>
@@ -174,15 +183,6 @@
     <published>2022-05-11T13:46:15Z</published>
     <summary type="text">
       We recently discovered two critical vulnerabilities in the IT monitoring dashboard Icinga Web. Let’s review their respective root cause and their patches!
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">A C&amp;C++ tour of SonarLint for VS Code</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/a-c-and-cpp-tour-of-sonarlint-for-vs-code"/>
-    <id>https://blog.sonarsource.com/a-c-and-cpp-tour-of-sonarlint-for-vs-code</id>
-    <published>2022-05-06T13:51:33Z</published>
-    <summary type="text">
-      VS Code has been gaining popularity for C and C++ development. We are happy to announce that finally, we will be able to help you write clean C and C++ code in VS Code.
     </summary>
   </entry>
 
