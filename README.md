@@ -46,7 +46,7 @@ SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/Thi
 - [diff.blog](https://diff.blog/)
 - [SecWiki聚合](https://www.sec-wiki.com/opml/index)
 - [常用 RSS 源列表](https://plink.anyfeeder.com/)
-- [Readdig.com](https://www.readdig.com/)
+
 
 
 ## 阅读器推荐
@@ -60,6 +60,7 @@ SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/Thi
 ### 在线
 - [深蓝阅读](https://bluereader.org/)
 - [蚁阅](https://rss.anyant.com/)
+- [Readdig.com](https://www.readdig.com/)
 - [Inoreader](https://www.inoreader.com/)
 - [Feeds Pub](https://feeds.pub/)
 - [Feedly](https://feedly.com/)
