@@ -3,8 +3,18 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-09-09T06:19:41+08:00</updated>
+  <updated>2022-09-09T13:13:49+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">Dubbo反序列化漏洞分析集合1</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1730/"/>
+    <id>https://tttang.com/archive/1730/</id>
+    <published>2022-09-09T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;Apache Dubbo是一款高性能、轻量级的开源Java RPC框架，它提供了三大核心能力：面向接口的远程方法调用、智能容错和负载均衡、以及服务自动注册和发现。&lt;/p&gt;
+&lt;p&gt;Dubbo RPC是Apache Dubbo体系中最核心的一种高性能、高吞吐量的远程调用方式，主要用于两个Dubbo系统之间远程调用。在Dubbo RPC中，支持多种序列化方式，如dubbo序列化、hessian2序列化、kryo序列化、json序列化、java序列化等等&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">原生反序列化链 jdk8u20 的新构造</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1729/"/>
@@ -141,15 +151,6 @@
 &lt;p&gt;在上一篇文章中，我将360在blackhat asia 2022上提出的USMA利用方式实践于 CVE-2022-34918的利用过程中，取得了不错的利用效果，即绕过了内核诸多的防御措施。&lt;/p&gt;
 &lt;p&gt;但唯一的缺点是，上次的利用脚本&lt;strong&gt;需要攻击者预先知道内核中的目标函数偏移&lt;/strong&gt;，而这往往是实际利用中&lt;strong&gt;最难获得的&lt;/strong&gt;。这也正是DirtyCow，DirtyPipe这些逻辑类漏洞相比于内存损坏类漏洞最大的优势。&lt;/p&gt;
 &lt;p&gt;这篇文章我们再以CVE-2022-34918为模板，尝试让USMA在利用过程中不再依赖内核中的地址偏移，从而内存损坏型漏洞的exp能够和逻辑类漏洞一样具有普适性。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">从偶遇Flarum开始的RCE之旅</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1714/"/>
-    <id>https://tttang.com/archive/1714/</id>
-    <published>2022-08-19T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;一次日常测试中，偶然遇到了一个Flarum搭建的论坛，并获得了其管理员账号。本来到这里已经可以算完成了任务，将漏洞报给具体负责的人就结束了，但是既然已经拿到了管理员账号，何不尝试一下RCE呢？&lt;/p&gt;
     </summary>
   </entry>
 
