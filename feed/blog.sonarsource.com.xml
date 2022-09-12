@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-09-12T13:35:43+08:00</updated>
+  <updated>2022-09-12T18:22:38+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">The Power of Clean Code</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/power-of-clean-code"/>
+    <id>https://blog.sonarsource.com/power-of-clean-code</id>
+    <published>2022-09-09T07:48:10Z</published>
+    <summary type="text">
+      Clean Code is fundamental to delivering better software. Read more in this post from SonarSource CEO and co-founder, Olivier Gaudin.
+    </summary>
+  </entry>
   <entry>
     <title type="text">WordPress Core - Unauthenticated Blind SSRF</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf"/>
@@ -174,15 +183,6 @@
     <published>2022-05-16T14:32:06Z</published>
     <summary type="text">
       Reflections and Key Takeaways from PyCon US 2022
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Path Traversal Vulnerabilities in Icinga Web</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/path-traversal-vulnerabilities-in-icinga-web"/>
-    <id>https://blog.sonarsource.com/path-traversal-vulnerabilities-in-icinga-web</id>
-    <published>2022-05-11T13:46:15Z</published>
-    <summary type="text">
-      We recently discovered two critical vulnerabilities in the IT monitoring dashboard Icinga Web. Let’s review their respective root cause and their patches!
     </summary>
   </entry>
 
