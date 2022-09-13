@@ -3,8 +3,18 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-09-13T08:47:32+08:00</updated>
+  <updated>2022-09-13T13:36:20+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">OSCP tips and tricks（译文）</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1734/"/>
+    <id>https://tttang.com/archive/1734/</id>
+    <published>2022-09-13T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;本文将为大家介绍如何搞定OSCP实验和考试！（100 + 10 / 100 分）&lt;br&gt;
+这是本人通过OSCP实验和认证过程的小结。同时，我还决定添加一些可用于实战的技巧（适用于红队、渗透测试以及逆向分析等）。当然，本文提到的许多命令、工具和技巧，大多来自其他（与OSCP相关或不相关）在线指南，相关的链接可以在参考资料部分找到。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">Dubbo反序列化漏洞分析集合1</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1730/"/>
@@ -139,18 +149,6 @@
     <published>2022-08-23T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;在渗透过程中，有些时候虽然我们植入了内存马，但是由于原有Filter的缘故，导致鉴权失败或者是无法访问，在亦或是由于反代的缘故，很多时候无法找到对应路径。为了解决这个问题，我们要在进入请求进入Filter之前进入内存马被拦截处理。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">基于USMA的内核通用EXP编写思路在 CVE-2022-34918 上的实践</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1706/"/>
-    <id>https://tttang.com/archive/1706/</id>
-    <published>2022-08-22T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;书接上回&lt;a href=&quot;https://veritas501.github.io/2022_08_02-CVE-2022-34918%20netfilter%20%E5%88%86%E6%9E%90%E7%AC%94%E8%AE%B0/&quot; target=&quot;_blank&quot;&gt;《CVE-2022-34918 netfilter 分析笔记》&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;在上一篇文章中，我将360在blackhat asia 2022上提出的USMA利用方式实践于 CVE-2022-34918的利用过程中，取得了不错的利用效果，即绕过了内核诸多的防御措施。&lt;/p&gt;
-&lt;p&gt;但唯一的缺点是，上次的利用脚本&lt;strong&gt;需要攻击者预先知道内核中的目标函数偏移&lt;/strong&gt;，而这往往是实际利用中&lt;strong&gt;最难获得的&lt;/strong&gt;。这也正是DirtyCow，DirtyPipe这些逻辑类漏洞相比于内存损坏类漏洞最大的优势。&lt;/p&gt;
-&lt;p&gt;这篇文章我们再以CVE-2022-34918为模板，尝试让USMA在利用过程中不再依赖内核中的地址偏移，从而内存损坏型漏洞的exp能够和逻辑类漏洞一样具有普适性。&lt;/p&gt;
     </summary>
   </entry>
 
