@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-09-13T13:36:13+08:00</updated>
+  <updated>2022-09-13T18:22:22+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Happy Day of the Programmer!</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/happy-day-of-the-programmer"/>
+    <id>https://blog.sonarsource.com/happy-day-of-the-programmer</id>
+    <published>2022-09-13T07:00:39Z</published>
+    <summary type="text">
+      Join us as we celebrate programmers everywhere, and learn why we value the Community.
+    </summary>
+  </entry>
   <entry>
     <title type="text">The Power of Clean Code</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/power-of-clean-code"/>
@@ -174,15 +183,6 @@
     <published>2022-05-24T09:06:33Z</published>
     <summary type="text">
       Earlier this year we launched our new brand and website. Read more in this post by Sonar CEO and Co-founder, Olivier Gaudin.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Reflections from PyCon US 2022</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/reflections-from-pycon-us-2022"/>
-    <id>https://blog.sonarsource.com/reflections-from-pycon-us-2022</id>
-    <published>2022-05-16T14:32:06Z</published>
-    <summary type="text">
-      Reflections and Key Takeaways from PyCon US 2022
     </summary>
   </entry>
 
