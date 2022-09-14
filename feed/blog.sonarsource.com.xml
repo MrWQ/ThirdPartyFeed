@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-09-14T18:22:15+08:00</updated>
+  <updated>2022-09-15T06:20:24+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Interview with a SonarSource Developer</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/interview-with-a-sonarsource-developer"/>
+    <id>https://blog.sonarsource.com/interview-with-a-sonarsource-developer</id>
+    <published>2022-09-14T14:24:58Z</published>
+    <summary type="text">
+      Curious about life as a Developer at SonarSource? Join us as we discuss changes in the world of programming, the importance of Security, and writing code with SonarCloud Backend Developer Claire Villard.
+    </summary>
+  </entry>
   <entry>
     <title type="text">Happy Day of the Programmer!</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/happy-day-of-the-programmer"/>
@@ -174,15 +183,6 @@
     <published>2022-06-01T09:30:45Z</published>
     <summary type="text">
       We discovered vulnerabilities in Horde Webmail that allow an attacker to execute arbitrary code on Horde instances by having a victim open an email
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">A new and refreshed website for Sonar</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/new-and-refreshed-website-sonar"/>
-    <id>https://blog.sonarsource.com/new-and-refreshed-website-sonar</id>
-    <published>2022-05-24T09:06:33Z</published>
-    <summary type="text">
-      Earlier this year we launched our new brand and website. Read more in this post by Sonar CEO and Co-founder, Olivier Gaudin.
     </summary>
   </entry>
 
