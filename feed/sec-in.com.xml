@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-09-14T06:21:04+08:00</updated>
+  <updated>2022-09-14T13:25:36+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">pbootcms审计记录</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1923"/>
+    <id>https://sec-in.com/article/1923</id>
+    <published>2022-09-14T10:43:07+08:00</published>
+    <summary type="text">
+      利用 phpstudy 轻松搭建 [pbootcms](https://www.pbootcms.com/) 环境，但是在搭建过程中，我们自己设定 phpstudy 的解析域名不行，需要获取授权码，
+    </summary>
+  </entry>
   <entry>
     <title type="text">利用 docker 搭建简单三层渗透靶场</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1921"/>
@@ -84,15 +93,6 @@
     <published>2022-08-22T10:38:42+08:00</published>
     <summary type="text">
       之前看到了一篇文章 [hvv反制红队第一章之nps代理工具0day漏洞分析](https://mp.weixin.qq.com/s/PTq01wcV4XJwutbSjHjfvA) ，感觉非常有意思
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">电子数据取证</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1902"/>
-    <id>https://sec-in.com/article/1902</id>
-    <published>2022-08-18T14:52:33+08:00</published>
-    <summary type="text">
-      科学的运用提取和证明方法，对从电子数据源提取的证据进行保护、收集、验证、鉴定、分析、解释、存档和出示，以有助于进一步的犯罪事件重构或帮助识别某些计划操作无关的非授权性活动。
     </summary>
   </entry>
 

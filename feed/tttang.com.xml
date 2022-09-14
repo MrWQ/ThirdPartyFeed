@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-09-14T06:21:04+08:00</updated>
+  <updated>2022-09-14T13:25:40+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">PHP Phar反序列化浅学习</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1732/"/>
+    <id>https://tttang.com/archive/1732/</id>
+    <published>2022-09-14T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;Phar反序列化是PHP反序列化的一个重要部分，进行相关学习后，简单总结如下，希望对正在学习的师傅有所帮助。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">OSCP tips and tricks（译文）</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1734/"/>
@@ -140,15 +149,6 @@
     <published>2022-08-24T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;Java 内存马固然是极好的，可我略微瞟了一眼&lt;a href=&quot;https://w3techs.com/technologies/overview/programming_language&quot; target=&quot;_blank&quot;&gt;PHP 的占有率&lt;/a&gt;，虽然从我上次关注 PHP 10年都过去了，PHP 却仍然是最为主流的服务端 Web 语言。所以，为什么没人做 PHP 的内存马研究呢？&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">一种新的Tomcat内存马 - Upgrade内存马</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1709/"/>
-    <id>https://tttang.com/archive/1709/</id>
-    <published>2022-08-23T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;在渗透过程中，有些时候虽然我们植入了内存马，但是由于原有Filter的缘故，导致鉴权失败或者是无法访问，在亦或是由于反代的缘故，很多时候无法找到对应路径。为了解决这个问题，我们要在进入请求进入Filter之前进入内存马被拦截处理。&lt;/p&gt;
     </summary>
   </entry>
 
