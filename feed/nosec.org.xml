@@ -3,8 +3,26 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2022-09-14T13:25:45+08:00</updated>
+  <updated>2022-09-14T18:22:32+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">【安全通报】2022年9月微软漏洞补丁日修复多个高危漏洞</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5036.html"/>
+    <id>https://nosec.org/home/detail/5036.html</id>
+    <published>2022-09-14T18:20:55+08:00</published>
+    <summary type="text">
+      近日，微软发布 2022年9月 安全补丁，修复了针对 38 款微软产品的 63 个漏洞，其中18个权限提升漏洞，1个安全功能绕过漏洞，30个远程代码执行漏洞，7个信息泄露...
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">技术分享 | 基于攻击视角（GOBY）的暴露面梳理及防护技术（...</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5035.html"/>
+    <id>https://nosec.org/home/detail/5035.html</id>
+    <published>2022-09-02T18:43:09+08:00</published>
+    <summary type="text">
+      Goby社区第&amp;nbsp;20&amp;nbsp;篇技术分享文章全文共：3212&amp;nbsp;字&amp;nbsp;&amp;nbsp;&amp;nbsp;预计阅读时间：9&amp;nbsp;分...
+    </summary>
+  </entry>
   <entry>
     <title type="text">【漏洞通报】GitLab CE/EE 远程命令执行漏洞（CVE-2022-299...</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5034.html"/>
@@ -165,24 +183,6 @@
     <published>2022-06-08T19:18:17+08:00</published>
     <summary type="text">
       近日，CNVD 官方发布了泛微 E-Office SQL注入漏洞，泛微网络官方已发布修复补丁，请广大用户及时下载更新。...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Spring Cloud Gateway CVE-2022-22947 漏洞分析</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5008.html"/>
-    <id>https://nosec.org/home/detail/5008.html</id>
-    <published>2022-06-01T11:43:36+08:00</published>
-    <summary type="text">
-      当Gateway Actuator端点是启用状态并且是允许访问的以及相关配置不安全时，使用Spring Cloud Gateway的应用程序容易受到代码注入攻击。远程攻击者可以发出恶意制...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">【安全通报】Microsoft Office 远程代码执行漏洞（CVE-2022...</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5009.html"/>
-    <id>https://nosec.org/home/detail/5009.html</id>
-    <published>2022-05-31T18:02:53+08:00</published>
-    <summary type="text">
-      Microsoft Office 存在远程代码执行漏洞，攻击者可通过恶意 Office 文件中远程模板功能从服务器获取恶意 HTML 文件，通过 &#x27;ms-msdt&#x27; URI 来执行恶意 PowerShell...
     </summary>
   </entry>
 
