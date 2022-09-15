@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-09-15T06:20:25+08:00</updated>
+  <updated>2022-09-15T13:23:00+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">Go AST 浅析与CTF中的实战运用</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1736/"/>
+    <id>https://tttang.com/archive/1736/</id>
+    <published>2022-09-15T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;在前段时间的网鼎杯某赛道中遇到了一个题，通过混淆的go源码分析各类函数调用、定义信息。但由于题目本身要求获得的信息过于简单，有不少人直接暴力搜索来解决。但当我们遇到更为复杂，更为巨大的混淆代码时，IDE所提供的简单分析功能也就无能为力了。这也就是我写下这篇文章的原因。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">PHP Phar反序列化浅学习</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1732/"/>
@@ -140,15 +149,6 @@
     <published>2022-08-25T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;psexec是&lt;code&gt;sysinternals&lt;/code&gt;提供的众多windows工具中的一个，这款工具的初衷是帮助管理员管理大量的机器的，后来被攻击者用来做横向渗透。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">利用 PHP-FPM 做内存马的方法</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1720/"/>
-    <id>https://tttang.com/archive/1720/</id>
-    <published>2022-08-24T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;Java 内存马固然是极好的，可我略微瞟了一眼&lt;a href=&quot;https://w3techs.com/technologies/overview/programming_language&quot; target=&quot;_blank&quot;&gt;PHP 的占有率&lt;/a&gt;，虽然从我上次关注 PHP 10年都过去了，PHP 却仍然是最为主流的服务端 Web 语言。所以，为什么没人做 PHP 的内存马研究呢？&lt;/p&gt;
     </summary>
   </entry>
 
