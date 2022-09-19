@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-09-19T06:19:01+08:00</updated>
+  <updated>2022-09-19T13:35:54+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">MacOS 水坑攻击组合拳分析复现</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1745/"/>
+    <id>https://tttang.com/archive/1745/</id>
+    <published>2022-09-19T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;去年11月Google TAG发布了一篇[1]针对MacOS的水坑攻击调查报告，在红队的攻击几乎都以windows下的压缩包投毒为主的当下 能有一起针对Mac如此精良的攻击值得好好复盘分析。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">java免杀合集</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1739/"/>
@@ -140,15 +149,6 @@
     <published>2022-08-29T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;为什么会有此篇文章，随着攻防大环境的深入，ATT&amp;amp;CK攻防矩阵也逐渐步入各个企业视野，越来越多的企业采用ATT&amp;amp;CK矩阵来作为反入侵检测，但是笔者很少看到有文章具体分析每一条策略的检测逻辑已经绕过方案，WINDOWS端的或许是零零碎碎的技术细节，MAC的更无从谈起，笔者从事安全的时间也不长，对于ATT&amp;amp;CK矩阵的了解也只能是略知一二，本文就以T1059策略作为切入点，分析一下ATT&amp;amp;CK矩阵中的攻与防，如果读者认为此篇文章能学到一些不一样的东西，笔者自然是很开心，笔者后续也会把ATT&amp;amp;CK矩阵的所有TTP做一个技术分析。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">若依(RuoYi)管理系统后台sql注入漏洞分析</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1712/"/>
-    <id>https://tttang.com/archive/1712/</id>
-    <published>2022-08-26T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;若依管理系统是基于&lt;code&gt;SpringBoot&lt;/code&gt;框架开发的，并利用&lt;code&gt;MyBatis&lt;/code&gt;框架进行数据库操作。在RuoYi &amp;lt;=4.6.1版本中后台存在sql注入漏洞，本着对MyBatis框架中sql注入学习的态度，对该漏洞进行了以下分析。&lt;/p&gt;
     </summary>
   </entry>
 
