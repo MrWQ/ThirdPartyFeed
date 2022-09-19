@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-09-19T13:35:54+08:00</updated>
+  <updated>2022-09-19T18:24:01+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">Http Request-Smuggling</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1883"/>
+    <id>https://sec-in.com/article/1883</id>
+    <published>2022-09-19T16:39:02+08:00</published>
+    <summary type="text">
+      HTTP 请求走私(HPS)是一种用于干扰网站处理从一个或多个用户接收的 HTTP 请求序列的方式的技术。
+    </summary>
+  </entry>
   <entry>
     <title type="text">实战打靶之noter</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1925"/>
@@ -84,15 +93,6 @@
     <published>2022-08-29T15:20:13+08:00</published>
     <summary type="text">
       文中提到的逻辑漏洞都是平时积累经验总结出来的，这只是部分的，对还没有挖过漏洞的师傅们献上自己的经验。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Bugku-渗透&amp;加固模式-应急加固1-通关wp</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1911"/>
-    <id>https://sec-in.com/article/1911</id>
-    <published>2022-08-29T10:38:11+08:00</published>
-    <summary type="text">
-      将近期Bugku新模式下安全加固场景1的通关答案分享出来（不敢说是有什么思路），希望对各位能有所帮助，欢迎师傅们提供更为完备的加固思路及修复方案。
     </summary>
   </entry>
 
