@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-09-20T13:26:44+08:00</updated>
+  <updated>2022-09-20T18:23:13+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220920</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2569-20220920"/>
+    <id>https://zone.huoxian.cn/d/2569-20220920</id>
+    <published>2022-09-20T07:06:10+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220920
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Kubernetes1.18安装Dashboard</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2568-kubernetes118dashboard"/>
+    <id>https://zone.huoxian.cn/d/2568-kubernetes118dashboard</id>
+    <published>2022-09-19T07:42:48+00:00</published>
+    <summary type="text">
+      Kubernetes1.18安装Dashboard
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-09-02T06:53:09+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220902
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220901</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2338-20220901"/>
-    <id>https://zone.huoxian.cn/d/2338-20220901</id>
-    <published>2022-09-01T06:39:05+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220901
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220831</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2337-20220831"/>
-    <id>https://zone.huoxian.cn/d/2337-20220831</id>
-    <published>2022-08-31T07:59:31+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220831
     </summary>
   </entry>
 
