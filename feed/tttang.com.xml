@@ -3,8 +3,18 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-09-20T06:19:35+08:00</updated>
+  <updated>2022-09-20T13:26:43+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">零基础要如何破除 IO_FILE 利用原理的迷雾</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1742/"/>
+    <id>https://tttang.com/archive/1742/</id>
+    <published>2022-09-20T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;好久以前，在我完成 Glibc2.23 的基本堆利用学习以后，IO_FILE 的利用就被提上日程了，但苦于各种各样的麻烦因素，时至今日，我才终于动笔开始学习这种利用技巧，实属惭愧。&lt;/p&gt;
+&lt;p&gt;近几年，由于堆利用的条件越来越苛刻，加之几个常用的劫持 hook 被删除，IO 的地位逐渐有超过堆利用的趋势，因此为了跟上这几年的新潮，赶紧回来学习一下 IO 流的利用技巧。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">MacOS 水坑攻击组合拳分析复现</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1745/"/>
@@ -140,15 +150,6 @@
     <published>2022-08-30T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;任何需要管理员访问令牌的程序都必须征得同意(即UAC弹窗)，但是存在一个意外，即父进程和子进程之间存在关系，即子进程从父进程中继承访问令牌，这是UAC 绕过的基础。本文将选择UACME中的3种不同的ByPass UAC的例子，为各位讲解ByPass UAC的原理。然后分析UAC的基本基本原理，继而寻找ByPass UAC的通用检测策略，本文行文仓促，如有错误，请各位积极指正。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">ATT&amp;amp;CK中的攻与防——T1059</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1718/"/>
-    <id>https://tttang.com/archive/1718/</id>
-    <published>2022-08-29T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;为什么会有此篇文章，随着攻防大环境的深入，ATT&amp;amp;CK攻防矩阵也逐渐步入各个企业视野，越来越多的企业采用ATT&amp;amp;CK矩阵来作为反入侵检测，但是笔者很少看到有文章具体分析每一条策略的检测逻辑已经绕过方案，WINDOWS端的或许是零零碎碎的技术细节，MAC的更无从谈起，笔者从事安全的时间也不长，对于ATT&amp;amp;CK矩阵的了解也只能是略知一二，本文就以T1059策略作为切入点，分析一下ATT&amp;amp;CK矩阵中的攻与防，如果读者认为此篇文章能学到一些不一样的东西，笔者自然是很开心，笔者后续也会把ATT&amp;amp;CK矩阵的所有TTP做一个技术分析。&lt;/p&gt;
     </summary>
   </entry>
 
