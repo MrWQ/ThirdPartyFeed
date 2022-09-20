@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-09-20T18:23:10+08:00</updated>
+  <updated>2022-09-21T06:24:49+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Securing Developer Tools: OneDev Remote Code Execution</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/onedev-remote-code-execution"/>
+    <id>https://blog.sonarsource.com/onedev-remote-code-execution</id>
+    <published>2022-09-20T14:37:36Z</published>
+    <summary type="text">
+      We recently discovered several vulnerabilities in OneDev 7.2.9 that allowed attackers to fully compromise a server and even break out of a Docker environment.
+    </summary>
+  </entry>
   <entry>
     <title type="text">Interview with a SonarSource Developer</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/interview-with-a-sonarsource-developer"/>
@@ -174,15 +183,6 @@
     <published>2022-06-07T12:22:23Z</published>
     <summary type="text">
       We&#x27;ve finally defined our own performance goals for analysis - so that we&#x27;re no longer subjecting ourselves to apples-to-oranges comparisons with tools that may not have the same goals or outcomes. Or too-subjective, personal assessments of how analysis &quot;seems&quot;.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Horde Webmail - Remote Code Execution via Email</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/horde-webmail-rce-via-email"/>
-    <id>https://blog.sonarsource.com/horde-webmail-rce-via-email</id>
-    <published>2022-06-01T09:30:45Z</published>
-    <summary type="text">
-      We discovered vulnerabilities in Horde Webmail that allow an attacker to execute arbitrary code on Horde instances by having a victim open an email
     </summary>
   </entry>
 
