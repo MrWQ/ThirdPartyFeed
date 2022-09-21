@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-09-21T06:24:50+08:00</updated>
+  <updated>2022-09-21T13:26:21+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">ASP.NET 无文件攻击入侵检测</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1744/"/>
+    <id>https://tttang.com/archive/1744/</id>
+    <published>2022-09-21T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;前一段时间某管理系统被黑客批量植入冰蝎并进行勒索，引发了本人对于ASP.NET无文件攻击检测的思考。搜了一下目前还没有相关的文章，就自己研究了一下。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">零基础要如何破除 IO_FILE 利用原理的迷雾</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1742/"/>
@@ -141,15 +150,6 @@
       &lt;blockquote&gt;
 &lt;p&gt;在路由器设备的漏洞挖掘当中，WEB服务通常都是安全研究人员重点关注的内容之一，安全研究员拿到一个设备之后，都会去对这个设备的攻击面进行收集与分析，但可以不可以一拿到设备的固件看到文件夹的结构就知道这个路由器的攻击面呢？网上似乎也没有这种总结从路由器WEB服务架构看路由器的攻击面的文章，这些路由器的WEB架构看着都有相似的点，也有不同之处，那到底是哪里相同，哪里不同呢？作为一个WEB小萌新，对此类概念还很模糊，接下来就来探讨一下吧！&lt;/p&gt;
 &lt;/blockquote&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">UAC 原理与检测</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1715/"/>
-    <id>https://tttang.com/archive/1715/</id>
-    <published>2022-08-30T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;任何需要管理员访问令牌的程序都必须征得同意(即UAC弹窗)，但是存在一个意外，即父进程和子进程之间存在关系，即子进程从父进程中继承访问令牌，这是UAC 绕过的基础。本文将选择UACME中的3种不同的ByPass UAC的例子，为各位讲解ByPass UAC的原理。然后分析UAC的基本基本原理，继而寻找ByPass UAC的通用检测策略，本文行文仓促，如有错误，请各位积极指正。&lt;/p&gt;
     </summary>
   </entry>
 
