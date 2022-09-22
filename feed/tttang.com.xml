@@ -3,8 +3,19 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-09-22T06:21:54+08:00</updated>
+  <updated>2022-09-22T13:23:46+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">PPL利用</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1743/"/>
+    <id>https://tttang.com/archive/1743/</id>
+    <published>2022-09-22T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;blockquote&gt;
+&lt;p&gt;PPL表示“受保护的流程”，但在此之前，只有“受保护的流程”。Windows Vista / Server 2008引入了受保护进程的概念，其目的不是保护您的数据或凭据。其最初目标是保护媒体内容并符合DRM（数字版权管理）要求。Microsoft开发了此机制，以便您的媒体播放器可以读取例如蓝光，同时防止您复制其内容。当时的要求是映像文件（即可执行文件）必须使用特殊的Windows Media证书进行数字签名（如Windows Internals的“受保护的过程”部分所述）。&lt;/p&gt;
+&lt;/blockquote&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">ASP.NET 无文件攻击入侵检测</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1744/"/>
@@ -139,17 +150,6 @@
     <published>2022-09-01T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;第一部分介绍了&lt;code&gt;afl&lt;/code&gt;插桩编译的过程，思考了很久才定下第二部分写些什么。本来打算第二部分详细解释插桩部分和&lt;code&gt;forkserver&lt;/code&gt;的代码的，但是感觉如果对&lt;code&gt;afl-fuzz&lt;/code&gt;的整体流程没有大致掌握的话，直接去描述细节会让人不理解为什么&lt;code&gt;afl&lt;/code&gt;这部分要这样去设计，因此决定在第二部分将&lt;code&gt;afl-fuzz&lt;/code&gt;的主要流程（&lt;code&gt;main&lt;/code&gt;）和部分不是关键代码的函数给说清楚，后续再逐步对关键代码模块进行详细分析，j继而实现对&lt;code&gt;afl&lt;/code&gt;模糊测试的解析。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">浅析路由器WEB服务架构（一）</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1719/"/>
-    <id>https://tttang.com/archive/1719/</id>
-    <published>2022-08-31T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;blockquote&gt;
-&lt;p&gt;在路由器设备的漏洞挖掘当中，WEB服务通常都是安全研究人员重点关注的内容之一，安全研究员拿到一个设备之后，都会去对这个设备的攻击面进行收集与分析，但可以不可以一拿到设备的固件看到文件夹的结构就知道这个路由器的攻击面呢？网上似乎也没有这种总结从路由器WEB服务架构看路由器的攻击面的文章，这些路由器的WEB架构看着都有相似的点，也有不同之处，那到底是哪里相同，哪里不同呢？作为一个WEB小萌新，对此类概念还很模糊，接下来就来探讨一下吧！&lt;/p&gt;
-&lt;/blockquote&gt;
     </summary>
   </entry>
 
