@@ -3,17 +3,8 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-09-22T13:23:47+08:00</updated>
+  <updated>2022-09-22T18:22:30+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
-  <entry>
-    <title type="text">Azure Cloud Shell 命令注入窃取用户的访问令牌</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2573-azure-cloud-shell"/>
-    <id>https://zone.huoxian.cn/d/2573-azure-cloud-shell</id>
-    <published>2022-09-22T04:19:34+00:00</published>
-    <summary type="text">
-      Azure Cloud Shell 命令注入窃取用户的访问令牌
-    </summary>
-  </entry>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
     <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/1180"/>
@@ -30,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20220922</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2574-20220922"/>
+    <id>https://zone.huoxian.cn/d/2574-20220922</id>
+    <published>2022-09-22T06:48:14+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20220922
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Azure Cloud Shell 命令注入窃取用户的访问令牌</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2573-azure-cloud-shell"/>
+    <id>https://zone.huoxian.cn/d/2573-azure-cloud-shell</id>
+    <published>2022-09-22T04:19:34+00:00</published>
+    <summary type="text">
+      Azure Cloud Shell 命令注入窃取用户的访问令牌
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-09-08T06:18:01+00:00</published>
     <summary type="text">
       每日云安全技术资讯20220908
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220907</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2343-20220907"/>
-    <id>https://zone.huoxian.cn/d/2343-20220907</id>
-    <published>2022-09-07T08:44:47+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220907
     </summary>
   </entry>
 
