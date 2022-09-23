@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-09-23T13:25:03+08:00</updated>
+  <updated>2022-09-23T18:22:23+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">[SWPUCTF 2021 新生赛]pop</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1927"/>
+    <id>https://sec-in.com/article/1927</id>
+    <published>2022-09-23T13:51:15+08:00</published>
+    <summary type="text">
+      POP链在CTF比赛中，也算是老考点了，在我参加的几场比赛中，POP链都有考察到，太久没做题了，今天在刷靶场的时候，看到这一道题，写下来做个记录，也供各位刚开开始的师傅参考，大佬师傅勿喷~
+    </summary>
+  </entry>
   <entry>
     <title type="text">Http Request-Smuggling</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1883"/>
@@ -84,15 +93,6 @@
     <published>2022-09-02T11:16:05+08:00</published>
     <summary type="text">
       靶机主要nmap端口扫描开始，然后发现域控制器ip。对其端口开放的服务进行分析，使用**crackmapexec**进行爆破，**smbclient**获取到smb服务下的目录。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">我和逻辑漏洞的那些事(一)</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1909"/>
-    <id>https://sec-in.com/article/1909</id>
-    <published>2022-08-29T15:20:13+08:00</published>
-    <summary type="text">
-      文中提到的逻辑漏洞都是平时积累经验总结出来的，这只是部分的，对还没有挖过漏洞的师傅们献上自己的经验。
     </summary>
   </entry>
 
