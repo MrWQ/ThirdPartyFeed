@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-09-23T06:20:45+08:00</updated>
+  <updated>2022-09-23T13:25:03+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">Dubbo反序列化漏洞分析集合2</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1747/"/>
+    <id>https://tttang.com/archive/1747/</id>
+    <published>2022-09-23T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;这篇是对&lt;a href=&quot;https://tttang.com/archive/1730/&quot; target=&quot;_blank&quot;&gt;上一篇&lt;/a&gt;进行了补充，添加了两个Hessian协议的分析和Kryo&amp;lt;5.0.0的利用和MRCTF中的Kryo&amp;gt;5.0.0特定场景利用。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">PPL利用</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1743/"/>
@@ -141,15 +150,6 @@
     <published>2022-09-02T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;在进行系统学习过后，对XXE进行简单总结，希望能对正在学习XXE的师傅有所帮助&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">fuzzer AFL 源码分析（二）-fuzz流程</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1686/"/>
-    <id>https://tttang.com/archive/1686/</id>
-    <published>2022-09-01T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;第一部分介绍了&lt;code&gt;afl&lt;/code&gt;插桩编译的过程，思考了很久才定下第二部分写些什么。本来打算第二部分详细解释插桩部分和&lt;code&gt;forkserver&lt;/code&gt;的代码的，但是感觉如果对&lt;code&gt;afl-fuzz&lt;/code&gt;的整体流程没有大致掌握的话，直接去描述细节会让人不理解为什么&lt;code&gt;afl&lt;/code&gt;这部分要这样去设计，因此决定在第二部分将&lt;code&gt;afl-fuzz&lt;/code&gt;的主要流程（&lt;code&gt;main&lt;/code&gt;）和部分不是关键代码的函数给说清楚，后续再逐步对关键代码模块进行详细分析，j继而实现对&lt;code&gt;afl&lt;/code&gt;模糊测试的解析。&lt;/p&gt;
     </summary>
   </entry>
 
