@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-09-26T18:22:40+08:00</updated>
+  <updated>2022-09-27T06:21:02+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Our journey toward accessibility</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/our-journey-toward-accessibility"/>
+    <id>https://blog.sonarsource.com/our-journey-toward-accessibility</id>
+    <published>2022-09-26T07:31:07Z</published>
+    <summary type="text">
+      We’ve set a target to make SonarQube WCAG 2.1 AA compliant. Get an insider look at how we are going to achieve this.
+    </summary>
+  </entry>
   <entry>
     <title type="text">Securing Developer Tools: OneDev Remote Code Execution</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/onedev-remote-code-execution"/>
@@ -174,15 +183,6 @@
     <published>2022-06-13T12:35:15Z</published>
     <summary type="text">
       Check out what’s new in SonarQube 9.5 in this quick video.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Sonar’s analysis performance targets</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/sonars-analysis-performance-targets"/>
-    <id>https://blog.sonarsource.com/sonars-analysis-performance-targets</id>
-    <published>2022-06-07T12:22:23Z</published>
-    <summary type="text">
-      We&#x27;ve finally defined our own performance goals for analysis - so that we&#x27;re no longer subjecting ourselves to apples-to-oranges comparisons with tools that may not have the same goals or outcomes. Or too-subjective, personal assessments of how analysis &quot;seems&quot;.
     </summary>
   </entry>
 
