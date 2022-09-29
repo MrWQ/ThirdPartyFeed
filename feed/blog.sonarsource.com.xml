@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-09-29T18:23:23+08:00</updated>
+  <updated>2022-09-30T06:21:36+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Eat your own dog food or risk falling behind</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/eat-your-own-dog-food-or-risk-falling-behind"/>
+    <id>https://blog.sonarsource.com/eat-your-own-dog-food-or-risk-falling-behind</id>
+    <published>2022-09-29T08:23:22Z</published>
+    <summary type="text">
+      Has your solution delivery been lackluster? Are you always dealing with unforeseen issues post-release? Eating your own dog can help ensure that your solution meets or exceeds user expectations.
+    </summary>
+  </entry>
   <entry>
     <title type="text">SonarCloud’s facelift step 1: a more modern and consistent UI is born</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/sonarcloud-facelift-step-1-a-more-modern-and-consistent-ui-is-born"/>
@@ -174,15 +183,6 @@
     <published>2022-06-21T10:05:14Z</published>
     <summary type="text">
       Reflections upon the We Are Developers 2022 World Congress - Berlin
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Zimbra Email - Stealing Clear-Text Credentials via Memcache injection</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/zimbra-mail-stealing-clear-text-credentials-via-memcache-injection"/>
-    <id>https://blog.sonarsource.com/zimbra-mail-stealing-clear-text-credentials-via-memcache-injection</id>
-    <published>2022-06-14T14:08:01Z</published>
-    <summary type="text">
-      We discovered flaws in Zimbra, an enterprise email solution, that allow attackers to steal credentials of users and gain access to their email accounts.
     </summary>
   </entry>
 
