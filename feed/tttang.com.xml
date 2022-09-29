@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-09-29T06:22:13+08:00</updated>
+  <updated>2022-09-29T18:23:25+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">glibc2.35后门执行研究:tls_dtor_list攻击劫持exit执行流程</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1749/"/>
+    <id>https://tttang.com/archive/1749/</id>
+    <published>2022-09-29T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;从今年4月份开始，慢慢接触高版本的glibc，高版本glibc的堆题也使得国内ctf比赛进入到一个新的时期&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">The End of AFR?</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1755/"/>
@@ -139,18 +148,6 @@
 &lt;p&gt;感觉我之前那个 bypass &lt;code&gt;__wakeup()&lt;/code&gt; 的 trick 和 8u20 绕过 7u21 的方式异曲同工&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;jdk8u20 是对 jdk7u21 这条链的绕过&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">dpt-shell抽取壳项目源码及其逆向分析</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1728/"/>
-    <id>https://tttang.com/archive/1728/</id>
-    <published>2022-09-07T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;由于前段时间网鼎杯一道Android题目中用了这个，具有一定研究价值，便做一个壳的实现分析&lt;br&gt;
-&lt;a href=&quot;https://github.com/luoyesiqiu/dpt-shell&quot; target=&quot;_blank&quot;&gt;https://github.com/luoyesiqiu/dpt-shell&lt;/a&gt;&lt;br&gt;
-其实这个是一个假的抽取壳，虽然函数抽取壳确实是将dex文件中的函数代码给nop，然后在运行时再把字节码给填回，但是不会填回内存中原dex位置，是填回内存中的一个解析后的结构体，比如梆梆加固，普通的工具是dump不到dex的。&lt;br&gt;
-虽然但是，能写出这个的也足以说明作者对Android的了解。即使作者也有howtowork文档去解释如何实现的，但是很多都被省略掉，这里做个源码分析，许多抽取壳也有类似的操作。&lt;/p&gt;
     </summary>
   </entry>
 
