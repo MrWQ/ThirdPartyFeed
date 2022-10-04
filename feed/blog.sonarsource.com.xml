@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-10-04T18:22:53+08:00</updated>
+  <updated>2022-10-05T06:21:47+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Securing Developer Tools: A New Supply Chain Attack on PHP</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/securing-developer-tools-a-new-supply-chain-attack-on-php"/>
+    <id>https://blog.sonarsource.com/securing-developer-tools-a-new-supply-chain-attack-on-php</id>
+    <published>2022-09-30T09:19:43Z</published>
+    <summary type="text">
+      What is your worst supply chain nightmare and why is it somebody that could take over all the PHP packages at once? Let&#x27;s deep dive into how we could demonstrate it!
+    </summary>
+  </entry>
   <entry>
     <title type="text">Eat your own dog food or risk falling behind</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/eat-your-own-dog-food-or-risk-falling-behind"/>
@@ -174,15 +183,6 @@
     <published>2022-06-28T13:08:52Z</published>
     <summary type="text">
       We discovered a vulnerability in Zimbra Enterprise Email that allows an unauthenticated, remote attacker fully take over Zimbra instances via a flaw in unrar.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Reflections upon the We Are Developers 2022 World Congress</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/reflections-upon-we-are-developers-2022"/>
-    <id>https://blog.sonarsource.com/reflections-upon-we-are-developers-2022</id>
-    <published>2022-06-21T10:05:14Z</published>
-    <summary type="text">
-      Reflections upon the We Are Developers 2022 World Congress - Berlin
     </summary>
   </entry>
 
