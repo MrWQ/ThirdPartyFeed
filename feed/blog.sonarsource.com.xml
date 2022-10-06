@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-10-06T12:44:49+08:00</updated>
+  <updated>2022-10-07T06:21:39+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Five SonarCloud features for developers that want clean code</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/five-sonarcloud-features-for-developers-that-want-clean"/>
+    <id>https://blog.sonarsource.com/five-sonarcloud-features-for-developers-that-want-clean</id>
+    <published>2022-10-06T12:38:44Z</published>
+    <summary type="text">
+      How do I start cleaning my code? How to do it without creating friction in my workflow? What effort will it require? In this blog, we’re going to explore 5 key features of SonarCloud that will help you remediate code issues as part of your workflow so you deliver clean code every time.
+    </summary>
+  </entry>
   <entry>
     <title type="text">Securing Developer Tools: A New Supply Chain Attack on PHP</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/securing-developer-tools-a-new-supply-chain-attack-on-php"/>
@@ -174,15 +183,6 @@
     <published>2022-07-12T13:29:54Z</published>
     <summary type="text">
       We recently discovered a Prototype Pollution vulnerability in Blitz.js leading to Remote Code Execution. Learn about this bug class and how to avoid it in your code!
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Unrar Path Traversal Vulnerability affects Zimbra Mail</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day"/>
-    <id>https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day</id>
-    <published>2022-06-28T13:08:52Z</published>
-    <summary type="text">
-      We discovered a vulnerability in Zimbra Enterprise Email that allows an unauthenticated, remote attacker fully take over Zimbra instances via a flaw in unrar.
     </summary>
   </entry>
 
