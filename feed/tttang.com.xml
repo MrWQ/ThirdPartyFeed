@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-10-08T06:22:06+08:00</updated>
+  <updated>2022-10-08T12:42:32+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">Linux新版内核下内存取证分析附CTF题</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1762/"/>
+    <id>https://tttang.com/archive/1762/</id>
+    <published>2022-10-08T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;最近做了一道国际赛SEKAI的取证题, 题目使用&lt;strong&gt;LiME&lt;/strong&gt;对内核为&lt;strong&gt;5.15.0-43-generic&lt;/strong&gt;的&lt;strong&gt;Ubuntu&lt;/strong&gt;制作内存镜像, 需要自行制作&lt;strong&gt;Symbols 进行分析.&lt;/strong&gt; 出题人让我们自行探索新版&lt;strong&gt;Linux&lt;/strong&gt;内核下的取证策略. 尽管官方&lt;strong&gt;Volatility2&lt;/strong&gt;提供制作&lt;strong&gt;profile&lt;/strong&gt;和&lt;strong&gt;Volatility3&lt;/strong&gt;提供制作&lt;strong&gt;Symbols&lt;/strong&gt;的方案, 但在实际应用中, 均出现较多目前互联网尚未解决的问题. (具体详见&lt;strong&gt;GitHub&lt;/strong&gt;关于&lt;strong&gt;Volatility&lt;/strong&gt;的&lt;strong&gt;Issues&lt;/strong&gt;.). 下文主要内容是基于官方文档、题目、实操步骤, 提供在新版&lt;strong&gt;Linux&lt;/strong&gt;下的制作&lt;strong&gt;Symbols&lt;/strong&gt;的解决方案.&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">JBoss Remoting Connector 4446端口反序列化分析</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1751/"/>
@@ -134,16 +143,6 @@
     <summary type="text">
       &lt;p&gt;本文将为大家介绍如何搞定OSCP实验和考试！（100 + 10 / 100 分）&lt;br&gt;
 这是本人通过OSCP实验和认证过程的小结。同时，我还决定添加一些可用于实战的技巧（适用于红队、渗透测试以及逆向分析等）。当然，本文提到的许多命令、工具和技巧，大多来自其他（与OSCP相关或不相关）在线指南，相关的链接可以在参考资料部分找到。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Dubbo反序列化漏洞分析集合1</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1730/"/>
-    <id>https://tttang.com/archive/1730/</id>
-    <published>2022-09-09T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;Apache Dubbo是一款高性能、轻量级的开源Java RPC框架，它提供了三大核心能力：面向接口的远程方法调用、智能容错和负载均衡、以及服务自动注册和发现。&lt;/p&gt;
-&lt;p&gt;Dubbo RPC是Apache Dubbo体系中最核心的一种高性能、高吞吐量的远程调用方式，主要用于两个Dubbo系统之间远程调用。在Dubbo RPC中，支持多种序列化方式，如dubbo序列化、hessian2序列化、kryo序列化、json序列化、java序列化等等&lt;/p&gt;
     </summary>
   </entry>
 
