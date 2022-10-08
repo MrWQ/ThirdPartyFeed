@@ -3,8 +3,17 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2022-10-08T12:42:41+08:00</updated>
+  <updated>2022-10-08T18:22:21+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">【漏洞通报】FortiGate 和 FortiProxy 存在身份验证绕过漏...</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5038.html"/>
+    <id>https://nosec.org/home/detail/5038.html</id>
+    <published>2022-10-08T18:15:42+08:00</published>
+    <summary type="text">
+      近日，Fortinet修复了一个存在 FortiGate 防火墙和 FortiProxy Web 代理中的身份验证绕过漏洞（CVE-2022-40684），该漏洞可能允许攻击者在易受攻击的设备上执行...
+    </summary>
+  </entry>
   <entry>
     <title type="text">【漏洞通报】微软Exchange服务SSRF&amp;RCE漏洞（CVE-2022-4104...</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5037.html"/>
@@ -174,15 +183,6 @@
     <published>2022-06-15T11:26:09+08:00</published>
     <summary type="text">
       近日，微软发布 2022年6月 安全补丁，修复了针对 33 款微软产品的 55 个漏洞，其中12个权限提升漏洞，1个安全功能绕过漏洞，27个远程代码执行漏洞，11个信息泄露...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">【安全通报】泛微 E-Office 文件包含漏洞（CNVD-2022-43247...</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5011.html"/>
-    <id>https://nosec.org/home/detail/5011.html</id>
-    <published>2022-06-08T19:18:34+08:00</published>
-    <summary type="text">
-      近日，CNVD 官方发布了泛微 E-Office 文件包含漏洞，泛微网络官方已发布修复补丁，请广大用户及时下载更新...
     </summary>
   </entry>
 
