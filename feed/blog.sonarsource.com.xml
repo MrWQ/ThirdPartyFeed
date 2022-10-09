@@ -3,15 +3,15 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-10-09T18:22:40+08:00</updated>
+  <updated>2022-10-10T06:20:28+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
   <entry>
-    <title type="text">Five SonarCloud features for developers that want clean code</title>
+    <title type="text">Five SonarCloud features for developers that want Clean Code</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/five-sonarcloud-features-for-developers-that-want-clean"/>
     <id>https://blog.sonarsource.com/five-sonarcloud-features-for-developers-that-want-clean</id>
     <published>2022-10-06T12:38:44Z</published>
     <summary type="text">
-      How do I start cleaning my code? How to do it without creating friction in my workflow? What effort will it require? In this blog, we’re going to explore 5 key features of SonarCloud that will help you remediate code issues as part of your workflow so you deliver clean code every time.
+      How do I start cleaning my code? How to do it without creating friction in my workflow? What effort will it require? In this blog, we’re going to explore 5 key features of SonarCloud that will help you remediate code issues as part of your workflow so you deliver Clean Code every time.
     </summary>
   </entry>
   <entry>
