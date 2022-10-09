@@ -3,8 +3,19 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-10-09T06:20:15+08:00</updated>
+  <updated>2022-10-09T13:01:40+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">Edge浏览器-通过XSS获取高权限从而RCE</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1766/"/>
+    <id>https://tttang.com/archive/1766/</id>
+    <published>2022-10-09T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;blockquote&gt;
+&lt;p&gt;这是白帽子（twitter：@spoofyroot）在2019年发布的一篇文章，完整介绍了这位师傅在挖掘Edge浏览器漏洞的思路、利用、组合。其中第三个漏洞的利用链的构造过程很有借鉴意义&lt;/p&gt;
+&lt;/blockquote&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">Linux新版内核下内存取证分析附CTF题</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1762/"/>
@@ -133,16 +144,6 @@
     <published>2022-09-14T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;Phar反序列化是PHP反序列化的一个重要部分，进行相关学习后，简单总结如下，希望对正在学习的师傅有所帮助。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">OSCP tips and tricks（译文）</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1734/"/>
-    <id>https://tttang.com/archive/1734/</id>
-    <published>2022-09-13T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;本文将为大家介绍如何搞定OSCP实验和考试！（100 + 10 / 100 分）&lt;br&gt;
-这是本人通过OSCP实验和认证过程的小结。同时，我还决定添加一些可用于实战的技巧（适用于红队、渗透测试以及逆向分析等）。当然，本文提到的许多命令、工具和技巧，大多来自其他（与OSCP相关或不相关）在线指南，相关的链接可以在参考资料部分找到。&lt;/p&gt;
     </summary>
   </entry>
 
