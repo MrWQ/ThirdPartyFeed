@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-10-11T13:22:39+08:00</updated>
+  <updated>2022-10-11T18:24:09+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">The Rules of Three, Five and Zero</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/the-rules-of-three-five-and-zero"/>
+    <id>https://blog.sonarsource.com/the-rules-of-three-five-and-zero</id>
+    <published>2022-10-11T08:21:39Z</published>
+    <summary type="text">
+      The Rule of Three was coined back in 1991. That expanded to the Rule of Five with C++11&#x27;s move semantics - and even that was then subsumed by The Rule of Zero. But what are all these rules? And do we have to follow them?
+    </summary>
+  </entry>
   <entry>
     <title type="text">Five SonarCloud features for developers that want Clean Code</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/five-sonarcloud-features-for-developers-that-want-clean"/>
@@ -174,15 +183,6 @@
     <published>2022-07-21T06:00:01Z</published>
     <summary type="text">
       Retrospective of EuroPython 2022 -- Dubin, Ireland
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Remote Code Execution via Prototype Pollution in Blitz.js</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/blitzjs-prototype-pollution"/>
-    <id>https://blog.sonarsource.com/blitzjs-prototype-pollution</id>
-    <published>2022-07-12T13:29:54Z</published>
-    <summary type="text">
-      We recently discovered a Prototype Pollution vulnerability in Blitz.js leading to Remote Code Execution. Learn about this bug class and how to avoid it in your code!
     </summary>
   </entry>
 
