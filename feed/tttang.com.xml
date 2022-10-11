@@ -3,8 +3,18 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-10-11T06:22:40+08:00</updated>
+  <updated>2022-10-11T13:22:40+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">Weblogic Analysis Attacked by T3 Protocol From CVE (part 1)</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1768/"/>
+    <id>https://tttang.com/archive/1768/</id>
+    <published>2022-10-11T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;WebLogic是美国Oracle公司的主要产品之一，是商业市场上主要的 J2EE 应用服务器软件，也是世界上第一个成功商业化的J2EE应用服务器，在 Java 应用服务器中有非常广泛的部署和应用。&lt;/p&gt;
+&lt;p&gt;我们这里通过Weblogic的CVE来学习各种的利用手法。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">Microsoft Windows Shift F10 Bypass and Autopilot privilge escalation(译文)</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1767/"/>
@@ -135,15 +145,6 @@
     <published>2022-09-16T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;各种方式制作java免杀马。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Go AST 浅析与CTF中的实战运用</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1736/"/>
-    <id>https://tttang.com/archive/1736/</id>
-    <published>2022-09-15T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;在前段时间的网鼎杯某赛道中遇到了一个题，通过混淆的go源码分析各类函数调用、定义信息。但由于题目本身要求获得的信息过于简单，有不少人直接暴力搜索来解决。但当我们遇到更为复杂，更为巨大的混淆代码时，IDE所提供的简单分析功能也就无能为力了。这也就是我写下这篇文章的原因。&lt;/p&gt;
     </summary>
   </entry>
 

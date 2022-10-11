@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-10-11T06:22:40+08:00</updated>
+  <updated>2022-10-11T13:22:40+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20221011</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2596-20221011"/>
+    <id>https://zone.huoxian.cn/d/2596-20221011</id>
+    <published>2022-10-11T04:04:48+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20221011
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">AWS中的事件响应</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2595-aws"/>
+    <id>https://zone.huoxian.cn/d/2595-aws</id>
+    <published>2022-10-11T04:02:06+00:00</published>
+    <summary type="text">
+      AWS中的事件响应
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-09-26T01:28:10+00:00</published>
     <summary type="text">
       针对CS最新XSS漏洞的详细研究--CVE-2022-39197
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">AttachMe:关键的OCI漏洞，允许未经授权访问客户云存储卷</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2576-attachmeoci"/>
-    <id>https://zone.huoxian.cn/d/2576-attachmeoci</id>
-    <published>2022-09-23T10:09:44+00:00</published>
-    <summary type="text">
-      AttachMe:关键的OCI漏洞，允许未经授权访问客户云存储卷
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20220923</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2575-20220923"/>
-    <id>https://zone.huoxian.cn/d/2575-20220923</id>
-    <published>2022-09-23T08:37:23+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20220923
     </summary>
   </entry>
 
