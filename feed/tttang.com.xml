@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-10-13T06:21:56+08:00</updated>
+  <updated>2022-10-13T13:24:49+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">域内用户Hash获取方式总结</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1758/"/>
+    <id>https://tttang.com/archive/1758/</id>
+    <published>2022-10-13T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;在渗透测试的过程中，当我们已经是域管权限时，就可以实现提取所有域内用户的密码哈希以进行离线破解和分析，这是非常常见的一个操作，这些哈希值存储在域控制器(NTDS.DIT)中的数据库文件中，并带有一些其他信息，如用户名、散列值、组、GPP、OU等于活动目录相关的信息，它和SAM文件一样都是被操作系统锁定的，因此无法直接复制到其他位置以提取信息。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">浅析Apache Commons Jxpath命令执行分析(CVE-2022-41852)</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1771/"/>
@@ -136,15 +145,6 @@
     <summary type="text">
       &lt;p&gt;好久以前，在我完成 Glibc2.23 的基本堆利用学习以后，IO_FILE 的利用就被提上日程了，但苦于各种各样的麻烦因素，时至今日，我才终于动笔开始学习这种利用技巧，实属惭愧。&lt;/p&gt;
 &lt;p&gt;近几年，由于堆利用的条件越来越苛刻，加之几个常用的劫持 hook 被删除，IO 的地位逐渐有超过堆利用的趋势，因此为了跟上这几年的新潮，赶紧回来学习一下 IO 流的利用技巧。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">MacOS 水坑攻击组合拳分析复现</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1745/"/>
-    <id>https://tttang.com/archive/1745/</id>
-    <published>2022-09-19T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;去年11月Google TAG发布了一篇[1]针对MacOS的水坑攻击调查报告，在红队的攻击几乎都以windows下的压缩包投毒为主的当下 能有一起针对Mac如此精良的攻击值得好好复盘分析。&lt;/p&gt;
     </summary>
   </entry>
 
