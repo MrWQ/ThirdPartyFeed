@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-10-13T18:24:22+08:00</updated>
+  <updated>2022-10-14T06:23:46+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Bad code costs more than just your money</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/bad-code-costs-more-than-just-your-money"/>
+    <id>https://blog.sonarsource.com/bad-code-costs-more-than-just-your-money</id>
+    <published>2022-10-13T13:01:46Z</published>
+    <summary type="text">
+      Bad code doesn’t just disappear and the consequences of overlooking it can be costly. 
+    </summary>
+  </entry>
   <entry>
     <title type="text">The Rules of Three, Five and Zero</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/the-rules-of-three-five-and-zero"/>
@@ -174,15 +183,6 @@
     <published>2022-07-26T14:18:48Z</published>
     <summary type="text">
       We recently found a vulnerability in Django that allows us to disclose sensitive information. Let’s review the root cause, exploiting technique, and patch.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">A EuroPython Retrospective</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/europython2022-blog"/>
-    <id>https://blog.sonarsource.com/europython2022-blog</id>
-    <published>2022-07-21T06:00:01Z</published>
-    <summary type="text">
-      Retrospective of EuroPython 2022 -- Dubin, Ireland
     </summary>
   </entry>
 
