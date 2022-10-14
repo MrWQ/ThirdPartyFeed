@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">跳跳糖 - 安全与分享社区</title>
+  <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
+  <link rel="alternate" href="https://tttang.com/"/>
+  <updated>2022-10-14T09:10:52+08:00</updated>
+  <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">域内用户Hash获取方式总结</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1758/"/>
+    <id>https://tttang.com/archive/1758/</id>
+    <published>2022-10-13T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;在渗透测试的过程中，当我们已经是域管权限时，就可以实现提取所有域内用户的密码哈希以进行离线破解和分析，这是非常常见的一个操作，这些哈希值存储在域控制器(NTDS.DIT)中的数据库文件中，并带有一些其他信息，如用户名、散列值、组、GPP、OU等于活动目录相关的信息，它和SAM文件一样都是被操作系统锁定的，因此无法直接复制到其他位置以提取信息。&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">浅析Apache Commons Jxpath命令执行分析(CVE-2022-41852)</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1771/"/>
+    <id>https://tttang.com/archive/1771/</id>
+    <published>2022-10-12T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;JXPath是apache公司提供的XPath的java实现，JXPath 提供了用于遍历 JavaBean、DOM 和其他类型的对象的图形的 API，同时提供了一套扩展机制使我们可以增加对这些对象之外的其他对象模型的支持(重点).&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Weblogic Analysis Attacked by T3 Protocol From CVE (part 1)</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1768/"/>
+    <id>https://tttang.com/archive/1768/</id>
+    <published>2022-10-11T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;WebLogic是美国Oracle公司的主要产品之一，是商业市场上主要的 J2EE 应用服务器软件，也是世界上第一个成功商业化的J2EE应用服务器，在 Java 应用服务器中有非常广泛的部署和应用。&lt;/p&gt;
+&lt;p&gt;我们这里通过Weblogic的CVE来学习各种的利用手法。&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Microsoft Windows Shift F10 Bypass and Autopilot privilge escalation(译文)</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1767/"/>
+    <id>https://tttang.com/archive/1767/</id>
+    <published>2022-10-10T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;X公司，像其他公司一样，也使用微软的解决方案。在这种情况下，Autopilot和环境就成为了调查的重点。(注意：Intune设置在测试期间是未知的。)&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Edge浏览器-通过XSS获取高权限从而RCE</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1766/"/>
+    <id>https://tttang.com/archive/1766/</id>
+    <published>2022-10-09T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;blockquote&gt;
+&lt;p&gt;这是白帽子（twitter：@spoofyroot）在2019年发布的一篇文章，完整介绍了这位师傅在挖掘Edge浏览器漏洞的思路、利用、组合。其中第三个漏洞的利用链的构造过程很有借鉴意义&lt;/p&gt;
+&lt;/blockquote&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Linux新版内核下内存取证分析附CTF题</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1762/"/>
+    <id>https://tttang.com/archive/1762/</id>
+    <published>2022-10-08T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;最近做了一道国际赛SEKAI的取证题, 题目使用&lt;strong&gt;LiME&lt;/strong&gt;对内核为&lt;strong&gt;5.15.0-43-generic&lt;/strong&gt;的&lt;strong&gt;Ubuntu&lt;/strong&gt;制作内存镜像, 需要自行制作&lt;strong&gt;Symbols 进行分析.&lt;/strong&gt; 出题人让我们自行探索新版&lt;strong&gt;Linux&lt;/strong&gt;内核下的取证策略. 尽管官方&lt;strong&gt;Volatility2&lt;/strong&gt;提供制作&lt;strong&gt;profile&lt;/strong&gt;和&lt;strong&gt;Volatility3&lt;/strong&gt;提供制作&lt;strong&gt;Symbols&lt;/strong&gt;的方案, 但在实际应用中, 均出现较多目前互联网尚未解决的问题. (具体详见&lt;strong&gt;GitHub&lt;/strong&gt;关于&lt;strong&gt;Volatility&lt;/strong&gt;的&lt;strong&gt;Issues&lt;/strong&gt;.). 下文主要内容是基于官方文档、题目、实操步骤, 提供在新版&lt;strong&gt;Linux&lt;/strong&gt;下的制作&lt;strong&gt;Symbols&lt;/strong&gt;的解决方案.&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">JBoss Remoting Connector 4446端口反序列化分析</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1751/"/>
+    <id>https://tttang.com/archive/1751/</id>
+    <published>2022-09-30T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;今年4月份爆出JBoss EAP/AS &amp;lt;=6.&lt;em&gt;版本的&lt;/em&gt;&lt;em&gt;4446&lt;/em&gt;*端口存在反序列化rRCE漏洞，本文对该漏洞进行复现并做了以下分析。&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">glibc2.35后门执行研究:tls_dtor_list攻击劫持exit执行流程</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1749/"/>
+    <id>https://tttang.com/archive/1749/</id>
+    <published>2022-09-29T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;从今年4月份开始，慢慢接触高版本的glibc，高版本glibc的堆题也使得国内ctf比赛进入到一个新的时期&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">The End of AFR?</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1755/"/>
+    <id>https://tttang.com/archive/1755/</id>
+    <published>2022-09-28T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;本篇通过对 DownUnder CTF 2022 中一道题的讲解来介绍一种比较 trick 的通过侧信道读取文件内容的方法。&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">php免杀合集</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1740/"/>
+    <id>https://tttang.com/archive/1740/</id>
+    <published>2022-09-27T12:00:00+08:00</published>
+    <summary type="text">
+      
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">fuzzer AFL 源码分析（三）-反馈</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1707/"/>
+    <id>https://tttang.com/archive/1707/</id>
+    <published>2022-09-26T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;上一部分对&lt;code&gt;afl-fuzz&lt;/code&gt;的总流程进行了概要性的阐述，接下来将会对关键的代码模块进行详细的分析。&lt;/p&gt;
+&lt;p&gt;先对&lt;code&gt;afl-fuzz&lt;/code&gt;过程中反馈与监控机制的实现进行分析，反馈是指&lt;code&gt;afl&lt;/code&gt;在对目标程序的模糊测试过程中，目标程序可以将本次运行过程中的状态反馈给&lt;code&gt;afl&lt;/code&gt;。本文主要介绍该&lt;code&gt;afl&lt;/code&gt;是如何具体实现分支信息的记录以及更高效的运行目标程序的。&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Dubbo反序列化漏洞分析集合2</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1747/"/>
+    <id>https://tttang.com/archive/1747/</id>
+    <published>2022-09-23T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;这篇是对&lt;a href=&quot;https://tttang.com/archive/1730/&quot; target=&quot;_blank&quot;&gt;上一篇&lt;/a&gt;进行了补充，添加了两个Hessian协议的分析和Kryo&amp;lt;5.0.0的利用和MRCTF中的Kryo&amp;gt;5.0.0特定场景利用。&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">PPL利用</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1743/"/>
+    <id>https://tttang.com/archive/1743/</id>
+    <published>2022-09-22T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;blockquote&gt;
+&lt;p&gt;PPL表示“受保护的流程”，但在此之前，只有“受保护的流程”。Windows Vista / Server 2008引入了受保护进程的概念，其目的不是保护您的数据或凭据。其最初目标是保护媒体内容并符合DRM（数字版权管理）要求。Microsoft开发了此机制，以便您的媒体播放器可以读取例如蓝光，同时防止您复制其内容。当时的要求是映像文件（即可执行文件）必须使用特殊的Windows Media证书进行数字签名（如Windows Internals的“受保护的过程”部分所述）。&lt;/p&gt;
+&lt;/blockquote&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">ASP.NET 无文件攻击入侵检测</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1744/"/>
+    <id>https://tttang.com/archive/1744/</id>
+    <published>2022-09-21T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;前一段时间某管理系统被黑客批量植入冰蝎并进行勒索，引发了本人对于ASP.NET无文件攻击检测的思考。搜了一下目前还没有相关的文章，就自己研究了一下。&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">零基础要如何破除 IO_FILE 利用原理的迷雾</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1742/"/>
+    <id>https://tttang.com/archive/1742/</id>
+    <published>2022-09-20T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;好久以前，在我完成 Glibc2.23 的基本堆利用学习以后，IO_FILE 的利用就被提上日程了，但苦于各种各样的麻烦因素，时至今日，我才终于动笔开始学习这种利用技巧，实属惭愧。&lt;/p&gt;
+&lt;p&gt;近几年，由于堆利用的条件越来越苛刻，加之几个常用的劫持 hook 被删除，IO 的地位逐渐有超过堆利用的趋势，因此为了跟上这几年的新潮，赶紧回来学习一下 IO 流的利用技巧。&lt;/p&gt;
+    </summary>
+  </entry>
+
+</feed>
