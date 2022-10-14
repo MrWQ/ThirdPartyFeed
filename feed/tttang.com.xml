@@ -3,8 +3,19 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-10-14T09:10:52+08:00</updated>
+  <updated>2022-10-14T13:24:16+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">从TCTF的3rm1学习java动态代理</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1769/"/>
+    <id>https://tttang.com/archive/1769/</id>
+    <published>2022-10-14T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;blockquote&gt;
+&lt;p&gt;代理模式是常用的 java 设计模式，他的特征是代理类与委托类有同样的接口，代理类主要负责为委托类预处理消息、过滤消息、把消息转发给委托类，以及事后处理消息等。代理类与委托类之间通常会存在关联关系，一个代理类的对象与一个委托类的对象关联，代理类的对象本身并不真正实现服务，而是通过调用委托类的对象的相关方法，来提供特定的服务。&lt;/p&gt;
+&lt;/blockquote&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">域内用户Hash获取方式总结</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1758/"/>
@@ -135,16 +146,6 @@
     <published>2022-09-21T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;前一段时间某管理系统被黑客批量植入冰蝎并进行勒索，引发了本人对于ASP.NET无文件攻击检测的思考。搜了一下目前还没有相关的文章，就自己研究了一下。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">零基础要如何破除 IO_FILE 利用原理的迷雾</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1742/"/>
-    <id>https://tttang.com/archive/1742/</id>
-    <published>2022-09-20T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;好久以前，在我完成 Glibc2.23 的基本堆利用学习以后，IO_FILE 的利用就被提上日程了，但苦于各种各样的麻烦因素，时至今日，我才终于动笔开始学习这种利用技巧，实属惭愧。&lt;/p&gt;
-&lt;p&gt;近几年，由于堆利用的条件越来越苛刻，加之几个常用的劫持 hook 被删除，IO 的地位逐渐有超过堆利用的趋势，因此为了跟上这几年的新潮，赶紧回来学习一下 IO 流的利用技巧。&lt;/p&gt;
     </summary>
   </entry>
 
