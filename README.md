@@ -15,6 +15,7 @@
 Name | Raw | jsDelivr | Netlify
 ---  | --- | -------- | -------
 NOSEC安全讯息平台 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/nosec.org.xml) | [netlify](https://thirdpartyfeed.netlify.app/nosec.org.xml)
+跳跳糖(官方已有[RSS](https://tttang.com/rss.xml)，请尽快迁移) | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/tttang.com.xml) | [netlify](https://thirdpartyfeed.netlify.app/tttang.com.xml)
 火线Zone | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/zone.huoxian.cn.xml) | [netlify](https://thirdpartyfeed.netlify.app/zone.huoxian.cn.xml)
 Seebug | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/www.seebug.org.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/www.seebug.org.xml) | [netlify](https://thirdpartyfeed.netlify.app/www.seebug.org.xml)
 SonarSource Blog | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/blog.sonarsource.com.xml) | [netlify](https://thirdpartyfeed.netlify.app/blog.sonarsource.com.xml)
