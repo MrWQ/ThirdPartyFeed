@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-10-17T06:20:36+08:00</updated>
+  <updated>2022-10-17T13:35:43+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">浅析路由器WEB服务架构（二）</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1777/"/>
+    <id>https://tttang.com/archive/1777/</id>
+    <published>2022-10-17T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;这次的分析接着上次的来讲，也是分析了两个中间件的通信模型，分别是非主流中间件被厂商魔改后的中间件➕CGI和OpenWrt中间模块uhttpd/lighttpd➕CGI/Lua，话不多说，直接开始...&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">从TCTF的3rm1学习java动态代理</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1769/"/>
@@ -137,15 +146,6 @@
       &lt;blockquote&gt;
 &lt;p&gt;PPL表示“受保护的流程”，但在此之前，只有“受保护的流程”。Windows Vista / Server 2008引入了受保护进程的概念，其目的不是保护您的数据或凭据。其最初目标是保护媒体内容并符合DRM（数字版权管理）要求。Microsoft开发了此机制，以便您的媒体播放器可以读取例如蓝光，同时防止您复制其内容。当时的要求是映像文件（即可执行文件）必须使用特殊的Windows Media证书进行数字签名（如Windows Internals的“受保护的过程”部分所述）。&lt;/p&gt;
 &lt;/blockquote&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">ASP.NET 无文件攻击入侵检测</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1744/"/>
-    <id>https://tttang.com/archive/1744/</id>
-    <published>2022-09-21T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;前一段时间某管理系统被黑客批量植入冰蝎并进行勒索，引发了本人对于ASP.NET无文件攻击检测的思考。搜了一下目前还没有相关的文章，就自己研究了一下。&lt;/p&gt;
     </summary>
   </entry>
 
