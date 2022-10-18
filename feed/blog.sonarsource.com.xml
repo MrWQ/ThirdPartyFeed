@@ -3,8 +3,26 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-10-18T18:25:56+08:00</updated>
+  <updated>2022-10-19T06:22:49+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">SonarQube 9.7 is here!</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/sonarqube-9.7-is-here"/>
+    <id>https://blog.sonarsource.com/sonarqube-9.7-is-here</id>
+    <published>2022-10-18T20:36:58Z</published>
+    <summary type="text">
+      Check out what’s new in SonarQube 9.7 in this quick video.
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Remote Code Execution in Melis Platform</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/remote-code-execution-in-melis-platform"/>
+    <id>https://blog.sonarsource.com/remote-code-execution-in-melis-platform</id>
+    <published>2022-10-18T14:41:13Z</published>
+    <summary type="text">
+      We come back on a critical deserialization vulnerability identified by our SAST engine in the software Melis Platform. Let’s look at how it works under the hood and how we confirmed its exploitability.
+    </summary>
+  </entry>
   <entry>
     <title type="text">Bad code costs more than just your money</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/bad-code-costs-more-than-just-your-money"/>
@@ -165,24 +183,6 @@
     <published>2022-08-09T09:22:24Z</published>
     <summary type="text">
       Our security research led to the discovery of a flaw in a popular Apache2 authentication module. We come back on this case of parsing differential and how various languages behave when working with URLs.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">How Clean Code Practices Help You Retain Your Development Talent</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/how-clean-code-practices-help-retain-development-talent"/>
-    <id>https://blog.sonarsource.com/how-clean-code-practices-help-retain-development-talent</id>
-    <published>2022-08-02T13:16:18Z</published>
-    <summary type="text">
-      How Clean Code Practices Help You Retain Your Development Talent
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Disclosing information with a side-channel in Django</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/disclosing-information-with-a-side-channel-in-django"/>
-    <id>https://blog.sonarsource.com/disclosing-information-with-a-side-channel-in-django</id>
-    <published>2022-07-26T14:18:48Z</published>
-    <summary type="text">
-      We recently found a vulnerability in Django that allows us to disclose sensitive information. Let’s review the root cause, exploiting technique, and patch.
     </summary>
   </entry>
 
