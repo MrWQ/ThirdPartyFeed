@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-10-18T06:22:42+08:00</updated>
+  <updated>2022-10-18T13:36:13+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">On Bypassing eBPF Security Monitoring（译文）</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1779/"/>
+    <id>https://tttang.com/archive/1779/</id>
+    <published>2022-10-18T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;Extended Berkeley Packet Filter（eBPF）是一种内核技术（从 Linux 4.x 开始），它允许程序在无需更改内核源代码，或添加额外模块的情况下运行。你可以将其视为 Linux 内核中的轻量级沙箱虚拟机（VM），程序员可以在其中运行 BPF 字节码，从而利用特定的内核资源，近几年&lt;code&gt;eBPF&lt;/code&gt;的发展越来越火热，对应的，他的安全问题也是一项不可忽视的关注点&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">浅析路由器WEB服务架构（二）</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1777/"/>
@@ -135,17 +144,6 @@
     <published>2022-09-23T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;这篇是对&lt;a href=&quot;https://tttang.com/archive/1730/&quot; target=&quot;_blank&quot;&gt;上一篇&lt;/a&gt;进行了补充，添加了两个Hessian协议的分析和Kryo&amp;lt;5.0.0的利用和MRCTF中的Kryo&amp;gt;5.0.0特定场景利用。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">PPL利用</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1743/"/>
-    <id>https://tttang.com/archive/1743/</id>
-    <published>2022-09-22T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;blockquote&gt;
-&lt;p&gt;PPL表示“受保护的流程”，但在此之前，只有“受保护的流程”。Windows Vista / Server 2008引入了受保护进程的概念，其目的不是保护您的数据或凭据。其最初目标是保护媒体内容并符合DRM（数字版权管理）要求。Microsoft开发了此机制，以便您的媒体播放器可以读取例如蓝光，同时防止您复制其内容。当时的要求是映像文件（即可执行文件）必须使用特殊的Windows Media证书进行数字签名（如Windows Internals的“受保护的过程”部分所述）。&lt;/p&gt;
-&lt;/blockquote&gt;
     </summary>
   </entry>
 
