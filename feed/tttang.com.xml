@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-10-19T06:22:50+08:00</updated>
+  <updated>2022-10-19T13:36:45+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">内联缓存机制浅析与由此而来的类型混淆利用原理</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1772/"/>
+    <id>https://tttang.com/archive/1772/</id>
+    <published>2022-10-19T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;今年六月份见到了 CVE-2022-1134 ，这是 V8 在 Turbofan 中另一个很有意思的攻击面，提交者在这之后很详细的介绍了这个漏洞的利用方式，它的利用方法同之前的 Turbofan 有着很不一样，但却相当有意思的地方。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">On Bypassing eBPF Security Monitoring（译文）</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1779/"/>
@@ -135,15 +144,6 @@
     <summary type="text">
       &lt;p&gt;上一部分对&lt;code&gt;afl-fuzz&lt;/code&gt;的总流程进行了概要性的阐述，接下来将会对关键的代码模块进行详细的分析。&lt;/p&gt;
 &lt;p&gt;先对&lt;code&gt;afl-fuzz&lt;/code&gt;过程中反馈与监控机制的实现进行分析，反馈是指&lt;code&gt;afl&lt;/code&gt;在对目标程序的模糊测试过程中，目标程序可以将本次运行过程中的状态反馈给&lt;code&gt;afl&lt;/code&gt;。本文主要介绍该&lt;code&gt;afl&lt;/code&gt;是如何具体实现分支信息的记录以及更高效的运行目标程序的。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Dubbo反序列化漏洞分析集合2</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1747/"/>
-    <id>https://tttang.com/archive/1747/</id>
-    <published>2022-09-23T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;这篇是对&lt;a href=&quot;https://tttang.com/archive/1730/&quot; target=&quot;_blank&quot;&gt;上一篇&lt;/a&gt;进行了补充，添加了两个Hessian协议的分析和Kryo&amp;lt;5.0.0的利用和MRCTF中的Kryo&amp;gt;5.0.0特定场景利用。&lt;/p&gt;
     </summary>
   </entry>
 
