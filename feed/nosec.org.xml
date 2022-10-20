@@ -3,8 +3,17 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2022-10-20T13:02:12+08:00</updated>
+  <updated>2022-10-20T18:26:28+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">regulator ：一种独特的子域枚举方法</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5042.html"/>
+    <id>https://nosec.org/home/detail/5042.html</id>
+    <published>2022-10-20T17:56:19+08:00</published>
+    <summary type="text">
+      子域枚举有很多不同的方法，但我想向您展示一种独特的方法，我几乎可以保证您以前从未见过。在这篇文章中，我将探讨如何将常规语言排名的概念与常规语言归纳相结...
+    </summary>
+  </entry>
   <entry>
     <title type="text">redis未授权到shiro反序列化之session回显马</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5041.html"/>
@@ -174,15 +183,6 @@
     <published>2022-06-24T16:20:46+08:00</published>
     <summary type="text">
       我们在Zimbra中发现了一个漏洞，该漏洞允许攻击者从部署了Zimbra解决方案的用户那里窃取登录凭证。一旦能够访问受害者的邮箱，攻击者就能进一步升级对目标组织的...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Linux 下的逆向分析-初探</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5019.html"/>
-    <id>https://nosec.org/home/detail/5019.html</id>
-    <published>2022-06-24T14:48:35+08:00</published>
-    <summary type="text">
-      环境信息系统信息：统信UOS 家庭版21.3涉及工具：gcc、edb-debugger、ghidra、radare2edb-debugger安装 #...
     </summary>
   </entry>
 

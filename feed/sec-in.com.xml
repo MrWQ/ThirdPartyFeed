@@ -3,8 +3,26 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-10-20T13:02:04+08:00</updated>
+  <updated>2022-10-20T18:26:17+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">nacos 认证绕过安全漏洞</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1940"/>
+    <id>https://sec-in.com/article/1940</id>
+    <published>2022-10-20T17:55:47+08:00</published>
+    <summary type="text">
+      nacos 1.2~1.4.0 的版本期间是存在认证绕过安全漏洞的，是因为 User-Agent 中包含了 Nacos-Server 使得认定请求来自于其他服务端，从而绕过了认证。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">浅谈信息收集</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1939"/>
+    <id>https://sec-in.com/article/1939</id>
+    <published>2022-10-20T17:55:14+08:00</published>
+    <summary type="text">
+      众所周知渗透测试的本质是信息收集，在渗透测试中信息收集的质量直接关系到渗透测试成果的与否。在对系统进行渗透测试前的信息收集是通过各种方式获取所需要的信息，收集的信息越多对目标进行渗透的优势越有利。
+    </summary>
+  </entry>
   <entry>
     <title type="text">Spring及自动绑定问题</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1930"/>
@@ -75,24 +93,6 @@
     <published>2022-09-13T15:42:24+08:00</published>
     <summary type="text">
       本文将利用 docker 的自身功能结合若干开源渗透测试环境，在一台虚拟机中，搭建一套简单的三层渗透测试靶场。部分操作过程可能会稍显繁琐，可维护性也不佳，不足之处希望师傅们能够给出建议，不胜感激。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">记一次对HackTheBox:Charon的渗透测试</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1920"/>
-    <id>https://sec-in.com/article/1920</id>
-    <published>2022-09-06T15:00:07+08:00</published>
-    <summary type="text">
-      **Charon is definitely one of the more challenging machines on HackTheBox. It does not require any a
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">记一次对HTB:Talkative的两次RCE三次get_shell</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1919"/>
-    <id>https://sec-in.com/article/1919</id>
-    <published>2022-09-06T15:00:01+08:00</published>
-    <summary type="text">
-      前言：该靶机为困难模式的靶机，文章内容包含了一些漏洞利用及工具的推荐。建议感兴趣的师傅们也可以动手打一下！！！
     </summary>
   </entry>
 
