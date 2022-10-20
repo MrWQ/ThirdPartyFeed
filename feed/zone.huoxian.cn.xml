@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-10-20T06:24:05+08:00</updated>
+  <updated>2022-10-20T13:02:04+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20221020</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2613-20221020"/>
+    <id>https://zone.huoxian.cn/d/2613-20221020</id>
+    <published>2022-10-20T03:15:19+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20221020
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Google Cloud Shell - 命令注入</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2612-google-cloud-shell"/>
+    <id>https://zone.huoxian.cn/d/2612-google-cloud-shell</id>
+    <published>2022-10-20T02:58:06+00:00</published>
+    <summary type="text">
+      Google Cloud Shell - 命令注入
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-10-10T09:00:11+00:00</published>
     <summary type="text">
       使用自定义云容器在 Azure Functions 中增强云安全性
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20221010</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2593-20221010"/>
-    <id>https://zone.huoxian.cn/d/2593-20221010</id>
-    <published>2022-10-10T04:08:40+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20221010
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">云服务枚举 - AWS、Azure 和 GCP</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2592-awsazure-gcp"/>
-    <id>https://zone.huoxian.cn/d/2592-awsazure-gcp</id>
-    <published>2022-10-09T08:40:43+00:00</published>
-    <summary type="text">
-      云服务枚举 - AWS、Azure 和 GCP
     </summary>
   </entry>
 
