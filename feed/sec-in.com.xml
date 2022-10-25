@@ -3,8 +3,42 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-10-25T13:38:10+08:00</updated>
+  <updated>2022-10-25T18:26:32+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">浅谈SQL database的各种技巧(一)</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1941"/>
+    <id>https://sec-in.com/article/1941</id>
+    <published>2022-10-25T16:37:40+08:00</published>
+    <summary type="text">
+      SQL注入是一个耳熟能详的漏洞利用方法，能够深入的了解这种攻击方法对于我们在现实场景中的防御有更好的便利
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Windows 下的逆向分析-实战1</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1944"/>
+    <id>https://sec-in.com/article/1944</id>
+    <published>2022-10-25T15:21:21+08:00</published>
+    <summary type="text">
+      Windows 下的逆向分析-实战1
+环境信息
+系统信息：Windows 10 、Thankpad T430I
+
+涉及工具：x64dbg
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Windows 下的逆向分析-初探</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1943"/>
+    <id>https://sec-in.com/article/1943</id>
+    <published>2022-10-25T15:20:07+08:00</published>
+    <summary type="text">
+      Windows 下的逆向分析-初探
+系统信息：Windows 11
+
+涉及工具：Visual studio 、x64dbg
+    </summary>
+  </entry>
   <entry>
     <title type="text">nacos 认证绕过安全漏洞</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1940"/>
@@ -66,33 +100,6 @@
     <published>2022-09-19T16:39:02+08:00</published>
     <summary type="text">
       HTTP 请求走私(HPS)是一种用于干扰网站处理从一个或多个用户接收的 HTTP 请求序列的方式的技术。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">实战打靶之noter</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1925"/>
-    <id>https://sec-in.com/article/1925</id>
-    <published>2022-09-16T14:35:16+08:00</published>
-    <summary type="text">
-      靶机主要是从信息收集开始，发现是flask搭建的，然后使用flask unsign进行解密，暴力破解。接着使用枚举出的用户进行FTP登录，FTP登录之后，下载pdf文件，发现管理员账号和密码规则
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">pbootcms审计记录</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1923"/>
-    <id>https://sec-in.com/article/1923</id>
-    <published>2022-09-14T10:43:07+08:00</published>
-    <summary type="text">
-      利用 phpstudy 轻松搭建 [pbootcms](https://www.pbootcms.com/) 环境，但是在搭建过程中，我们自己设定 phpstudy 的解析域名不行，需要获取授权码，
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">利用 docker 搭建简单三层渗透靶场</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1921"/>
-    <id>https://sec-in.com/article/1921</id>
-    <published>2022-09-13T15:42:24+08:00</published>
-    <summary type="text">
-      本文将利用 docker 的自身功能结合若干开源渗透测试环境，在一台虚拟机中，搭建一套简单的三层渗透测试靶场。部分操作过程可能会稍显繁琐，可维护性也不佳，不足之处希望师傅们能够给出建议，不胜感激。
     </summary>
   </entry>
 
