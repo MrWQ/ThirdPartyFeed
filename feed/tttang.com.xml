@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-10-26T06:22:50+08:00</updated>
+  <updated>2022-10-26T12:54:36+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text"># CobaltStrike beacon二开指南</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1789/"/>
+    <id>https://tttang.com/archive/1789/</id>
+    <published>2022-10-26T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;CobaltStrike真好用啊，但是缺点就是太好用了被各类安全厂商严防死守，研究了半天shellcode loader和白加黑之类的免杀，多多少少都有翻车的记录，有没有更好的办法呢？&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">Cobalt Strike BOF原理分析</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1786/"/>
@@ -134,15 +143,6 @@
     <published>2022-10-08T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;最近做了一道国际赛SEKAI的取证题, 题目使用&lt;strong&gt;LiME&lt;/strong&gt;对内核为&lt;strong&gt;5.15.0-43-generic&lt;/strong&gt;的&lt;strong&gt;Ubuntu&lt;/strong&gt;制作内存镜像, 需要自行制作&lt;strong&gt;Symbols 进行分析.&lt;/strong&gt; 出题人让我们自行探索新版&lt;strong&gt;Linux&lt;/strong&gt;内核下的取证策略. 尽管官方&lt;strong&gt;Volatility2&lt;/strong&gt;提供制作&lt;strong&gt;profile&lt;/strong&gt;和&lt;strong&gt;Volatility3&lt;/strong&gt;提供制作&lt;strong&gt;Symbols&lt;/strong&gt;的方案, 但在实际应用中, 均出现较多目前互联网尚未解决的问题. (具体详见&lt;strong&gt;GitHub&lt;/strong&gt;关于&lt;strong&gt;Volatility&lt;/strong&gt;的&lt;strong&gt;Issues&lt;/strong&gt;.). 下文主要内容是基于官方文档、题目、实操步骤, 提供在新版&lt;strong&gt;Linux&lt;/strong&gt;下的制作&lt;strong&gt;Symbols&lt;/strong&gt;的解决方案.&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">JBoss Remoting Connector 4446端口反序列化分析</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1751/"/>
-    <id>https://tttang.com/archive/1751/</id>
-    <published>2022-09-30T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;今年4月份爆出JBoss EAP/AS &amp;lt;=6.&lt;em&gt;版本的&lt;/em&gt;&lt;em&gt;4446&lt;/em&gt;*端口存在反序列化rRCE漏洞，本文对该漏洞进行复现并做了以下分析。&lt;/p&gt;
     </summary>
   </entry>
 
