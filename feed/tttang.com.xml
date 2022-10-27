@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-10-27T06:22:08+08:00</updated>
+  <updated>2022-10-27T12:48:35+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">PHP-FPM攻击详解</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1775/"/>
+    <id>https://tttang.com/archive/1775/</id>
+    <published>2022-10-27T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;最近参加了浙江省信息安全竞赛，遇到了一道攻击fastcgi的题目，发现自己对php-fpm不够了解，于是做了一个归纳总结。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text"># CobaltStrike beacon二开指南</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1789/"/>
@@ -134,15 +143,6 @@
       &lt;blockquote&gt;
 &lt;p&gt;这是白帽子（twitter：@spoofyroot）在2019年发布的一篇文章，完整介绍了这位师傅在挖掘Edge浏览器漏洞的思路、利用、组合。其中第三个漏洞的利用链的构造过程很有借鉴意义&lt;/p&gt;
 &lt;/blockquote&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Linux新版内核下内存取证分析附CTF题</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1762/"/>
-    <id>https://tttang.com/archive/1762/</id>
-    <published>2022-10-08T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;最近做了一道国际赛SEKAI的取证题, 题目使用&lt;strong&gt;LiME&lt;/strong&gt;对内核为&lt;strong&gt;5.15.0-43-generic&lt;/strong&gt;的&lt;strong&gt;Ubuntu&lt;/strong&gt;制作内存镜像, 需要自行制作&lt;strong&gt;Symbols 进行分析.&lt;/strong&gt; 出题人让我们自行探索新版&lt;strong&gt;Linux&lt;/strong&gt;内核下的取证策略. 尽管官方&lt;strong&gt;Volatility2&lt;/strong&gt;提供制作&lt;strong&gt;profile&lt;/strong&gt;和&lt;strong&gt;Volatility3&lt;/strong&gt;提供制作&lt;strong&gt;Symbols&lt;/strong&gt;的方案, 但在实际应用中, 均出现较多目前互联网尚未解决的问题. (具体详见&lt;strong&gt;GitHub&lt;/strong&gt;关于&lt;strong&gt;Volatility&lt;/strong&gt;的&lt;strong&gt;Issues&lt;/strong&gt;.). 下文主要内容是基于官方文档、题目、实操步骤, 提供在新版&lt;strong&gt;Linux&lt;/strong&gt;下的制作&lt;strong&gt;Symbols&lt;/strong&gt;的解决方案.&lt;/p&gt;
     </summary>
   </entry>
 
