@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-10-31T06:18:21+08:00</updated>
+  <updated>2022-10-31T12:52:18+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,15 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">AWS 控制台中的 XSS</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2632-aws-xss"/>
+    <id>https://zone.huoxian.cn/d/2632-aws-xss</id>
+    <published>2022-10-31T03:25:38+00:00</published>
+    <summary type="text">
+      AWS 控制台中的 XSS
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-10-19T04:00:11+00:00</published>
     <summary type="text">
       每日云安全技术资讯20221019
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20221018</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2609-20221018"/>
-    <id>https://zone.huoxian.cn/d/2609-20221018</id>
-    <published>2022-10-18T03:20:00+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20221018
     </summary>
   </entry>
 
