@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-11-01T13:13:29+08:00</updated>
+  <updated>2022-11-01T18:22:42+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Checkmk: Remote Code Execution by Chaining Multiple Bugs (1/3)</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/checkmk-rce-chain-1"/>
+    <id>https://blog.sonarsource.com/checkmk-rce-chain-1</id>
+    <published>2022-10-31T10:04:08Z</published>
+    <summary type="text">
+      We discovered multiple vulnerabilities in Checkmk, which can be chained together by an unauthenticated, remote attacker to fully take over a vulnerable server.
+    </summary>
+  </entry>
   <entry>
     <title type="text">Beyond the Rules of Three, Five and Zero</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/beyond-the-rules-of-three-five-and-zero"/>
@@ -175,15 +184,6 @@ Whether an experienced JavaScript | TypeScript developer or just starting out, t
     <published>2022-08-30T14:46:42Z</published>
     <summary type="text">
       Knowing if your latest release candidate is built with clean code doesn’t have to be a guessing game. With Sonar at your side, you’ll know that every new line, every PR and every build is clean.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Securing Developer Tools: Argument Injection in Visual Studio Code</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode"/>
-    <id>https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode</id>
-    <published>2022-08-23T09:05:44Z</published>
-    <summary type="text">
-      In the third part of our Securing Developer Tools series, we look at a critical vulnerability that affects one of the most popular code editors: Visual Studio Code.
     </summary>
   </entry>
 
