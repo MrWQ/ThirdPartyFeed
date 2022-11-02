@@ -3,8 +3,17 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2022-11-02T13:02:41+08:00</updated>
+  <updated>2022-11-02T18:22:26+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">GoEXP WANTED 3</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5044.html"/>
+    <id>https://nosec.org/home/detail/5044.html</id>
+    <published>2022-11-02T17:14:58+08:00</published>
+    <summary type="text">
+      寒意渐浓时，GoEXP 点燃岁末的“薪”火，开启虎年最后一期 EXP 收录计划，钱包鼓鼓的，心里才能暖暖的！
+    </summary>
+  </entry>
   <entry>
     <title type="text">攻击技术研判｜使用cdb.exe规避主机安全防御</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5043.html"/>
@@ -174,15 +183,6 @@
     <published>2022-07-01T14:04:25+08:00</published>
     <summary type="text">
       &amp;nbsp; Hey，这里有一场 live 邀请你聆听。2019年9月，Goby正式发布，用可视化迅速展示+一键利用可以让新手...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">【安全通报】Apache Shiro权限绕过漏洞（CVE-2022-32532）</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5020.html"/>
-    <id>https://nosec.org/home/detail/5020.html</id>
-    <published>2022-06-29T16:05:12+08:00</published>
-    <summary type="text">
-      Apache Shiro 1.9.1前的版本RegExPatternMatcher在使用带有“.”的正则时，可能会导致权限绕过。漏洞源于RegExPatternMatcher默认使用的正则匹配的“.”不会匹配换行...
     </summary>
   </entry>
 
