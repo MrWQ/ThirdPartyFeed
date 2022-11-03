@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-11-03T12:39:06+08:00</updated>
+  <updated>2022-11-03T18:19:53+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">Weblogic Analysis Attacked by T3 Protocol From CVE (part 3)</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1800/"/>
+    <id>https://tttang.com/archive/1800/</id>
+    <published>2022-11-03T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;继续抽空学习Weblogic CVE中有关T3协议的漏洞利用方式！&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">fuzzer AFL 源码分析（五）-变异</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1796/"/>
@@ -131,15 +140,6 @@
       &lt;blockquote&gt;
 &lt;p&gt;代理模式是常用的 java 设计模式，他的特征是代理类与委托类有同样的接口，代理类主要负责为委托类预处理消息、过滤消息、把消息转发给委托类，以及事后处理消息等。代理类与委托类之间通常会存在关联关系，一个代理类的对象与一个委托类的对象关联，代理类的对象本身并不真正实现服务，而是通过调用委托类的对象的相关方法，来提供特定的服务。&lt;/p&gt;
 &lt;/blockquote&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">域内用户Hash获取方式总结</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1758/"/>
-    <id>https://tttang.com/archive/1758/</id>
-    <published>2022-10-13T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;在渗透测试的过程中，当我们已经是域管权限时，就可以实现提取所有域内用户的密码哈希以进行离线破解和分析，这是非常常见的一个操作，这些哈希值存储在域控制器(NTDS.DIT)中的数据库文件中，并带有一些其他信息，如用户名、散列值、组、GPP、OU等于活动目录相关的信息，它和SAM文件一样都是被操作系统锁定的，因此无法直接复制到其他位置以提取信息。&lt;/p&gt;
     </summary>
   </entry>
 
