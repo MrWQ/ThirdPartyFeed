@@ -3,8 +3,17 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2022-11-03T18:20:04+08:00</updated>
+  <updated>2022-11-04T06:16:19+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">urlscan.io的SOAR威胁：泄露私人数据的安全工具</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5045.html"/>
+    <id>https://nosec.org/home/detail/5045.html</id>
+    <published>2022-11-03T21:44:02+08:00</published>
+    <summary type="text">
+      共享文档的敏感 URL、密码重置页面、团队邀请、付款发票等的敏感URL在urlscan.io上公开列出并可搜索。部分数据已被其他安全工具意外地将扫描结果公开
+    </summary>
+  </entry>
   <entry>
     <title type="text">GoEXP WANTED 3</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5044.html"/>
@@ -174,15 +183,6 @@
     <published>2022-07-01T20:04:03+08:00</published>
     <summary type="text">
       GitLab远程代码执行漏洞，该问题影响从 14.0 到 14.10.5、从15.0 到15.0.4以及从 15.1 到 15.1.1 的所有版本，其中授权用户可以导入恶意制作的项目，从而导致远...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">直播 | Goby 技术分享直播来袭</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5022.html"/>
-    <id>https://nosec.org/home/detail/5022.html</id>
-    <published>2022-07-01T14:04:25+08:00</published>
-    <summary type="text">
-      &amp;nbsp; Hey，这里有一场 live 邀请你聆听。2019年9月，Goby正式发布，用可视化迅速展示+一键利用可以让新手...
     </summary>
   </entry>
 
