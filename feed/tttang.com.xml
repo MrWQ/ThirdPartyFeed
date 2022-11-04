@@ -3,8 +3,20 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-11-04T06:16:10+08:00</updated>
+  <updated>2022-11-04T12:44:09+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">如何基于volatility2构建“新”版本内核的profile</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1801/"/>
+    <id>https://tttang.com/archive/1801/</id>
+    <published>2022-11-04T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;前两天跳跳糖发表了一篇如何基于vol3构建symbols_table的文章 &lt;br&gt;
+&lt;a href=&quot;https://tttang.com/archive/1762/&quot; target=&quot;_blank&quot;&gt;Linux新版内核下内存取证分析附CTF题&lt;/a&gt;&lt;br&gt;
+vol3之于vol2，很大的改变就是用symbol_tables(符号表)替换了profile(配置文件)，vol3带有一个广泛的符号表库，并且可以基于内存映像本身为大多数 Windows 内存映像生成新的&lt;a href=&quot;https://volatility3.readthedocs.io/en/latest/volatility3.framework.interfaces.symbols.html#volatility3.framework.interfaces.symbols.SymbolTableInterface&quot; target=&quot;_blank&quot;&gt;符号表&lt;/a&gt;。&lt;br&gt;
+最近的2022祥云杯正好出了一道需要自己构建新版本内核的题（这里“新&quot;指的是profile在互联网上找不到对应的profile），关于构建profile中文社区没发现什么文章。这里记录一下，直接用祥云杯的附件做例子了。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">Weblogic Analysis Attacked by T3 Protocol From CVE (part 3)</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1800/"/>
@@ -129,17 +141,6 @@
     <published>2022-10-17T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;这次的分析接着上次的来讲，也是分析了两个中间件的通信模型，分别是非主流中间件被厂商魔改后的中间件➕CGI和OpenWrt中间模块uhttpd/lighttpd➕CGI/Lua，话不多说，直接开始...&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">从TCTF的3rm1学习java动态代理</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1769/"/>
-    <id>https://tttang.com/archive/1769/</id>
-    <published>2022-10-14T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;blockquote&gt;
-&lt;p&gt;代理模式是常用的 java 设计模式，他的特征是代理类与委托类有同样的接口，代理类主要负责为委托类预处理消息、过滤消息、把消息转发给委托类，以及事后处理消息等。代理类与委托类之间通常会存在关联关系，一个代理类的对象与一个委托类的对象关联，代理类的对象本身并不真正实现服务，而是通过调用委托类的对象的相关方法，来提供特定的服务。&lt;/p&gt;
-&lt;/blockquote&gt;
     </summary>
   </entry>
 
