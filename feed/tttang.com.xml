@@ -3,8 +3,38 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-11-07T06:17:35+08:00</updated>
+  <updated>2022-11-07T12:42:19+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">2022 USTC Hackergame WriteUp 0x03</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1805/"/>
+    <id>https://tttang.com/archive/1805/</id>
+    <published>2022-11-07T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;这是 喵喵 2022 Hackergame WriteUp 的&lt;strong&gt;第三篇&lt;/strong&gt;，主要也是一些难度稍大的题目，以及喵喵的碎碎念。&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">2022 USTC Hackergame WriteUp 0x02</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1804/"/>
+    <id>https://tttang.com/archive/1804/</id>
+    <published>2022-11-07T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;这是 喵喵 2022 Hackergame WriteUp 的&lt;strong&gt;第二篇&lt;/strong&gt;，主要包括一些难度稍大的题目，以 binary 类型为主。&lt;/p&gt;
+&lt;p&gt;希望师傅们看了都能有所收获喵~&lt;/p&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">2022 USTC Hackergame WriteUp 0x01</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1803/"/>
+    <id>https://tttang.com/archive/1803/</id>
+    <published>2022-11-07T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;中国科学技术大学第九届信息安全大赛&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">如何基于volatility2构建“新”版本内核的profile</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1801/"/>
@@ -114,33 +144,6 @@ vol3之于vol2，很大的改变就是用symbol_tables(符号表)替换了profil
     <published>2022-10-20T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;此篇文章为ATTCK矩阵中的攻与防的第二篇，T1218是windows里面常见的规避EDR常用的渗透横向技巧，大部分技巧在互联网上都有师傅们分享，笔者只是将其中的内容总结起来，以ATT&amp;amp;CK矩阵来探究其中的攻防之道，regsvr32和rundll32曾在知识星球分享过，看过的师傅们看前面的即可，如若文章有技术问题，欢迎各位师傅在评论区交流&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">内联缓存机制浅析与由此而来的类型混淆利用原理</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1772/"/>
-    <id>https://tttang.com/archive/1772/</id>
-    <published>2022-10-19T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;今年六月份见到了 CVE-2022-1134 ，这是 V8 在 Turbofan 中另一个很有意思的攻击面，提交者在这之后很详细的介绍了这个漏洞的利用方式，它的利用方法同之前的 Turbofan 有着很不一样，但却相当有意思的地方。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">On Bypassing eBPF Security Monitoring（译文）</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1779/"/>
-    <id>https://tttang.com/archive/1779/</id>
-    <published>2022-10-18T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;Extended Berkeley Packet Filter（eBPF）是一种内核技术（从 Linux 4.x 开始），它允许程序在无需更改内核源代码，或添加额外模块的情况下运行。你可以将其视为 Linux 内核中的轻量级沙箱虚拟机（VM），程序员可以在其中运行 BPF 字节码，从而利用特定的内核资源，近几年&lt;code&gt;eBPF&lt;/code&gt;的发展越来越火热，对应的，他的安全问题也是一项不可忽视的关注点&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">浅析路由器WEB服务架构（二）</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1777/"/>
-    <id>https://tttang.com/archive/1777/</id>
-    <published>2022-10-17T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;这次的分析接着上次的来讲，也是分析了两个中间件的通信模型，分别是非主流中间件被厂商魔改后的中间件➕CGI和OpenWrt中间模块uhttpd/lighttpd➕CGI/Lua，话不多说，直接开始...&lt;/p&gt;
     </summary>
   </entry>
 

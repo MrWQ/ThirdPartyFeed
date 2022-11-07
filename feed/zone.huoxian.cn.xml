@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-11-07T06:17:36+08:00</updated>
+  <updated>2022-11-07T12:42:19+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,15 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">云安全的新功能：云安全态势管理的并行性和建议</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2642"/>
+    <id>https://zone.huoxian.cn/d/2642</id>
+    <published>2022-11-07T04:25:18+00:00</published>
+    <summary type="text">
+      云安全的新功能：云安全态势管理的并行性和建议
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-10-25T04:19:00+00:00</published>
     <summary type="text">
       降低滥用AWS IAM用户访问密钥的风险
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20221025</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2624-20221025"/>
-    <id>https://zone.huoxian.cn/d/2624-20221025</id>
-    <published>2022-10-25T03:18:48+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20221025
     </summary>
   </entry>
 
