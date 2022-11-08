@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-11-08T06:19:42+08:00</updated>
+  <updated>2022-11-08T12:43:17+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">对ZDI公布的InfraSuite Device Master一揽子漏洞的分析</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1806/"/>
+    <id>https://tttang.com/archive/1806/</id>
+    <published>2022-11-08T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;看到zdi发了一堆洞，有反序列化、目录穿越、权限绕过等等，还是dotnet的，于是有了此文。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">2022 USTC Hackergame WriteUp 0x03</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1805/"/>
@@ -135,15 +144,6 @@ vol3之于vol2，很大的改变就是用symbol_tables(符号表)替换了profil
     <published>2022-10-21T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;之前所接触的大多是PHP 反序列化题型，最近遇见了一道Python pickle反序列化类型题，因此学习了一下其反序列化，简单总结如下，希望能对各位师傅有所帮助。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">ATT&amp;amp;CK中的攻与防——T1218</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1781/"/>
-    <id>https://tttang.com/archive/1781/</id>
-    <published>2022-10-20T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;此篇文章为ATTCK矩阵中的攻与防的第二篇，T1218是windows里面常见的规避EDR常用的渗透横向技巧，大部分技巧在互联网上都有师傅们分享，笔者只是将其中的内容总结起来，以ATT&amp;amp;CK矩阵来探究其中的攻防之道，regsvr32和rundll32曾在知识星球分享过，看过的师傅们看前面的即可，如若文章有技术问题，欢迎各位师傅在评论区交流&lt;/p&gt;
     </summary>
   </entry>
 

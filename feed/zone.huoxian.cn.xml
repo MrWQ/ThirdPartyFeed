@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-11-08T06:19:43+08:00</updated>
+  <updated>2022-11-08T12:43:18+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,15 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20221108</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2644-20221108"/>
+    <id>https://zone.huoxian.cn/d/2644-20221108</id>
+    <published>2022-11-08T03:13:01+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20221108
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-10-26T03:31:53+00:00</published>
     <summary type="text">
       每日云安全技术资讯20221026
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">如何加密AWS EBS卷</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2626-aws-ebs"/>
-    <id>https://zone.huoxian.cn/d/2626-aws-ebs</id>
-    <published>2022-10-26T03:15:28+00:00</published>
-    <summary type="text">
-      如何加密AWS EBS卷
     </summary>
   </entry>
 
