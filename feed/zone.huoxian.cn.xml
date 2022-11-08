@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-11-08T12:43:18+08:00</updated>
+  <updated>2022-11-08T18:20:56+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -24,6 +24,15 @@
     </summary>
   </entry>
   <entry>
+    <title type="text">CosMiss：Azure Cosmos DB Notebook 远程代码执行漏洞</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2645-cosmissazure-cosmos-db-notebook"/>
+    <id>https://zone.huoxian.cn/d/2645-cosmissazure-cosmos-db-notebook</id>
+    <published>2022-11-08T06:34:51+00:00</published>
+    <summary type="text">
+      CosMiss：Azure Cosmos DB Notebook 远程代码执行漏洞
+    </summary>
+  </entry>
+  <entry>
     <title type="text">每日云安全技术资讯20221108</title>
     <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2644-20221108"/>
     <id>https://zone.huoxian.cn/d/2644-20221108</id>
@@ -39,15 +48,6 @@
     <published>2022-11-07T07:33:43+00:00</published>
     <summary type="text">
       每日云安全技术资讯20221107
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">云安全的新功能：云安全态势管理的并行性和建议</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2642"/>
-    <id>https://zone.huoxian.cn/d/2642</id>
-    <published>2022-11-07T04:25:18+00:00</published>
-    <summary type="text">
-      云安全的新功能：云安全态势管理的并行性和建议
     </summary>
   </entry>
   <entry>
