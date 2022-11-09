@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-11-09T06:19:17+08:00</updated>
+  <updated>2022-11-09T12:45:29+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -24,12 +24,30 @@
     </summary>
   </entry>
   <entry>
-    <title type="text">CosMiss：Azure Cosmos DB Notebook 远程代码执行漏洞</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2645-cosmissazure-cosmos-db-notebook"/>
-    <id>https://zone.huoxian.cn/d/2645-cosmissazure-cosmos-db-notebook</id>
+    <title type="text">攻击者瞄准AWS EC2 工作负载以窃取凭证</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2648-aws-ec2"/>
+    <id>https://zone.huoxian.cn/d/2648-aws-ec2</id>
+    <published>2022-11-09T03:01:26+00:00</published>
+    <summary type="text">
+      攻击者瞄准AWS EC2 工作负载以窃取凭证
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">SRC日常捡洞之某科技公司shiro漏洞</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2647-srcshiro"/>
+    <id>https://zone.huoxian.cn/d/2647-srcshiro</id>
+    <published>2022-11-08T08:22:51+00:00</published>
+    <summary type="text">
+      SRC日常捡洞之某科技公司shiro漏洞
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Azure Cosmos DB Notebook 远程代码执行漏洞</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2645-azure-cosmos-db-notebook"/>
+    <id>https://zone.huoxian.cn/d/2645-azure-cosmos-db-notebook</id>
     <published>2022-11-08T06:34:51+00:00</published>
     <summary type="text">
-      CosMiss：Azure Cosmos DB Notebook 远程代码执行漏洞
+      Azure Cosmos DB Notebook 远程代码执行漏洞
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-10-27T08:10:12+00:00</published>
     <summary type="text">
       每日云安全技术资讯20221027
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">在公开的 S3 存储桶中发现了数千个密钥</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2628-s3"/>
-    <id>https://zone.huoxian.cn/d/2628-s3</id>
-    <published>2022-10-27T04:37:01+00:00</published>
-    <summary type="text">
-      在公开的 S3 存储桶中发现了数千个密钥
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20221026</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2627-20221026"/>
-    <id>https://zone.huoxian.cn/d/2627-20221026</id>
-    <published>2022-10-26T03:31:53+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20221026
     </summary>
   </entry>
 

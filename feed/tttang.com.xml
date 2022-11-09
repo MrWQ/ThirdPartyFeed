@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-11-09T06:19:16+08:00</updated>
+  <updated>2022-11-09T12:45:29+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">初探HTTP Request Smuggling</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1808/"/>
+    <id>https://tttang.com/archive/1808/</id>
+    <published>2022-11-09T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;&lt;code&gt;ISCC2022[让我康康]&lt;/code&gt;这道赛题在初次接触时令我记忆犹新，之前由于学习知识其他也一直没有对HTTP请求走私进行相关学习，最近学习过后简单总结如下，希望能对正在学习HTTP请求走私的师傅有所帮助。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">对ZDI公布的InfraSuite Device Master一揽子漏洞的分析</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1806/"/>
@@ -135,15 +144,6 @@ vol3之于vol2，很大的改变就是用symbol_tables(符号表)替换了profil
     <published>2022-10-24T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;这篇是继上篇中的T3协议进行漏洞利用，继续分析Weblogic CVE的有关利用方式和修复手法&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Python pickle反序列化浅析</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1782/"/>
-    <id>https://tttang.com/archive/1782/</id>
-    <published>2022-10-21T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;之前所接触的大多是PHP 反序列化题型，最近遇见了一道Python pickle反序列化类型题，因此学习了一下其反序列化，简单总结如下，希望能对各位师傅有所帮助。&lt;/p&gt;
     </summary>
   </entry>
 
