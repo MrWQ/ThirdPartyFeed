@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-11-11T12:36:15+08:00</updated>
+  <updated>2022-11-11T18:21:41+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">Java代码审计—文件上传漏洞</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1967"/>
+    <id>https://sec-in.com/article/1967</id>
+    <published>2022-11-11T18:12:59+08:00</published>
+    <summary type="text">
+      在Java代码审计中经常会碰到一些文件操作的漏洞，  而本篇就是针对文件上传漏洞进行的一次简单总结。
+    </summary>
+  </entry>
   <entry>
     <title type="text">利用 Chromium 的应用模式进行钓鱼</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1938"/>
@@ -84,15 +93,6 @@
     <published>2022-11-03T15:46:59+08:00</published>
     <summary type="text">
       这是接着上一篇给出了对Mysql的各种各样的注入手法给出了实例和操作细则，包含有布尔盲注，回显注入，堆叠注入，二次注入等等注入方法
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">浅谈SQL database的各种技巧(一)</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1941"/>
-    <id>https://sec-in.com/article/1941</id>
-    <published>2022-10-25T16:37:40+08:00</published>
-    <summary type="text">
-      SQL注入是一个耳熟能详的漏洞利用方法，能够深入的了解这种攻击方法对于我们在现实场景中的防御有更好的便利
     </summary>
   </entry>
 
