@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-11-11T18:21:40+08:00</updated>
+  <updated>2022-11-12T06:18:56+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">A Look Back at KubeCon 2022</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/kubecon_2022_event_summary"/>
+    <id>https://blog.sonarsource.com/kubecon_2022_event_summary</id>
+    <published>2022-11-11T08:22:21Z</published>
+    <summary type="text">
+      The Sonar Team had a great time sponsoring KubeCon 2022 in Detroit. Read about our take aways from the event.
+    </summary>
+  </entry>
   <entry>
     <title type="text">Checkmk: Remote Code Execution by Chaining Multiple Bugs (2/3)</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/checkmk-rce-chain-2"/>
@@ -175,15 +184,6 @@ Whether an experienced JavaScript | TypeScript developer or just starting out, t
     <published>2022-09-06T12:50:56Z</published>
     <summary type="text">
       Our security researchers were surprised to discover a low-hanging code vulnerability in WordPress Core that we will discuss in this blog post.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">You’re 3 minutes away from clean Java pull requests!</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/youre-3-minutes-away-from-clean-java-pull-requests"/>
-    <id>https://blog.sonarsource.com/youre-3-minutes-away-from-clean-java-pull-requests</id>
-    <published>2022-09-01T07:00:11Z</published>
-    <summary type="text">
-      In this blog, I’m going to demonstrate how you can get started with SonarCloud in less than 3 minutes and ensure all new Java pull requests are clean, every time.
     </summary>
   </entry>
 
