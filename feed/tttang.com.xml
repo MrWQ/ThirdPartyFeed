@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-11-11T06:18:21+08:00</updated>
+  <updated>2022-11-11T12:36:16+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">从SPI机制到JDBC后门实现</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1819/"/>
+    <id>https://tttang.com/archive/1819/</id>
+    <published>2022-11-11T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;SPI（Service Provider Interface），是JDK内置的一种服务提供发现机制，可以用来启用框架扩展和替换组件，主要是被框架的开发人员使用，比如java.sql.Driver接口，其他不同厂商可以针对同一接口做出不同的实现，MySQL和PostgreSQL都有不同的实现提供给用户，而Java的SPI机制可以为某个接口寻找服务实现。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">Dumping Lsass Process Memory In Different Ways</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1810/"/>
@@ -135,15 +144,6 @@ vol3之于vol2，很大的改变就是用symbol_tables(符号表)替换了profil
     <published>2022-10-26T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;CobaltStrike真好用啊，但是缺点就是太好用了被各类安全厂商严防死守，研究了半天shellcode loader和白加黑之类的免杀，多多少少都有翻车的记录，有没有更好的办法呢？&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Cobalt Strike BOF原理分析</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1786/"/>
-    <id>https://tttang.com/archive/1786/</id>
-    <published>2022-10-25T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;BOF(Beacon 对象文件)是C/C++编译，但未链接产生的Obj文件，BOF运行在Beacon进程中，并执行内部的Beacon API和Win32 API函数。BOF本质是COFF Obj文件，其符合COFF文件格式规范，结构类似于windows PE文件格式。在被Cobalt Strike加载和使用过程中，BOF是一段地址无关的Shellcode，BOF本身体积比较小，在传输过程中，适用于那些传输带宽小的模式，然后其本身运行在beacon进程内部，不会重新创建进程，也可以有效规避EDR。&lt;/p&gt;
     </summary>
   </entry>
 
