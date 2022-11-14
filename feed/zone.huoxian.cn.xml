@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-11-14T12:37:39+08:00</updated>
+  <updated>2022-11-14T18:21:39+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,15 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20221114</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2656-20221114"/>
+    <id>https://zone.huoxian.cn/d/2656-20221114</id>
+    <published>2022-11-14T06:08:52+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20221114
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2022-11-02T03:25:11+00:00</published>
     <summary type="text">
       每日云安全技术资讯20221102
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">劫持IAM角色并避免检测</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2635-iam"/>
-    <id>https://zone.huoxian.cn/d/2635-iam</id>
-    <published>2022-11-01T07:12:48+00:00</published>
-    <summary type="text">
-      劫持IAM角色并避免检测
     </summary>
   </entry>
 
