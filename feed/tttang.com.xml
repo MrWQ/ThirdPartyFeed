@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-11-14T06:18:01+08:00</updated>
+  <updated>2022-11-14T12:37:38+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">XML外部实体注入（XXE）攻击方式汇总</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1813/"/>
+    <id>https://tttang.com/archive/1813/</id>
+    <published>2022-11-14T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;关于 XXE 攻击方式汇总的相应靶场通关记录已经完成，靶场使用的是 Port Swigger 靶场，若有需要，欢迎师傅们前往学习，Github地址：&lt;a href=&quot;https://github.com/shungli923/WowBigBug/blob/main/%E9%9D%B6%E5%9C%BA%E6%94%BB%E7%95%A5/XXE%20PortSwigger%E9%9D%B6%E5%9C%BA%E9%80%9A%E5%85%B3%E7%AC%94%E8%AE%B0.md&quot; target=&quot;_blank&quot;&gt;XXE 靶场通关笔记&lt;/a&gt;&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">从SPI机制到JDBC后门实现</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1819/"/>
@@ -135,15 +144,6 @@ vol3之于vol2，很大的改变就是用symbol_tables(符号表)替换了profil
     <published>2022-10-27T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;最近参加了浙江省信息安全竞赛，遇到了一道攻击fastcgi的题目，发现自己对php-fpm不够了解，于是做了一个归纳总结。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text"># CobaltStrike beacon二开指南</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1789/"/>
-    <id>https://tttang.com/archive/1789/</id>
-    <published>2022-10-26T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;CobaltStrike真好用啊，但是缺点就是太好用了被各类安全厂商严防死守，研究了半天shellcode loader和白加黑之类的免杀，多多少少都有翻车的记录，有没有更好的办法呢？&lt;/p&gt;
     </summary>
   </entry>
 
