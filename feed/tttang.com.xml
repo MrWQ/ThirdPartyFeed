@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-11-15T06:23:25+08:00</updated>
+  <updated>2022-11-15T12:26:05+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">fuzzer AFL 源码分析（四）-监控</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1753/"/>
+    <id>https://tttang.com/archive/1753/</id>
+    <published>2022-11-15T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;上一部分对&lt;code&gt;afl&lt;/code&gt;如何实现反馈进行了较为详细的介绍，本文将对&lt;code&gt;afl&lt;/code&gt;如何实现监控进行分析。监控是指&lt;code&gt;afl&lt;/code&gt;能够成功运行目标程序、获取目标程序的反馈信息（运行状态）并判定此次运行是否有效（此次运行的样例是否增加了模糊测试的覆盖率、是否崩溃或超时），以更有效的指导下一次模糊测试及保存崩溃。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">XML外部实体注入（XXE）攻击方式汇总</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1813/"/>
@@ -135,15 +144,6 @@ vol3之于vol2，很大的改变就是用symbol_tables(符号表)替换了profil
     <published>2022-10-28T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;学习zoho pmp这块相关知识点，简单做个总结&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">PHP-FPM攻击详解</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1775/"/>
-    <id>https://tttang.com/archive/1775/</id>
-    <published>2022-10-27T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;最近参加了浙江省信息安全竞赛，遇到了一道攻击fastcgi的题目，发现自己对php-fpm不够了解，于是做了一个归纳总结。&lt;/p&gt;
     </summary>
   </entry>
 
