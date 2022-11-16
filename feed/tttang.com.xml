@@ -3,8 +3,18 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-11-16T06:16:47+08:00</updated>
+  <updated>2022-11-16T12:24:45+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">SnakeYaml反序列化及不出网利用</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1815/"/>
+    <id>https://tttang.com/archive/1815/</id>
+    <published>2022-11-16T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;正文之前先了解一下SPI机制。&lt;/p&gt;
+&lt;p&gt;SPI全称Service Provider Interface，是Java提供的一套用来被第三方实现或者扩展的接口，它可以用来启用框架扩展和替换组件。 SPI的作用就是为这些被扩展的API寻找服务实现。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">fuzzer AFL 源码分析（四）-监控</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1753/"/>
@@ -135,15 +145,6 @@ vol3之于vol2，很大的改变就是用symbol_tables(符号表)替换了profil
     <published>2022-10-31T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;&lt;code&gt;SUID&lt;/code&gt;提权是前阵子在蓝帽杯中刚接触到的一个点，本来以为是挺鸡肋的一个点，但是前两天接触了一台真实使用的服务器（类似于上机排查取证）。发现竟然有很多可以利用的点，印象深刻的就是当时机子里有个&lt;code&gt;vim-basic&lt;/code&gt;，甚至好像还有个&lt;code&gt;find&lt;/code&gt;留着。这些都可能利用&lt;code&gt;suid&lt;/code&gt;的特殊权限实现突破。于是重新学习一下。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Zoho Password Manager Pro 后利用技巧</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1791/"/>
-    <id>https://tttang.com/archive/1791/</id>
-    <published>2022-10-28T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;学习zoho pmp这块相关知识点，简单做个总结&lt;/p&gt;
     </summary>
   </entry>
 

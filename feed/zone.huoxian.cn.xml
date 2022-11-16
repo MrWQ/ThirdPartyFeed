@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-11-16T06:16:47+08:00</updated>
+  <updated>2022-11-16T12:24:45+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20221116</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2660-20221116"/>
+    <id>https://zone.huoxian.cn/d/2660-20221116</id>
+    <published>2022-11-16T03:45:20+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20221116
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">如何应对 Azure 上的勒索软件</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2659-azure"/>
+    <id>https://zone.huoxian.cn/d/2659-azure</id>
+    <published>2022-11-16T03:36:47+00:00</published>
+    <summary type="text">
+      如何应对 Azure 上的勒索软件
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-11-04T04:03:01+00:00</published>
     <summary type="text">
       每日云安全技术资讯20221104
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Microsoft Azure SFX 漏洞让黑客劫持 Service Fabric 集群</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2639-microsoft-azure-sfx-service-fabric"/>
-    <id>https://zone.huoxian.cn/d/2639-microsoft-azure-sfx-service-fabric</id>
-    <published>2022-11-03T07:34:58+00:00</published>
-    <summary type="text">
-      Microsoft Azure SFX 漏洞让黑客劫持 Service Fabric 集群
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20221103</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2638-20221103"/>
-    <id>https://zone.huoxian.cn/d/2638-20221103</id>
-    <published>2022-11-03T04:10:41+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20221103
     </summary>
   </entry>
 
