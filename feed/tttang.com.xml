@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-11-17T06:16:39+08:00</updated>
+  <updated>2022-11-17T12:21:27+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">com组件的从0-1</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1824/"/>
+    <id>https://tttang.com/archive/1824/</id>
+    <published>2022-11-17T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;本文是作者从0到1学习com的一个过程，记录了从初识com到com的武器化利用以及挖掘。com组件博大精深，无论是从开发的角度还是安全的角度都非常值得研究，本文仅作入门贴。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">SnakeYaml反序列化及不出网利用</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1815/"/>
@@ -136,15 +145,6 @@ vol3之于vol2，很大的改变就是用symbol_tables(符号表)替换了profil
     <published>2022-11-01T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;终端对抗一直是红队研究的重点内容，本文主要通过前面已有的研究来解开Windows Defender的ASR规则的神秘面纱，由于国内可供参考资料很有限，多以国外会议和议题参考为主&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">2022蓝帽杯遇见的 SUID 提权 总结篇</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1793/"/>
-    <id>https://tttang.com/archive/1793/</id>
-    <published>2022-10-31T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;&lt;code&gt;SUID&lt;/code&gt;提权是前阵子在蓝帽杯中刚接触到的一个点，本来以为是挺鸡肋的一个点，但是前两天接触了一台真实使用的服务器（类似于上机排查取证）。发现竟然有很多可以利用的点，印象深刻的就是当时机子里有个&lt;code&gt;vim-basic&lt;/code&gt;，甚至好像还有个&lt;code&gt;find&lt;/code&gt;留着。这些都可能利用&lt;code&gt;suid&lt;/code&gt;的特殊权限实现突破。于是重新学习一下。&lt;/p&gt;
     </summary>
   </entry>
 
