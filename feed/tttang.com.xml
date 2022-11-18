@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-11-18T06:17:57+08:00</updated>
+  <updated>2022-11-18T12:22:24+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">一种JDBC Attack的新方式</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1831/"/>
+    <id>https://tttang.com/archive/1831/</id>
+    <published>2022-11-18T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;抽空在H1上看到了一个和JDBC Attack有关的案例，于是就简单看了下。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">com组件的从0-1</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1824/"/>
@@ -136,15 +145,6 @@ vol3之于vol2，很大的改变就是用symbol_tables(符号表)替换了profil
     <published>2022-11-02T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;前面几篇文章将&lt;code&gt;afl&lt;/code&gt;的大部分内容都已经覆盖到了（编译、反馈到监控），最后一个部分主要讲&lt;code&gt;afl&lt;/code&gt;是如何挑选样本并针对样本的数据进行变异的。通过之前的分析我们已经知道，编译的种子通过链表的形式形成种子队列，种子经过变异后如果能够触发目标程序新的行为，会作为新的种子队列存入到链表中。但是对于新一轮的模糊测试，挑选哪个种子进行变异以及如何变异尚未解决，本文主要阐述&lt;code&gt;afl&lt;/code&gt;是如何挑选种子进行变异以及如何变异。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Play With Windows Defender -- ASR篇</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1798/"/>
-    <id>https://tttang.com/archive/1798/</id>
-    <published>2022-11-01T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;终端对抗一直是红队研究的重点内容，本文主要通过前面已有的研究来解开Windows Defender的ASR规则的神秘面纱，由于国内可供参考资料很有限，多以国外会议和议题参考为主&lt;/p&gt;
     </summary>
   </entry>
 
