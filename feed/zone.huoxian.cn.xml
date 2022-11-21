@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2022-11-21T12:25:54+08:00</updated>
+  <updated>2022-11-21T18:19:25+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">看我如何在云环境中利用Log4j漏洞</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2666-log4j"/>
+    <id>https://zone.huoxian.cn/d/2666-log4j</id>
+    <published>2022-11-21T08:08:07+00:00</published>
+    <summary type="text">
+      看我如何在云环境中利用Log4j漏洞
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">每日云安全技术资讯20221121</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2665-20221121"/>
+    <id>https://zone.huoxian.cn/d/2665-20221121</id>
+    <published>2022-11-21T04:27:12+00:00</published>
+    <summary type="text">
+      每日云安全技术资讯20221121
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-11-09T03:01:26+00:00</published>
     <summary type="text">
       攻击者瞄准AWS EC2 工作负载以窃取凭证
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">SRC日常捡洞之某科技公司shiro漏洞</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2647-srcshiro"/>
-    <id>https://zone.huoxian.cn/d/2647-srcshiro</id>
-    <published>2022-11-08T08:22:51+00:00</published>
-    <summary type="text">
-      SRC日常捡洞之某科技公司shiro漏洞
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Azure Cosmos DB Notebook 远程代码执行漏洞</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2645-azure-cosmos-db-notebook"/>
-    <id>https://zone.huoxian.cn/d/2645-azure-cosmos-db-notebook</id>
-    <published>2022-11-08T06:34:51+00:00</published>
-    <summary type="text">
-      Azure Cosmos DB Notebook 远程代码执行漏洞
     </summary>
   </entry>
 
