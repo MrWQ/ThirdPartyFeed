@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-11-22T06:17:02+08:00</updated>
+  <updated>2022-11-22T12:21:36+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">Weblogic Analysis Attacked by JNDI injection From CVE(part 4)</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1830/"/>
+    <id>https://tttang.com/archive/1830/</id>
+    <published>2022-11-22T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;接着前面的分析，这里主要是两个由&lt;code&gt;JtaTransactionManager&lt;/code&gt;类的&lt;code&gt;readObject&lt;/code&gt;方法调用过程中而造成的JNDI注入，其中第一个(CVE-2018-3191)是使用T3进行发送序列化数据，而第二个(CVE-2020-2551)这个经典的漏洞是通过IIOP来进行序列化数据的传递的&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">ZK框架权限绕过导致R1Soft Server Backup Manager RCE并接管Agent</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1833/"/>
@@ -136,15 +145,6 @@
 &lt;a href=&quot;https://tttang.com/archive/1762/&quot; target=&quot;_blank&quot;&gt;Linux新版内核下内存取证分析附CTF题&lt;/a&gt;&lt;br&gt;
 vol3之于vol2，很大的改变就是用symbol_tables(符号表)替换了profile(配置文件)，vol3带有一个广泛的符号表库，并且可以基于内存映像本身为大多数 Windows 内存映像生成新的&lt;a href=&quot;https://volatility3.readthedocs.io/en/latest/volatility3.framework.interfaces.symbols.html#volatility3.framework.interfaces.symbols.SymbolTableInterface&quot; target=&quot;_blank&quot;&gt;符号表&lt;/a&gt;。&lt;br&gt;
 最近的2022祥云杯正好出了一道需要自己构建新版本内核的题（这里“新&quot;指的是profile在互联网上找不到对应的profile），关于构建profile中文社区没发现什么文章。这里记录一下，直接用祥云杯的附件做例子了。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Weblogic Analysis Attacked by T3 Protocol From CVE (part 3)</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1800/"/>
-    <id>https://tttang.com/archive/1800/</id>
-    <published>2022-11-03T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;继续抽空学习Weblogic CVE中有关T3协议的漏洞利用方式！&lt;/p&gt;
     </summary>
   </entry>
 
