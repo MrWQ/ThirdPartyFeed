@@ -54,7 +54,7 @@ SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/Thi
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 - [Tiny Tiny RSS](https://tt-rss.org/)
 - [Awesome TTRSS](https://ttrss.henry.wang/zh/)
-- [miniflux](https://github.com/miniflux/v2)
+- [Miniflux](https://github.com/miniflux/v2)
 - [Stringer](https://github.com/stringer-rss/stringer)
 
 ### 在线
