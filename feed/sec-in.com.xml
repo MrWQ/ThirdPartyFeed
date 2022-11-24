@@ -3,8 +3,27 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-11-24T12:20:38+08:00</updated>
+  <updated>2022-11-24T18:17:53+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">EPScan——被动收集资产及检测工具</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1983"/>
+    <id>https://sec-in.com/article/1983</id>
+    <published>2022-11-24T14:49:17+08:00</published>
+    <summary type="text">
+      EPScan——被动收集资产及检测工具
+被动收集资产并自动进行SQL注入检测（插件化 自动Bypass）、XSS检测、RCE检测、敏感信息检测
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">失败的逻辑漏洞</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1984"/>
+    <id>https://sec-in.com/article/1984</id>
+    <published>2022-11-24T14:49:00+08:00</published>
+    <summary type="text">
+      的一次挖src漏洞时候偶尔挖到的漏洞，危害性可以说大也可以说小，因人而已吧，，逻辑漏洞目前来看确实比较多，可以深层次去挖掘。
+    </summary>
+  </entry>
   <entry>
     <title type="text">Java代码审计—文件上传漏洞</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1967"/>
@@ -75,24 +94,6 @@
     <published>2022-11-03T15:47:21+08:00</published>
     <summary type="text">
       前面几篇主要是关注的是Mysql这个关系型数据库，这篇主要针对的是SqlServer这个数据库的注入手法与getshell方法
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">浅谈SQL database的各种技巧(三)</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1946"/>
-    <id>https://sec-in.com/article/1946</id>
-    <published>2022-11-03T15:47:10+08:00</published>
-    <summary type="text">
-      前面两篇主要是对Mysql的攻击手法进行了总结，这里主要是针对如果存在一些过滤，一些常见且常用的Bypass限制的手法姿势
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">浅谈SQL database的各种技巧(二)</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1945"/>
-    <id>https://sec-in.com/article/1945</id>
-    <published>2022-11-03T15:46:59+08:00</published>
-    <summary type="text">
-      这是接着上一篇给出了对Mysql的各种各样的注入手法给出了实例和操作细则，包含有布尔盲注，回显注入，堆叠注入，二次注入等等注入方法
     </summary>
   </entry>
 
