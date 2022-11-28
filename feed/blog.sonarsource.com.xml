@@ -3,8 +3,27 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-11-28T18:18:33+08:00</updated>
+  <updated>2022-11-29T06:15:55+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Code Security Advent Calendar 2022</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/code-security-advent-calendar-2022"/>
+    <id>https://blog.sonarsource.com/code-security-advent-calendar-2022</id>
+    <published>2022-11-28T22:03:56Z</published>
+    <summary type="text">
+      Our Code Security Advent Calendar is back for the seventh consecutive year. We will release daily challenges until December 24th, get ready to fill your bag of security tricks!
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Lesser spotted React mistakes: Zombie methods</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/lesser-spotted-react-mistakes-zombie-methods"/>
+    <id>https://blog.sonarsource.com/lesser-spotted-react-mistakes-zombie-methods</id>
+    <published>2022-11-28T08:08:08Z</published>
+    <summary type="text">
+      This series is dedicated to the small, but common pitfalls and errors you can encounter when writing React code.
+Whether an experienced JavaScript | TypeScript developer or just starting out, the results can be surprising.
+    </summary>
+  </entry>
   <entry>
     <title type="text">Doing More with Less in Uncertain Times</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/doing-more-with-less-in-uncertain-times"/>
@@ -166,24 +185,6 @@ Whether an experienced JavaScript | TypeScript developer or just starting out, t
     <published>2022-09-20T14:37:36Z</published>
     <summary type="text">
       We recently discovered several vulnerabilities in OneDev 7.2.9 that allowed attackers to fully compromise a server and even break out of a Docker environment.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Interview with a SonarSource Developer</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/interview-with-a-sonarsource-developer"/>
-    <id>https://blog.sonarsource.com/interview-with-a-sonarsource-developer</id>
-    <published>2022-09-14T14:24:58Z</published>
-    <summary type="text">
-      Curious about life as a Developer at SonarSource? Join us as we discuss changes in the world of programming, the importance of Security, and writing code with SonarCloud Backend Developer Claire Villard.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Happy Day of the Programmer!</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/happy-day-of-the-programmer"/>
-    <id>https://blog.sonarsource.com/happy-day-of-the-programmer</id>
-    <published>2022-09-13T07:00:39Z</published>
-    <summary type="text">
-      Join us as we celebrate programmers everywhere, and learn why we value the Community.
     </summary>
   </entry>
 
