@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-11-30T06:14:38+08:00</updated>
+  <updated>2022-11-30T12:20:51+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">关于HackerOne上Grafana、jolokia、Flink攻击手法的学习</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1854/"/>
+    <id>https://tttang.com/archive/1854/</id>
+    <published>2022-11-30T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;那天凑巧上HackerOne看看，所以&lt;code&gt;jarij&lt;/code&gt;的&lt;a href=&quot;https://hackerone.com/jarij?type=user&quot; target=&quot;_blank&quot;&gt;漏洞报告&lt;/a&gt;刚一放出来就看到了。&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">一条新的glibc IO_FILE利用链：_IO_obstack_jumps利用分析</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1845/"/>
@@ -130,15 +139,6 @@
     <published>2022-11-09T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;&lt;code&gt;ISCC2022[让我康康]&lt;/code&gt;这道赛题在初次接触时令我记忆犹新，之前由于学习知识其他也一直没有对HTTP请求走私进行相关学习，最近学习过后简单总结如下，希望能对正在学习HTTP请求走私的师傅有所帮助。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">对ZDI公布的InfraSuite Device Master一揽子漏洞的分析</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1806/"/>
-    <id>https://tttang.com/archive/1806/</id>
-    <published>2022-11-08T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;看到zdi发了一堆洞，有反序列化、目录穿越、权限绕过等等，还是dotnet的，于是有了此文。&lt;/p&gt;
     </summary>
   </entry>
 
