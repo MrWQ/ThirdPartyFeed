@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-12-01T18:18:38+08:00</updated>
+  <updated>2022-12-02T06:14:56+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">What I learned from using SonarQube for the first time</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/developing-an-application-can-be-a-complicated-task"/>
+    <id>https://blog.sonarsource.com/developing-an-application-can-be-a-complicated-task</id>
+    <published>2022-12-01T15:44:32Z</published>
+    <summary type="text">
+      In this blog, I will share the story of how I got introduced to SonarQube and made use of it as a front-end development team lead. I will explain how it helped us improve our code and also assisted me in safely growing a team of junior developers with a Clean Code companion by their side.
+    </summary>
+  </entry>
   <entry>
     <title type="text">Code Security Advent Calendar 2022</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/code-security-advent-calendar-2022"/>
@@ -176,15 +185,6 @@ Whether an experienced JavaScript | TypeScript developer or just starting out, t
     <published>2022-09-26T07:31:07Z</published>
     <summary type="text">
       We’ve set a target to make SonarQube WCAG 2.1 AA compliant. Get an insider look at how we are going to achieve this.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Securing Developer Tools: OneDev Remote Code Execution</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/onedev-remote-code-execution"/>
-    <id>https://blog.sonarsource.com/onedev-remote-code-execution</id>
-    <published>2022-09-20T14:37:36Z</published>
-    <summary type="text">
-      We recently discovered several vulnerabilities in OneDev 7.2.9 that allowed attackers to fully compromise a server and even break out of a Docker environment.
     </summary>
   </entry>
 
