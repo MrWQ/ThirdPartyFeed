@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-12-01T12:20:44+08:00</updated>
+  <updated>2022-12-01T18:18:39+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">HTB: Squashed</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1999"/>
+    <id>https://sec-in.com/article/1999</id>
+    <published>2022-12-01T14:54:07+08:00</published>
+    <summary type="text">
+      在对NFS的介绍中，Squashed滥用了几个NFS共享。首先，我将获得对一个web目录的访问权，并在调整我的本地用户名以匹配系统所需的用户名后，上传一个webshell并获得执行。
+    </summary>
+  </entry>
   <entry>
     <title type="text">java反序列化从0到cc1</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1996"/>
@@ -85,15 +94,6 @@
     <published>2022-11-11T18:12:59+08:00</published>
     <summary type="text">
       在Java代码审计中经常会碰到一些文件操作的漏洞，  而本篇就是针对文件上传漏洞进行的一次简单总结。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">利用 Chromium 的应用模式进行钓鱼</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1938"/>
-    <id>https://sec-in.com/article/1938</id>
-    <published>2022-11-08T17:22:31+08:00</published>
-    <summary type="text">
-      在本文中，我将向大家说明如何借助于 Chromium 的应用模式来简单地创建一个逼真的桌面钓鱼程序。
     </summary>
   </entry>
 
