@@ -3,8 +3,26 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-12-05T12:19:40+08:00</updated>
+  <updated>2022-12-05T18:17:27+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">从Deserialization和覆盖trustURLCodebase进行JNDI注入</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1980"/>
+    <id>https://sec-in.com/article/1980</id>
+    <published>2022-12-05T15:50:28+08:00</published>
+    <summary type="text">
+      在JNDI注入的过程中往往会出现不能成功利用的情况，这里从JNDI反序列化的角度，和使用覆盖trustURLCodebase的方式来进行JNDI注入的Bypass
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">实战|记一次从弱口令开始的渗透测试(误打误撞骚扰了阿里云盾)</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2019"/>
+    <id>https://sec-in.com/article/2019</id>
+    <published>2022-12-05T14:47:26+08:00</published>
+    <summary type="text">
+      实战|记一次从弱口令开始的渗透测试(误打误撞骚扰了阿里云盾)，整个渗透还算比较顺利，七分运气，但是对阿里云服务器横向着实没有必要了
+    </summary>
+  </entry>
   <entry>
     <title type="text">记一次某部内存取证比赛writeup</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2016"/>
@@ -75,24 +93,6 @@
     <published>2022-11-28T16:41:03+08:00</published>
     <summary type="text">
       sql注入漏洞是tp框架中比较出众的一个，本篇主要是针对于Thinkphp3版本的SQL注入问题进行的总结 ， 希望能够对大家有所帮助。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">SPEL注入流程分析及CTF中如何使用</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1988"/>
-    <id>https://sec-in.com/article/1988</id>
-    <published>2022-11-28T16:40:07+08:00</published>
-    <summary type="text">
-      本文主要主要是对SPEL注入的流程进行了分析，并且通过一道CTF了解SPEL注入在实际环境中如何应用。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">AspectJWeaver利用链绕过serialKiller</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1993"/>
-    <id>https://sec-in.com/article/1993</id>
-    <published>2022-11-28T16:19:47+08:00</published>
-    <summary type="text">
-      介绍serialKiller项目并介绍如何修改ysoserial中的AspectWeaver利用链使其绕过serialKiller黑名单达到任意写文件的目的
     </summary>
   </entry>
 
