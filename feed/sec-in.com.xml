@@ -3,8 +3,46 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-12-06T06:14:40+08:00</updated>
+  <updated>2022-12-06T12:18:28+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">一次客户授权的系统测试</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2025"/>
+    <id>https://sec-in.com/article/2025</id>
+    <published>2022-12-06T10:57:09+08:00</published>
+    <summary type="text">
+      客户系统为大学系统，信息收集是一个很好的突破点，通过常规手段，信息收集—&gt;暴力破解—&gt;垂直越权、getshell—&gt;上线MSF提权拿下客户系统，可以通过本篇文章了解常规渗透思路，绕过等方法。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">缓冲区溢出漏洞那些事：验证与危害判定篇</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2022"/>
+    <id>https://sec-in.com/article/2022</id>
+    <published>2022-12-06T10:51:56+08:00</published>
+    <summary type="text">
+      缓冲区溢出漏洞那些事：验证与危害判定篇
+系统:kali、Windows 11
+工具：x64dbg、ERC.Xdbg插件、python、msfvenom、ncat、Code with Mu
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Filter内存马及工具检测</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2021"/>
+    <id>https://sec-in.com/article/2021</id>
+    <published>2022-12-06T10:50:37+08:00</published>
+    <summary type="text">
+      Servlet 有自己的过滤器filter，可以通过自定义的过滤器，来对用户的请求进行拦截等操作。当我们在 filter 中添加恶意代码，就会进行命令执行。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Listener内存马注入分析</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2020"/>
+    <id>https://sec-in.com/article/2020</id>
+    <published>2022-12-06T10:49:40+08:00</published>
+    <summary type="text">
+      内存马，也被称为无文件马，是无文件攻击的一种常用手段。而无文件攻击呢顾名思义就是不利用shell文件进行攻击，但这里的无文件并不是真的意义上的“无文件”，而是一种攻击思路，是将恶意文件内容以脚本形式存
+    </summary>
+  </entry>
   <entry>
     <title type="text">从Deserialization和覆盖trustURLCodebase进行JNDI注入</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1980"/>
@@ -57,42 +95,6 @@
     <published>2022-12-02T16:21:21+08:00</published>
     <summary type="text">
       amazon-redshift-jdbc-driver  2.1.0.7及更低版本中存在潜在的远程命令执行问题。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">HTB: Squashed</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1999"/>
-    <id>https://sec-in.com/article/1999</id>
-    <published>2022-12-01T14:54:07+08:00</published>
-    <summary type="text">
-      在对NFS的介绍中，Squashed滥用了几个NFS共享。首先，我将获得对一个web目录的访问权，并在调整我的本地用户名以匹配系统所需的用户名后，上传一个webshell并获得执行。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">java反序列化从0到cc1</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1996"/>
-    <id>https://sec-in.com/article/1996</id>
-    <published>2022-11-29T15:19:37+08:00</published>
-    <summary type="text">
-      java安全已成为安全从业者必不可少的技能，而反序列化又是Java安全非常重要的一环。又是本文将从0基础开始，带着大家层层递进，从java基础到URLDNS链到最终理解反序列化cc1链
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">sqlmap的使用详细介绍</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1995"/>
-    <id>https://sec-in.com/article/1995</id>
-    <published>2022-11-29T15:18:10+08:00</published>
-    <summary type="text">
-      sqlmap 是一种开源渗透测试工具，可自动检测和利用 SQL 注入并接管数据库服务器。它配备了强大的检测引擎，接下来让你快速的理解sqlmap的使用方法和一些技巧
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Thinkphp3.2.3 SQL注入总结</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1987"/>
-    <id>https://sec-in.com/article/1987</id>
-    <published>2022-11-28T16:41:03+08:00</published>
-    <summary type="text">
-      sql注入漏洞是tp框架中比较出众的一个，本篇主要是针对于Thinkphp3版本的SQL注入问题进行的总结 ， 希望能够对大家有所帮助。
     </summary>
   </entry>
 
