@@ -3,8 +3,19 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-12-09T12:19:15+08:00</updated>
+  <updated>2022-12-09T18:16:59+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">2022 Yapi 命令执行漏洞</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2037"/>
+    <id>https://sec-in.com/article/2037</id>
+    <published>2022-12-09T17:18:24+08:00</published>
+    <summary type="text">
+      YAPI接口管理平台是国内某旅行网站的大前端技术中心开源项
+目，为前端后台开发与测试人员提供更优雅的接口管理服务，该系统被国内较多知名互联网企业所采
+用。 yapi 存在命令执行漏洞
+    </summary>
+  </entry>
   <entry>
     <title type="text">浅谈在CTF题中三种MD5比较</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2033"/>
@@ -86,15 +97,6 @@
     <published>2022-12-06T10:49:40+08:00</published>
     <summary type="text">
       内存马，也被称为无文件马，是无文件攻击的一种常用手段。而无文件攻击呢顾名思义就是不利用shell文件进行攻击，但这里的无文件并不是真的意义上的“无文件”，而是一种攻击思路，是将恶意文件内容以脚本形式存
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">从Deserialization和覆盖trustURLCodebase进行JNDI注入</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1980"/>
-    <id>https://sec-in.com/article/1980</id>
-    <published>2022-12-05T15:50:28+08:00</published>
-    <summary type="text">
-      在JNDI注入的过程中往往会出现不能成功利用的情况，这里从JNDI反序列化的角度，和使用覆盖trustURLCodebase的方式来进行JNDI注入的Bypass
     </summary>
   </entry>
 
