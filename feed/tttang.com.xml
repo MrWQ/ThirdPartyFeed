@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-12-12T12:19:27+08:00</updated>
+  <updated>2022-12-12T18:17:25+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">Thinkphp 多语言 RCE</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1865/"/>
+    <id>https://tttang.com/archive/1865/</id>
+    <published>2022-12-08T12:00:00+08:00</published>
+    <summary type="text">
+      
+    </summary>
+  </entry>
   <entry>
     <title type="text">关于HackerOne上Grafana、jolokia、Flink攻击手法的学习</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1854/"/>
@@ -130,15 +139,6 @@
     <published>2022-11-10T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;&lt;strong&gt;Dumping Credentials from Lsass Process Memory&lt;/strong&gt;在内网渗透流程中起到不可忽视的作用。本文将从源码以及对抗杀软的角度对几种仍然有效的方法进行分析。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">初探HTTP Request Smuggling</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1808/"/>
-    <id>https://tttang.com/archive/1808/</id>
-    <published>2022-11-09T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;&lt;code&gt;ISCC2022[让我康康]&lt;/code&gt;这道赛题在初次接触时令我记忆犹新，之前由于学习知识其他也一直没有对HTTP请求走私进行相关学习，最近学习过后简单总结如下，希望能对正在学习HTTP请求走私的师傅有所帮助。&lt;/p&gt;
     </summary>
   </entry>
 
