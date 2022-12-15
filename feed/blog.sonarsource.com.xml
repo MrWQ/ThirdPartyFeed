@@ -3,8 +3,17 @@
   <title type="text">SonarSource Blog</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml" rel="self"/>
   <link rel="alternate" href="https://blog.sonarsource.com/"/>
-  <updated>2022-12-15T18:17:18+08:00</updated>
+  <updated>2022-12-16T06:14:06+08:00</updated>
   <id>https://blog.sonarsource.com/</id>
+  <entry>
+    <title type="text">Develop Your Cloud Native Apps the Sustainable Way</title>
+    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/sustainable-clean-code"/>
+    <id>https://blog.sonarsource.com/sustainable-clean-code</id>
+    <published>2022-12-15T12:56:18Z</published>
+    <summary type="text">
+      Application development using cloud native technologies is a game changer for developers. With a robust, maintainable codebase, they are positioned to do their best work. Learn how Sonar has the clean code game plan to perfectly complement your cloud native initiatives.
+    </summary>
+  </entry>
   <entry>
     <title type="text">Sonar @ Pwn2Own Toronto 2022</title>
     <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/sonar-at-pwn2own-toronto-2022"/>
@@ -176,15 +185,6 @@ Whether an experienced JavaScript | TypeScript developer or just starting out, t
     <published>2022-10-06T12:38:44Z</published>
     <summary type="text">
       How do I start cleaning my code? How to do it without creating friction in my workflow? What effort will it require? In this blog, we’re going to explore 5 key features of SonarCloud that will help you remediate code issues as part of your workflow so you deliver Clean Code every time.
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Securing Developer Tools: A New Supply Chain Attack on PHP</title>
-    <link rel="alternate" type="text/html" href="https://blog.sonarsource.com/securing-developer-tools-a-new-supply-chain-attack-on-php"/>
-    <id>https://blog.sonarsource.com/securing-developer-tools-a-new-supply-chain-attack-on-php</id>
-    <published>2022-09-30T09:19:43Z</published>
-    <summary type="text">
-      What is your worst supply chain nightmare and why is it somebody that could take over all the PHP packages at once? Let&#x27;s deep dive into how we could demonstrate it!
     </summary>
   </entry>
 
