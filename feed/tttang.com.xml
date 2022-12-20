@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2022-12-20T12:18:05+08:00</updated>
+  <updated>2022-12-20T18:16:41+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">记一次Apache某项目的漏洞复现与挖掘</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1869/"/>
+    <id>https://tttang.com/archive/1869/</id>
+    <published>2022-12-19T12:00:00+08:00</published>
+    <summary type="text">
+      &lt;p&gt;挺早之前有个Apache DolphinScheduler 任意文件读取漏洞，之前有看过这个，后面又有好兄弟问我，就研究了一下。本来简单的diff了一下，以为发现了问题，但是事情没有我想的那么简单~&lt;/p&gt;
+    </summary>
+  </entry>
   <entry>
     <title type="text">Thinkphp 多语言 RCE</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1865/"/>
@@ -130,15 +139,6 @@
     <published>2022-11-11T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;SPI（Service Provider Interface），是JDK内置的一种服务提供发现机制，可以用来启用框架扩展和替换组件，主要是被框架的开发人员使用，比如java.sql.Driver接口，其他不同厂商可以针对同一接口做出不同的实现，MySQL和PostgreSQL都有不同的实现提供给用户，而Java的SPI机制可以为某个接口寻找服务实现。&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Dumping Lsass Process Memory In Different Ways</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1810/"/>
-    <id>https://tttang.com/archive/1810/</id>
-    <published>2022-11-10T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;&lt;strong&gt;Dumping Credentials from Lsass Process Memory&lt;/strong&gt;在内网渗透流程中起到不可忽视的作用。本文将从源码以及对抗杀软的角度对几种仍然有效的方法进行分析。&lt;/p&gt;
     </summary>
   </entry>
 
