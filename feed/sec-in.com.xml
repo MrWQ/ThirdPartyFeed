@@ -3,8 +3,26 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-12-26T06:13:25+08:00</updated>
+  <updated>2022-12-26T12:18:00+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">windows提权小结</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2054"/>
+    <id>https://sec-in.com/article/2054</id>
+    <published>2022-12-26T11:14:13+08:00</published>
+    <summary type="text">
+      windows提权的总结我尽可能的总结完整，难免有疏漏，想能帮到大家，希望师傅们多多指点emmmmmmmmm
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">域环境搭建以及域内横向姿势总结</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2055"/>
+    <id>https://sec-in.com/article/2055</id>
+    <published>2022-12-26T11:13:40+08:00</published>
+    <summary type="text">
+      闲来无事搭建一个域环境，总结一下自己眼中内网以及域内的横向姿势以及实战中可能遇见的情形，工具的话同一种类的比较多，可能也有其他工具，实战中的话可能需要个别工具做免杀，暂时就总结这么多，如有错误欢迎指出
+    </summary>
+  </entry>
   <entry>
     <title type="text">Aopo - 内网自动化快速打点工具｜资产探测｜漏洞扫描｜服务扫描｜弱口令爆破</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2053"/>
@@ -83,24 +101,6 @@
     <published>2022-12-06T16:52:53+08:00</published>
     <summary type="text">
       该文结合题目总结了部分有关md5基础的题目，过程还算详细，如有不足，还希望师傅指出，谢谢各位师傅的支持！
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">文件上传漏洞总结</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2036"/>
-    <id>https://sec-in.com/article/2036</id>
-    <published>2022-12-06T16:15:03+08:00</published>
-    <summary type="text">
-      做了一次文件上传漏洞的总结，靶场是upload_labs，写这个也花了我不少的精力，希望能帮助到大家
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">网鼎杯ezjava利用分析</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2042"/>
-    <id>https://sec-in.com/article/2042</id>
-    <published>2022-12-06T16:12:49+08:00</published>
-    <summary type="text">
-      通过网鼎杯ezjava题目解法了解tomcat解析不一致路由绕过以及分析如何利用fastjson包构造gadget打原生反序列化。
     </summary>
   </entry>
 
