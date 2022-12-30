@@ -3,8 +3,92 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2022-12-30T12:17:50+08:00</updated>
+  <updated>2022-12-30T18:15:33+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">红蓝对抗之致盲windows defender</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2079"/>
+    <id>https://sec-in.com/article/2079</id>
+    <published>2022-12-30T15:39:26+08:00</published>
+    <summary type="text">
+      Microsoft Defender 防病毒软件在 Windows 10 和 Windows 11 以及 Windows Server 版本中可用。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">记录一次手慢的edu通杀</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2078"/>
+    <id>https://sec-in.com/article/2078</id>
+    <published>2022-12-30T15:37:49+08:00</published>
+    <summary type="text">
+      注：本文部分图文无关！部分图片厚码请谅解
+首先打开站点，发现是一个教学平台，直接有账号密码，连注册都省了
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Linux横向移动手法-CSK靶机</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2077"/>
+    <id>https://sec-in.com/article/2077</id>
+    <published>2022-12-30T15:37:31+08:00</published>
+    <summary type="text">
+      在Linux中横向移动手法相对Windows来说较少，相对来说我们只有利用SSH、web上的漏洞等较少方式去获得权限
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Godzilla Payload的简单分析</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2076"/>
+    <id>https://sec-in.com/article/2076</id>
+    <published>2022-12-30T15:37:07+08:00</published>
+    <summary type="text">
+      我们来对Godzilla Payload的一点简单分析，本文来看一下哥斯拉的代码分析，一起来学习一下。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">实战打靶之Carpediem</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2074"/>
+    <id>https://sec-in.com/article/2074</id>
+    <published>2022-12-30T15:36:37+08:00</published>
+    <summary type="text">
+      这个靶机为困难模式的靶机，靶机包含的知识和内容，以及靶机的复杂程度都是相当的大。靶机包含了逻辑漏洞、文件上传、6台域内主机，APi文档的调用，流量分析等知识点。感兴趣的小伙伴也可以试一试。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">深度剖析GadgetInspector执行逻辑(上)</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2069"/>
+    <id>https://sec-in.com/article/2069</id>
+    <published>2022-12-30T15:26:19+08:00</published>
+    <summary type="text">
+      为了更好的认识静态代码审计工具的实现原理和进行自定义的修改创新，这里主要是通过学习GadgetInspector项目来学习自动化审计
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">细谈使用CodeQL进行反序列化链的挖掘过程</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2043"/>
+    <id>https://sec-in.com/article/2043</id>
+    <published>2022-12-30T15:15:21+08:00</published>
+    <summary type="text">
+      在对Java安全中的Commons-Collections组件有一定了解的情况下，使用静态代码分析工具CodeQl进行对该组件的深层次挖掘，这里简单记录了一下在transform调用下的挖掘思路过程
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">实战记录之曲线救国</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2067"/>
+    <id>https://sec-in.com/article/2067</id>
+    <published>2022-12-30T14:03:42+08:00</published>
+    <summary type="text">
+      记录一次实战稍曲折拿下目标站点的过程。
+记录一次实战稍曲折拿下目标站点的过程。
+记录一次实战稍曲折拿下目标站点的过程。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">代码审计入门之XHCMS</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2066"/>
+    <id>https://sec-in.com/article/2066</id>
+    <published>2022-12-30T13:58:18+08:00</published>
+    <summary type="text">
+      此文写下了我对代码审计的一点点小心得和基本思路，希望可以帮助到想学习代码审计的师傅，大佬轻点喷~~~
+    </summary>
+  </entry>
   <entry>
     <title type="text">windows提权小结</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2054"/>
@@ -12,95 +96,6 @@
     <published>2022-12-26T11:14:13+08:00</published>
     <summary type="text">
       windows提权的总结我尽可能的总结完整，难免有疏漏，想能帮到大家，希望师傅们多多指点emmmmmmmmm
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">域环境搭建以及域内横向姿势总结</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2055"/>
-    <id>https://sec-in.com/article/2055</id>
-    <published>2022-12-26T11:13:40+08:00</published>
-    <summary type="text">
-      闲来无事搭建一个域环境，总结一下自己眼中内网以及域内的横向姿势以及实战中可能遇见的情形，工具的话同一种类的比较多，可能也有其他工具，实战中的话可能需要个别工具做免杀，暂时就总结这么多，如有错误欢迎指出
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Aopo - 内网自动化快速打点工具｜资产探测｜漏洞扫描｜服务扫描｜弱口令爆破</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2053"/>
-    <id>https://sec-in.com/article/2053</id>
-    <published>2022-12-22T15:07:14+08:00</published>
-    <summary type="text">
-      内网自动化快速打点工具｜资产探测｜漏洞扫描｜服务扫描｜弱口令爆破
-• ICMP并发探测存活IP
-• 对A段只进行网关探测
-• 集成Xray POC扫描
-• 解析Xray POC V1模版
-• 并发探测
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Ichunqiu云境 —— Tsclient Writeup</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2049"/>
-    <id>https://sec-in.com/article/2049</id>
-    <published>2022-12-19T14:40:37+08:00</published>
-    <summary type="text">
-      这是一个集合MSSQL，Privilege Escalation，Kerberos，域渗透，RDP的环境靶场，系统具体化的真实环境，值得上手
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">ichunqiu云境 - Delegation Writeup</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2046"/>
-    <id>https://sec-in.com/article/2046</id>
-    <published>2022-12-19T14:40:27+08:00</published>
-    <summary type="text">
-      域渗透系列，通过靶机，带你学习域渗透的各种手法，以及了解与渗透的过程，是绝对值得推荐的好文章，让我们一起学习域渗透吧
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">域渗透之MS07010的多种打法</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2041"/>
-    <id>https://sec-in.com/article/2041</id>
-    <published>2022-12-12T15:31:10+08:00</published>
-    <summary type="text">
-      ● 本文主要介绍NSA原版MS17-010利用
-● metasploit 利用网上太多了，这里就不介绍了
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">实战打靶之Moderators</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2040"/>
-    <id>https://sec-in.com/article/2040</id>
-    <published>2022-12-12T14:28:40+08:00</published>
-    <summary type="text">
-      该靶机为困难模式的靶机，靶机涵盖了大量知识点和一些新奇的工具使用。涵盖了文件上传、命令执行及对文件上传的bypass、绕过php_disbale_function等。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">深入理解类加载机制</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2035"/>
-    <id>https://sec-in.com/article/2035</id>
-    <published>2022-12-12T14:24:48+08:00</published>
-    <summary type="text">
-      这篇文章从最开始的类加载到双亲委派机制到最后的手动写类加载器，写的非常详细，希望帮到大家......
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">2022 Yapi 命令执行漏洞</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2037"/>
-    <id>https://sec-in.com/article/2037</id>
-    <published>2022-12-09T17:18:24+08:00</published>
-    <summary type="text">
-      YAPI接口管理平台是国内某旅行网站的大前端技术中心开源项
-目，为前端后台开发与测试人员提供更优雅的接口管理服务，该系统被国内较多知名互联网企业所采
-用。 yapi 存在命令执行漏洞
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">浅谈在CTF题中三种MD5比较</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2033"/>
-    <id>https://sec-in.com/article/2033</id>
-    <published>2022-12-06T16:52:53+08:00</published>
-    <summary type="text">
-      该文结合题目总结了部分有关md5基础的题目，过程还算详细，如有不足，还希望师傅指出，谢谢各位师傅的支持！
     </summary>
   </entry>
 
