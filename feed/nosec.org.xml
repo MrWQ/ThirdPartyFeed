@@ -3,8 +3,17 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2023-01-09T18:17:53+08:00</updated>
+  <updated>2023-01-10T06:14:55+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">最佳实践：仿冒站点一键自动化拓线（修订版）</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5056.html"/>
+    <id>https://nosec.org/home/detail/5056.html</id>
+    <published>2023-01-09T18:34:53+08:00</published>
+    <summary type="text">
+      如何又快又准的收集仿冒网站资产？FofaHub 工作流的出现，让我们拥有了轻松查找仿冒网站的可能。我们可以通过工作流，自动化地进行从一到多的网站拓线，从而更有...
+    </summary>
+  </entry>
   <entry>
     <title type="text">近期发现的一起攻击活动披露</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5054.html"/>
@@ -174,15 +183,6 @@
     <published>2022-07-21T18:06:52+08:00</published>
     <summary type="text">
       该漏洞是在Windows的网络文件系统（NFS）的实现中发现的，是由于对NFSv4请求的处理不当所致。未经授权的远程攻击者可以通过向目标服务器发送恶意的RPC调用来利用...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">【安全通报】Weblogic 七月份更新多个高危漏洞</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5032.html"/>
-    <id>https://nosec.org/home/detail/5032.html</id>
-    <published>2022-07-20T19:08:30+08:00</published>
-    <summary type="text">
-      近日，Oracle官方 发布了 2022 年 7 月份的安全更新。涉及旗下产品（Weblogic Server、Databa se Server、Java SE、MySQL等）的 349 个漏洞。此次修复的漏洞中包...
     </summary>
   </entry>
 
