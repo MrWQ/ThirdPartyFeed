@@ -3,8 +3,35 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-01-10T12:18:56+08:00</updated>
+  <updated>2023-01-10T18:16:56+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">钉钉rce</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1627"/>
+    <id>https://sec-in.com/article/1627</id>
+    <published>2023-01-10T14:16:46+08:00</published>
+    <summary type="text">
+      前段时间非常火的钉钉RCE,文笔生疏，措辞浅薄，本篇文章如有不足之处还望各位大佬不吝赐教，万分感谢。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">SQLi_Labs-2.Basic Challenges</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1234"/>
+    <id>https://sec-in.com/article/1234</id>
+    <published>2023-01-10T14:03:46+08:00</published>
+    <summary type="text">
+      本次这篇文章是关于SQLi_Labs-2.Basic Challenges，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">内网渗透之红队靶机通关之路(心得总结)</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2084"/>
+    <id>https://sec-in.com/article/2084</id>
+    <published>2023-01-10T13:55:57+08:00</published>
+    <summary type="text">
+      红队靶机系列渗透完毕啦，耗时了挺久的，记录了自己的渗透思路和常见的内网技巧学习，是有所收获的，本片文章也是对内网渗透知识点一个汇总，后续还会继续更新的，师傅们多多支持！！
+    </summary>
+  </entry>
   <entry>
     <title type="text">xss挑战之旅</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1325"/>
@@ -67,33 +94,6 @@
     <published>2022-12-30T15:37:31+08:00</published>
     <summary type="text">
       在Linux中横向移动手法相对Windows来说较少，相对来说我们只有利用SSH、web上的漏洞等较少方式去获得权限
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Godzilla Payload的简单分析</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2076"/>
-    <id>https://sec-in.com/article/2076</id>
-    <published>2022-12-30T15:37:07+08:00</published>
-    <summary type="text">
-      我们来对Godzilla Payload的一点简单分析，本文来看一下哥斯拉的代码分析，一起来学习一下。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">实战打靶之Carpediem</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2074"/>
-    <id>https://sec-in.com/article/2074</id>
-    <published>2022-12-30T15:36:37+08:00</published>
-    <summary type="text">
-      这个靶机为困难模式的靶机，靶机包含的知识和内容，以及靶机的复杂程度都是相当的大。靶机包含了逻辑漏洞、文件上传、6台域内主机，APi文档的调用，流量分析等知识点。感兴趣的小伙伴也可以试一试。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">深度剖析GadgetInspector执行逻辑(上)</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2069"/>
-    <id>https://sec-in.com/article/2069</id>
-    <published>2022-12-30T15:26:19+08:00</published>
-    <summary type="text">
-      为了更好的认识静态代码审计工具的实现原理和进行自定义的修改创新，这里主要是通过学习GadgetInspector项目来学习自动化审计
     </summary>
   </entry>
 
