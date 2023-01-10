@@ -3,8 +3,44 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-01-10T06:14:45+08:00</updated>
+  <updated>2023-01-10T12:18:56+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">xss挑战之旅</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1325"/>
+    <id>https://sec-in.com/article/1325</id>
+    <published>2023-01-10T11:33:10+08:00</published>
+    <summary type="text">
+      笔者本次这篇文章详细介绍了xss挑战之旅的全部细节，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Pikachu靶场-Cross-Site Scripting</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2082"/>
+    <id>https://sec-in.com/article/2082</id>
+    <published>2023-01-10T11:30:16+08:00</published>
+    <summary type="text">
+      本次这篇文章是关于Pikachu靶场-Cross-Site Scripting，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Pikachu靶场-暴力破解</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2081"/>
+    <id>https://sec-in.com/article/2081</id>
+    <published>2023-01-10T11:29:34+08:00</published>
+    <summary type="text">
+      本次这篇文章主要是关于Pikachu靶场-暴力破解，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">深度剖析GadgetInspector执行逻辑(下)</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2083"/>
+    <id>https://sec-in.com/article/2083</id>
+    <published>2023-01-10T11:20:08+08:00</published>
+    <summary type="text">
+      接着前面对GadgetInspector工具的分析，这里着重跟进了一下有关污点传播的类，学习该自动化工具中的传播思路
+    </summary>
+  </entry>
   <entry>
     <title type="text">红蓝对抗之致盲windows defender</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2079"/>
@@ -58,44 +94,6 @@
     <published>2022-12-30T15:26:19+08:00</published>
     <summary type="text">
       为了更好的认识静态代码审计工具的实现原理和进行自定义的修改创新，这里主要是通过学习GadgetInspector项目来学习自动化审计
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">细谈使用CodeQL进行反序列化链的挖掘过程</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2043"/>
-    <id>https://sec-in.com/article/2043</id>
-    <published>2022-12-30T15:15:21+08:00</published>
-    <summary type="text">
-      在对Java安全中的Commons-Collections组件有一定了解的情况下，使用静态代码分析工具CodeQl进行对该组件的深层次挖掘，这里简单记录了一下在transform调用下的挖掘思路过程
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">实战记录之曲线救国</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2067"/>
-    <id>https://sec-in.com/article/2067</id>
-    <published>2022-12-30T14:03:42+08:00</published>
-    <summary type="text">
-      记录一次实战稍曲折拿下目标站点的过程。
-记录一次实战稍曲折拿下目标站点的过程。
-记录一次实战稍曲折拿下目标站点的过程。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">代码审计入门之XHCMS</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2066"/>
-    <id>https://sec-in.com/article/2066</id>
-    <published>2022-12-30T13:58:18+08:00</published>
-    <summary type="text">
-      此文写下了我对代码审计的一点点小心得和基本思路，希望可以帮助到想学习代码审计的师傅，大佬轻点喷~~~
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">windows提权小结</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2054"/>
-    <id>https://sec-in.com/article/2054</id>
-    <published>2022-12-26T11:14:13+08:00</published>
-    <summary type="text">
-      windows提权的总结我尽可能的总结完整，难免有疏漏，想能帮到大家，希望师傅们多多指点emmmmmmmmm
     </summary>
   </entry>
 
