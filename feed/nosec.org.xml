@@ -3,8 +3,17 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2023-01-11T06:15:38+08:00</updated>
+  <updated>2023-01-11T18:19:48+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">近期发现的一起安全事件披露（二）</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5057.html"/>
+    <id>https://nosec.org/home/detail/5057.html</id>
+    <published>2023-01-11T15:53:35+08:00</published>
+    <summary type="text">
+      在前段时间，白帽汇发现并披露了一起针对国内的黑客团伙攻击事件，该攻击团伙使用位于香港地区的VPS和有道云笔记托管恶意程序，早期样本托管服务器充当过C2角色...
+    </summary>
+  </entry>
   <entry>
     <title type="text">最佳实践：仿冒站点一键自动化拓线（修订版）</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5056.html"/>
@@ -174,15 +183,6 @@
     <published>2022-08-30T18:52:22+08:00</published>
     <summary type="text">
       本文将从常规的信息收集，以及利用 Goby 的 IP 库功能快速便捷的整理资产等角度来讲述如何弄清楚我们在互联网上的资产暴露面都有哪些。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">深入分析CVE-2022-30136 Windows NFS RCE漏洞</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5031.html"/>
-    <id>https://nosec.org/home/detail/5031.html</id>
-    <published>2022-07-21T18:06:52+08:00</published>
-    <summary type="text">
-      该漏洞是在Windows的网络文件系统（NFS）的实现中发现的，是由于对NFSv4请求的处理不当所致。未经授权的远程攻击者可以通过向目标服务器发送恶意的RPC调用来利用...
     </summary>
   </entry>
 
