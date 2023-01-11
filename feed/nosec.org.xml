@@ -3,8 +3,17 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2023-01-11T18:19:48+08:00</updated>
+  <updated>2023-01-12T06:16:04+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">最佳实践：如何固化IP画像流程</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5058.html"/>
+    <id>https://nosec.org/home/detail/5058.html</id>
+    <published>2023-01-11T23:33:08+08:00</published>
+    <summary type="text">
+      IP 画像对于安全人员来说是一个很普遍且通用的场景。以一个真实的钓鱼事件为例：得到钓鱼短链接后，整个溯源的流程如下图所示
+    </summary>
+  </entry>
   <entry>
     <title type="text">近期发现的一起安全事件披露（二）</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5057.html"/>
@@ -174,15 +183,6 @@
     <published>2022-08-31T16:28:33+08:00</published>
     <summary type="text">
       在 GitLab 中发现了一个关键问题，该问题影响15.1.6前、从15.2 到15.2.4以及从 15.3 到 15.3.2 的所有版本，该漏洞允许经过身份验证的用户通过GitHub 导入功能远...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">技术分享 | 基于攻击视角（GOBY）的暴露面梳理及防护技术（...</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5033.html"/>
-    <id>https://nosec.org/home/detail/5033.html</id>
-    <published>2022-08-30T18:52:22+08:00</published>
-    <summary type="text">
-      本文将从常规的信息收集，以及利用 Goby 的 IP 库功能快速便捷的整理资产等角度来讲述如何弄清楚我们在互联网上的资产暴露面都有哪些。
     </summary>
   </entry>
 
