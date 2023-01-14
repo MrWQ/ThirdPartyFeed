@@ -53,6 +53,7 @@ SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/Thi
 ### 自托管
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 - [Tiny Tiny RSS](https://tt-rss.org/)
+- [CommaFeed](https://github.com/Athou/commafeed)
 - [Awesome TTRSS](https://ttrss.henry.wang/zh/)
 - [Miniflux](https://github.com/miniflux/v2)
 - [Stringer](https://github.com/stringer-rss/stringer)
