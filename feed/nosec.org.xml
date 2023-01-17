@@ -3,8 +3,26 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2023-01-17T12:18:39+08:00</updated>
+  <updated>2023-01-18T06:14:54+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">【漏洞通报】Harbor 镜像仓库未授权访问漏洞</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5061.html"/>
+    <id>https://nosec.org/home/detail/5061.html</id>
+    <published>2023-01-17T15:09:36+08:00</published>
+    <summary type="text">
+      Harbor 镜像仓库存在配置不当导致的访问控制缺陷，攻击者可通过页面搜索镜像名称，绕过登陆验证逻辑，直接查看结果中未授权的私有镜像仓库并获取仓库信息（Pull...
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">FOFA实战攻防对抗中企业安全运营场景下的应用（一）</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5060.html"/>
+    <id>https://nosec.org/home/detail/5060.html</id>
+    <published>2023-01-17T19:12:32+08:00</published>
+    <summary type="text">
+      我们的部分小伙伴们拿着企业账号却在频繁使用基础语法和用法，于是我就决定结合企业的甲方视角研究一下 FOFA 在企业场景中的应用，将账号价值最大化！本文是该主...
+    </summary>
+  </entry>
   <entry>
     <title type="text">用 Goby 通过反序列化漏洞一键打入内存马【利用篇】</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5059.html"/>
@@ -165,24 +183,6 @@
     <published>2022-09-30T19:40:28+08:00</published>
     <summary type="text">
       近日，白帽汇安全研究院监测到微软修复了一个服务器端请求伪造（SSRF）漏洞（CVE-2022-41040）和一个远程代码执行（RCE）漏洞（CVE-2022-41082），CVE-2022-4104...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">【安全通报】2022年9月微软漏洞补丁日修复多个高危漏洞</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5036.html"/>
-    <id>https://nosec.org/home/detail/5036.html</id>
-    <published>2022-09-14T18:20:55+08:00</published>
-    <summary type="text">
-      近日，微软发布 2022年9月 安全补丁，修复了针对 38 款微软产品的 63 个漏洞，其中18个权限提升漏洞，1个安全功能绕过漏洞，30个远程代码执行漏洞，7个信息泄露...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">技术分享 | 基于攻击视角（GOBY）的暴露面梳理及防护技术（...</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5035.html"/>
-    <id>https://nosec.org/home/detail/5035.html</id>
-    <published>2022-09-02T18:43:09+08:00</published>
-    <summary type="text">
-      Goby社区第&amp;nbsp;20&amp;nbsp;篇技术分享文章全文共：3212&amp;nbsp;字&amp;nbsp;&amp;nbsp;&amp;nbsp;预计阅读时间：9&amp;nbsp;分...
     </summary>
   </entry>
 
