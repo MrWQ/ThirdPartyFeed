@@ -3,8 +3,17 @@
   <title type="text">跳跳糖 - 安全与分享社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/tttang.com.xml" rel="self"/>
   <link rel="alternate" href="https://tttang.com/"/>
-  <updated>2023-01-17T06:14:14+08:00</updated>
+  <updated>2023-01-17T12:18:28+08:00</updated>
   <id>https://tttang.com/</id>
+  <entry>
+    <title type="text">记一次Webshell检测引擎绕过测试</title>
+    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1875/"/>
+    <id>https://tttang.com/archive/1875/</id>
+    <published>2023-01-13T12:00:00+08:00</published>
+    <summary type="text">
+      
+    </summary>
+  </entry>
   <entry>
     <title type="text">记一次Apache某项目的漏洞复现与挖掘</title>
     <link rel="alternate" type="text/html" href="https://tttang.com/archive/1869/"/>
@@ -130,15 +139,6 @@
     <published>2022-11-14T12:00:00+08:00</published>
     <summary type="text">
       &lt;p&gt;关于 XXE 攻击方式汇总的相应靶场通关记录已经完成，靶场使用的是 Port Swigger 靶场，若有需要，欢迎师傅们前往学习，Github地址：&lt;a href=&quot;https://github.com/shungli923/WowBigBug/blob/main/%E9%9D%B6%E5%9C%BA%E6%94%BB%E7%95%A5/XXE%20PortSwigger%E9%9D%B6%E5%9C%BA%E9%80%9A%E5%85%B3%E7%AC%94%E8%AE%B0.md&quot; target=&quot;_blank&quot;&gt;XXE 靶场通关笔记&lt;/a&gt;&lt;/p&gt;
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">从SPI机制到JDBC后门实现</title>
-    <link rel="alternate" type="text/html" href="https://tttang.com/archive/1819/"/>
-    <id>https://tttang.com/archive/1819/</id>
-    <published>2022-11-11T12:00:00+08:00</published>
-    <summary type="text">
-      &lt;p&gt;SPI（Service Provider Interface），是JDK内置的一种服务提供发现机制，可以用来启用框架扩展和替换组件，主要是被框架的开发人员使用，比如java.sql.Driver接口，其他不同厂商可以针对同一接口做出不同的实现，MySQL和PostgreSQL都有不同的实现提供给用户，而Java的SPI机制可以为某个接口寻找服务实现。&lt;/p&gt;
     </summary>
   </entry>
 
