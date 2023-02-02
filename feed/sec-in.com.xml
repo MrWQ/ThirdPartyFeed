@@ -3,8 +3,26 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-02-02T12:18:53+08:00</updated>
+  <updated>2023-02-02T18:16:33+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">DVWA-File Upload</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2103"/>
+    <id>https://sec-in.com/article/2103</id>
+    <published>2023-02-02T14:09:22+08:00</published>
+    <summary type="text">
+      本次这篇文章是有关于DVWA-File Upload学习分享，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">解决win7嵌入式系统无法DoublePulsar问题</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2102"/>
+    <id>https://sec-in.com/article/2102</id>
+    <published>2023-02-02T13:57:47+08:00</published>
+    <summary type="text">
+      渗透过程中总是会遇到千奇百怪的问题，比如前段时间内网横向时用MS17010打台win7，EternalBlue已经提示win了，可是DoublePulsar就是死活一直报错，最后我查阅大量资料，终于解
+    </summary>
+  </entry>
   <entry>
     <title type="text">DVWA-File Inclusion</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2100"/>
@@ -75,24 +93,6 @@
     <published>2023-01-30T11:23:09+08:00</published>
     <summary type="text">
       本次这篇文章是关于，Pikachu靶场-Unsafe Fileupload，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Pikachu靶场-File Inclusion</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2092"/>
-    <id>https://sec-in.com/article/2092</id>
-    <published>2023-01-30T11:06:22+08:00</published>
-    <summary type="text">
-      本次这篇文章是有关于 Pikachu靶场-File Inclusion，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Pikachu靶场-RCE</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2091"/>
-    <id>https://sec-in.com/article/2091</id>
-    <published>2023-01-30T11:03:26+08:00</published>
-    <summary type="text">
-      本次这篇文章是有关于Pikachu靶场-RCE的，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
     </summary>
   </entry>
 
