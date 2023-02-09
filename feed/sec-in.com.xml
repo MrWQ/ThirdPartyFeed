@@ -3,96 +3,98 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-02-09T06:15:01+08:00</updated>
+  <updated>2023-02-09T12:18:39+08:00</updated>
   <id>https://sec-in.com/</id>
   <entry>
-    <title type="text">DVWA-File Upload</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2103"/>
-    <id>https://sec-in.com/article/2103</id>
-    <published>2023-02-02T14:09:22+08:00</published>
+    <title type="text">跳转到SOCKS</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1502"/>
+    <id>https://sec-in.com/article/1502</id>
+    <published>2023-02-09T10:55:06+08:00</published>
     <summary type="text">
-      本次这篇文章是有关于DVWA-File Upload学习分享，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
+      这篇博文研究了SOCKS4/4a/5协议的基本原理，并分享了一个自定义的C# SOCKS代理实现。
+
+这篇博文的主要内容是我们有一个自定义的SOCKS代理，据此可以使用受害者主机上本地安装的客户SSL
     </summary>
   </entry>
   <entry>
-    <title type="text">解决win7嵌入式系统无法DoublePulsar问题</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2102"/>
-    <id>https://sec-in.com/article/2102</id>
-    <published>2023-02-02T13:57:47+08:00</published>
+    <title type="text">Spring Framework RCE CVE-2022-22965 漏洞分析</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1997"/>
+    <id>https://sec-in.com/article/1997</id>
+    <published>2023-02-09T10:50:15+08:00</published>
     <summary type="text">
-      渗透过程中总是会遇到千奇百怪的问题，比如前段时间内网横向时用MS17010打台win7，EternalBlue已经提示win了，可是DoublePulsar就是死活一直报错，最后我查阅大量资料，终于解
+      本文会从几个角度分析漏洞CVE-2022-22965，首先会从payload的构造。每次我都喜欢先分析漏洞的payload，不得不承认实力没达到可以直接分析漏洞地步。所以会先看看payload的构造过
     </summary>
   </entry>
   <entry>
-    <title type="text">DVWA-File Inclusion</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2100"/>
-    <id>https://sec-in.com/article/2100</id>
-    <published>2023-02-01T10:19:57+08:00</published>
+    <title type="text">bWAPP HTML Injection (HTML注入)</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2080"/>
+    <id>https://sec-in.com/article/2080</id>
+    <published>2023-02-09T10:46:27+08:00</published>
     <summary type="text">
-      本次这篇文章是有关于DVWA-File Inclusion的，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
+      笔者本次这篇文章是关于bWAPP HTML Injection (HTML注入)，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
     </summary>
   </entry>
   <entry>
-    <title type="text">DVWA-CSRF</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2099"/>
-    <id>https://sec-in.com/article/2099</id>
-    <published>2023-02-01T10:19:12+08:00</published>
+    <title type="text">小皮面板RCE复现</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2118"/>
+    <id>https://sec-in.com/article/2118</id>
+    <published>2023-02-09T10:45:05+08:00</published>
     <summary type="text">
-      本次这篇文章是有关于DVWA-CSRF的，本人才疏学浅，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
+      小皮面板登录失败时会将失败的用户名记录，并输出到面板首页，而这一过程没有对用户输入的字符做过滤，导致存在任意XSS，攻击者可以利用小皮面板自带的计划任务功能配合XSS实现RCE。
     </summary>
   </entry>
   <entry>
-    <title type="text">DVWA-Command Injection</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2098"/>
-    <id>https://sec-in.com/article/2098</id>
-    <published>2023-02-01T10:17:43+08:00</published>
+    <title type="text">SQLi_Labs-4.Stacked Injections</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2116"/>
+    <id>https://sec-in.com/article/2116</id>
+    <published>2023-02-09T10:42:56+08:00</published>
     <summary type="text">
-      本次这篇文章是有关于DVWA-Command Injection，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
+      本次这篇文章是有关于SQLi_Labs-4.Stacked Injections，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
     </summary>
   </entry>
   <entry>
-    <title type="text">DVWA-Brute Force</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2097"/>
-    <id>https://sec-in.com/article/2097</id>
-    <published>2023-01-30T11:26:02+08:00</published>
+    <title type="text">SQLi_Labs-3.Advanced Injections</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2115"/>
+    <id>https://sec-in.com/article/2115</id>
+    <published>2023-02-09T10:41:57+08:00</published>
     <summary type="text">
-      本次这篇文章是有关于DVWA-Brute Force，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
+      本次这篇文章是有关于SQLi_Labs-3.Advanced Injections，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
     </summary>
   </entry>
   <entry>
-    <title type="text">Pikachu靶场-合集1</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2096"/>
-    <id>https://sec-in.com/article/2096</id>
-    <published>2023-01-30T11:25:18+08:00</published>
+    <title type="text">DVWA-XSS(Reflected)</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2109"/>
+    <id>https://sec-in.com/article/2109</id>
+    <published>2023-02-09T10:15:44+08:00</published>
     <summary type="text">
-      本次这篇文章是有关于 Pikachu靶场-合集1，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
+      本次这篇文章是有关于DVWA-XSS(Reflected)学习分享，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
     </summary>
   </entry>
   <entry>
-    <title type="text">Pikachu靶场-合集</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2095"/>
-    <id>https://sec-in.com/article/2095</id>
-    <published>2023-01-30T11:24:42+08:00</published>
+    <title type="text">DVWA-SQL Injection(Blind)</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2107"/>
+    <id>https://sec-in.com/article/2107</id>
+    <published>2023-02-09T10:12:06+08:00</published>
     <summary type="text">
-      本次这篇文章是有关于Pikachu靶场-合集的，本人才疏学浅，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
+      本次这篇文章是有关于DVWA-SQL Injection(Blind)，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
     </summary>
   </entry>
   <entry>
-    <title type="text">Pikachu靶场-Over Permission</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2094"/>
-    <id>https://sec-in.com/article/2094</id>
-    <published>2023-01-30T11:23:52+08:00</published>
+    <title type="text">DVWA-SQL Injection</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2106"/>
+    <id>https://sec-in.com/article/2106</id>
+    <published>2023-02-09T10:11:31+08:00</published>
     <summary type="text">
-      本次这篇文章是关于 Pikachu靶场-Over Permission，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
+      本次这篇文章是有关于DVWA-SQL Injection的，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
     </summary>
   </entry>
   <entry>
-    <title type="text">Pikachu靶场-Unsafe Fileupload</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2093"/>
-    <id>https://sec-in.com/article/2093</id>
-    <published>2023-01-30T11:23:09+08:00</published>
+    <title type="text">DVWA-Insecure CAPTCHA</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2105"/>
+    <id>https://sec-in.com/article/2105</id>
+    <published>2023-02-09T10:10:58+08:00</published>
     <summary type="text">
-      本次这篇文章是关于，Pikachu靶场-Unsafe Fileupload，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
+      本次这篇文章是有关于DVWA-Insecure CAPTCHA的，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
     </summary>
   </entry>
 
