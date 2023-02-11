@@ -58,10 +58,9 @@ SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/Thi
 - [Stringer](https://github.com/stringer-rss/stringer)
 
 ### 在线
-- [深蓝阅读](https://bluereader.org/)
+- [Inoreader](https://www.inoreader.com/)
 - [蚁阅](https://rss.anyant.com/)
 - [Readdig.com](https://www.readdig.com/)
-- [Inoreader](https://www.inoreader.com/)
 - [Feeds Pub](https://feeds.pub/)
 - [Feedly](https://feedly.com/)
 
