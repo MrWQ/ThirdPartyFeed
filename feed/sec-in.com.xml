@@ -3,8 +3,28 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-02-15T12:19:46+08:00</updated>
+  <updated>2023-02-15T18:17:30+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">导出域用户hash姿势总结</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2122"/>
+    <id>https://sec-in.com/article/2122</id>
+    <published>2023-02-15T15:27:16+08:00</published>
+    <summary type="text">
+      域控导出hash的多种姿势总结，建议收藏。
+域控导出hash的多种姿势总结，建议收藏。
+域控导出hash的多种姿势总结，建议收藏。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">域渗透实战之Outdated</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2117"/>
+    <id>https://sec-in.com/article/2117</id>
+    <published>2023-02-15T15:03:41+08:00</published>
+    <summary type="text">
+      通过一步步信息收集，然后根据提示进行漏洞利用，获取shell之后，然后上传一些工具进行获取域内信息，通过影子凭证：滥用关键信托账户映射进行账户接管。然后利用whisker工具获取ntlm-hash，然
+    </summary>
+  </entry>
   <entry>
     <title type="text">跳转到SOCKS</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1502"/>
@@ -77,24 +97,6 @@
     <published>2023-02-09T10:12:06+08:00</published>
     <summary type="text">
       本次这篇文章是有关于DVWA-SQL Injection(Blind)，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">DVWA-SQL Injection</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2106"/>
-    <id>https://sec-in.com/article/2106</id>
-    <published>2023-02-09T10:11:31+08:00</published>
-    <summary type="text">
-      本次这篇文章是有关于DVWA-SQL Injection的，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">DVWA-Insecure CAPTCHA</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2105"/>
-    <id>https://sec-in.com/article/2105</id>
-    <published>2023-02-09T10:10:58+08:00</published>
-    <summary type="text">
-      本次这篇文章是有关于DVWA-Insecure CAPTCHA的，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
     </summary>
   </entry>
 
