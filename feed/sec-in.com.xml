@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-02-16T12:19:22+08:00</updated>
+  <updated>2023-02-16T18:17:05+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">浅谈Apache Shiro CVE-2023-22602</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2113"/>
+    <id>https://sec-in.com/article/2113</id>
+    <published>2023-02-16T15:16:43+08:00</published>
+    <summary type="text">
+      当 1.11.0 及之前版本的 Apache Shiro 和 2.6 及之后版本的 Spring Boot 使用不同的路径匹配模式时，攻击者访问可绕过 Shiro 的身份验证。
+    </summary>
+  </entry>
   <entry>
     <title type="text">导出域用户hash姿势总结</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2122"/>
@@ -88,15 +97,6 @@
     <published>2023-02-09T10:15:44+08:00</published>
     <summary type="text">
       本次这篇文章是有关于DVWA-XSS(Reflected)学习分享，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">DVWA-SQL Injection(Blind)</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2107"/>
-    <id>https://sec-in.com/article/2107</id>
-    <published>2023-02-09T10:12:06+08:00</published>
-    <summary type="text">
-      本次这篇文章是有关于DVWA-SQL Injection(Blind)，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
     </summary>
   </entry>
 
