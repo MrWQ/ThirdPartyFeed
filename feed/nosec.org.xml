@@ -3,8 +3,17 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2023-02-17T18:17:31+08:00</updated>
+  <updated>2023-02-18T06:15:10+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">GoEXP 重磅计划之 2023！开启！</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5066.html"/>
+    <id>https://nosec.org/home/detail/5066.html</id>
+    <published>2023-02-17T18:27:29+08:00</published>
+    <summary type="text">
+      
+    </summary>
+  </entry>
   <entry>
     <title type="text">微软ChatGPT版必应被黑掉了，全部Prompt泄露！</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5065.html"/>
@@ -174,15 +183,6 @@
     <published>2022-11-02T12:20:32+08:00</published>
     <summary type="text">
       攻击者为了保护其重要的攻击武器资产，选择使用cdb.exe来作为初始的执行方式来对现有的安全策略进行绕过，一旦初始执行成功便可以转入合法进程的内存空间，掩盖...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">regulator ：一种独特的子域枚举方法</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5042.html"/>
-    <id>https://nosec.org/home/detail/5042.html</id>
-    <published>2022-10-20T17:56:19+08:00</published>
-    <summary type="text">
-      子域枚举有很多不同的方法，但我想向您展示一种独特的方法，我几乎可以保证您以前从未见过。在这篇文章中，我将探讨如何将常规语言排名的概念与常规语言归纳相结...
     </summary>
   </entry>
 
