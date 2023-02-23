@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-02-23T06:13:42+08:00</updated>
+  <updated>2023-02-23T12:19:48+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">Burp验证码识别插件&quot;captcha-killer-modified&quot;使用教程(详细)</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2130"/>
+    <id>https://sec-in.com/article/2130</id>
+    <published>2023-02-23T10:16:40+08:00</published>
+    <summary type="text">
+      一款用于Burpsuite的验证码识别插件 “captcha-killer-modified“ ，本文描述了详细的配置使用方法，该工具支持多种验证码识别
+    </summary>
+  </entry>
   <entry>
     <title type="text">浅谈Apache Shiro CVE-2023-22602</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2113"/>
@@ -88,15 +97,6 @@
     <published>2023-02-09T10:41:57+08:00</published>
     <summary type="text">
       本次这篇文章是有关于SQLi_Labs-3.Advanced Injections，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">DVWA-XSS(Reflected)</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2109"/>
-    <id>https://sec-in.com/article/2109</id>
-    <published>2023-02-09T10:15:44+08:00</published>
-    <summary type="text">
-      本次这篇文章是有关于DVWA-XSS(Reflected)学习分享，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
     </summary>
   </entry>
 
