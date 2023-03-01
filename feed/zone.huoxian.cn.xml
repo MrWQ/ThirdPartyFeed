@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2023-03-01T12:19:43+08:00</updated>
+  <updated>2023-03-01T18:18:04+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">重磅首发！火线安全发布《云安全攻防技术期刊》</title>
@@ -21,6 +21,24 @@
     <published>2022-04-22T07:15:09+00:00</published>
     <summary type="text">
       火线Zone社区规则及激励制度升级
+    </summary>
+  </entry>
+  <entry>
+    <title type="text"> teleport 堡垒机任意用户登录漏洞</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2698-teleport"/>
+    <id>https://zone.huoxian.cn/d/2698-teleport</id>
+    <published>2023-03-01T09:58:28+00:00</published>
+    <summary type="text">
+       teleport 堡垒机任意用户登录漏洞
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Powershell混淆代码的解码过程</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2688-powershell"/>
+    <id>https://zone.huoxian.cn/d/2688-powershell</id>
+    <published>2023-03-01T03:21:16+00:00</published>
+    <summary type="text">
+      Powershell混淆代码的解码过程
     </summary>
   </entry>
   <entry>
@@ -165,24 +183,6 @@
     <published>2022-11-17T04:17:00+00:00</published>
     <summary type="text">
       GCP 渗透测试笔记
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20221116</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2660-20221116"/>
-    <id>https://zone.huoxian.cn/d/2660-20221116</id>
-    <published>2022-11-16T03:45:20+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20221116
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">如何应对 Azure 上的勒索软件</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2659-azure"/>
-    <id>https://zone.huoxian.cn/d/2659-azure</id>
-    <published>2022-11-16T03:36:47+00:00</published>
-    <summary type="text">
-      如何应对 Azure 上的勒索软件
     </summary>
   </entry>
 
