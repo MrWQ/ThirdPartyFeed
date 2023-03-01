@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-03-01T06:15:40+08:00</updated>
+  <updated>2023-03-01T12:19:42+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">（CVE-2023-25173 原理分析）Linux 容器中的漏洞 – 研究和缓解</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2132"/>
+    <id>https://sec-in.com/article/2132</id>
+    <published>2023-03-01T10:44:39+08:00</published>
+    <summary type="text">
+      由于协议或规定宽泛性、多义性相关系统在涉及之初总会忽略一些细节，而这些细节总会在日后造成各种各样的问题，比如最近最近的CVE-2023-25173就是Linux容器中的权限控制机制的疏漏造漏洞
+    </summary>
+  </entry>
   <entry>
     <title type="text">Discuz 3.4 利用 ucKey Rce</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1628"/>
@@ -88,15 +97,6 @@
     <published>2023-02-09T10:45:05+08:00</published>
     <summary type="text">
       小皮面板登录失败时会将失败的用户名记录，并输出到面板首页，而这一过程没有对用户输入的字符做过滤，导致存在任意XSS，攻击者可以利用小皮面板自带的计划任务功能配合XSS实现RCE。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">SQLi_Labs-4.Stacked Injections</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2116"/>
-    <id>https://sec-in.com/article/2116</id>
-    <published>2023-02-09T10:42:56+08:00</published>
-    <summary type="text">
-      本次这篇文章是有关于SQLi_Labs-4.Stacked Injections，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
     </summary>
   </entry>
 
