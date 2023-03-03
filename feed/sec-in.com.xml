@@ -3,8 +3,20 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-03-03T06:14:17+08:00</updated>
+  <updated>2023-03-03T12:43:40+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">WIFI安全测试手册：入门篇</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1523"/>
+    <id>https://sec-in.com/article/1523</id>
+    <published>2023-03-03T10:10:14+08:00</published>
+    <summary type="text">
+      WIFI安全测试手册：入门篇
+准备工作
+外置网卡：磊科（netcore）NW392
+实战讲解常用WIFI测试工具
+    </summary>
+  </entry>
   <entry>
     <title type="text">（CVE-2023-25173 原理分析）Linux 容器中的漏洞 – 研究和缓解</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2132"/>
@@ -88,15 +100,6 @@
     <published>2023-02-09T10:46:27+08:00</published>
     <summary type="text">
       笔者本次这篇文章是关于bWAPP HTML Injection (HTML注入)，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">小皮面板RCE复现</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2118"/>
-    <id>https://sec-in.com/article/2118</id>
-    <published>2023-02-09T10:45:05+08:00</published>
-    <summary type="text">
-      小皮面板登录失败时会将失败的用户名记录，并输出到面板首页，而这一过程没有对用户输入的字符做过滤，导致存在任意XSS，攻击者可以利用小皮面板自带的计划任务功能配合XSS实现RCE。
     </summary>
   </entry>
 
