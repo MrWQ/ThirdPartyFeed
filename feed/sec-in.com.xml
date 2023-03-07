@@ -3,8 +3,26 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-03-07T12:19:57+08:00</updated>
+  <updated>2023-03-07T18:17:58+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">Pwn入门之ret2libc详解</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2142"/>
+    <id>https://sec-in.com/article/2142</id>
+    <published>2023-03-07T13:46:28+08:00</published>
+    <summary type="text">
+      之前曾在Pwn入门之基础栈溢出里面曾经提过ret2libc的相关知识，但是写的比较笼统，感觉对新手还是不够友好，想通过本文对ret2libc的原理和利用进行详细讲解。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">ChatGPT-初体验</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2137"/>
+    <id>https://sec-in.com/article/2137</id>
+    <published>2023-03-07T13:45:52+08:00</published>
+    <summary type="text">
+      ChatGPT是人工智能技术驱动的自然语言处理工具，它能够通过理解和学习人类的语言来进行对话，还能根据聊天的上下文进行互动，真正像人类一样来聊天交流，文章内容为初次使用体验，简单记录下，方便大家参考
+    </summary>
+  </entry>
   <entry>
     <title type="text">WIFI安全测试手册：入门篇</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1523"/>
@@ -82,24 +100,6 @@
       这篇博文研究了SOCKS4/4a/5协议的基本原理，并分享了一个自定义的C# SOCKS代理实现。
 
 这篇博文的主要内容是我们有一个自定义的SOCKS代理，据此可以使用受害者主机上本地安装的客户SSL
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Spring Framework RCE CVE-2022-22965 漏洞分析</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1997"/>
-    <id>https://sec-in.com/article/1997</id>
-    <published>2023-02-09T10:50:15+08:00</published>
-    <summary type="text">
-      本文会从几个角度分析漏洞CVE-2022-22965，首先会从payload的构造。每次我都喜欢先分析漏洞的payload，不得不承认实力没达到可以直接分析漏洞地步。所以会先看看payload的构造过
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">bWAPP HTML Injection (HTML注入)</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2080"/>
-    <id>https://sec-in.com/article/2080</id>
-    <published>2023-02-09T10:46:27+08:00</published>
-    <summary type="text">
-      笔者本次这篇文章是关于bWAPP HTML Injection (HTML注入)，文笔生疏，措辞浅薄，望各位大佬不吝赐教，万分感谢。
     </summary>
   </entry>
 
