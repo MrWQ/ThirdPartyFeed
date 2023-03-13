@@ -3,8 +3,17 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2023-03-13T18:17:26+08:00</updated>
+  <updated>2023-03-14T06:15:17+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">FOFA模糊搜索的正确姿势</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5071.html"/>
+    <id>https://nosec.org/home/detail/5071.html</id>
+    <published>2023-03-13T18:23:53+08:00</published>
+    <summary type="text">
+      令人惊喜的是，在此过程中我们发现，模糊搜索功能其实可以适用于更多特定的搜索场景。本文即将向各位FOFA工程师介绍模糊搜索的多样玩法，希望为大家带来一些便捷...
+    </summary>
+  </entry>
   <entry>
     <title type="text">【漏洞预警】Smartbi 未授权任意代码执行漏洞</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5070.html"/>
@@ -174,15 +183,6 @@
     <published>2022-11-08T10:18:10+08:00</published>
     <summary type="text">
       SUDO 以ROOT特权身份执行某个命令、二进制文件；主要配置文件在/etc/sudoers，该文默认情况下在Ubuntu 22.04 LTS中只有文件的所有者ROOT和ROOT组成员拥有读的权...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">urlscan.io的SOAR威胁：泄露私人数据的安全工具</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5045.html"/>
-    <id>https://nosec.org/home/detail/5045.html</id>
-    <published>2022-11-03T21:44:02+08:00</published>
-    <summary type="text">
-      共享文档的敏感 URL、密码重置页面、团队邀请、付款发票等的敏感URL在urlscan.io上公开列出并可搜索。部分数据已被其他安全工具意外地将扫描结果公开
     </summary>
   </entry>
 
