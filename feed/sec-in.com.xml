@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-03-14T06:15:07+08:00</updated>
+  <updated>2023-03-14T12:19:18+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">关于某app登录TT参数的分析</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2146"/>
+    <id>https://sec-in.com/article/2146</id>
+    <published>2023-03-14T10:16:08+08:00</published>
+    <summary type="text">
+      协议分析，用js还原代码，本人也是新手，边学习 边总结，希望各位大佬可以指点一下，另外现在的app算法放在java层的比较少了，但新手还是适合在java层多学习，把基础搞好
+    </summary>
+  </entry>
   <entry>
     <title type="text">Pwn入门之ret2libc详解</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2142"/>
@@ -89,17 +98,6 @@
     <published>2023-02-15T15:03:41+08:00</published>
     <summary type="text">
       通过一步步信息收集，然后根据提示进行漏洞利用，获取shell之后，然后上传一些工具进行获取域内信息，通过影子凭证：滥用关键信托账户映射进行账户接管。然后利用whisker工具获取ntlm-hash，然
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">跳转到SOCKS</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1502"/>
-    <id>https://sec-in.com/article/1502</id>
-    <published>2023-02-09T10:55:06+08:00</published>
-    <summary type="text">
-      这篇博文研究了SOCKS4/4a/5协议的基本原理，并分享了一个自定义的C# SOCKS代理实现。
-
-这篇博文的主要内容是我们有一个自定义的SOCKS代理，据此可以使用受害者主机上本地安装的客户SSL
     </summary>
   </entry>
 
