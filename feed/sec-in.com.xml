@@ -3,8 +3,47 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-03-15T12:18:50+08:00</updated>
+  <updated>2023-03-15T18:16:58+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">与AI沟通学习恶意软件分析技术V1.0</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2156"/>
+    <id>https://sec-in.com/article/2156</id>
+    <published>2023-03-15T18:02:42+08:00</published>
+    <summary type="text">
+      与AI沟通学习病毒分析技术，并将搜索的资料进行备份汇总
+版本：V1.0
+基础概念、工具技巧、分析平台
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Hotel Druid反弹shell到权限提升</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2151"/>
+    <id>https://sec-in.com/article/2151</id>
+    <published>2023-03-15T17:44:29+08:00</published>
+    <summary type="text">
+      Hotel Druid反弹shell到权限提升
+通过信息收集——发现22&amp;80端口开启——查找Hotel Druid历史漏洞——反弹shell（途中踩坑，学到新东西）——提权（意外收获）
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">记一次”大汗淋漓”后的SRC漏洞挖掘</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2152"/>
+    <id>https://sec-in.com/article/2152</id>
+    <published>2023-03-15T17:41:42+08:00</published>
+    <summary type="text">
+      工作闲暇之余，在一次&quot;大汗淋漓&quot;后开始的SRC漏洞挖掘，全程无亮点，主要还是工具牛的，ARL yyds
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">浅析PWN中Tcache机制利用</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2150"/>
+    <id>https://sec-in.com/article/2150</id>
+    <published>2023-03-15T17:37:42+08:00</published>
+    <summary type="text">
+      浅析CTF PWN中的Tcache利用，通过该文章可以让大家对tcache有一个深入的了解，并且对linux内存分配有更深的体会。
+    </summary>
+  </entry>
   <entry>
     <title type="text">关于某app登录TT参数的分析</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2146"/>
@@ -60,44 +99,6 @@
     <published>2023-02-28T16:26:15+08:00</published>
     <summary type="text">
       Discuz 3.4 除了通过注入获取到uc key 伪造cookie，请求修改密码接口，从而进入后台RCE以外，还有其他的利用方式。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Burp验证码识别插件&quot;captcha-killer-modified&quot;使用教程(详细)</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2130"/>
-    <id>https://sec-in.com/article/2130</id>
-    <published>2023-02-23T10:16:40+08:00</published>
-    <summary type="text">
-      一款用于Burpsuite的验证码识别插件 “captcha-killer-modified“ ，本文描述了详细的配置使用方法，该工具支持多种验证码识别
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">浅谈Apache Shiro CVE-2023-22602</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2113"/>
-    <id>https://sec-in.com/article/2113</id>
-    <published>2023-02-16T15:16:43+08:00</published>
-    <summary type="text">
-      当 1.11.0 及之前版本的 Apache Shiro 和 2.6 及之后版本的 Spring Boot 使用不同的路径匹配模式时，攻击者访问可绕过 Shiro 的身份验证。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">导出域用户hash姿势总结</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2122"/>
-    <id>https://sec-in.com/article/2122</id>
-    <published>2023-02-15T15:27:16+08:00</published>
-    <summary type="text">
-      域控导出hash的多种姿势总结，建议收藏。
-域控导出hash的多种姿势总结，建议收藏。
-域控导出hash的多种姿势总结，建议收藏。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">域渗透实战之Outdated</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2117"/>
-    <id>https://sec-in.com/article/2117</id>
-    <published>2023-02-15T15:03:41+08:00</published>
-    <summary type="text">
-      通过一步步信息收集，然后根据提示进行漏洞利用，获取shell之后，然后上传一些工具进行获取域内信息，通过影子凭证：滥用关键信托账户映射进行账户接管。然后利用whisker工具获取ntlm-hash，然
     </summary>
   </entry>
 
