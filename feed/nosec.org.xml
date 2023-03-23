@@ -3,8 +3,17 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2023-03-23T18:16:18+08:00</updated>
+  <updated>2023-03-24T06:13:44+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">【漏洞预警】MinIO 敏感信息泄露漏洞（CVE-2023-28432）</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5073.html"/>
+    <id>https://nosec.org/home/detail/5073.html</id>
+    <published>2023-03-23T23:27:08+08:00</published>
+    <summary type="text">
+      漏洞描述MinIO 是一种开源的对象存储服务，它兼容 Amazon S3 API，可以在私有云或公有云中使用。MinIO 是一...
+    </summary>
+  </entry>
   <entry>
     <title type="text">FOFA模糊搜索的正确姿势</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5071.html"/>
@@ -174,15 +183,6 @@
     <published>2022-11-30T17:56:16+08:00</published>
     <summary type="text">
       一、规则变更Goby 致力于打造高质量漏洞 EXP，每个环节的细节都不容忽视。为了提升大家在 Goby 上查看、使...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Capabilities、SUDO、SUID学习</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5046.html"/>
-    <id>https://nosec.org/home/detail/5046.html</id>
-    <published>2022-11-08T10:18:10+08:00</published>
-    <summary type="text">
-      SUDO 以ROOT特权身份执行某个命令、二进制文件；主要配置文件在/etc/sudoers，该文默认情况下在Ubuntu 22.04 LTS中只有文件的所有者ROOT和ROOT组成员拥有读的权...
     </summary>
   </entry>
 
