@@ -3,13 +3,13 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2023-03-24T18:15:48+08:00</updated>
+  <updated>2023-03-25T06:13:52+08:00</updated>
   <id>https://nosec.org/home/index</id>
   <entry>
     <title type="text">ChatGPT写POC，拿下漏洞！</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5074.html"/>
     <id>https://nosec.org/home/detail/5074.html</id>
-    <published>2023-03-24T18:14:00+08:00</published>
+    <published>2023-03-24T18:24:27+08:00</published>
     <summary type="text">
       经过多次验证，我们初步证实了这个实验的可行性，可以训练ChatGPT去编写简单的POC，但是它对细节的把控并不够完善，例如对输出内容进行匹配的正则表达式的编写和...
     </summary>
