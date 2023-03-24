@@ -3,8 +3,17 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2023-03-24T12:17:58+08:00</updated>
+  <updated>2023-03-24T18:15:48+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">ChatGPT写POC，拿下漏洞！</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5074.html"/>
+    <id>https://nosec.org/home/detail/5074.html</id>
+    <published>2023-03-24T18:14:00+08:00</published>
+    <summary type="text">
+      经过多次验证，我们初步证实了这个实验的可行性，可以训练ChatGPT去编写简单的POC，但是它对细节的把控并不够完善，例如对输出内容进行匹配的正则表达式的编写和...
+    </summary>
+  </entry>
   <entry>
     <title type="text">【漏洞预警】MinIO 敏感信息泄露漏洞（CVE-2023-28432）</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5073.html"/>
@@ -174,15 +183,6 @@
     <published>2022-12-09T19:37:48+08:00</published>
     <summary type="text">
       如果要给 Webshell 分个等级，JavaWeb 内存马一定是现阶段当之无愧的 Shell 之王，”它”何德何能？目前主流的防御措施针对 Webshell 的静态检出率在 90% 以上，在...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">GoEXP规则变更通知 l 信创额外奖励活动</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5048.html"/>
-    <id>https://nosec.org/home/detail/5048.html</id>
-    <published>2022-11-30T17:56:16+08:00</published>
-    <summary type="text">
-      一、规则变更Goby 致力于打造高质量漏洞 EXP，每个环节的细节都不容忽视。为了提升大家在 Goby 上查看、使...
     </summary>
   </entry>
 

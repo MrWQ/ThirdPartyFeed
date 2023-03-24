@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2023-03-24T12:17:49+08:00</updated>
+  <updated>2023-03-24T18:15:37+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">火线Zone征稿，跟着大佬思路搞</title>
@@ -12,6 +12,42 @@
     <published>2023-03-03T04:01:57+00:00</published>
     <summary type="text">
       火线Zone征稿，跟着大佬思路搞
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Zone在招聘 | 杭州华橙网络科技有限公司</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2706-zone"/>
+    <id>https://zone.huoxian.cn/d/2706-zone</id>
+    <published>2023-03-24T08:47:06+00:00</published>
+    <summary type="text">
+      Zone在招聘 | 杭州华橙网络科技有限公司
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">JNDI注入- JNDIExploit 改写内存马适配冰蝎3.0以及魔改</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2705-jndi-jndiexploit-30"/>
+    <id>https://zone.huoxian.cn/d/2705-jndi-jndiexploit-30</id>
+    <published>2023-03-24T07:22:58+00:00</published>
+    <summary type="text">
+      JNDI注入- JNDIExploit 改写内存马适配冰蝎3.0以及魔改
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Joomla  Unauthorized(CVE-2023-23752)复现分析</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2704-joomla-unauthorizedcve-2023-23752"/>
+    <id>https://zone.huoxian.cn/d/2704-joomla-unauthorizedcve-2023-23752</id>
+    <published>2023-03-24T02:02:34+00:00</published>
+    <summary type="text">
+      Joomla  Unauthorized(CVE-2023-23752)复现分析
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">绘画二进制攻击的艺术【基础整数溢出与复活邪恶ROP】</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2703-rop"/>
+    <id>https://zone.huoxian.cn/d/2703-rop</id>
+    <published>2023-03-22T07:28:36+00:00</published>
+    <summary type="text">
+      绘画二进制攻击的艺术【基础整数溢出与复活邪恶ROP】
     </summary>
   </entry>
   <entry>
@@ -147,42 +183,6 @@
     <published>2022-11-23T03:54:25+00:00</published>
     <summary type="text">
       每日云安全技术资讯20221123
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20221122</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2667-20221122"/>
-    <id>https://zone.huoxian.cn/d/2667-20221122</id>
-    <published>2022-11-22T03:47:43+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20221122
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20221121</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2665-20221121"/>
-    <id>https://zone.huoxian.cn/d/2665-20221121</id>
-    <published>2022-11-21T04:27:12+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20221121
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">CloudGoat ECS_EFS_Attack 演练</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2664-cloudgoat-ecs-efs-attack"/>
-    <id>https://zone.huoxian.cn/d/2664-cloudgoat-ecs-efs-attack</id>
-    <published>2022-11-18T03:36:56+00:00</published>
-    <summary type="text">
-      CloudGoat ECS_EFS_Attack 演练
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">每日云安全技术资讯20221118</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2663-20221118"/>
-    <id>https://zone.huoxian.cn/d/2663-20221118</id>
-    <published>2022-11-18T03:09:20+00:00</published>
-    <summary type="text">
-      每日云安全技术资讯20221118
     </summary>
   </entry>
 
