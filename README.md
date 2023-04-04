@@ -67,5 +67,6 @@ SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/Thi
 ### 客户端
 - [Fluent Reader](https://github.com/yang991178/fluent-reader)
 - [yarr](https://github.com/nkanaev/yarr)
+- [ReadYou](https://github.com/Ashinch/ReadYou)
 - [fatecore irreader](http://irreader.fatecore.com/)
 
