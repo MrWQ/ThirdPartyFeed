@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-04-04T12:17:11+08:00</updated>
+  <updated>2023-04-04T18:14:49+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">Linux&amp;Windows应急响应+案例分析</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2161"/>
+    <id>https://sec-in.com/article/2161</id>
+    <published>2023-04-04T13:50:18+08:00</published>
+    <summary type="text">
+      一些Linux&amp;Windows应急响应的思路和防护措施，并且后面有详细的案例解析。若是有需要就来看看吧
+    </summary>
+  </entry>
   <entry>
     <title type="text">Metasploitable2笔记(漏洞利用与加固)</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2160"/>
@@ -87,18 +96,6 @@
     <published>2023-03-07T13:45:52+08:00</published>
     <summary type="text">
       ChatGPT是人工智能技术驱动的自然语言处理工具，它能够通过理解和学习人类的语言来进行对话，还能根据聊天的上下文进行互动，真正像人类一样来聊天交流，文章内容为初次使用体验，简单记录下，方便大家参考
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">WIFI安全测试手册：入门篇</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1523"/>
-    <id>https://sec-in.com/article/1523</id>
-    <published>2023-03-03T10:10:14+08:00</published>
-    <summary type="text">
-      WIFI安全测试手册：入门篇
-准备工作
-外置网卡：磊科（netcore）NW392
-实战讲解常用WIFI测试工具
     </summary>
   </entry>
 
