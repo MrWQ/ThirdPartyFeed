@@ -3,8 +3,44 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-04-06T12:16:58+08:00</updated>
+  <updated>2023-04-06T18:14:29+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">绕过认证的五种方式</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2168"/>
+    <id>https://sec-in.com/article/2168</id>
+    <published>2023-04-06T16:23:12+08:00</published>
+    <summary type="text">
+      认证绕过漏洞是现在 Web 应用中存在的常见缺陷，但它们并不总是那么容易被发现。随着技术的不断发展，各式各样的平台整合，传统的身份验证方法正在逐渐减少，新的验证方式不仅为用户使用提供了便
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">浅谈SpringSecurity与CVE-2023-22602</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1723"/>
+    <id>https://sec-in.com/article/1723</id>
+    <published>2023-04-06T16:21:45+08:00</published>
+    <summary type="text">
+      SpringSecurity某种条件下是基于Ant进行匹配，而高版本的Spring使用的是PathPatternParser，利用解析的差异在某些条件下可能会存在绕过鉴权的风险。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">浅谈Apache与CVE-2023-20860</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2166"/>
+    <id>https://sec-in.com/article/2166</id>
+    <published>2023-04-06T16:20:28+08:00</published>
+    <summary type="text">
+      Apache Shiro是常用的一个鉴权框架，其会根据URL路径匹配，解析出ServletRequest请求过程中要执行的过滤器链。本文主要分享其中的一个auth Bypas场景。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">浅谈Spring actuator env endpoint的一个误区</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2159"/>
+    <id>https://sec-in.com/article/2159</id>
+    <published>2023-04-06T16:19:42+08:00</published>
+    <summary type="text">
+      在actuator 1.x中某些场景中，很多时候大家都认为endpoints.env.enabled=false后就env POST端点就没有暴露出去了，实际上并不能规避风险。
+    </summary>
+  </entry>
   <entry>
     <title type="text">Linux&amp;Windows应急响应+案例分析</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2161"/>
@@ -60,42 +96,6 @@
     <published>2023-03-15T17:41:42+08:00</published>
     <summary type="text">
       工作闲暇之余，在一次&quot;大汗淋漓&quot;后开始的SRC漏洞挖掘，全程无亮点，主要还是工具牛的，ARL yyds
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">浅析PWN中Tcache机制利用</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2150"/>
-    <id>https://sec-in.com/article/2150</id>
-    <published>2023-03-15T17:37:42+08:00</published>
-    <summary type="text">
-      浅析CTF PWN中的Tcache利用，通过该文章可以让大家对tcache有一个深入的了解，并且对linux内存分配有更深的体会。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">关于某app登录TT参数的分析</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2146"/>
-    <id>https://sec-in.com/article/2146</id>
-    <published>2023-03-14T10:16:08+08:00</published>
-    <summary type="text">
-      协议分析，用js还原代码，本人也是新手，边学习 边总结，希望各位大佬可以指点一下，另外现在的app算法放在java层的比较少了，但新手还是适合在java层多学习，把基础搞好
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Pwn入门之ret2libc详解</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2142"/>
-    <id>https://sec-in.com/article/2142</id>
-    <published>2023-03-07T13:46:28+08:00</published>
-    <summary type="text">
-      之前曾在Pwn入门之基础栈溢出里面曾经提过ret2libc的相关知识，但是写的比较笼统，感觉对新手还是不够友好，想通过本文对ret2libc的原理和利用进行详细讲解。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">ChatGPT-初体验</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2137"/>
-    <id>https://sec-in.com/article/2137</id>
-    <published>2023-03-07T13:45:52+08:00</published>
-    <summary type="text">
-      ChatGPT是人工智能技术驱动的自然语言处理工具，它能够通过理解和学习人类的语言来进行对话，还能根据聊天的上下文进行互动，真正像人类一样来聊天交流，文章内容为初次使用体验，简单记录下，方便大家参考
     </summary>
   </entry>
 
