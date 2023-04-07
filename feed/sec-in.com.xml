@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-04-07T12:17:07+08:00</updated>
+  <updated>2023-04-07T18:14:30+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">DedecmsV5.7 RCE审计分析-3月版0day披露</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2167"/>
+    <id>https://sec-in.com/article/2167</id>
+    <published>2023-04-07T14:31:25+08:00</published>
+    <summary type="text">
+      织梦内容管理系统 (DedeCMS)3月版day分享审计分析，算是一种后期拓展的思路，基本上后端的rce可以围绕这些发散吧
+    </summary>
+  </entry>
   <entry>
     <title type="text">绕过认证的五种方式</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2168"/>
@@ -87,15 +96,6 @@
     <summary type="text">
       Hotel Druid反弹shell到权限提升
 通过信息收集——发现22&amp;80端口开启——查找Hotel Druid历史漏洞——反弹shell（途中踩坑，学到新东西）——提权（意外收获）
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">记一次”大汗淋漓”后的SRC漏洞挖掘</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2152"/>
-    <id>https://sec-in.com/article/2152</id>
-    <published>2023-03-15T17:41:42+08:00</published>
-    <summary type="text">
-      工作闲暇之余，在一次&quot;大汗淋漓&quot;后开始的SRC漏洞挖掘，全程无亮点，主要还是工具牛的，ARL yyds
     </summary>
   </entry>
 
