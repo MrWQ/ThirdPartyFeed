@@ -3,8 +3,17 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2023-04-11T12:16:59+08:00</updated>
+  <updated>2023-04-11T18:15:33+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">【漏洞通报】瑞友天翼应用虚拟化系统远程代码执行漏洞</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5078.html"/>
+    <id>https://nosec.org/home/detail/5078.html</id>
+    <published>2023-04-11T16:27:43+08:00</published>
+    <summary type="text">
+      瑞友天翼应用虚拟化系统远程代码执行漏洞，攻击者可以通过该漏洞执行任意代码，导致系统被攻击与控制。
+    </summary>
+  </entry>
   <entry>
     <title type="text">Goby 利用内存马中的一些技术细节【技术篇】</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5077.html"/>
@@ -174,15 +183,6 @@
     <published>2022-12-19T10:30:42+08:00</published>
     <summary type="text">
       ▌一、NTLM 协议对于攻防两端的价值Windows 在很多接口中只要带有认证属性，基本上都是通过 NTLM 来进行的，...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">【漏洞通报】Thinkphp 多语言模块命令执行漏洞</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5050.html"/>
-    <id>https://nosec.org/home/detail/5050.html</id>
-    <published>2022-12-10T00:56:42+08:00</published>
-    <summary type="text">
-      如果 Thinkphp 程序开启了多语言功能，攻击者可以通过 get、header、cookie 等位置传入参数，实现目录穿越+文件包含，通过 pearcmd 文件包含这个 trick 即可实现...
     </summary>
   </entry>
 
