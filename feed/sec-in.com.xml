@@ -3,8 +3,53 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-04-14T12:16:53+08:00</updated>
+  <updated>2023-04-14T18:14:41+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">CVE-2022-24481</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2181"/>
+    <id>https://sec-in.com/article/2181</id>
+    <published>2023-04-14T18:02:05+08:00</published>
+    <summary type="text">
+      CVE-2022-24481是发生在CLFS驱动中的一个类型混淆漏洞，通过精巧的对blf文件的部分数据进行构造，可使LogBlockHeader中的ClientContextOffset指向Conta
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">SMB Ghost</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2180"/>
+    <id>https://sec-in.com/article/2180</id>
+    <published>2023-04-14T18:01:54+08:00</published>
+    <summary type="text">
+      Windows 10和Windows Server 2016引入了SMB 3.1.1 。除了在SMB3中添加的AES-128 CCM加密外，该版本还支持AES-128 GCM加密，并使用SHA-512
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">CVE-2021-40449</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2179"/>
+    <id>https://sec-in.com/article/2179</id>
+    <published>2023-04-14T18:01:41+08:00</published>
+    <summary type="text">
+      CVE-2021-40449 是卡巴斯基实验室于2021年8月下旬至9月上旬在Windows 服务器上捕获到相关恶意样本并进行分析后发现的在野提权0day漏洞。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">CVE-2021-1732</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2178"/>
+    <id>https://sec-in.com/article/2178</id>
+    <published>2023-04-14T18:01:05+08:00</published>
+    <summary type="text">
+      CVE-2021-1732是蔓灵花（BITTER）APT组织在某次攻击行动中使用的0Day漏洞。该漏洞利用Windows操作系统win32k内核模块一处用户态回调机会，破坏函数正常执行流程，造成窗口对
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">基于Win32k内核提权漏洞的攻防对抗</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2176"/>
+    <id>https://sec-in.com/article/2176</id>
+    <published>2023-04-14T18:00:34+08:00</published>
+    <summary type="text">
+      win32k内核漏洞总结 漏洞成功利用漏洞触发、漏洞利用这两大环节，而漏洞利用又有以下三个阶段，分别是堆喷射阶段、信息泄露阶段、代码执行阶段。
+    </summary>
+  </entry>
   <entry>
     <title type="text">esinputer超大文本数据入库es的工具设计思路</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2173"/>
@@ -48,51 +93,6 @@
     <published>2023-04-06T16:23:12+08:00</published>
     <summary type="text">
       认证绕过漏洞是现在 Web 应用中存在的常见缺陷，但它们并不总是那么容易被发现。随着技术的不断发展，各式各样的平台整合，传统的身份验证方法正在逐渐减少，新的验证方式不仅为用户使用提供了便
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">浅谈SpringSecurity与CVE-2023-22602</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1723"/>
-    <id>https://sec-in.com/article/1723</id>
-    <published>2023-04-06T16:21:45+08:00</published>
-    <summary type="text">
-      SpringSecurity某种条件下是基于Ant进行匹配，而高版本的Spring使用的是PathPatternParser，利用解析的差异在某些条件下可能会存在绕过鉴权的风险。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">浅谈Apache与CVE-2023-20860</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2166"/>
-    <id>https://sec-in.com/article/2166</id>
-    <published>2023-04-06T16:20:28+08:00</published>
-    <summary type="text">
-      Apache Shiro是常用的一个鉴权框架，其会根据URL路径匹配，解析出ServletRequest请求过程中要执行的过滤器链。本文主要分享其中的一个auth Bypas场景。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">浅谈Spring actuator env endpoint的一个误区</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2159"/>
-    <id>https://sec-in.com/article/2159</id>
-    <published>2023-04-06T16:19:42+08:00</published>
-    <summary type="text">
-      在actuator 1.x中某些场景中，很多时候大家都认为endpoints.env.enabled=false后就env POST端点就没有暴露出去了，实际上并不能规避风险。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Metasploitable2笔记(漏洞利用与加固)</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2160"/>
-    <id>https://sec-in.com/article/2160</id>
-    <published>2023-04-04T11:30:40+08:00</published>
-    <summary type="text">
-      渗透基础,还有漏洞原理与加固!非常推荐刚刚入门的师傅们观看学习一下, 大佬师傅们勿喷哈哈哈 如果有错误希望能够帮我指正指正
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">那些年挖过的接口漏洞</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2157"/>
-    <id>https://sec-in.com/article/2157</id>
-    <published>2023-03-24T14:03:43+08:00</published>
-    <summary type="text">
-      记录那些年挖过的接口类的漏洞，包括常见前端js，springboot系列，druid未授权访问以及spring和shiro权限绕过等实战案例
     </summary>
   </entry>
 

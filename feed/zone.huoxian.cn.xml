@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2023-04-14T12:16:54+08:00</updated>
+  <updated>2023-04-14T18:14:42+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">火线Zone征稿，跟着大佬思路搞</title>
@@ -12,6 +12,15 @@
     <published>2023-03-03T04:01:57+00:00</published>
     <summary type="text">
       火线Zone征稿，跟着大佬思路搞
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">【漏洞分析】瑞友应用虚拟化系统</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2738"/>
+    <id>https://zone.huoxian.cn/d/2738</id>
+    <published>2023-04-14T05:43:02+00:00</published>
+    <summary type="text">
+      【漏洞分析】瑞友应用虚拟化系统
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2023-03-01T09:58:28+00:00</published>
     <summary type="text">
        teleport 堡垒机任意用户登录漏洞
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Powershell混淆代码的解码过程</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2688-powershell"/>
-    <id>https://zone.huoxian.cn/d/2688-powershell</id>
-    <published>2023-03-01T03:21:16+00:00</published>
-    <summary type="text">
-      Powershell混淆代码的解码过程
     </summary>
   </entry>
 
