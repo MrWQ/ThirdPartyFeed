@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2023-04-18T06:12:51+08:00</updated>
+  <updated>2023-04-18T12:17:17+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">火线Zone征稿，跟着大佬思路搞</title>
@@ -12,6 +12,15 @@
     <published>2023-03-03T04:01:57+00:00</published>
     <summary type="text">
       火线Zone征稿，跟着大佬思路搞
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">帮助ChatGPT越狱了</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2745-chatgpt"/>
+    <id>https://zone.huoxian.cn/d/2745-chatgpt</id>
+    <published>2023-04-17T14:22:02+00:00</published>
+    <summary type="text">
+      帮助ChatGPT越狱了
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2023-03-16T08:51:40+00:00</published>
     <summary type="text">
       Dedecms最新版审计-0dayRCE
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Fastjson漏洞和JNDI注入的前世今生</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2700-fastjsonjndi"/>
-    <id>https://zone.huoxian.cn/d/2700-fastjsonjndi</id>
-    <published>2023-03-09T07:15:22+00:00</published>
-    <summary type="text">
-      Fastjson漏洞和JNDI注入的前世今生
     </summary>
   </entry>
 
