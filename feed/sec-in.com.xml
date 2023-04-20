@@ -3,8 +3,26 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-04-20T12:17:12+08:00</updated>
+  <updated>2023-04-20T18:15:04+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">windows权限维持</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2177"/>
+    <id>https://sec-in.com/article/2177</id>
+    <published>2023-04-20T16:46:22+08:00</published>
+    <summary type="text">
+      一些windows权限维持的学习笔记，也有一些红队常用的工具和方法，若是有错误欢迎各位师傅及时指正哦
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">深入解析pe结构（下）</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2182"/>
+    <id>https://sec-in.com/article/2182</id>
+    <published>2023-04-20T16:41:36+08:00</published>
+    <summary type="text">
+      pe结构下半部分，主要讲了几个表，只有完全吃透他们，才能掌握pe的真谛.................................
+    </summary>
+  </entry>
   <entry>
     <title type="text">CVE-2022-24481</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2181"/>
@@ -75,24 +93,6 @@
     <published>2023-04-11T10:56:36+08:00</published>
     <summary type="text">
       pe结构对我们学习逆向与免杀都是必不可少的一项知识，学好pe非常重要，本文由浅入深，从0开始让大家彻底弄懂pe
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">DedecmsV5.7 RCE审计分析-3月版0day披露</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2167"/>
-    <id>https://sec-in.com/article/2167</id>
-    <published>2023-04-07T14:31:25+08:00</published>
-    <summary type="text">
-      织梦内容管理系统 (DedeCMS)3月版day分享审计分析，算是一种后期拓展的思路，基本上后端的rce可以围绕这些发散吧
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">绕过认证的五种方式</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2168"/>
-    <id>https://sec-in.com/article/2168</id>
-    <published>2023-04-06T16:23:12+08:00</published>
-    <summary type="text">
-      认证绕过漏洞是现在 Web 应用中存在的常见缺陷，但它们并不总是那么容易被发现。随着技术的不断发展，各式各样的平台整合，传统的身份验证方法正在逐渐减少，新的验证方式不仅为用户使用提供了便
     </summary>
   </entry>
 
