@@ -3,8 +3,26 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-04-26T12:17:06+08:00</updated>
+  <updated>2023-04-26T18:15:10+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">python爬虫由浅入深（进阶篇）</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1826"/>
+    <id>https://sec-in.com/article/1826</id>
+    <published>2023-04-26T17:02:32+08:00</published>
+    <summary type="text">
+      本篇是进阶篇，主要讲了scrapy框架和selenium模块，配合基础篇食用更佳，学完之后爬虫的基本框架相信大家已经了解，让爬虫变得简单，希望大家能收获一点知识。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">翻译文章-BYPASS AMSI的详细指南</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2183"/>
+    <id>https://sec-in.com/article/2183</id>
+    <published>2023-04-26T17:01:31+08:00</published>
+    <summary type="text">
+      一篇比较完整的关于bypass AMSI的文章，你也可以通过其中的绕过方式引申出更多利用手法，包括但不局限于AMSI
+    </summary>
+  </entry>
   <entry>
     <title type="text">Ichunqiu云境 —— Endless(无间计划) Writeup</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2186"/>
@@ -75,24 +93,6 @@
     <published>2023-04-14T18:00:34+08:00</published>
     <summary type="text">
       win32k内核漏洞总结 漏洞成功利用漏洞触发、漏洞利用这两大环节，而漏洞利用又有以下三个阶段，分别是堆喷射阶段、信息泄露阶段、代码执行阶段。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">esinputer超大文本数据入库es的工具设计思路</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2173"/>
-    <id>https://sec-in.com/article/2173</id>
-    <published>2023-04-11T11:07:22+08:00</published>
-    <summary type="text">
-      es是一个提供了极快进行全文检索的工具，本文就ES的超大型文本数据导入ES进行了工具开发设计思路分享，希望能帮助到有超大数据导入需求的你。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">聊聊从joomla未授权到RCE的</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2172"/>
-    <id>https://sec-in.com/article/2172</id>
-    <published>2023-04-11T11:06:26+08:00</published>
-    <summary type="text">
-      joomla未授权披露已经有一个多月了吧，本身的未授权来讲比较简单，分析起来也很简单，跟下去就可以看到漏洞触发点以及原因，但是前两天在刷twitter的时候看到了这样的一篇文章`从joomla未授权到
     </summary>
   </entry>
 
