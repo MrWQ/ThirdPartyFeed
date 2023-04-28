@@ -3,8 +3,66 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-04-28T06:11:44+08:00</updated>
+  <updated>2023-04-28T12:16:53+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">从Rome看二次反序列化</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2197"/>
+    <id>https://sec-in.com/article/2197</id>
+    <published>2023-04-28T11:27:25+08:00</published>
+    <summary type="text">
+      本篇主要是对Rome反序列化多种调用链 、二次反序列化如何绕过黑名单 、CTF中如何使用进行的总结 。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">钓鱼场景下微信聊天记录回传</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2188"/>
+    <id>https://sec-in.com/article/2188</id>
+    <published>2023-04-28T11:15:00+08:00</published>
+    <summary type="text">
+      钓鱼攻击（通过钓鱼 / 微信控到的机器通常都是登录状态）
+
+渗透到运维机器（有些运维机器会日常登录自己的微信）
+
+实战中钓鱼时常在微信聊天记录中找到目标内网系统账号、机器账号密码，尽可能的不触发大量扫
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">从JS到内网横向</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2189"/>
+    <id>https://sec-in.com/article/2189</id>
+    <published>2023-04-28T11:14:48+08:00</published>
+    <summary type="text">
+      前段时间参加了一场攻防演练，使用常规漏洞尝试未果后，想到不少师傅分享过从JS中寻找突破的文章，于是硬着头皮刚起了JS，最终打开了内网入口获取了靶标权限和个人信息。在此分享一下过程。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">shiro550，看这一篇就够了</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2194"/>
+    <id>https://sec-in.com/article/2194</id>
+    <published>2023-04-28T11:11:50+08:00</published>
+    <summary type="text">
+      这篇文章系统的阐述了shiro 550产生的过程以及各种利用的姿势，在写这篇文章的过程中断断续续踩了无数的坑，记录了我自己的心得，希望大家学有所得，学有所思。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">一次授权的未授权漏洞验证测试</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2187"/>
+    <id>https://sec-in.com/article/2187</id>
+    <published>2023-04-28T11:09:57+08:00</published>
+    <summary type="text">
+      接到一个项目工单，需要对某医院系统进行一次授权验证测试项目，客户目前提供了远程桌面连接地址和被测系统URL，密码还在申请中。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">头疼的上传绕过waf</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2174"/>
+    <id>https://sec-in.com/article/2174</id>
+    <published>2023-04-28T11:05:16+08:00</published>
+    <summary type="text">
+      朋友前几天发来个地址，让一块儿给看一下。。于是就有了这一次苦逼的测试经历。。。。我们一起来看一下吧。
+    </summary>
+  </entry>
   <entry>
     <title type="text">python爬虫由浅入深（进阶篇）</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/1826"/>
@@ -39,60 +97,6 @@
     <published>2023-04-20T16:46:22+08:00</published>
     <summary type="text">
       一些windows权限维持的学习笔记，也有一些红队常用的工具和方法，若是有错误欢迎各位师傅及时指正哦
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">深入解析pe结构（下）</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2182"/>
-    <id>https://sec-in.com/article/2182</id>
-    <published>2023-04-20T16:41:36+08:00</published>
-    <summary type="text">
-      pe结构下半部分，主要讲了几个表，只有完全吃透他们，才能掌握pe的真谛.................................
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">CVE-2022-24481</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2181"/>
-    <id>https://sec-in.com/article/2181</id>
-    <published>2023-04-14T18:02:05+08:00</published>
-    <summary type="text">
-      CVE-2022-24481是发生在CLFS驱动中的一个类型混淆漏洞，通过精巧的对blf文件的部分数据进行构造，可使LogBlockHeader中的ClientContextOffset指向Conta
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">SMB Ghost</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2180"/>
-    <id>https://sec-in.com/article/2180</id>
-    <published>2023-04-14T18:01:54+08:00</published>
-    <summary type="text">
-      Windows 10和Windows Server 2016引入了SMB 3.1.1 。除了在SMB3中添加的AES-128 CCM加密外，该版本还支持AES-128 GCM加密，并使用SHA-512
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">CVE-2021-40449</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2179"/>
-    <id>https://sec-in.com/article/2179</id>
-    <published>2023-04-14T18:01:41+08:00</published>
-    <summary type="text">
-      CVE-2021-40449 是卡巴斯基实验室于2021年8月下旬至9月上旬在Windows 服务器上捕获到相关恶意样本并进行分析后发现的在野提权0day漏洞。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">CVE-2021-1732</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2178"/>
-    <id>https://sec-in.com/article/2178</id>
-    <published>2023-04-14T18:01:05+08:00</published>
-    <summary type="text">
-      CVE-2021-1732是蔓灵花（BITTER）APT组织在某次攻击行动中使用的0Day漏洞。该漏洞利用Windows操作系统win32k内核模块一处用户态回调机会，破坏函数正常执行流程，造成窗口对
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">基于Win32k内核提权漏洞的攻防对抗</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2176"/>
-    <id>https://sec-in.com/article/2176</id>
-    <published>2023-04-14T18:00:34+08:00</published>
-    <summary type="text">
-      win32k内核漏洞总结 漏洞成功利用漏洞触发、漏洞利用这两大环节，而漏洞利用又有以下三个阶段，分别是堆喷射阶段、信息泄露阶段、代码执行阶段。
     </summary>
   </entry>
 
