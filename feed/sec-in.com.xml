@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-05-08T12:16:54+08:00</updated>
+  <updated>2023-05-08T18:14:49+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">2023 阿里云CTF / AliyunCTF 部分WriteUp</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2199"/>
+    <id>https://sec-in.com/article/2199</id>
+    <published>2023-05-08T13:58:52+08:00</published>
+    <summary type="text">
+      这首届阿里云CTF好难啊，喵喵大概花了点时间瞄了几眼题目，卡住的题目赛后又来复现了一下，这里记录一下writeup喵。
+    </summary>
+  </entry>
   <entry>
     <title type="text">从Rome看二次反序列化</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2197"/>
@@ -88,15 +97,6 @@
     <published>2023-04-24T16:07:29+08:00</published>
     <summary type="text">
       内网渗透到域渗透的详细流程，带你体验不一样的后渗透世界，学习不一样的内网渗透技巧，让你了解真实环境下的内网体系与域控环境，讲解各种方式
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">windows权限维持</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2177"/>
-    <id>https://sec-in.com/article/2177</id>
-    <published>2023-04-20T16:46:22+08:00</published>
-    <summary type="text">
-      一些windows权限维持的学习笔记，也有一些红队常用的工具和方法，若是有错误欢迎各位师傅及时指正哦
     </summary>
   </entry>
 
