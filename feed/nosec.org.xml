@@ -3,8 +3,17 @@
   <title type="text">NOSEC安全讯息平台 - 白帽汇安全研究院</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml" rel="self"/>
   <link rel="alternate" href="https://nosec.org/home/index"/>
-  <updated>2023-05-11T12:16:33+08:00</updated>
+  <updated>2023-05-11T18:14:59+08:00</updated>
   <id>https://nosec.org/home/index</id>
+  <entry>
+    <title type="text">官方教你如何白嫖F点？</title>
+    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5086.html"/>
+    <id>https://nosec.org/home/detail/5086.html</id>
+    <published>2023-05-10T14:29:04+08:00</published>
+    <summary type="text">
+      ▌写在前面FOFA一直有一个功能。以前，这个功能被称为“数据更新”。相较于其他功能，它可能比较小众。用户可...
+    </summary>
+  </entry>
   <entry>
     <title type="text">技术分享｜死磕RDP协议，从截图和爆破说起</title>
     <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5084.html"/>
@@ -174,15 +183,6 @@
     <published>2023-01-17T19:12:32+08:00</published>
     <summary type="text">
       我们的部分小伙伴们拿着企业账号却在频繁使用基础语法和用法，于是我就决定结合企业的甲方视角研究一下 FOFA 在企业场景中的应用，将账号价值最大化！本文是该主...
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">用 Goby 通过反序列化漏洞一键打入内存马【利用篇】</title>
-    <link rel="alternate" type="text/html" href="https://nosec.org/home/detail/5059.html"/>
-    <id>https://nosec.org/home/detail/5059.html</id>
-    <published>2023-01-16T12:21:18+08:00</published>
-    <summary type="text">
-      内存马技术有个不可避免的问题是，能熟练修改、调试、使用内存马的技术门槛，相对较高，除了漏洞利用所需要的安全知识，还需要对框架、中间件的设计模式、源码实...
     </summary>
   </entry>
 
