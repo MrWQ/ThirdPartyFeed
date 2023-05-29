@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-05-29T06:12:09+08:00</updated>
+  <updated>2023-05-29T12:16:38+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">某康威视iVMS任意文件上传复现</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2210"/>
+    <id>https://sec-in.com/article/2210</id>
+    <published>2023-05-29T10:10:47+08:00</published>
+    <summary type="text">
+      截止文章发布时间，已经无法打通，目前应该已经修复了，文章仅仅只做复现使用，禁止用来违法犯罪！！！！！！
+    </summary>
+  </entry>
   <entry>
     <title type="text">2023 阿里云CTF / AliyunCTF 部分WriteUp</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2199"/>
@@ -88,15 +97,6 @@
     <published>2023-04-26T17:01:31+08:00</published>
     <summary type="text">
       一篇比较完整的关于bypass AMSI的文章，你也可以通过其中的绕过方式引申出更多利用手法，包括但不局限于AMSI
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Ichunqiu云境 —— Endless(无间计划) Writeup</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2186"/>
-    <id>https://sec-in.com/article/2186</id>
-    <published>2023-04-24T16:07:29+08:00</published>
-    <summary type="text">
-      内网渗透到域渗透的详细流程，带你体验不一样的后渗透世界，学习不一样的内网渗透技巧，让你了解真实环境下的内网体系与域控环境，讲解各种方式
     </summary>
   </entry>
 
