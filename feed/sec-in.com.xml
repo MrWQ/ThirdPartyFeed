@@ -3,8 +3,44 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-05-31T06:13:07+08:00</updated>
+  <updated>2023-05-31T18:14:27+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">一次Nacos未授权漏洞的深入利用</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2216"/>
+    <id>https://sec-in.com/article/2216</id>
+    <published>2023-05-31T15:21:09+08:00</published>
+    <summary type="text">
+      难得碰到一次外网的Nacos未授权，花了些时间深入利用了下，还是有些收获的，简单记录下，主要还是工具用的好
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">SQL注入学习</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2214"/>
+    <id>https://sec-in.com/article/2214</id>
+    <published>2023-05-31T15:20:13+08:00</published>
+    <summary type="text">
+      记一次sql注入学习。从sql注入的介绍到sql注入的类型讲解，涉及到的方面较多，如cookie注入，ua注入等，时间盲注等盲注方法没有过多介绍。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">一次简单的&quot;云&quot;上野战记录</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2171"/>
+    <id>https://sec-in.com/article/2171</id>
+    <published>2023-05-31T15:05:47+08:00</published>
+    <summary type="text">
+      打点发现某系统存在springboot actuator未授权访问，看到一个神奇的oss接口，springboot未授权玩了这么多年，也是第一次碰到云的响应
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">浅谈php中常见的原生类</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2215"/>
+    <id>https://sec-in.com/article/2215</id>
+    <published>2023-05-31T15:00:42+08:00</published>
+    <summary type="text">
+      通过学习php不同的内置类，整个组合拳，可以打出意想不到的结果，文中是作者的笔记和个人理解，如有错误，欢迎大佬指出！
+    </summary>
+  </entry>
   <entry>
     <title type="text">某康威视iVMS任意文件上传复现</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2210"/>
@@ -61,42 +97,6 @@
     <published>2023-04-28T11:11:50+08:00</published>
     <summary type="text">
       这篇文章系统的阐述了shiro 550产生的过程以及各种利用的姿势，在写这篇文章的过程中断断续续踩了无数的坑，记录了我自己的心得，希望大家学有所得，学有所思。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">一次授权的未授权漏洞验证测试</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2187"/>
-    <id>https://sec-in.com/article/2187</id>
-    <published>2023-04-28T11:09:57+08:00</published>
-    <summary type="text">
-      接到一个项目工单，需要对某医院系统进行一次授权验证测试项目，客户目前提供了远程桌面连接地址和被测系统URL，密码还在申请中。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">头疼的上传绕过waf</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2174"/>
-    <id>https://sec-in.com/article/2174</id>
-    <published>2023-04-28T11:05:16+08:00</published>
-    <summary type="text">
-      朋友前几天发来个地址，让一块儿给看一下。。于是就有了这一次苦逼的测试经历。。。。我们一起来看一下吧。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">python爬虫由浅入深（进阶篇）</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/1826"/>
-    <id>https://sec-in.com/article/1826</id>
-    <published>2023-04-26T17:02:32+08:00</published>
-    <summary type="text">
-      本篇是进阶篇，主要讲了scrapy框架和selenium模块，配合基础篇食用更佳，学完之后爬虫的基本框架相信大家已经了解，让爬虫变得简单，希望大家能收获一点知识。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">翻译文章-BYPASS AMSI的详细指南</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2183"/>
-    <id>https://sec-in.com/article/2183</id>
-    <published>2023-04-26T17:01:31+08:00</published>
-    <summary type="text">
-      一篇比较完整的关于bypass AMSI的文章，你也可以通过其中的绕过方式引申出更多利用手法，包括但不局限于AMSI
     </summary>
   </entry>
 
