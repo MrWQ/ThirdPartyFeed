@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2023-06-01T18:17:51+08:00</updated>
+  <updated>2023-06-02T06:12:35+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">火线Zone征稿，跟着大佬思路搞</title>
@@ -12,6 +12,15 @@
     <published>2023-03-03T04:01:57+00:00</published>
     <summary type="text">
       火线Zone征稿，跟着大佬思路搞
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Oracle注射之一”射”到底</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2770-oracle"/>
+    <id>https://zone.huoxian.cn/d/2770-oracle</id>
+    <published>2023-06-01T06:51:53+00:00</published>
+    <summary type="text">
+      Oracle注射之一”射”到底
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2023-04-13T11:46:57+00:00</published>
     <summary type="text">
       Clash for Windows RCE 漏洞分析  
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">从 hisiphp 中 getshell</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2726-hisiphp-getshell"/>
-    <id>https://zone.huoxian.cn/d/2726-hisiphp-getshell</id>
-    <published>2023-04-13T08:23:09+00:00</published>
-    <summary type="text">
-      从 hisiphp 中 getshell
     </summary>
   </entry>
 
