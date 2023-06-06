@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-06-06T12:16:13+08:00</updated>
+  <updated>2023-06-06T18:14:23+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">API安全基础理论</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2225"/>
+    <id>https://sec-in.com/article/2225</id>
+    <published>2023-06-06T13:52:11+08:00</published>
+    <summary type="text">
+      API(Application Programming Interface,应用程序编程接口)是一些预先定义的函数，目的是提供应用程序与开发人员基于某软件或硬件的以访问一组例程的能力，而又无需访问源码
+    </summary>
+  </entry>
   <entry>
     <title type="text">Windows自带的持久化后门——SDDL</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2224"/>
@@ -84,15 +93,6 @@
     <published>2023-05-08T13:58:52+08:00</published>
     <summary type="text">
       这首届阿里云CTF好难啊，喵喵大概花了点时间瞄了几眼题目，卡住的题目赛后又来复现了一下，这里记录一下writeup喵。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">从Rome看二次反序列化</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2197"/>
-    <id>https://sec-in.com/article/2197</id>
-    <published>2023-04-28T11:27:25+08:00</published>
-    <summary type="text">
-      本篇主要是对Rome反序列化多种调用链 、二次反序列化如何绕过黑名单 、CTF中如何使用进行的总结 。
     </summary>
   </entry>
 
