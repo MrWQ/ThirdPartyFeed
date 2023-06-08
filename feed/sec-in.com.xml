@@ -3,8 +3,53 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-06-08T12:17:00+08:00</updated>
+  <updated>2023-06-08T18:14:56+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">java代码审计</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2221"/>
+    <id>https://sec-in.com/article/2221</id>
+    <published>2023-06-08T13:58:27+08:00</published>
+    <summary type="text">
+      Java代码审计是指对Java应用程序代码的分析，以确定是否存在安全漏洞和风险，并提出修复建议的过程。Java应用程序的开发在近年来已经成为了一种主流，随之而来的就是对Java代码安全性的关注。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">认识云安全</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2223"/>
+    <id>https://sec-in.com/article/2223</id>
+    <published>2023-06-08T13:53:42+08:00</published>
+    <summary type="text">
+      在谈到云安全的概念就不得不聊一下云计算了。简而言之，云计算就是一种新兴的计算资源利用方式，云计算的服务商通过对硬件资源的虚拟化，将基础IT资源变成了可以自由调度的资源池，从而实现IT资源的按需分配
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">AI安全发展概述and入门了解</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2222"/>
+    <id>https://sec-in.com/article/2222</id>
+    <published>2023-06-08T13:52:52+08:00</published>
+    <summary type="text">
+      1956 年，在美国达特茅斯会议上，科学家麦卡锡首次提出“人工智能”：人工智能就是要让机器的行为看起来更像人所表现出的智能行为一样。在人工智能概念提出时，科学家主要确定了智能的判别标准和研究目标，而没
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">2023年第八届上海市大学生网络安全大赛 / 磐石行动 漏洞挖掘 Workthrough（上）</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2226"/>
+    <id>https://sec-in.com/article/2226</id>
+    <published>2023-06-08T13:50:37+08:00</published>
+    <summary type="text">
+      今年的上海市赛新加了漏洞挖掘环节，实际上是给了四套自带内网的靶场让选手打渗透，两天打下来感觉还是挺坑的，这篇就来记录下 场景1 和 场景3 的渗透挖洞的过程吧。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">2023年第八届上海市大学生网络安全大赛 / 磐石行动 漏洞挖掘 Workthrough（下）</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2227"/>
+    <id>https://sec-in.com/article/2227</id>
+    <published>2023-06-08T13:50:03+08:00</published>
+    <summary type="text">
+      今年的上海市大学生网络安全大赛 / “磐石行动”2023首届大学生网络安全邀请赛 新加了漏洞挖掘环节，这篇接着上一篇继续来记录下 场景2 和 场景4 的渗透挖洞的过程吧。
+    </summary>
+  </entry>
   <entry>
     <title type="text">API安全基础理论</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2225"/>
@@ -48,51 +93,6 @@
     <published>2023-05-31T15:21:09+08:00</published>
     <summary type="text">
       难得碰到一次外网的Nacos未授权，花了些时间深入利用了下，还是有些收获的，简单记录下，主要还是工具用的好
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">SQL注入学习</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2214"/>
-    <id>https://sec-in.com/article/2214</id>
-    <published>2023-05-31T15:20:13+08:00</published>
-    <summary type="text">
-      记一次sql注入学习。从sql注入的介绍到sql注入的类型讲解，涉及到的方面较多，如cookie注入，ua注入等，时间盲注等盲注方法没有过多介绍。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">一次简单的&quot;云&quot;上野战记录</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2171"/>
-    <id>https://sec-in.com/article/2171</id>
-    <published>2023-05-31T15:05:47+08:00</published>
-    <summary type="text">
-      打点发现某系统存在springboot actuator未授权访问，看到一个神奇的oss接口，springboot未授权玩了这么多年，也是第一次碰到云的响应
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">浅谈php中常见的原生类</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2215"/>
-    <id>https://sec-in.com/article/2215</id>
-    <published>2023-05-31T15:00:42+08:00</published>
-    <summary type="text">
-      通过学习php不同的内置类，整个组合拳，可以打出意想不到的结果，文中是作者的笔记和个人理解，如有错误，欢迎大佬指出！
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">某康威视iVMS任意文件上传复现</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2210"/>
-    <id>https://sec-in.com/article/2210</id>
-    <published>2023-05-29T10:10:47+08:00</published>
-    <summary type="text">
-      截止文章发布时间，已经无法打通，目前应该已经修复了，文章仅仅只做复现使用，禁止用来违法犯罪！！！！！！
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">2023 阿里云CTF / AliyunCTF 部分WriteUp</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2199"/>
-    <id>https://sec-in.com/article/2199</id>
-    <published>2023-05-08T13:58:52+08:00</published>
-    <summary type="text">
-      这首届阿里云CTF好难啊，喵喵大概花了点时间瞄了几眼题目，卡住的题目赛后又来复现了一下，这里记录一下writeup喵。
     </summary>
   </entry>
 
