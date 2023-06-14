@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-06-14T06:13:30+08:00</updated>
+  <updated>2023-06-14T12:16:58+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">【翻译】通过命令提示注入来攻击大语言模型</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2230"/>
+    <id>https://sec-in.com/article/2230</id>
+    <published>2023-06-14T10:39:13+08:00</published>
+    <summary type="text">
+      本文介绍了LLM中的一种攻击方式，Prompt Injection，并且介绍了如何对抗这种新型的攻击方式
+    </summary>
+  </entry>
   <entry>
     <title type="text">java代码审计</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2221"/>
@@ -84,15 +93,6 @@
     <published>2023-06-05T14:22:01+08:00</published>
     <summary type="text">
       关于oracle注射获取数据的实战文章还是比较少的，比较多的都是写写思路或者罗列一些payload就结束了，但是真的去跑数据的时候还是会遇到各种挑战的，且与君共享一篇oracle注射获取数据的文吧。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">一次Nacos未授权漏洞的深入利用</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2216"/>
-    <id>https://sec-in.com/article/2216</id>
-    <published>2023-05-31T15:21:09+08:00</published>
-    <summary type="text">
-      难得碰到一次外网的Nacos未授权，花了些时间深入利用了下，还是有些收获的，简单记录下，主要还是工具用的好
     </summary>
   </entry>
 
