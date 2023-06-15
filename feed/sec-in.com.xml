@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-06-15T12:16:15+08:00</updated>
+  <updated>2023-06-15T18:15:14+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">2023 CISCN 第十六届全国大学生信息安全竞赛 初赛 WriteUp</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2231"/>
+    <id>https://sec-in.com/article/2231</id>
+    <published>2023-06-15T13:46:22+08:00</published>
+    <summary type="text">
+      时光荏苒，又是一年一度的国赛了，这篇线上初赛的 writeup 是 xdlddw 战队的师傅们一起写的，非常感谢队友带喵喵进了分区赛 Orz！
+    </summary>
+  </entry>
   <entry>
     <title type="text">一文带你理解tcache缓存投毒</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2229"/>
@@ -84,15 +93,6 @@
     <published>2023-06-05T14:33:05+08:00</published>
     <summary type="text">
       前段时间在小蓝鸟上看到一个几乎不见的持久化后门--SDDL，然后就看着评论学习着，越看越迷茫就去查了查资料。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">2023年第八届上海市大学生网络安全大赛 / 磐石行动 CTF WriteUp</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2220"/>
-    <id>https://sec-in.com/article/2220</id>
-    <published>2023-06-05T14:24:11+08:00</published>
-    <summary type="text">
-      上海市赛又来了，今年的比赛分为 CTF 和漏洞挖掘两部分，这篇博客就来记录下 CTF 部分的 writeup。
     </summary>
   </entry>
 
