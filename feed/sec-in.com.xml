@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-06-15T06:12:45+08:00</updated>
+  <updated>2023-06-15T12:16:15+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">一文带你理解tcache缓存投毒</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2229"/>
+    <id>https://sec-in.com/article/2229</id>
+    <published>2023-06-15T11:22:02+08:00</published>
+    <summary type="text">
+      文章从源码层面分析了tcache缓存投毒的原理，并根据一道例题，深入讲解了pwn解题中的常用技巧，包括oob，overlap，泄露libc base addr，rop绕过seccomp
+    </summary>
+  </entry>
   <entry>
     <title type="text">【翻译】通过命令提示注入来攻击大语言模型</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2230"/>
@@ -84,15 +93,6 @@
     <published>2023-06-05T14:24:11+08:00</published>
     <summary type="text">
       上海市赛又来了，今年的比赛分为 CTF 和漏洞挖掘两部分，这篇博客就来记录下 CTF 部分的 writeup。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">oracle注射之一&quot;射&quot;到底</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2217"/>
-    <id>https://sec-in.com/article/2217</id>
-    <published>2023-06-05T14:22:01+08:00</published>
-    <summary type="text">
-      关于oracle注射获取数据的实战文章还是比较少的，比较多的都是写写思路或者罗列一些payload就结束了，但是真的去跑数据的时候还是会遇到各种挑战的，且与君共享一篇oracle注射获取数据的文吧。
     </summary>
   </entry>
 
