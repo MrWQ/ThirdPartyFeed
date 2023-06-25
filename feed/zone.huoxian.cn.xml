@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2023-06-25T06:14:23+08:00</updated>
+  <updated>2023-06-25T12:18:56+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">火线Zone征稿，跟着大佬思路搞</title>
@@ -12,6 +12,15 @@
     <published>2023-03-03T04:01:57+00:00</published>
     <summary type="text">
       火线Zone征稿，跟着大佬思路搞
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">华夏 ERP 账号密码泄露</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2784-erp"/>
+    <id>https://zone.huoxian.cn/d/2784-erp</id>
+    <published>2023-06-21T03:21:06+00:00</published>
+    <summary type="text">
+      华夏 ERP 账号密码泄露
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2023-05-12T07:39:11+00:00</published>
     <summary type="text">
       jfinal cms 审计小结
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Apache Spark UI 命令注入漏洞 CVE-2023-32007</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2761-apache-spark-ui-cve-2023-32007"/>
-    <id>https://zone.huoxian.cn/d/2761-apache-spark-ui-cve-2023-32007</id>
-    <published>2023-05-06T08:47:32+00:00</published>
-    <summary type="text">
-      Apache Spark UI 命令注入漏洞 CVE-2023-32007
     </summary>
   </entry>
 
