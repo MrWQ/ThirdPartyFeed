@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2023-06-25T12:18:56+08:00</updated>
+  <updated>2023-06-25T18:15:58+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">火线Zone征稿，跟着大佬思路搞</title>
@@ -12,6 +12,15 @@
     <published>2023-03-03T04:01:57+00:00</published>
     <summary type="text">
       火线Zone征稿，跟着大佬思路搞
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">SolarView Compact 漏洞小结</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2787-solarview-compact"/>
+    <id>https://zone.huoxian.cn/d/2787-solarview-compact</id>
+    <published>2023-06-25T08:30:53+00:00</published>
+    <summary type="text">
+      SolarView Compact 漏洞小结
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2023-05-18T23:48:20+00:00</published>
     <summary type="text">
       记一次特殊的蓝队防守实战
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">jfinal cms 审计小结</title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2763-jfinal-cms"/>
-    <id>https://zone.huoxian.cn/d/2763-jfinal-cms</id>
-    <published>2023-05-12T07:39:11+00:00</published>
-    <summary type="text">
-      jfinal cms 审计小结
     </summary>
   </entry>
 
