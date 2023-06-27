@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-06-27T12:18:44+08:00</updated>
+  <updated>2023-06-27T18:17:07+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">CVE-2023-32315到RCE漏洞复现分析</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2232"/>
+    <id>https://sec-in.com/article/2232</id>
+    <published>2023-06-27T14:37:03+08:00</published>
+    <summary type="text">
+      从CVE-2023-32315未授权到RCE,首先说一下这个洞跟之前TDOA的身份绕过的老洞基本上是类似的。
+    </summary>
+  </entry>
   <entry>
     <title type="text">2023 CISCN 第十六届全国大学生信息安全竞赛 初赛 WriteUp</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2231"/>
@@ -84,15 +93,6 @@
     <published>2023-06-06T13:52:11+08:00</published>
     <summary type="text">
       API(Application Programming Interface,应用程序编程接口)是一些预先定义的函数，目的是提供应用程序与开发人员基于某软件或硬件的以访问一组例程的能力，而又无需访问源码
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">Windows自带的持久化后门——SDDL</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2224"/>
-    <id>https://sec-in.com/article/2224</id>
-    <published>2023-06-05T14:33:05+08:00</published>
-    <summary type="text">
-      前段时间在小蓝鸟上看到一个几乎不见的持久化后门--SDDL，然后就看着评论学习着，越看越迷茫就去查了查资料。
     </summary>
   </entry>
 
