@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-06-29T06:14:36+08:00</updated>
+  <updated>2023-06-29T12:18:52+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">一文带你理解AST Injection</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2233"/>
+    <id>https://sec-in.com/article/2233</id>
+    <published>2023-06-29T11:08:03+08:00</published>
+    <summary type="text">
+      本文介绍了JS中AST Injection，分析了pug模版引擎的工作原理及漏洞成因，最后给出了blade模版引擎的漏洞挖掘实例
+    </summary>
+  </entry>
   <entry>
     <title type="text">CVE-2023-32315到RCE漏洞复现分析</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2232"/>
@@ -84,15 +93,6 @@
     <published>2023-06-08T13:50:03+08:00</published>
     <summary type="text">
       今年的上海市大学生网络安全大赛 / “磐石行动”2023首届大学生网络安全邀请赛 新加了漏洞挖掘环节，这篇接着上一篇继续来记录下 场景2 和 场景4 的渗透挖洞的过程吧。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">API安全基础理论</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2225"/>
-    <id>https://sec-in.com/article/2225</id>
-    <published>2023-06-06T13:52:11+08:00</published>
-    <summary type="text">
-      API(Application Programming Interface,应用程序编程接口)是一些预先定义的函数，目的是提供应用程序与开发人员基于某软件或硬件的以访问一组例程的能力，而又无需访问源码
     </summary>
   </entry>
 
