@@ -3,7 +3,7 @@
   <title type="text">火线 Zone-云安全社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml" rel="self"/>
   <link rel="alternate" href="https://zone.huoxian.cn/"/>
-  <updated>2023-07-10T12:18:55+08:00</updated>
+  <updated>2023-07-10T18:17:19+08:00</updated>
   <id>https://zone.huoxian.cn/</id>
   <entry>
     <title type="text">火线Zone征稿，跟着大佬思路搞</title>
@@ -12,6 +12,15 @@
     <published>2023-03-03T04:01:57+00:00</published>
     <summary type="text">
       火线Zone征稿，跟着大佬思路搞
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">CVE-2023-34843  Traggo Server  任意文件读取漏洞</title>
+    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2802-cve-2023-34843-traggo-server"/>
+    <id>https://zone.huoxian.cn/d/2802-cve-2023-34843-traggo-server</id>
+    <published>2023-07-09T23:17:32+00:00</published>
+    <summary type="text">
+      CVE-2023-34843  Traggo Server  任意文件读取漏洞
     </summary>
   </entry>
   <entry>
@@ -174,15 +183,6 @@
     <published>2023-06-08T14:01:26+00:00</published>
     <summary type="text">
        CodelQL自动化漏洞挖掘的利器入门到深入 
-    </summary>
-  </entry>
-  <entry>
-    <title type="text"> 利用Linux内核空指针漏洞的新玩法：空指针引用转化为UAF </title>
-    <link rel="alternate" type="text/html" href="https://zone.huoxian.cn/d/2776-linuxuaf"/>
-    <id>https://zone.huoxian.cn/d/2776-linuxuaf</id>
-    <published>2023-06-08T13:57:49+00:00</published>
-    <summary type="text">
-       利用Linux内核空指针漏洞的新玩法：空指针引用转化为UAF 
     </summary>
   </entry>
 
