@@ -3,8 +3,36 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-07-12T12:18:41+08:00</updated>
+  <updated>2023-07-12T18:17:01+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">sqli-labs通关笔记</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2245"/>
+    <id>https://sec-in.com/article/2245</id>
+    <published>2023-07-12T13:57:15+08:00</published>
+    <summary type="text">
+      这篇文章是对sqli-labs进行学习时记录的笔记，sqli-labs是sql注入最基础的靶场，里面包含了sql注入常规类型，比如回显注入，报错，延时等盲注，堆叠注入，二次注入，以及常规的绕过方式。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Vulnhub之Os-hackNos-1</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2243"/>
+    <id>https://sec-in.com/article/2243</id>
+    <published>2023-07-12T13:56:11+08:00</published>
+    <summary type="text">
+      这篇文章是我在对vulnhub靶场渗透过程中的笔记，和大家共同进步。
+VulnHub是一个开放的虚拟机镜像平台，用于测试和学习计算机安全。它提供了一系列特意设计成含有各种漏洞和安全问题的虚拟机镜像。
+    </summary>
+  </entry>
+  <entry>
+    <title type="text">Vulnhub之trollcave-v1-2</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2244"/>
+    <id>https://sec-in.com/article/2244</id>
+    <published>2023-07-12T13:55:04+08:00</published>
+    <summary type="text">
+      这篇文章是Vulnhub中的trollcave靶机，记录了打靶过程，VulnHub是一个开放的虚拟机镜像平台，用于测试和学习计算机安全。它提供了一系列特意设计成含有各种漏洞和安全问题的虚拟机镜像。
+    </summary>
+  </entry>
   <entry>
     <title type="text">用户名密码加密的页面爆破学习</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2236"/>
@@ -66,33 +94,6 @@
     <published>2023-07-07T16:14:04+08:00</published>
     <summary type="text">
       前段时间尝试用虚拟机安装Ubuntu系统和一款软硬件开源的蓝牙抓包器Ubertooth One来搭建蓝牙嗅探环境，从官方推荐的Ubuntu16.04版本一直测试到22.04版本，看似简单的蓝牙环境嗅探
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">一文带你理解AST Injection</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2233"/>
-    <id>https://sec-in.com/article/2233</id>
-    <published>2023-06-29T11:08:03+08:00</published>
-    <summary type="text">
-      本文介绍了JS中AST Injection，分析了pug模版引擎的工作原理及漏洞成因，最后给出了blade模版引擎的漏洞挖掘实例
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">CVE-2023-32315到RCE漏洞复现分析</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2232"/>
-    <id>https://sec-in.com/article/2232</id>
-    <published>2023-06-27T14:37:03+08:00</published>
-    <summary type="text">
-      从CVE-2023-32315未授权到RCE,首先说一下这个洞跟之前TDOA的身份绕过的老洞基本上是类似的。
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">2023 CISCN 第十六届全国大学生信息安全竞赛 初赛 WriteUp</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2231"/>
-    <id>https://sec-in.com/article/2231</id>
-    <published>2023-06-15T13:46:22+08:00</published>
-    <summary type="text">
-      时光荏苒，又是一年一度的国赛了，这篇线上初赛的 writeup 是 xdlddw 战队的师傅们一起写的，非常感谢队友带喵喵进了分区赛 Orz！
     </summary>
   </entry>
 
