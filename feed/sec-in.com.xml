@@ -3,8 +3,17 @@
   <title type="text">SecIN信息安全技术社区</title>
   <link href="https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml" rel="self"/>
   <link rel="alternate" href="https://sec-in.com/"/>
-  <updated>2023-07-13T12:18:31+08:00</updated>
+  <updated>2023-07-13T18:16:36+08:00</updated>
   <id>https://sec-in.com/</id>
+  <entry>
+    <title type="text">CORS跨域资源共享攻击</title>
+    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2246"/>
+    <id>https://sec-in.com/article/2246</id>
+    <published>2023-07-13T15:07:49+08:00</published>
+    <summary type="text">
+      CORS（跨域资源共享）是一种用于浏览器的安全机制，它允许网页从不同的域名获取资源。然而，如果服务器配置不当，就可能存在CORS漏洞。
+    </summary>
+  </entry>
   <entry>
     <title type="text">sqli-labs通关笔记</title>
     <link rel="alternate" type="text/html" href="https://sec-in.com/article/2245"/>
@@ -85,15 +94,6 @@ VulnHub是一个开放的虚拟机镜像平台，用于测试和学习计算机�
     <published>2023-07-07T16:16:07+08:00</published>
     <summary type="text">
       自2019年开始，中央网信办、工业和信息化部、公安部和国家市场监管总局在全国范围内组织开展App违法违规收集使用个人信息专项治理工作，加大个人信息保护力度。《个人信息保护法》增加了对于App个人信息保
-    </summary>
-  </entry>
-  <entry>
-    <title type="text">基于树莓派的蓝牙协议抓包</title>
-    <link rel="alternate" type="text/html" href="https://sec-in.com/article/2234"/>
-    <id>https://sec-in.com/article/2234</id>
-    <published>2023-07-07T16:14:04+08:00</published>
-    <summary type="text">
-      前段时间尝试用虚拟机安装Ubuntu系统和一款软硬件开源的蓝牙抓包器Ubertooth One来搭建蓝牙嗅探环境，从官方推荐的Ubuntu16.04版本一直测试到22.04版本，看似简单的蓝牙环境嗅探
     </summary>
   </entry>
 
