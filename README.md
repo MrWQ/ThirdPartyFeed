@@ -4,24 +4,21 @@
 
 ## 说明
 
-由于RSSHub的源不太稳定,还是自己写了一个。每天更新三次，不抓取全文。
+~~由于RSSHub的源不太稳定,还是自己写了一个。每天更新三次，不抓取全文。~~
+
+反正都要用还是放一起了
 
 ## 订阅地址
 
 按添加时间排序
 
-![](https://api.netlify.com/api/v1/badges/061b8651-1b18-4959-a60e-de46942b815b/deploy-status)
-
-Name | Raw | jsDelivr | Netlify
----  | --- | -------- | -------
-NOSEC安全讯息平台 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/nosec.org.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/nosec.org.xml) | [netlify](https://thirdpartyfeed.netlify.app/nosec.org.xml)
-火线Zone | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/zone.huoxian.cn.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/zone.huoxian.cn.xml) | [netlify](https://thirdpartyfeed.netlify.app/zone.huoxian.cn.xml)
-Seebug | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/www.seebug.org.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/www.seebug.org.xml) | [netlify](https://thirdpartyfeed.netlify.app/www.seebug.org.xml)
-SonarSource Blog | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/blog.sonarsource.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/blog.sonarsource.com.xml) | [netlify](https://thirdpartyfeed.netlify.app/blog.sonarsource.com.xml)
-SecWiki周刊 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/www.sec-wiki.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/www.sec-wiki.com.xml) | [netlify](https://thirdpartyfeed.netlify.app/www.sec-wiki.com.xml)
-SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/ThirdPartyFeed/main/feed/sec-in.com.xml) | [jsdelivr](https://cdn.jsdelivr.net/gh/p7e4/ThirdPartyFeed/feed/sec-in.com.xml)| [netlify](https://thirdpartyfeed.netlify.app/sec-in.com.xml)
-
-
+Name | 替代链接
+---  | --- 
+NOSEC安全讯息平台 | https://rsshub.app/nosec
+火线Zone | https://rsshub.app/huoxian/zone
+Seebug | https://www.seebug.org/rss/new/
+SecWiki周刊 | https://rsshub.app/sec-wiki/weekly
+SecIN信息安全技术社区 | https://rsshub.app/sec-in
 
 ## 相关资源
 
@@ -45,7 +42,6 @@ SecIN信息安全技术社区 | [raw](https://raw.githubusercontent.com/p7e4/Thi
 - [diff.blog](https://diff.blog/)
 - [SecWiki聚合](https://www.sec-wiki.com/opml/index)
 - [常用 RSS 源列表](https://plink.anyfeeder.com/)
-
 
 
 ## 阅读器推荐
