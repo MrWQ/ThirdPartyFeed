@@ -17,7 +17,7 @@ Name | 替代链接
 NOSEC安全讯息平台 | https://rsshub.app/nosec
 火线Zone | https://rsshub.app/huoxian/zone
 Seebug | https://www.seebug.org/rss/new/
-SecWiki周刊 | https://rsshub.app/sec-wiki/weekly
+SecWiki周刊 | https://rsshub.app/sec-wiki/weekly?limit=10
 SecIN信息安全技术社区 | https://rsshub.app/sec-in
 
 ## 相关资源
