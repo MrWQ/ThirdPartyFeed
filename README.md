@@ -38,6 +38,7 @@ rss相关的一些资源
 - [CommaFeed](https://github.com/Athou/commafeed)
 - [Awesome TTRSS](https://ttrss.henry.wang/zh/)
 - [Miniflux](https://github.com/miniflux/v2)
+- [蚁阅](https://github.com/anyant/rssant)
 - [Stringer](https://github.com/stringer-rss/stringer)
 
 ### 在线
@@ -55,4 +56,5 @@ rss相关的一些资源
 - [ReadYou](https://github.com/Ashinch/ReadYou)
 - [fatecore irreader](http://irreader.fatecore.com/)
 - [RSS Guard](https://github.com/martinrotter/rssguard)
+- [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)
 
