@@ -10,7 +10,6 @@ rss相关的一些资源
 - [yarb (Yet Another Rss Bot)](https://github.com/firmianay/yarb)
 - [ALL-about-RSS](https://github.com/aboutrss/ALL-about-RSS)
 - [各种转 RSS 服务](https://rss.lilydjwg.me/)
-- [Weibo to RSS](https://rssfeed.today/weibo/)
 - [diff.blog](https://diff.blog/)
 
 
