@@ -53,4 +53,5 @@ rss相关的一些资源
 - [fatecore irreader](http://irreader.fatecore.com/) (Windows/macOS)
 - [RSS Guard](https://github.com/martinrotter/rssguard) (Windows/Linux/macOS)
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) (macOS/iOS)
-
+- [Lettura](https://github.com/zhanglun/lettura) (Windows/Linux/macOS)
+- 
